@@ -18,6 +18,32 @@
 
 
 <body>
+<script>
+//==================================================
+//Load scripts and declare global variables first.
+//================================================== 
+var tagsjsonFilePath = "tags.json";
+</script>
+<!--Leaflets javascript is loaded from an external source,
+and instead of writing all the code in this document the external
+webpage containining the file can be referenced instead
+To be fair, you can simply download this file and change the
+directory path so it can be loaded offline 
+
+The leafleft script needs to be loaded in the body section BEFORE
+anything else is loaded, otherwise it will cause problems for anything
+referencing all of the functions included in the leafleft javascript
+file.-->
+<!-- Load the matching Leaflet JS (CDN version) -->
+<script 
+  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+</script>
+<script>
+
+var geojsonFilePath = "locations.geoJSON";
+</script>
+<!--==============================================-->
+
 <!-- this is the navigation bar,
  on the left is a search button
  in the middle is the name of the website, next to the website icon or whatever
@@ -53,11 +79,20 @@
     <h4>Categories</h4>
     <div id="categories-container"></div> <!-- JS will fill this -->
   </div>
-  <div class="search-section">
-    <h4>Search by Name</h4>
-    <input type="text" id="search-name" placeholder="Type a name...">
-  </div>
+<div class="search-section">
+  <h4>Search by Name</h4>
 
+  <!-- The input is wired to the datalist via the `list` attribute -->
+  <input
+    type="text"
+    id="search-name"
+    list="name-suggestions"
+    placeholder="Type a name..."
+  >
+  <!-- This is where JS will inject <option> elements -->
+  <datalist id="name-suggestions"></datalist>
+
+</div>
   <div class="search-section">
     <h4>Add Custom Tag</h4>
     <input type="text" id="custom-tag-input" placeholder="tag or key:value">
@@ -74,9 +109,44 @@
   <a href="#">Option 3</a>
 </div>
 <!-- this has to be loaded afterwards otherwise there are no click handlers to reference-->
- <script> var tagsjsonFilePath = "tags.json"; //link the filepath for the tagsjson file.
+ <script>  //link the filepath for the tagsjson file.
  </script> 
 <script src="menus.js"></script>
+
+<script>
+// Runs when the "Apply Filters" button is clicked
+//This first gets all the tags from the checkboxes, then feeds them into the populateMapMarkers
+//which also clears all existing map markers
+  document.getElementById('apply-filters').addEventListener('click', async () => {
+  // 1. Collect selected tag values from the checkboxes
+  const selectedTags = await getSelectedTags();
+  console.log('Applying filters with tags:', selectedTags);
+  // 2. Get the current value from the name search box
+  const nameInput = document.getElementById('search-name');
+  const nameToSearchFor = nameInput ? nameInput.value : "";
+  console.log("I have retrieved the name from search-name!:");
+  console.log(nameToSearchFor);
+  //add the populate tags function from mapview.js here. 
+  populateMapMarkers(
+  map,
+  geojsonFilePath,
+  tagArray = selectedTags,
+  numImages = 4,
+  selectANDOR = "AND",
+  nameToSearchFor
+)
+});
+
+//Run the autocomplete compiler list when the search name is opened
+const searchInput = document.getElementById('search-name');
+if (searchInput) {
+  searchInput.addEventListener('focus', () => {
+    const app = window.appGlobals || {};
+    buildNameAutocompleteList(geojsonFilePath);
+  });
+}
+
+</script>
 
 
 
@@ -85,25 +155,11 @@
  through the .css file that you intend to create-->
 <div id="map"></div>
 
-<!--Leaflets javascript is loaded from an external source,
-and instead of writing all the code in this document the external
-webpage containining the file can be referenced instead
-To be fair, you can simply download this file and change the
-directory path so it can be loaded offline 
 
-The leafleft script needs to be loaded in the body section BEFORE
-anything else is loaded, otherwise it will cause problems for anything
-referencing all of the functions included in the leafleft javascript
-file.-->
-<!-- Load the matching Leaflet JS (CDN version) -->
-<script 
-  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
-</script>
 
-<!-- Load external mapview functions-->
+<!-- Load external mapview functions
+ these require the UI to exist first so they should be loaded AFTERWARDS-->
 <script src = "mapView.js"></script>
-
-
 
 <script>
 // Initialize the map AFTER Leaflet loads exactly once
@@ -113,9 +169,10 @@ by default corresponding to the lattitude and longitude and zoom that
 the user specifies, feel free to alter this to where you want
 it would be neat if in the future the default location was set to the
 users location - that would allow them to see everything nearby by default
-yay!*/
+yay!
+
+This also requires the map div id to exist, otherwise it cannot load*/
 var map = L.map('map').setView([51.505, -0.09], 13);
-var geojsonFilepath = "locations.geoJSON";
 
 // OpenStreetMap standard raster tiles
 /* Raster tiles can be requested from multiple sources, included
@@ -132,7 +189,7 @@ is created and linked to the raster tyles from the raster location (this can be 
 a simple, theoretically if I want to load them from a local geoJSON file you would do so
 here probably using some sort of function, but for now, here is a test marker*/
 // Add markers
-populateMapMarkers(map, geojsonFilepath, ["worth stopping"], 4, "AND")
+populateMapMarkers(map, geojsonFilePath, ["worth stopping"], 4, "AND")
 
 
 </script>

@@ -151,70 +151,196 @@ function featureMatchesTag(props, tag) {
     return Boolean(val);
 }
 
+// This function determines if the given properties of a feature in geoJSON match the name 
+//term searched for
+function featureMatchesName(props, rawTerm) {
+//if there is no search term, then obviously it doesn't match
+//makes sure that your implimentation if no name doesn't automatically find no searches at all
+  if (!rawTerm) return false;
+//convert the raw term into lower case and remove any spaces from beginning and end. Spaces are evil. 
+  const term = String(rawTerm).trim().toLowerCase();
+  if (!term) return false;
+
+  // Adjust these keys to match your GeoJSON schema
+  //if you fuck up your geoJSON schema feel free to shove it in here somewhere. 
+  //theoretically, you could add the description in here and it would comb through it, I mean
+  //what if the location is known by different names. 
+  const nameFields = [
+    props.name,
+ ];
+
+  // Build a single lowercase string with all available name-ish fields
+  //This sounds stupid, but actually works - just mush all the strings together and if in the 
+  //string there is a partial or exact match then congratulations, you did it.
+  const combinedName = nameFields
+    .filter(Boolean)
+    .map(v => String(v).toLowerCase())
+    .join(" ");
+
+  if (!combinedName) return false;
+
+  // Partial / substring match
+  //check if the term is included in the string abomination that we created by slapping all strings together
+  return combinedName.includes(term);
+}
+
+//this function clears all markers
+function clearAllMarkers(map) {
+  map.eachLayer(layer => {
+    // Case 1: layer itself is a Marker
+    if (layer instanceof L.Marker) {
+      map.removeLayer(layer);
+      return;
+    }
+
+    // Case 2: layer is a LayerGroup / FeatureGroup / GeoJSON etc.
+    if (layer instanceof L.LayerGroup) {
+      const markersToRemove = [];
+
+      layer.eachLayer(inner => {
+        if (inner instanceof L.Marker) {
+          markersToRemove.push(inner);
+        }
+      });
+
+      markersToRemove.forEach(m => layer.removeLayer(m));
+    }
+  });
+}
 
 
 //make a function that populates a given map with markers for the given tags (array of tags)
-function populateMapMarkers(map, geoJSONFile, tagArray = ["worth stopping"], numImages = 4, selectANDOR = "AND") {
+function populateMapMarkers(
+  map,
+  geoJSONFile,
+  tagArray = ["worth stopping"],
+  numImages = 4,
+  selectANDOR = "AND",
+  nameToSearchFor = ""
+) {
+    //Remove all markers, this can be amended later to only remove markers in the layer
+    clearAllMarkers(map);
+    //where we leave markers (this is not important for now)
+  fetch(geoJSONFile)
+    .then(response => response.json())
+    .then(geojsonData => {
 
-    fetch(geoJSONFile)
-        .then(response => response.json())
-        .then(geojsonData => {
 
-            L.geoJSON(geojsonData, {
+        const upperMode = String(selectANDOR || "AND").toUpperCase();
 
-                // --------------------------------------------------------
-                // FILTER: Only include features that match AND / OR logic
-                // --------------------------------------------------------
-                filter: feature => {
+        // ----- TAG FILTER PRECOMPUTE -----
+        let hasTagFilter = Array.isArray(tagArray) && tagArray.length > 0;
+        let validTags = [];
 
-                    const props = feature.properties;
-                    if (!props) return false;
+        if (hasTagFilter) {
+        validTags = tagArray
+            .map(t => String(t).trim())
+            .filter(t => t.length > 0);
 
-                    if (!Array.isArray(tagArray) || tagArray.length === 0)
-                        return true;  // no tags → include all
+        if (validTags.length === 0) {
+            hasTagFilter = false;
+        }
+        }
 
-                    if (selectANDOR.toUpperCase() === "AND") {
-                        // ALL tags must match
-                        return tagArray.every(tag => featureMatchesTag(props, tag));
-                    } else {
-                        // OR mode: ANY tag match is enough
-                        return tagArray.some(tag => featureMatchesTag(props, tag));
-                    }
-                },
+        // ----- NAME FILTER PRECOMPUTE -----
+        const trimmedNameSearch = String(nameToSearchFor || "").trim();
+        let hasNameFilter = trimmedNameSearch.length > 0;
 
-                // Marker creation
-                pointToLayer: (feature, latlng) => L.marker(latlng),
+        let nameTerms = [];
+        if (hasNameFilter) {
+        nameTerms = trimmedNameSearch
+            .split(",")
+            .map(t => t.trim())
+            .filter(t => t.length > 0);
 
-                // Popup handling
-                onEachFeature: (feature, layer) => {
+        if (nameTerms.length === 0) {
+            hasNameFilter = false;
+        }
+        }
 
-                    // Initial placeholder popup
-                    layer.bindPopup(
-                        `<b>${feature.properties?.name || 'Unnamed'}</b><br>` +
-                        `${feature.properties?.description || ''}<br>` +
-                        `<div id="img-placeholder">Loading images…</div>`,
-                        { autoPan: false, keepInView: false }
-                    );
+        markersLayer = L.geoJSON(geojsonData, {
+        filter: feature => {
+            const props = feature.properties;
+            if (!props) return false;
 
-                    // Lazy-load images AFTER opening popup
-                    layer.on("popupopen", async (e) => {
+            // ----------------- TAG FILTER (per feature) -----------------
+            let tagPass = true; //initialize variable
+            if (hasTagFilter) {
+            if (upperMode === "AND") {
+                // ALL tags must match
+                tagPass = validTags.every(tag => featureMatchesTag(props, tag));
+            } else {
+                // OR: any tag match is enough
+                tagPass = validTags.some(tag => featureMatchesTag(props, tag));
+            }
+            }
 
-                        const term = feature.properties?.name || "";
-                        const imageHtml = await buildPopupImages(term, numImages);
+            // ----------------- NAME FILTER (per feature) -----------------
+            let namePass = true;
+            if (hasNameFilter) {
+            if (upperMode === "AND") {
+                // ALL name terms must match (partial match)
+                namePass = nameTerms.every(term => featureMatchesName(props, term));
+            } else {
+                // OR: any name term partial-match is enough
+                namePass = nameTerms.some(term => featureMatchesName(props, term));
+            }
+            }
 
-                        const originalHtml =
-                            `<b>${feature.properties?.name || 'Unnamed'}</b><br>` +
-                            `${feature.properties?.description || ''}<br>`;
+            // ----------------- COMBINE TAG + NAME FILTERS -----------------
+            // If neither tag nor name filter is active, include everything.
+            if (!hasTagFilter && !hasNameFilter) {
+            return true;
+            }
 
-                        e.popup.setContent(imageHtml + originalHtml);
-                    });
-                }
+            let overallPass;
+            if (upperMode === "AND") {
+            // Must satisfy all *active* filters.
+            overallPass =
+                (hasTagFilter ? tagPass : true) &&
+                (hasNameFilter ? namePass : true);
+            } else {
+            // OR: passing any *active* filter is enough.
+            const tagRelevant = hasTagFilter ? tagPass : false;
+            const nameRelevant = hasNameFilter ? namePass : false;
+            overallPass = tagRelevant || nameRelevant;
+            }
 
-            }).addTo(map);
+            return overallPass;
+        },
 
-        })
-        .catch(err => console.error("Error loading GeoJSON:", err));
+
+        // Marker creation
+        pointToLayer: (feature, latlng) => L.marker(latlng),
+
+        // Popup handling, remember this can be bound to anything within the layer
+        //it doesn't have to be a marker
+        onEachFeature: (feature, layer) => {
+          layer.bindPopup(
+            `<b>${feature.properties?.name || 'Unnamed'}</b><br>` +
+            `${feature.properties?.description || ''}<br>` +
+            `<div id="img-placeholder">Loading images…</div>`,
+            { autoPan: false, keepInView: false }
+          );
+
+          layer.on("popupopen", async (e) => {
+            const term = feature.properties?.name || "";
+            const imageHtml = await buildPopupImages(term, numImages);
+
+            const originalHtml =
+              `<b>${feature.properties?.name || 'Unnamed'}</b><br>` +
+              `${feature.properties?.description || ''}<br>`;
+
+            e.popup.setContent(imageHtml + originalHtml);
+          });
+        }
+
+      }).addTo(map);  // <- markers are inside this GeoJSON layer
+      return markersLayer;
+    })
+    .catch(err => console.error("Error loading GeoJSON:", err));
 }
+
 
 
 

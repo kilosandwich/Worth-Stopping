@@ -42,58 +42,164 @@ searchButton.addEventListener("click", () => {
 
 //the buildCheckboxes function references a json file which has the category 'categories' that points to the categories
 //within the json file you want to build checkboxes for the search menu. 
-async function buildCheckboxes(jsonTagsFilePath){
-try {
-    console.log("buildcheckboxes is running!")
-    //Step 1: Fetch the JSON file, make sure to wait until it is finished loading.
-    const response = await fetch(jsonTagsFilePath);   // adjust path if needed
+async function buildCheckboxes(jsonTagsFilePath) {
+  try {
+    console.log("buildCheckboxes is running!");
+
+    // Step 1: Fetch the JSON file.
+    const response = await fetch(jsonTagsFilePath);
     const data = await response.json();
 
-    //Get the categories container from the index.html, this is a requirement otherwise it will fail. 
-    //in the future you might want to make this an entirely separate JSON file so you don't go looking in one
-    //place for everything and need to add exemptions, it should really simplify things.
+    // Step 2: Read the list of category names.
     const categories = data.Categories || [];
-    console.log("Here are the categories that I found in "+ jsonTagsFilePath);
-    console.log(categories)
+    console.log("Here are the categories that I found in " + jsonTagsFilePath);
+    console.log(categories);
+
+    // Step 3: Get the container from the DOM.
     const container = document.getElementById('categories-container');
     if (!container) {
-        //whoops, we somehow didn't get the container
       console.error('categories-container not found in DOM');
       return;
     }
 
-    // Clear any existing content just in case otherwise it will look weird.
-    //the html was just filler waiting for the categories to populate an yway
+    // Clear any existing content.
     container.innerHTML = '';
 
-    // For each category name, create a checkbox + label
-    //OKAY so this is the part where stuff is going not right, instead of having the category name as the heading
-    //and everything within that category in the JSON file as a checkbox, only the categories listed are being shown. 
+    // Step 4: For each category, create a heading and a set of checkboxes
     categories.forEach(categoryName => {
-      const normalized = String(categoryName).trim();
+      const normalizedCategory = String(categoryName).trim();
 
-      const label = document.createElement('label');
-      label.style.marginRight = '12px';
-      label.style.display = 'inline-block';
+      // Wrapper for this category
+      const categorySection = document.createElement('div');
+      categorySection.className = 'category-section';
 
-      const checkbox = document.createElement('input');
-      checkbox.type = 'checkbox';
-      checkbox.className = 'tag-checkbox';
+      // Category heading
+      const heading = document.createElement('div');
+      heading.className = 'category-heading';
+      heading.textContent = normalizedCategory;
+      heading.style.fontWeight = 'bold';
+      heading.style.marginTop = '8px';
+      categorySection.appendChild(heading);
 
-      // We can encode the value as "category:normalizedLowercase"
-      const tagValue = 'category:' + normalized.toLowerCase();
-      checkbox.value = tagValue;
+      // Get all tags for this category from the JSON
+      // For your file, this is simply data[normalizedCategory],
+      // e.g. data["Parks"], data["Museums"], data["Worth Stopping Flags"].
+      const tagsForCategory = data[normalizedCategory];
 
-      label.appendChild(checkbox);
-      label.appendChild(document.createTextNode(' ' + normalized));
+      if (!Array.isArray(tagsForCategory)) {
+        console.warn(
+          `No tags array found for category '${normalizedCategory}' in tags.json`
+        );
+        // Still append the heading, but no checkboxes
+        container.appendChild(categorySection);
+        return; // continues to next category in forEach
+      }
 
-      container.appendChild(label);
+      // For each tag inside this category, create a checkbox + label
+      tagsForCategory.forEach(tagValue => {
+        const normalizedTag = String(tagValue).trim();
+        //This is the bit where you can edit the css
+        const label = document.createElement('label');
+        label.style.marginRight = '12px';
+        label.style.display = 'inline-block';
+
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.className = 'tag-checkbox';
+
+        // Use the actual tag string from JSON as the value,
+        // e.g. "park:national", "museum:history", etc.
+        checkbox.value = normalizedTag;
+        checkbox.dataset.category = normalizedCategory;
+
+        label.appendChild(checkbox);
+        label.appendChild(document.createTextNode(' ' + normalizedTag));
+
+        categorySection.appendChild(label);
+      });
+
+      // Append the whole category block to the container
+      container.appendChild(categorySection);
     });
-
   } catch (err) {
     console.error('Error loading tags.json:', err);
   }
 }
+
+//this function gets all of the tags for the tag checkboxes and pushes them into an array
+//note: this requires tthat the checkboxes have the id 'tag-checkbox'
+async function getSelectedTags() {
+  const checkedBoxes = document.querySelectorAll('.tag-checkbox:checked');
+  const tags = [];
+
+  checkedBoxes.forEach(cb => {
+    tags.push(cb.value);   // e.g. "park:national", "museum:history"
+  });
+  console.log("I have gathered the selected tags from the checkboxes, they are as follows:");
+  console.log(tags);
+
+  return tags;
+}
+
+// menus.js
+
+// Build the autocomplete <datalist> from locations.geojson
+//this builds the autocomplete list for the default HTML autocomplete. 
+//this is hardcoded to the name-suggestions element found in index.html
+async function buildNameAutocompleteList(geojsonFilePath) {
+  console.log("Attempting to build name autocomplete!");
+  const datalist = document.getElementById('name-suggestions');
+  if (!datalist) {
+    console.warn('datalist#name-suggestions not found in DOM');
+    return;
+  }
+
+  try {
+    //fetch the geojsonfile so you can take a look at it
+    const response = await fetch(geojsonFilePath);
+    const geojson = await response.json();
+
+    // Collect all names from features
+    //define the nameSet variable. It's a new variable. 
+    const namesSet = new Set();
+
+    if (Array.isArray(geojson.features)) {
+      geojson.features.forEach(feature => {
+        //check the name of every feature in the geoJson file. 
+        const name = feature?.properties?.name;
+        if (name && typeof name === 'string') {
+          namesSet.add(name.trim());
+        }
+      });
+    }
+    console.log("Here is the set of names we gathered:");
+    console.log(namesSet);
+
+    // Turn Set into a sorted array
+    const names = Array.from(namesSet).sort((a, b) =>
+      a.localeCompare(b, undefined, { sensitivity: 'base' })
+    );
+
+    // Clear any existing options
+    datalist.innerHTML = '';
+
+    // Create <option> for each name
+    names.forEach(name => {
+      const opt = document.createElement('option');
+      opt.value = name;
+      datalist.appendChild(opt);
+    });
+
+    console.log(`Name autocomplete populated with ${names.length} entries.`);
+  } catch (err) {
+    console.error('Error building name autocomplete from GeoJSON:', err);
+  }
+}
+
+
+
+
+
 
 
 
