@@ -66,7 +66,7 @@ var geojsonFilePath = "locations.geoJSON";
       &#128270; Search
     </button>
   </div>
-  <div id="nav-title">Worth Stopping</div>
+  <div id="nav-title">Worth Stopping: Curated Destination</div>
   <div id="nav-right">
       <button id="nav-menu" class="nav-btn">
         Menu &#9776;
@@ -102,6 +102,43 @@ var geojsonFilePath = "locations.geoJSON";
   <button id="apply-filters">Apply Filters</button>
 </div>
 
+<!-- This is the editor, it is naturally hidden but features a number of inputs
+ for the default creation of additional map locations.
+ The necessary points are
+
+ These points should be auto-populated by the editor function when it is called
+ ===============
+ uid:
+ name:
+ streetAddress (full):
+ country:
+ state:
+ county:
+ city:
+ website:
+ coordinates:
+ description:
+ tags: (this should be a big series of checkboxes concerning all currently existing tags from tags.json
+ all existing tags should be added that are NOT based on the boxes that need to be filled.
+===============
+
+------------------------
+ the required buttons are:
+ reset (clear all fields)
+ close (hides the div, clears all fields)
+ fill address fields (fills the address fields)
+ getCoordinates (gets the coordinates based on street address inputted)
+ checkCoordinates (takes the coordinates, pops them into google maps and opens it in a separate tab)
+ yes this is constructable as an html).
+ submitChanges (pushes the changes to the temporary geoJSON file, then replaces or appends the geoJSON file)
+ >>this needs to be followed with a popup saying changes submitted successfully
+ ------------------------
+
+ -->
+<div id="edit-dropdown">
+
+  
+</div>
 
 <div id="menu-dropdown" class="dropdown">
   <a href="#">Option 1</a>
@@ -112,7 +149,7 @@ var geojsonFilePath = "locations.geoJSON";
  <script>  //link the filepath for the tagsjson file.
  </script> 
 <script src="menus.js"></script>
-
+<script src="editor.js"></script>
 <script>
 // Runs when the "Apply Filters" button is clicked
 //This first gets all the tags from the checkboxes, then feeds them into the populateMapMarkers

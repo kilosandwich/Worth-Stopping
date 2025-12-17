@@ -326,10 +326,25 @@ function populateMapMarkers(
           layer.on("popupopen", async (e) => {
             const term = feature.properties?.name || "";
             const imageHtml = await buildPopupImages(term, numImages);
-
+            const uid = feature.properties?.uid || "No uid found";
+            console.log("The uid for this popup is:");
+            console.log(uid);
+            //define the original HTML
+            //in this section you will want to create an edit button which 
+            //is bound to the 'uid' found in the properties of the geoJSON feature feature so that it can dynamicallly edit the popup by
+            //rewriting the geoJSON file.
+            // Define the original HTML with an inline edit button
             const originalHtml =
-              `<b>${feature.properties?.name || 'Unnamed'}</b><br>` +
-              `${feature.properties?.description || ''}<br>`;
+              `<div class="popup-title-row">
+                <b class="popup-title">${feature.properties?.name || 'Unnamed'}</b>
+                <button
+                  class="popup-edit-btn"
+                  title="Edit location"
+                  onclick="editor('${uid}')">
+                  ✏️
+                </button>
+              </div>
+              ${feature.properties?.description || ''}<br>`;
 
             e.popup.setContent(imageHtml + originalHtml);
           });

@@ -146,6 +146,8 @@ async function getSelectedTags() {
 // Build the autocomplete <datalist> from locations.geojson
 //this builds the autocomplete list for the default HTML autocomplete. 
 //this is hardcoded to the name-suggestions element found in index.html
+//you will likely need a buildTagsAutoComplete list for the menu, and have to reuse
+//said function for the editor add tags section.
 async function buildNameAutocompleteList(geojsonFilePath) {
   console.log("Attempting to build name autocomplete!");
   const datalist = document.getElementById('name-suggestions');
