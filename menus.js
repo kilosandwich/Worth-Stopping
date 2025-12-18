@@ -15,6 +15,7 @@ menuButton.addEventListener('click', () => {
     console.log("The menu button has been clicked");
   dropdown.style.display =
     dropdown.style.display === 'flex' ? 'none' : 'flex';
+  document.getElementById('about-dropdown').classList.add('hidden');
 });
 
 //to do: make a drop down menu that references the tags.json file and creates a checkmark based system that when the search 
@@ -198,6 +199,11 @@ async function buildNameAutocompleteList(geojsonFilePath) {
   }
 }
 
+//this is the about click handler
+document.querySelector('#menu-dropdown a').addEventListener('click', e => {
+  e.preventDefault();
+  document.getElementById('about-dropdown').classList.toggle('hidden');
+});
 
 
 
