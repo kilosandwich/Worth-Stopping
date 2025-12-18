@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Worth Stopping</title>
+
+<!-- Load the matching Leaflet CSS from the leaflet internet page
+ if you want in the future, you can simply download this css document
+ and reference it locally for offline functionality -->
+<link 
+  rel="stylesheet" 
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
+<!-- Load your main CSS stylesheet -->
+<link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+<script>
+//==================================================
+//Load scripts and declare global variables first.
+//================================================== 
+var tagsjsonFilePath = "tags.json";
+</script>
+<!--Leaflets javascript is loaded from an external source,
+and instead of writing all the code in this document the external
+webpage containining the file can be referenced instead
+To be fair, you can simply download this file and change the
+directory path so it can be loaded offline 
+
+The leafleft script needs to be loaded in the body section BEFORE
+anything else is loaded, otherwise it will cause problems for anything
+referencing all of the functions included in the leafleft javascript
+file.-->
+<!-- Load the matching Leaflet JS (CDN version) -->
+<script 
+  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+</script>
+<script>
+
+var geojsonFilePath = "locations.geoJSON";
+</script>
+<!--==============================================-->
+
+<!-- this is the navigation bar,
+ on the left is a search button
+ in the middle is the name of the website, next to the website icon or whatever
+ on the right is the menu button
+
+ For functionality sake, this section of the website is meant to be as barebones as possible
+ too many buttons confuse users, they should be focused on clicking buttons on the map. 
+ 
+ To do, include the list view as a button so the user can see a nice and compact list of everything they want 
+ to lookup, this will require an alternative buildpopup images type dealio.
+ List view is absolutely essential, as fun as it is to click around a map and see what's around
+ some users just want to know EVERYTHING that is wherever they are looking and not want to focus on anything else
+-->
+ <!-- Import the menu scripts !-->
+
+<nav id="navbar">
+  
+  <div id="nav-left">
+    <button id="nav-search" class="nav-btn">
+      &#128270; Search
+    </button>
+  </div>
+  <div id="nav-title">Worth Stopping: Curated Destination</div>
+  <div id="nav-right">
+      <button id="nav-menu" class="nav-btn">
+        Menu &#9776;
+      </button>
+  </div>
+</nav>
+
+<div id="search-dropdown" class="search-panel">
+  <div class="search-section">
+    <h4>Categories</h4>
+    <div id="categories-container"></div> <!-- JS will fill this -->
+  </div>
+<div class="search-section">
+  <h4>Search by Name</h4>
+
+  <!-- The input is wired to the datalist via the `list` attribute -->
+  <input
+    type="text"
+    id="search-name"
+    list="name-suggestions"
+    placeholder="Type a name..."
+  >
+  <!-- This is where JS will inject <option> elements -->
+  <datalist id="name-suggestions"></datalist>
+
+</div>
+  <div class="search-section">
+    <h4>Add Custom Tag</h4>
+    <input type="text" id="custom-tag-input" placeholder="tag or key:value">
+    <button id="custom-tag-add">Add</button>
+  </div>
+
+  <button id="apply-filters">Apply Filters</button>
+</div>
+
+<!-- This is the editor, it is naturally hidden but features a number of inputs
+ for the default creation of additional map locations.
+ The necessary points are
+
+ These points should be auto-populated by the editor function when it is called
+ ===============
+ uid:
+ name:
+ streetAddress (full):
+ country:
+ state:
+ county:
+ city:
+ website:
+ coordinates:
+ description:
+ tags: (this should be a big series of checkboxes concerning all currently existing tags from tags.json
+ all existing tags should be added that are NOT based on the boxes that need to be filled.
+===============
+
+------------------------
+ the required buttons are:
+ reset (clear all fields)
+ close (hides the div, clears all fields)
+ fill address fields (fills the address fields)
+ getCoordinates (gets the coordinates based on street address inputted)
+ checkCoordinates (takes the coordinates, pops them into google maps and opens it in a separate tab)
+ yes this is constructable as an html).
+ submitChanges (pushes the changes to the temporary geoJSON file, then replaces or appends the geoJSON file)
+ >>this needs to be followed with a popup saying changes submitted successfully
+ ------------------------
+
+ -->
+<div id="edit-dropdown">
+
+  
+</div>
+
+<div id="menu-dropdown" class="dropdown">
+  <a href="#">About</a>
+  <a href="#">Help</a>
+  <a href="#">Option 3</a>
+</div>
+
+<!-- This is the about dropdown button, it appears when the user pushes on the about button and should
+ appear below the navbar
+ 
+ I know what you're thinking: shouldn't this be a separate page altogeher?
+ I REJECT THAT CONCEPT
+ Users should not stop looking at my GLORIOUS map for any reason and should be able to easily find stuff-->
+<div id="about-dropdown" class="about-panel hidden">
+  <div class="about-content">
+    <h2>About Worth Stopping:</h2>
+
+    <p>
+      <strong>Worth Stopping</strong> is a curated, map-based guide to places
+      that are genuinely interesting, memorable, or useful enough to justify
+      a stop.
+    </p>
+
+    <p>
+      Worth Stopping prioritizes quality over quantity. Every location is
+      intentionally curated, described, and tagged to help you discover the best the world has to offer.
+    </p>
+    <hr>
+
+    <h2>What Makes A Destination Worth Stopping?</h2>
+    <p>
+      <h3>If I traveled from across the world, and only saw this destination, would it have been worth it?</h3>
+    </p>
+    
+    <p>
+      If yes, it's <strong>Worth Stopping</strong>.
+      <br>
+      If it's something I want to see, but wouldn't travel to see unless I was in the area,
+       then it's just a <strong>local attraction</strong>
+       <br>
+       <br>
+       I like fancy rocks, moving water, rollercoasters, massive industrial equipment, history, and ruins. This strongly influences my decisions. 
+    </p>
+
+
+    <p class="about-meta">
+      Built with Leaflet · OpenStreetMap · Pure JavaScript
+    </p>
+  </div>
+</div>
+
+<!-- this has to be loaded afterwards otherwise there are no click handlers to reference-->
+ <script>  //link the filepath for the tagsjson file.
+ </script> 
+<script src="menus.js"></script>
+<script src="editor.js"></script>
+<script>
+// Runs when the "Apply Filters" button is clicked
+//This first gets all the tags from the checkboxes, then feeds them into the populateMapMarkers
+//which also clears all existing map markers
+  document.getElementById('apply-filters').addEventListener('click', async () => {
+  // 1. Collect selected tag values from the checkboxes
+  const selectedTags = await getSelectedTags();
+  console.log('Applying filters with tags:', selectedTags);
+  // 2. Get the current value from the name search box
+  const nameInput = document.getElementById('search-name');
+  const nameToSearchFor = nameInput ? nameInput.value : "";
+  console.log("I have retrieved the name from search-name!:");
+  console.log(nameToSearchFor);
+  //add the populate tags function from mapview.js here. 
+  populateMapMarkers(
+  map,
+  geojsonFilePath,
+  tagArray = selectedTags,
+  numImages = 4,
+  selectANDOR = "AND",
+  nameToSearchFor
+)
+});
+
+//Run the autocomplete compiler list when the search name is opened
+const searchInput = document.getElementById('search-name');
+if (searchInput) {
+  searchInput.addEventListener('focus', () => {
+    const app = window.appGlobals || {};
+    buildNameAutocompleteList(geojsonFilePath);
+  });
+}
+
+</script>
+
+
+
+<!-- This is the map div of the body, it just has the id map
+ it is referenced in the style section and later can be controlled
+ through the .css file that you intend to create-->
+<div id="map"></div>
+
+
+
+<!-- Load external mapview functions
+ these require the UI to exist first so they should be loaded AFTERWARDS-->
+<script src = "mapView.js"></script>
+
+<script>
+// Initialize the map AFTER Leaflet loads exactly once
+/*L.map binds leaflet to a a map type object with the id specified
+in this case, the id is map. The map object has an intial view set 
+by default corresponding to the lattitude and longitude and zoom that
+the user specifies, feel free to alter this to where you want
+it would be neat if in the future the default location was set to the
+users location - that would allow them to see everything nearby by default
+yay!
+
+This also requires the map div id to exist, otherwise it cannot load*/
+var map = L.map('map').setView([51.505, -0.09], 13);
+
+// OpenStreetMap standard raster tiles
+/* Raster tiles can be requested from multiple sources, included
+a locally cached map that could be gigabytes large. Instead we use 
+the rasters from openstreetmap - thought again, any tile server could
+be used.*/
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '© OpenStreetMap contributors'
+}).addTo(map);
+
+/*You want to do something to the map? It can only be done after the leaflet map object
+is created and linked to the raster tyles from the raster location (this can be local)
+a simple, theoretically if I want to load them from a local geoJSON file you would do so
+here probably using some sort of function, but for now, here is a test marker*/
+// Add markers
+populateMapMarkers(map, geojsonFilePath, ["worth stopping"], 4, "AND")
+
+
+</script>
+
+</body>
+</html>
+

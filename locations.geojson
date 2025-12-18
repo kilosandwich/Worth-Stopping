@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "properties": {
+        "developer_comment": "Every feature in a geoJSON file must be part of a feature collection, it will not be read. There is no way to break up the text so try to keep your writing concise or no one will read it. ",
+        "uid": "1",
+        "name": "London",
+        "description": "London is the capital and largest city of the United Kingdom, standing on the River Thames in southeast England."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1276, 51.5072]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "2",
+        "name": "New York City",
+        "worth stopping": true,
+        "description": "New York City is the most populous city in the United States, famous for its skyline, culture, and global influence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "3",
+        "name": "Tokyo",
+        "worth stopping": true,
+        "description": "Tokyo is the capital of Japan and one of the world's most populous metropolitan areas, known for its modern architecture and culture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6503, 35.6762]
+      }
+    }
+
+  ]
+}
