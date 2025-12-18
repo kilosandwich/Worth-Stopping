@@ -14,7 +14,7 @@ html, body {
   display: none;   /* HIDE BY DEFAULT */
   flex-direction: column;
   width: 160px;
-  z-index: 4000;
+  z-index: 1001;
 }
 html, body { height:100%; margin:0; }
 
@@ -102,53 +102,5 @@ html, body { height:100%; margin:0; }
   max-height: 220px;
   overflow-y: auto;
 }
-
-/* =========================
-   ABOUT DROPDOWN PANEL
-   ========================= */
-
-.about-panel {
-  position: absolute;
-  top: 40px; /* must match navbar height */
-  left: 0;
-  width: 100%;
-  background-color: #ffffff;
-  border-bottom: 1px solid #ccc;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-  z-index: 2000;
-
-  max-height: 100vh;
-  overflow-y: auto;
-}
-
-.about-content {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 20px 24px;
-  font-family: sans-serif;
-  line-height: 1.5;
-}
-
-.about-content h2 {
-  margin-top: 0;
-}
-
-.about-content hr {
-  margin: 20px 0;
-}
-
-.about-meta {
-  font-size: 0.85em;
-  color: #666;
-}
-
-/* =========================
-   VISIBILITY CONTROL
-   ========================= */
-
-.hidden {
-  display: none;
-}
-
 
 
