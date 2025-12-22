@@ -143,12 +143,121 @@ html, body { height:100%; margin:0; }
 }
 
 /* =========================
+   EDITOR PANEL (matches search-panel behavior)
+   ========================= */
+/* =========================
+   EDITOR PANEL (matches search-panel look/behavior)
+   ========================= */
+
+#edit-dropdown {
+  display: none;              /* editor.js should set to block when opened */
+  position: absolute;
+  top: 40px;                  /* must match #navbar height */
+  left: 0;
+  right: 0;
+
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  padding: 12px;
+  box-sizing: border-box;
+
+  z-index: 1600;              /* above map; similar tier to search */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Header row */
+#edit-dropdown .editor-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+  font-family: sans-serif;
+}
+
+#edit-dropdown .editor-header h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/* Close button */
+#editor-close {
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 6px;
+  padding: 6px 10px;
+  line-height: 1;
+}
+
+/* Form fields */
+#edit-dropdown .editor-field {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-family: sans-serif;
+}
+
+#edit-dropdown .editor-field label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* Inputs + textarea */
+#edit-dropdown .editor-field input,
+#edit-dropdown .editor-field textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  font-family: sans-serif;
+
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+#edit-dropdown .editor-field textarea {
+  resize: vertical;
+}
+
+/* Tags checkbox grid */
+#editor-tags-container.tags-checkbox-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 8px 12px;
+  padding-top: 6px;
+}
+
+#editor-tags-container.tags-checkbox-grid label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+
+
+
+
+/* =========================
    VISIBILITY CONTROL
    ========================= */
 
 .hidden {
   display: none;
 }
+
+
+
+
+
 
 
 

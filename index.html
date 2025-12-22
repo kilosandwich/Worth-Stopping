@@ -24,6 +24,7 @@
 //Note to self: does adding comments lead to alterations of capitalization in git?
 //================================================== 
 var tagsjsonFilePath = "tags.json";
+var geojsonFilePath = "locations.geojson";
 </script>
 <!--Leaflets javascript is loaded from an external source,
 and instead of writing all the code in this document the external
@@ -38,10 +39,6 @@ file.-->
 <!-- Load the matching Leaflet JS (CDN version) -->
 <script 
   src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
-</script>
-<script>
-
-var geojsonFilePath = "locations.geojson";
 </script>
 <!--==============================================-->
 
@@ -103,48 +100,12 @@ var geojsonFilePath = "locations.geojson";
   <button id="apply-filters">Apply Filters</button>
 </div>
 
-<!-- This is the editor, it is naturally hidden but features a number of inputs
- for the default creation of additional map locations.
- The necessary points are
 
- These points should be auto-populated by the editor function when it is called
- ===============
- uid:
- name:
- streetAddress (full):
- country:
- state:
- county:
- city:
- website:
- coordinates:
- description:
- tags: (this should be a big series of checkboxes concerning all currently existing tags from tags.json
- all existing tags should be added that are NOT based on the boxes that need to be filled.
-===============
-
-------------------------
- the required buttons are:
- reset (clear all fields)
- close (hides the div, clears all fields)
- fill address fields (fills the address fields)
- getCoordinates (gets the coordinates based on street address inputted)
- checkCoordinates (takes the coordinates, pops them into google maps and opens it in a separate tab)
- yes this is constructable as an html).
- submitChanges (pushes the changes to the temporary geoJSON file, then replaces or appends the geoJSON file)
- >>this needs to be followed with a popup saying changes submitted successfully
- ------------------------
-
- -->
-<div id="edit-dropdown">
-
-  
-</div>
 
 <div id="menu-dropdown" class="dropdown">
   <a href="#">About</a>
   <a href="#">Help</a>
-  <a href="#">Option 3</a>
+  <a href="#"><button id="add-location">Add New Location</button></a>
 </div>
 
 <!-- This is the about dropdown button, it appears when the user pushes on the about button and should
@@ -191,15 +152,148 @@ var geojsonFilePath = "locations.geojson";
   </div>
 </div>
 
+<!-- This is the editor, it is naturally hidden but features a number of inputs
+ for the default creation of additional map locations.
+ The necessary points are
+
+ These points should be auto-populated by the editor function when it is called
+ ===============
+ uid:
+ name:
+ streetAddress (full):
+ country:
+ state:
+ county:
+ city:
+ website:
+ coordinates:
+ description:
+ tags: (this should be a big series of checkboxes concerning all currently existing tags from tags.json
+ all existing tags should be added that are NOT based on the boxes that need to be filled.
+===============
+
+------------------------
+ the required buttons are:
+ reset (clear all fields)
+ close (hides the div, clears all fields)
+ fill address fields (fills the address fields)
+ getCoordinates (gets the coordinates based on street address inputted)
+ checkCoordinates (takes the coordinates, pops them into google maps and opens it in a separate tab)
+ yes this is constructable as an html).
+ submitChanges (pushes the changes to the temporary geoJSON file, then replaces or appends the geoJSON file)
+ >>this needs to be followed with a popup saying changes submitted successfully
+ ------------------------
+
+ -->
+<div id="edit-dropdown">
+  <div class="editor-header">
+    <h3>Edit Location</h3>
+    <button
+      id="editor-close"
+      type="button"
+      aria-label="Close editor"
+      onclick = "closeLocationEditor()"
+    >
+      ✕
+    </button>
+  </div>
+  <!-- UID (read-only in most cases) -->
+  <div class="editor-field">
+    <label for="editor-uid">UID</label>
+    <input type="text" id="editor-uid" readonly>
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-name">Name</label>
+    <input type="text" id="editor-name">
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-street">Street Address (full)</label>
+    <input type="text" id="editor-street">
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-country">Country</label>
+    <input type="text" id="editor-country">
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-state">State</label>
+    <input type="text" id="editor-state">
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-county">County</label>
+    <input type="text" id="editor-county">
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-city">City</label>
+    <input type="text" id="editor-city">
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-website">Website</label>
+    <input type="url" id="editor-website" placeholder="https://">
+  </div>
+
+  <div class="editor-field">
+    <label for="editor-coordinates">Coordinates (Required)</label>
+    <input
+      type="text"
+      id="editor-coordinates"
+      placeholder="Latitude, Longitude"
+    >
+  </div>
+
+  <div class="editor-field">
+  <button
+    type="button"
+    id="editor-open-google-maps"
+  >
+    Open Coordinates in Google Maps
+  </button>
+</div>
+
+
+  <div class="editor-field">
+    <label for="editor-description">Description</label>
+    <textarea
+      id="editor-description"
+      rows="8"
+    ></textarea>
+  </div>
+
+  <!-- TAGS -->
+  <div class="editor-field">
+    <label>Tags</label>
+
+    <!--
+      Checkboxes will be dynamically generated here
+      from tags.json by the editor initialization logic.
+      Only existing tags NOT derived from other editor
+      inputs should appear here.
+    -->
+    <div id="editor-tags-container" class="tags-checkbox-grid">
+      <!-- dynamically injected checkboxes -->
+    </div>
+  </div>
+</div>
+
 <!-- this has to be loaded afterwards otherwise there are no click handlers to reference-->
  <script>  //link the filepath for the tagsjson file.
  </script> 
 <script src="menus.js"></script>
 <script src="editor.js"></script>
 <script>
+/*============================================
+       Apply Filters Button Section
+
 // Runs when the "Apply Filters" button is clicked
 //This first gets all the tags from the checkboxes, then feeds them into the populateMapMarkers
 //which also clears all existing map markers
+==============================================*/
   document.getElementById('apply-filters').addEventListener('click', async () => {
   // 1. Collect selected tag values from the checkboxes
   const selectedTags = await getSelectedTags();
@@ -220,6 +314,9 @@ var geojsonFilePath = "locations.geojson";
 )
 });
 
+/*
+SEARCH BUTTON AUTO POPULATE SECTION
+*/
 //Run the autocomplete compiler list when the search name is opened
 const searchInput = document.getElementById('search-name');
 if (searchInput) {

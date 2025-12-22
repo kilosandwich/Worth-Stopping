@@ -1,8 +1,7 @@
 {
     "Categories":[
         "Worth Stopping Flags",
-        "Parks",
-        "Museums"
+        "Tags"
     ],
     
   "state": [
@@ -37,9 +36,10 @@
     "good food",
     "worth staying"
   ],
-  "flag": [
-    "cave",
-    "ship"
+  "Tags": [
+    "park",
+    "museum",
+    "amusement park"
   ],
   "country":[
     "country:United States",
