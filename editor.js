@@ -157,18 +157,35 @@ async function generateUID(geojsonFilePath = "locations.geojson") {
   }
 }
 
-function autofillEditorInput(uid,props ="",coordinates){
+function autofillEditorInput(uid,props ="",coordinates=""){
   //make sure to convert the coordinates into a usable type
-  document.getElementById("editor-uid").value = props.uid || "";
-  document.getElementById("editor-name").value = props.name || "";
-  document.getElementById("editor-street").value = props.street|| "";
-  document.getElementById("editor-country").value = props.country || "";
-  document.getElementById("editor-state").value = props.state || "";
-  document.getElementById("editor-county").value = props.county || "";
-  document.getElementById("editor-city").value = props.city || "";
-  document.getElementById("editor-website").value = props.website || "";
-  document.getElementById("editor-coordinates").value = coordinates || "";
-  document.getElementById("editor-description").value = props.description || "";
+  document.getElementById("editor-uid").value = uid || "";
+  document.getElementById("editor-name").value = props?.name || "";
+  document.getElementById("editor-street").value = props?.street|| "";
+  document.getElementById("editor-country").value = props?.country || "";
+  document.getElementById("editor-state").value = props?.state || "";
+  document.getElementById("editor-county").value = props?.county || "";
+  document.getElementById("editor-city").value = props?.city || "";
+  document.getElementById("editor-website").value = props?.website || "";
+  document.getElementById("editor-description").value = props?.description || "";
+
+  //Coordinates are not stored in an array, the array must be converted to a string in order to be displayed
+  //now hilariously, this very same string will be converted back into an array, thus achieving almost nothing
+  //go team!
+  console.log("The coordinates we are attempting to convery into an array are");
+  console.log(coordinates);
+
+  let coordinatesString;
+  //in the event that the coordinates are blank, there is no need to run the function to convert them into a string
+  if (coordinates != ""){
+    coordinatesString = coordinateObjToString(coordinates);
+  }
+  console.log("I have converted the coordinates into a string:");
+  console.log(coordinatesString);
+  
+  document.getElementById("editor-coordinates").value = coordinatesString || "";
+
+
   //you will need to figure out how to autofill the tags section considering there are literally ENDLESS tags to add
   //and you might want to make them up on the fly.
 }
@@ -183,6 +200,7 @@ async function editor(uid = "", geojsonFilePath = "locations.geojson"){
     console.log("The editor has been called for location: ");
     console.log(uid);
     UIDExists = await compareUID(uid, geojsonFilePath)
+    props = "";
 
     //if no UID exists (either none given, or not present), generate one for the new location. 
     if ((uid === "") || (!UIDExists)) {
@@ -192,6 +210,7 @@ async function editor(uid = "", geojsonFilePath = "locations.geojson"){
         console.log("testing generation of UID");
         console.log(uid);
         //make sure to populate the UID now
+        autofillEditorInput(uid,"","")
     }else{
         //since the UID exists, gather the information from the existing uid. 
         //it is easier to gather all the coordinates THEN parse them
@@ -211,6 +230,7 @@ async function editor(uid = "", geojsonFilePath = "locations.geojson"){
     //It is time to fill in the editor menu (which needs to persist if it is accidentally closed!)
     //The editor should probably exist as a div that is constantly hidden in the HTML. I mean that makes sense right?
     //the editor should then popup when the editor button is pushed. 
+    buildEditorCheckboxes("tags.json", props);
 
 
     //great, the editor is done, create the local geoJSON file before you push it
@@ -220,6 +240,115 @@ async function editor(uid = "", geojsonFilePath = "locations.geojson"){
     console.log("I am attempting to open the editor");
     openLocationEditor();
     
+}
+
+//This is the build editor checkboxes function, it builds a series of checkboxes in the 
+//editor window when the editor window is opened. When building the checkbox, it determines
+//if the checkbox is present and if so prechecks the box such that it is ready to be populated
+//immediately. This is smart. 
+async function buildEditorCheckboxes(jsonTagsFilePath = "tags.json", props) {
+  try {
+    console.log("buildEditorCheckboxes is running!");
+
+    // Step 1: Fetch the JSON file.
+    const response = await fetch(jsonTagsFilePath);
+    const data = await response.json();
+
+    // Step 2: Read the list of category names.
+    const categories = data.Categories || [];
+    console.log("Here are the categories that I found in " + jsonTagsFilePath);
+    console.log(categories);
+
+    // Step 3: Get the container from the DOM.
+    //Note: this container needs to be specified for the editor window. 
+    const container = document.getElementById('editor-tags-container');
+    if (!container) {
+      console.error('categories-container not found in DOM');
+      return;
+    }
+
+    // Clear any existing content.
+    container.innerHTML = '';
+
+    // Step 4: For each category, create a heading and a set of checkboxes
+    //In this section you 
+    categories.forEach(categoryName => {
+      const normalizedCategory = String(categoryName).trim();
+
+      // Wrapper for this category
+      const categorySection = document.createElement('div');
+      categorySection.className = 'editor-category-section';
+
+      // Category heading
+      const heading = document.createElement('div');
+      heading.className = 'editor-category-heading';
+      heading.textContent = normalizedCategory;
+      categorySection.appendChild(heading);
+
+      // Get all tags for this category from the JSON
+      // For your file, this is simply data[normalizedCategory],
+      // e.g. data["Parks"], data["Museums"], data["Worth Stopping Flags"].
+      const tagsForCategory = data[normalizedCategory];
+
+
+      if (!Array.isArray(tagsForCategory)) {
+        console.warn(
+          `No tags array found for category '${normalizedCategory}' in tags.json`
+        );
+        // Still append the heading, but no checkboxes
+        container.appendChild(categorySection);
+        return; // continues to next category in forEach
+      }
+
+      // For each tag inside this category, create a checkbox + label
+      //because you are checking if the tag exists, this is where you compare if the tag already exists.
+      //and if so starts the checkbox prechecked. 
+      tagsForCategory.forEach(tagValue => {
+        const normalizedTag = String(tagValue).trim();
+        //check if the given set of properties already possesses the tag
+
+        //if the properties actually exist, then check the categories within each property. 
+        let hasTag;
+        if (props != ""){
+          //check if any key matches the tag from the row, then pre check the row.
+            hasTag = Object.keys(props || {}).some(
+            key => key.toLowerCase() === normalizedTag
+          );
+
+          if (hasTag) {
+            console.log("Already possesses tag!");
+            console.log(normalizedTag);
+          }
+        }
+
+
+
+        //This is the bit where you can edit the css
+        const label = document.createElement('label');
+        label.className = 'label-editor-checkbox';
+
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.className = 'tag-editor-checkbox';
+        checkbox.checked = hasTag; //if the tag is possessed, it will already be checked
+
+        // Use the actual tag string from JSON as the value,
+        // e.g. "park:national", "museum:history", etc.
+        checkbox.value = normalizedTag;
+        checkbox.dataset.category = normalizedCategory;
+
+        label.appendChild(checkbox);
+        label.appendChild(document.createTextNode(' ' + normalizedTag));
+
+        categorySection.appendChild(label);
+      });
+
+      // Append the whole category block to the container
+      container.appendChild(categorySection);
+    });
+  } catch (err) {
+    console.error('Error loading tags.json:', err);
+  }
 }
 
 
@@ -259,16 +388,24 @@ function closeLocationEditor() {
   document.getElementById("edit-dropdown").style.display = "none";
 }
 
+
+
+/*=================================
+BUTTON SECTION - WHERE BUTTONS LIVE
+b=b=b=b=b=b=b=b=b=b=b=b=b=b=b=b=b=b
+*/
+//This button opens the editor when it is clicked. The button is labeled add location
 document.getElementById("add-location")
   ?.addEventListener("click", () => {
     console.log("Add location button clicked!");
     editor();
   });
+  
 //button function in order to open a google maps location of the editor
 document.getElementById("editor-open-google-maps")
   ?.addEventListener("click", () => {
     lat = editorGetLat();
-    lng = editorGetLang();
+    lng = editorGetLng();
     openGoogleMapsToCoordinates(lat,lng);
 
   });
@@ -281,7 +418,22 @@ function openGoogleMapsToCoordinates(lat,lng){
     window.open(url, "_blank", "noopener");
 }
 
-
+/*
+=b=b=b=b=b=b=b=b=b=b=b=b=b=b=b=b=b
+END BUTTON SECTION
+===================================
+*/
+/*
+==============================
+HELPER FUNCTION SECTION
+==============================
+Welcome to the helper function section
+Is it technically inefficient to use a function instead of code the usage directly?
+Yes.
+However the helper is only used  by admins (meeeeeeeeeeeeee) and as a result does not have to be fast
+Never forget future self: this section of code doesn't need to be optimized, stop wasting your time.
+*/
+//helper functions that do what the getCoordinates function does but just returns a single number. WAY easier to use. 
 //helper functions to get the various 
 //things from their various form locations
 //from the index.html editor
@@ -297,6 +449,8 @@ function editorGetName(){
 }
 
 function editorGetCoordinates() {
+  //within the editor window, the coorinates are stored as lat,lng
+  
     const coordinatesInput = document.getElementById("editor-coordinates");
 
     if (!coordinatesInput) {
@@ -331,7 +485,7 @@ function editorGetCoordinates() {
       }
 
       // -------------------------------
-      // 4. (Optional but recommended)
+      // 4. Look, lat and lng are limited to +-90 and +-180 respectively
       //    Validate geographic bounds
       // -------------------------------
       if (lat < -90 || lat > 90 || lng < -180 || lng > 180) {
@@ -343,13 +497,13 @@ function editorGetCoordinates() {
 
     return { lat, lng };
 }
-//helped functions that do what the getCoordinates function does but just returns a single number. WAY easier to use. 
+
 function editorGetLat() {
     const coords = editorGetCoordinates();
     return coords ? coords.lat : null;
 }
 
-function editorGetLang() {
+function editorGetLng() {
     const coords = editorGetCoordinates();
     return coords ? coords.lng : null;
 }
@@ -419,3 +573,42 @@ function editorGetDescription(){
   //trim the finale value or else it will be whitespacey
   return descriptionInput.value.trim();
 }
+
+
+
+function coordinateObjToString(coordinateObj){
+  //the coordinate object to string function takes an object of coordinates and converts them to a string
+  //the object is retrieved from the geoJSON file and looks like obj.coordinates
+  //WITHOUT the little array brackets around them.
+  //yes this is stupid, yes it is necessary
+      // -------------------------------
+      // 3. TRANSFORM TO NUMBERS 
+      //turn the array into its parts
+      // -------------------------------
+      console.log("CoordinateARray To String called!");
+      console.log("Here is the coordinate obj we are working with");
+      console.log(coordinateObj);
+      coordinateArray = coordinateObj.coordinates;
+ 
+      const lng = (coordinateArray[0]);
+      const lat = (coordinateArray[1]);
+
+      // -------------------------------
+      // 4. Look, lat and lng are limited to +-90 and +-180 respectively
+      //    Validate geographic bounds
+      // -------------------------------
+      if (lat < -90 || lat > 90 || lng < -180 || lng > 180) {
+          console.warn("Coordinates out of bounds:", { lat, lng });
+          return null;
+      }
+
+    console.log("Coordinates retrieved:", { lng, lat });
+    
+    coordinateString = String(lat) + "," + String(lng);
+    return coordinateString;
+}
+/*
+=========================================
+END HELPER SECTION
+=========================================
+*/

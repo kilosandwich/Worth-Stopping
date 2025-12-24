@@ -316,17 +316,22 @@ function populateMapMarkers(
         // Popup handling, remember this can be bound to anything within the layer
         //it doesn't have to be a marker
         onEachFeature: (feature, layer) => {
+          //we can make this section run faster if we fetch the name once instead of every time from an array.
+          const name = feature.properties?.name || "";
+          const description = feature.properties?.description || "";
           layer.bindPopup(
-            `<b>${feature.properties?.name || 'Unnamed'}</b><br>` +
-            `${feature.properties?.description || ''}<br>` +
+            `<b>${name || 'Unnamed'}</b><br>` +
+            `${ description || ''}<br>` +
             `<div id="img-placeholder">Loading images…</div>`,
             { autoPan: false, keepInView: false }
           );
 
           layer.on("popupopen", async (e) => {
-            const term = feature.properties?.name || "";
+            const term = name || "";
             const imageHtml = await buildPopupImages(term, numImages);
             const uid = feature.properties?.uid || "No uid found";
+            const website = feature.properties?.website || "";
+            const streetAddress = feature.properties?.street|| "";
             console.log("The uid for this popup is:");
             console.log(uid);
             //define the original HTML
@@ -336,7 +341,25 @@ function populateMapMarkers(
             // Define the original HTML with an inline edit button
             const originalHtml =
               `<div class="popup-title-row">
-                <b class="popup-title">${feature.properties?.name || 'Unnamed'}</b>
+                <b class="popup-title">${name || 'Unnamed'}</b>
+                <button
+                  class="popup-google-pictures-btn"
+                  title="Google Images"
+                  onclick="openGoogleImagesSearch('${name}')">
+                  📸
+                </button>
+                <button
+                  class="popup-website-btn"
+                  title="Location Website: ${website}"
+                  onclick="openWebAddress('${website}','${name}')">
+                  🌐
+                </button>
+                <button
+                  class="popup-directionse-btn"
+                  title="Driving Directions"
+                  onclick="openDirections('${streetAddress}','${name}')">
+                  🗺️
+                </button>
                 <button
                   class="popup-edit-btn"
                   title="Edit location"
@@ -344,7 +367,7 @@ function populateMapMarkers(
                   ✏️
                 </button>
               </div>
-              ${feature.properties?.description || ''}<br>`;
+              ${description|| ''}<br>`;
 
             e.popup.setContent(imageHtml + originalHtml);
           });
@@ -356,7 +379,42 @@ function populateMapMarkers(
     .catch(err => console.error("Error loading GeoJSON:", err));
 }
 
+//Takes a string then opens google images to the search page.
+function openGoogleImagesSearch(searchTerm) {
+  const query = encodeURIComponent(searchTerm);
+  const url = `https://www.google.com/search?tbm=isch&q=${query}`;
+  window.open(url, "_blank");
+}
 
+function openWebAddress(website="",name=""){
+  url = website;
+  if (website === ""){
+    console.log("There is no website, let's make a google search for the name instead");
+    //if there is no website, go to the name of the location on google and hope for the best
+    const query = encodeURIComponent(name);
+    url = `https://www.google.com/search?q=${query}`;
+  }else{
+    console.log("The website search is not blank, so the url is the website provided");
+    //there is a website, so take us straight to that. 
+    url = website;
+  }
+  console.log("Let's go to the following website");
+  console.log(url);
+  window.open(url, "_blank");
+
+}
+
+function openDirections(streetAddress="", name =""){
+  let url;
+  if (streetAddress ===""){
+    const query = encodeURIComponent(name);
+    url =  `https://www.google.com/maps/search/?api=1&query=${query}`;
+  }else{
+    const query = encodeURIComponent(streetAddress);
+    url =  `https://www.google.com/maps/search/?api=1&query=${query}`;
+  }
+  window.open(url, "_blank");
+}
 
 
 //To do: make a function that makes an html out of the various properties of a given geoJSON feature
