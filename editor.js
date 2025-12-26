@@ -351,32 +351,186 @@ async function buildEditorCheckboxes(jsonTagsFilePath = "tags.json", props) {
   }
 }
 
+//the editor save changes button:
 
+async function editorSaveChanges(locationsgeojsonFileHandle ="") {
+  console.log("Attempting to begin saving process");
+
+  const { properties, geometry } = await editorGetInputs();
+  console.log("We have retrieved the properties");
+  console.log(properties)
+  console.log("We have retrieved the geometry");
+  console.log(geometry);
+  //download a local geoJSON file reflecting the changes you wish to make before actually trying to change the locations.geojson file.
+  //saveLocationLocally(properties, geometry);
+  if (!properties?.uid) {
+    throw new Error("No UID found in properties");
+  }
+
+  await upsertGeoJSONFeature(
+    locationsgeojsonFileHandle,
+    properties,
+    geometry,
+    properties.uid
+  );
+}
+
+
+
+//this function is designed to get all of the inputs from the editor window. 
+//for the sake of convenience all property tags will be added into an array
+//this array will then be added to everything else.
+//this function will return two arrays
+//one for properties
+//and one for geometry
+async function editorGetInputs() {
+  const props = {};
+
+  console.log("Collected all the tags for the editor window!");
+
+  props.uid = editorGetUID();
+  props.name = editorGetName();
+  props.street = editorGetStreetAddress();
+  props.country = editorGetCountry();
+  props.state = editorGetState();
+  props.county = editorGetCounty();
+  props.city = editorGetCity();
+  props.website = editorGetWebsite();
+  props.description = editorGetDescription();
+
+  // Tags → boolean flags
+  const tags = await editorGetSelectedTags();
+  console.log("Tags gathered, let's iterate through them");
+  console.log(tags);
+  tags.forEach(tag => {
+    props[tag] = true;
+  });
+
+  const locLat = editorGetLat();
+  const locLng = editorGetLng();
+
+  const geometry = {
+    type: "Point",
+    coordinates: [locLng, locLat]
+  };
+
+  return {
+    properties: props,
+    geometry: geometry
+  };
+}
 
 
 //the save location will open the geoJSON file (or at least a temporary copy of it, and append to the end of it a new location)
 //the inputs will have to be very long and very standardized
 //you may wish to consider definining a particular object in js such that its features can be easily passed between js files.
 //the purpose of saving it locally is so we know the original isn't getting fucked over before we actually append and replace files
-function saveLocationLocally(){
+function saveLocationLocally(properties, geometry) {
 
+  const geojson = {
+    type: "FeatureCollection",
+    features: [
+      {
+        type: "Feature",
+        properties: properties,
+        geometry: geometry
+      }
+    ]
+  };
+
+  const jsonString = JSON.stringify(geojson, null, 2);
+  const blob = new Blob([jsonString], { type: "application/geo+json" });
+  const url = URL.createObjectURL(blob);
+
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "editor.geojson";
+  document.body.appendChild(a);
+  a.click();
+
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+
+  console.log("editor.geojson saved locally");
 }
 
-//if the location within the locally saved geoJSON already exists replace it
-//this is done by compariing the localtemporary json file with the master file.
-//if the location already exists replace it with the updated information
-//if the location does not exist, append the new location to the master file.
-//for the sake of CONVENIENCE a 'ARE YOU SURE' popup should appear if it is a replacement. 
-function appendAndReplace(tempgeojsonFilePath, geojsonFilePath){
+//Upsert means to update and insert
+async function upsertGeoJSONFeature(
+  fileHandle,
+  properties,
+  geometry,
+  uid
+) {
+  if (!fileHandle) {
+    throw new Error("No file handle provided");
+  }
 
+  // --------------------------------------------------
+  // Step 1: Ensure we have write permission
+  // --------------------------------------------------
+  const permission = await fileHandle.requestPermission({ mode: "readwrite" });
+  if (permission !== "granted") {
+    throw new Error("Write permission to GeoJSON file was denied");
+  }
+
+  // --------------------------------------------------
+  // Step 2: Read existing file contents
+  // --------------------------------------------------
+  const file = await fileHandle.getFile();
+  const text = await file.text();
+
+  let geojson;
+  try {
+    geojson = JSON.parse(text);
+  } catch (err) {
+    throw new Error("Existing file is not valid JSON");
+  }
+
+  if (!geojson || geojson.type !== "FeatureCollection") {
+    throw new Error("GeoJSON file is not a FeatureCollection");
+  }
+
+  if (!Array.isArray(geojson.features)) {
+    geojson.features = [];
+  }
+
+  // --------------------------------------------------
+  // Step 3: Build the new feature
+  // --------------------------------------------------
+  const newFeature = {
+    type: "Feature",
+    properties: { ...properties, uid },
+    geometry
+  };
+
+  // --------------------------------------------------
+  // Step 4: Replace or append
+  // --------------------------------------------------
+  const existingIndex = geojson.features.findIndex(
+    f => f?.properties?.uid === uid
+  );
+
+  if (existingIndex !== -1) {
+    console.log(`Replacing existing feature with uid: ${uid}`);
+    geojson.features[existingIndex] = newFeature;
+  } else {
+    console.log(`Appending new feature with uid: ${uid}`);
+    geojson.features.push(newFeature);
+  }
+
+  // --------------------------------------------------
+  // Step 5: Write file back to disk
+  // --------------------------------------------------
+  const writable = await fileHandle.createWritable();
+  await writable.write(
+    JSON.stringify(geojson, null, 2)
+  );
+  await writable.close();
+
+  console.log("GeoJSON file successfully updated");
 }
 
-//this function is designed to get the latitude and longitude for a location based off a provided street address
-//this function is intended to be used with a button in the editor where it gets the input fields for street address
-//and then fetches the latitude and longitude 
-async function getLatLong(){
 
-}
 
 
 function openLocationEditor() {
@@ -437,6 +591,18 @@ Never forget future self: this section of code doesn't need to be optimized, sto
 //helper functions to get the various 
 //things from their various form locations
 //from the index.html editor
+function editorGetUID(){
+  const UIDInput = document.getElementById("editor-uid");
+  if (!UIDInput){
+    console.log("editor-uid input not found!");
+    return "";
+  }
+
+  //trim the finale value or else it will be whitespacey
+  return UIDInput.value.trim();
+}
+
+
 function editorGetName(){
   const nameInput = document.getElementById("editor-name");
   if (!nameInput){
@@ -517,6 +683,17 @@ function editorGetStreetAddress(){
 
   //trim the finale value or else it will be whitespacey
   return streetAdressInput.value.trim();
+}
+
+function editorGetCountry(){
+  const countryInput = document.getElementById("editor-country");
+  if (!countryInput){
+    console.log("editor-country input not found!");
+    return "";
+  }
+
+  //trim the finale value or else it will be whitespacey
+  return countryInput.value.trim();
 }
 
 function editorGetState(){
@@ -606,6 +783,22 @@ function coordinateObjToString(coordinateObj){
     
     coordinateString = String(lat) + "," + String(lng);
     return coordinateString;
+}
+
+
+//this function gets all of the tags for the tag checkboxes and pushes them into an array
+//note: this requires tthat the checkboxes have the id 'tag-checkbox'
+async function editorGetSelectedTags() {
+  const checkedBoxes = document.querySelectorAll('.tag-editor-checkbox:checked');
+  const tags = [];
+
+  checkedBoxes.forEach(cb => {
+    tags.push(cb.value);   // e.g. "park:national", "museum:history"
+  });
+  console.log("I have gathered the selected tags from the checkboxes, they are as follows:");
+  console.log(tags);
+
+  return tags;
 }
 /*
 =========================================

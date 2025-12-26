@@ -25,6 +25,7 @@
 //================================================== 
 var tagsjsonFilePath = "tags.json";
 var geojsonFilePath = "locations.geojson";
+let locationsgeojsonFileHandle = null; //this is the file handle, the user will fill it in using the button to do so. 
 </script>
 <!--Leaflets javascript is loaded from an external source,
 and instead of writing all the code in this document the external
@@ -279,7 +280,51 @@ file.-->
       <!-- dynamically injected checkboxes -->
     </div>
   </div>
+<button
+  type="button"
+  id="editor-select-handle"
+  onclick="
+    (async () => {
+      try {
+        const [handle] = await window.showOpenFilePicker({
+          types: [{
+            description: 'GeoJSON',
+            accept: { 'application/geo+json': ['.geojson'] }
+          }]
+        });
+        //permanently updates the filehandler so it is universally accessible elsewhere without having to be imported. This is smart. 
+        locationsFileHandle = handle;
+
+        document.getElementById('current-handle-name').textContent =
+          handle?.name || 'none';
+
+      } catch (e) {
+        /* user cancelled picker — do nothing */
+      }
+    })();
+  "
+>
+  Select locations.geojson in your local folder.
+  Current file:
+  <strong id="current-handle-name">none</strong>
+</button>
+
+  <button
+    type="button"
+    id="editor-save-changes"
+    onclick="
+      (editorSaveChanges(locationsFileHandle));
+    "
+    >
+    Save Changes (Chromium Only)
+  </button>
 </div>
+
+<script>
+//this is the script for the fiel handler for the editor select handler.
+
+
+</script>
 
 <!-- this has to be loaded afterwards otherwise there are no click handlers to reference-->
  <script>  //link the filepath for the tagsjson file.
@@ -352,7 +397,8 @@ users location - that would allow them to see everything nearby by default
 yay!
 
 This also requires the map div id to exist, otherwise it cannot load*/
-var map = L.map('map').setView([51.505, -0.09], 13);
+var map = L.map('map').setView([39.8283, -98.5795], 4);
+
 
 // OpenStreetMap standard raster tiles
 /* Raster tiles can be requested from multiple sources, included

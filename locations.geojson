@@ -1,21 +1,27 @@
 {
   "type": "FeatureCollection",
   "features": [
-
     {
       "type": "Feature",
       "properties": {
-        "developer_comment": "Every feature in a geoJSON file must be part of a feature collection, it will not be read. There is no way to break up the text so try to keep your writing concise or no one will read it. ",
         "uid": "1",
         "name": "London",
-        "description": "London is the capital and largest city of the United Kingdom, standing on the River Thames in southeast England."
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "London is the capital and largest city of the United Kingdom, standing on the River Thames in southeast England. \n\nThe queen wears a fancy hat here."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.1276, 51.5072]
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -26,10 +32,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060, 40.7128]
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -40,9 +48,517 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [139.6503, 35.6762]
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "4",
+        "name": "The Henry Ford Museum of American Innovation",
+        "street": "20900 Oakwood Blvd, Dearborn, MI 48124",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "Wayne",
+        "city": "Dearborn",
+        "website": "https://www.thehenryford.org/",
+        "description": "Henry Ford decided to buy all of American history and put it in the world's largest indoor-outdoor museum complex (12 acres indoors, 240 acres outdoors). It's an aerospace museum, a living history museum, automobile, railroad, and science museum,Including:\n<br>\n<br>1.) All presidential limosines, including the ones John F. Kennedy and Ronald Reagan were shot in. \n<br>2.) The chair Abraham Lincoln was assassinated in.\n<br>3.) A 1:1 replica of Independence Hall.\n<br>4.) The Wright Brother's Bicycle shop where they developed the first airplane.\n<br>5.) Thomas Edison's Menlo Park Laboratory Complex.\n<br>6.) Rosa Park's bus. \n<br>7.) The homes and farms of Henry Ford, Thomas Edison, and Harvey Firstone.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2347848,
+          42.3033571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "5",
+        "name": "Detroit Institute of Arts",
+        "street": "5200 Woodward Ave, Detroit, MI 48202",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "Wayne",
+        "city": "Detroit",
+        "website": "https://dia.org/",
+        "description": "See all the art Detroit purchased when it was the richest city in the world. There's also an entire Egyptian tomb and part of a European castle in here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0646391,
+          42.35938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "6",
+        "name": "Detroit Historical Museum",
+        "street": "5401 Woodward Ave, Detroit, MI 48202",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "Wayne",
+        "city": "Detroit",
+        "website": "https://www.detroithistorical.org/visit/detroit-historical-museum",
+        "description": "Remember when Detroit was the 5th largest city in the United States of America and the richest city in the world? This museum sure does. Featuring assembly lines, a recreation of historical Detroit streets - including armored personnel carriers from all those times the Michigan National Guard had to quell riots.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0672387,
+          42.3597519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "7",
+        "name": "Motown Museum",
+        "street": "2648 Berry Gordy Jr. Boulevard, 2648 W Grand Blvd, Detroit, MI 48208",
+        "country": "United States",
+        "state": "Detroit",
+        "county": "Wayne",
+        "city": "Detroit",
+        "website": "http://www.motownmuseum.org/",
+        "description": "Music writer and producer Berry Gordy bought a bunch of houses, turned them into a music studio, and approached music production like a Detroit assembly line - turning artists into stars through rigorous trainining and quality control. This museum is where the Jackson 5, Stevie Wonder, Marvin Gaye, The Supremes, and the Four Tops got their start.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0884896,
+          42.3641253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "8",
+        "name": "Cranbrook Educational Community",
+        "street": "380 Lone Pine Rd, Bloomfield Hills, MI 48304",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "Oakland",
+        "city": "Bloomfield Hills",
+        "website": "http://housegardens.cranbrook.edu/",
+        "description": "An Art Deco museum-garden complex created when Detroit was the richest city in the world. Featuring the Cranbrook Art Museum, the Cranbrook Institute of Science, and the Cranbrook House and Gardens.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2454177,
+          42.5688988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "9",
+        "name": "Gilmore Car Museum",
+        "street": "6865 Hickory Rd, Hickory Corners, MI 49060",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "Barry",
+        "city": "Hickory Corners",
+        "website": "http://www.gilmorecarmuseum.org/",
+        "description": "What's better than one building full of cars? 14 buildings full of cars set in an entire town built just for one car museum. It's 90 acres of cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4200364,
+          42.4401885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "10",
+        "name": "Sleeping bear Dunes National Lakeshore",
+        "street": "9922 W Front St, Empire, MI 49630",
+        "country": "",
+        "state": "Michigan",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/slbe/index.htm",
+        "description": "35 miles of 450ft tall sand dunes next to the largest freshwater lakes in the world.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0536281,
+          44.8732063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "11",
+        "name": "Mackinac Island State Park",
+        "street": "7029 Huron Rd, Mackinac Island, MI 49757",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "",
+        "website": "https://www.mackinacparks.com/attraction/mackinac-island-state-parks/",
+        "description": "Mackinac Island was the second national park after Yellowstone, but Michigan wanted it back. The state that is the heart of the American automotive industry banned cars on this island to preserve its beauty.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6208169,
+          45.8592603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "12",
+        "name": "S.S. City of Milwaukee",
+        "street": "99 Arthur St, Manistee, MI 49660",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "",
+        "website": "http://www.carferry.com/",
+        "description": "The SS City of Milkwaukee is the last railroad ferry on the Great Lakes. It's also a museum, hotel, and haunted house depending on the time of year. The USCGC Acacia is also docked as a museum ship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3160162,
+          44.2595201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "13",
+        "name": "S.S. Milwaukee Clipper",
+        "street": "2098 Lakeshore Dr, Muskegon, MI 49441",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "Muskegon",
+        "website": "",
+        "description": "It's museum passenger/car ferry ship built in 1904 and modernized in the 1950s. The resulting ship feels uniquely like a cross between an insane-asylum and a bus.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2963086,
+          43.22165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "14",
+        "name": "Gerald R. Ford Presidential Museum",
+        "street": "303 Pearl St NW, Grand Rapids, MI 49504",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "Grand Rapids",
+        "website": "https://www.fordlibrarymuseum.gov/",
+        "description": "Come see the Gerald R. Ford Presidential Museum where you can learn that President Gerald Ford did nothing wrong (in their opinion).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6776267,
+          42.9683584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "15",
+        "name": "Pictured Rocks National Lakeshore",
+        "street": "1505 Sand Point Rd, Munising, MI 49862",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/piro/index.htm",
+        "description": "It's fancy rocks, waterfalls, sand dunes, and shipwrecks on the world's largest freshwater lake by surface area. The lake is 45F all year round, so enjoy the breeze - but don't go swimming.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3189901,
+          46.5687598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "16",
+        "name": "Top-of-the-Lake Snowmobile Museum",
+        "street": "W11660 US-2, Naubinway, MI 49762",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.snowmobilemuseum.com/",
+        "description": "Snowmobiles are awesome. I like them. The Upper Peninsula of Michigan is one of the snowiest location in the United States, and the snowmobile trails in the region reflect that.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4505549,
+          46.0946446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "17",
+        "name": "Porcupine Mountains Wilderness State Park",
+        "street": "33303 Headquarters Rd, Ontonagon, MI 49953",
+        "country": "",
+        "state": "Michigan",
+        "county": "",
+        "city": "",
+        "website": "https://www.michigan.gov/recsearch/parks/Porkies",
+        "description": "Waterfalls, dynamic cliffs, and a lake in the sky (Lake of the Clouds) in this stunning state park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8033419,
+          46.7431196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "18",
+        "name": "Quincy Mine",
+        "street": "49750 US-41, Hancock, MI 49930",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "",
+        "website": "http://www.quincymine.com/",
+        "description": "A Michigan Upper Peninsula Copper mine that remains frightfully cold year round. Part of the Keweenaw National Historical Park.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5760186,
+          47.1366519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "19",
+        "name": "SS Valley Camp",
+        "street": "501 E Water St, Sault Ste. Marie, MI 49783",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.saulthistoricsites.com/",
+        "description": "Come see a 1917 Great Lakes Freighter in its native habitat: next to a massive set of locks between Lake Superior and Lake Huron. The museum is in the actual cargo hold - a rarity among museum ships in the Great Lakes.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3363599,
+          46.4995031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "20",
+        "name": "U.S.S. Edson",
+        "street": "",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "Bay City",
+        "website": "http://www.svnsm.com/",
+        "description": "The USS Edson is a 1958 Forrest-Sharman class destroyer. U.S. Navy veteran volunteers tend to mull about on deck. Interestingly, this ship museum lets you wander around the engine room with very little restrictions.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8688676,
+          43.6144016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "21",
+        "name": "Air Zoo",
+        "street": "6151 Portage Rd, Portage, MI 49002",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "Portage",
+        "website": "",
+        "description": "The Air Zoo is a combined children's amusement park and aerospace museum. The flight simulators let you do barrel rolls and loops and I highly recommend them. Uniquely, the air zoo has a Curtiss Ascender, F-117 Nighthawk, SR-71B Blackbird",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5573151,
+          42.2274687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "22",
+        "name": "Sloan Museum",
+        "street": "1221 E Kearsley St, Flint, MI 48503",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "Genesee",
+        "city": "Flint",
+        "website": "https://sloanlongway.org/sloan/",
+        "description": "80,000 people used to work in 37 General Motors Automotive Factories in Flint, Michigan. Today that number is less than 8000. All the while General Motors placed its prototypes and successes in this local museum named after the CEO that took General Motors to its zenith when it held 50% market share in the U.S. auto market.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6792139,
+          43.0232466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "23",
+        "name": "USS Silversides Submarine Museum",
+        "street": "1346 Bluff St, Muskegon, MI 49441",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "Muskegon",
+        "website": "http://www.silversidesmuseum.org/",
+        "description": "A World War Two Gato-class submarine that sunk 23 enemy ships in the Pacific Theater is now available for tour in Muskegon, Michigan - a place that is most definitely not the ocean.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3332715,
+          43.2297345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "24",
+        "name": "Icebreaker Mackinaw Maritime Museum",
+        "street": "131 S Huron Ave, Mackinaw City, MI 49701",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.themackinaw.org/",
+        "description": "The Great Lakes freeze during the winter, but ships still need to move. The USCGC Mackinaw is a 1944 icebreaker designed specifically for Great Lakes service to extend the shipping season. As a result it looks unique compared to other icebreakers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7202514,
+          45.7797207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "25",
+        "name": "Tahquamenon Falls State Park",
+        "street": "Tahquamenon River, Michigan, Paradise, MI 49768",
+        "country": "United States",
+        "state": "Michigan",
+        "county": "",
+        "city": "",
+        "website": "https://www.michigan.gov/recsearch/parks/TahquamenonFalls",
+        "description": "Copper-colored 50ft waterfalls in the rocky wilderness of the Upper Peninsula of Michigan.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.256821,
+          46.574941
+        ]
       }
     }
-
   ]
 }

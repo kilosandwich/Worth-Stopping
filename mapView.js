@@ -326,6 +326,15 @@ function populateMapMarkers(
             { autoPan: false, keepInView: false }
           );
 
+          layer.bindTooltip(name, {
+            direction: "top",
+            offset: [0, -10],
+            sticky: true,
+            opacity: 0.9,
+            className: "map-hover-tooltip"
+          });
+
+
           layer.on("popupopen", async (e) => {
             const term = name || "";
             const imageHtml = await buildPopupImages(term, numImages);
@@ -342,6 +351,7 @@ function populateMapMarkers(
             const originalHtml =
               `<div class="popup-title-row">
                 <b class="popup-title">${name || 'Unnamed'}</b>
+                <hr>
                 <button
                   class="popup-google-pictures-btn"
                   title="Google Images"
@@ -366,6 +376,7 @@ function populateMapMarkers(
                   onclick="editor('${uid}')">
                   ✏️
                 </button>
+                <hr>
               </div>
               ${description|| ''}<br>`;
 
