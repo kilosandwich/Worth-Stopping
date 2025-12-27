@@ -559,6 +559,578 @@
           46.574941
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "26",
+        "name": "National Museum of the Great Lakes",
+        "street": "1701 Front St, Toledo, OH 43605",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "Toledo",
+        "website": "http://www.nmgl.org/",
+        "description": "The National Museum of the Great Lakes features the SS Colonel James M. Schoonmaker, a 1911 Great Lakes iron ore freighter. Despite its nautical appearances, the crew quarters on the stern is lavishly decorated like a Victorian mansion.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5154105,
+          41.6565951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "27",
+        "name": "Rutherford B. Hayes Presidential Library and Museums",
+        "street": "Spiegel Grove, Fremont, OH 43420",
+        "country": "",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "It's called the Rutherford B. Hayes Presidential Library and Museum, but it should be more accurately titled the \"Medal of Honor Recipient Webb C. Hayes Museum, featuring my dad who did nothing wrong: President Rutherford B. Hayes\".",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1296514,
+          41.3417142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "28",
+        "name": "Cedar Point",
+        "street": "1 Cedar Point Dr, Sandusky, OH 44870",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "Sandusky",
+        "website": "https://www.cedarpoint.com/",
+        "description": "19 World class rollercoasters on the eleventh largest freshwater lake in the world. Winner of Best Amusement Park In The World for 16 consecutive years. Featuring multiple rollercoasters that have all been ranked as best in the world at the time of their opening.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6837047,
+          41.482208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "29",
+        "name": "National Museum of the United States Air Force",
+        "street": "1100 Spaatz St, Dayton, OH 45433",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nationalmuseum.af.mil/",
+        "description": "This is THE military aviation museum. The largest military aviation museum in the world with 360 aircraft and missiles on display. Come see presidential aircraft, nuclear missiles and bombs, stealth fighters and bombers, spy satellites, experimental aircraft, and friendly recruiters who would like you to join the United States Air Force. Admission is free.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1122408,
+          39.7804387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "30",
+        "name": "Cincinnati Museum Center",
+        "street": "1301 Western Ave, Cincinnati, OH 45203",
+        "country": "",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "http://www.cincymuseum.org/",
+        "description": "The train station that was the basis for DC's Hall of Justice is now a museum center. Somehow there is an entire steamboat (complete with historical waterfront), cave, ice cave, and forest in the basement. Also dinosaurs, mummies, and astronauts. It is just as glorious as it sounds.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5375176,
+          39.1099549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "31",
+        "name": "Columbus Zoo and Aquarium",
+        "street": "4850 W Powell Rd, Powell, OH 43065",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "Powell",
+        "website": "https://www.columbuszoo.org/",
+        "description": "Jack Hanna's legendary zoo with 800 species of animals, including manatees, lions, leopards, tigers, elephants, lynxes, sea lions and seals, cheetahs, sea turtles, penguins, koalas, moose, river otters, pallas cats, polar bears, etc. There's also two rollercoasters and an outstanding waterpark built into the zoo.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1175949,
+          40.1562423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "32",
+        "name": "Cuyahoga Valley National Park",
+        "street": "8176 Brandywine Rd, Northfield, OH 44067",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/cuva/index.htm",
+        "description": "Cuyahoga Valley National park doesn't look like much until you peer into the 65ft deep rocky ravine filled with 100 waterfalls. Brandywine Falls by itself is a stunning attraction that is well worth a look.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5390956,
+          41.2769095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "33",
+        "name": "Wordens Ledges",
+        "street": "Wordens Ledges Loop Trail, Hinckley, OH 44233",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "https://www.clevelandmetroparks.com/parks/visit/parks/hinckley-reservation/worden-s-ledges",
+        "description": "Terrifying century old rock visiages carved into the face of a cliff deep in the woods. I genuinely felt I was going to get murdered despite being in the safe suburbs of Cleveland.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7171137,
+          41.2024738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "34",
+        "name": "Serpent Mound",
+        "street": "3850 OH-73, Peebles, OH 45660",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Native Americans built a giant snake shaped mound on top of a hill more than 2000 years ago. It's still there snaking in the woods.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4302108,
+          39.0257707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "35",
+        "name": "Warren G. Harding Presidential Library and Museum",
+        "street": "380 Mt Vernon Ave, Marion, OH 43302",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "https://hardingpresidentialsites.org/",
+        "description": "President Warren G. Harding promised to \"Return to Normalcy\" and \"Make America Great Again\" following American overseas interventionism, enforced political correctness, percieved weakness on immigration, and a plague. A favorite of newspaper reporters due owning his own newspaper where the country could hear his thoughts, Harding also presided over a corrupt cabinet, womanized, then died of a heart attack after being strained from touring the country for massive rallies. This is his museum and tomb.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1219485,
+          40.5867728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "36",
+        "name": "McKinley Presidential Library and Museum",
+        "street": "800 Mc Kinley Monument Dr NW, Canton, OH 44708",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://mckinleymuseum.org/",
+        "description": "President William McKinley followed the proud presidential tradition of being from Ohio and getting shot - which means his tomb is very nice because the nation was very sad. For some reason there's also dinosaurs in his museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3933425,
+          40.8062975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "37",
+        "name": "The Cleveland Museum of Art",
+        "street": "11150 East Blvd, Cleveland, OH 44106",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.clevelandart.org/",
+        "description": "Cleveland used to be rich, bought a lot of nice art, and made the art museum free forever. Yes, they have the Etruscan Boar Vessel and the Majapahit piggy bank.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6118888,
+          41.5090904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "38",
+        "name": "Kings Island",
+        "street": "6300 Kings Island Drive, Mason, OH 45040",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "https://www.visitkingsisland.com/",
+        "description": "The Eiffel Tower, 15 rollercoasters, including a homemade 7361ft ride through the woods. Kings Island is one of the world's greatest amusement parks which revived the public's interest in rollercoasters following the decline of the amusement industry in the 1970s.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2671321,
+          39.3434626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "39",
+        "name": "Hocking Hills State Park",
+        "street": "19988 OH-664 Scenic, Logan, OH 43138",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "Logan",
+        "website": "https://ohiodnr.gov/go-and-do/plan-a-visit/find-a-property/hocking-hills-state-park",
+        "description": "Caves and waterfalls, waterfalls in caves, rock overhangs, and gentle hikes. It's like Ohio is trying to trick you into thinking it's a nice place to be.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5419707,
+          39.4346212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "40",
+        "name": "Early Television Museum",
+        "street": "5396 Franklin St, Hilliard, OH 43026",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "Hilliard",
+        "website": "http://www.earlytelevision.org/",
+        "description": "Did you know you can make a television screen out of a single lightbulb and a spinning disc with holes in it? Learn about the wacky frontier of television when television stations went to bed for the evening, and the British could still manufacture electronics.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1614608,
+          40.0343738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "41",
+        "name": "Trap History Museum",
+        "street": "6106 Bausch Rd, Galloway, OH 43119",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "http://www.traphistorymuseum.com/",
+        "description": "4000 traps of all types and historical periods located next to a public safety equipment supplier to remind them of the consequences should they fail. Come see 20ft giant bear trap that might be our only protection against Godzilla. Tours by appointment only - please call ahead of time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1573322,
+          39.906397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "42",
+        "name": "Age of Steam Roundhouse",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.ageofsteamroundhouse.org/",
+        "description": "You know how at most railroad museums the trains just sit there and don't do anything? The trains at the Age of Steam Roundhouse actually still run and you can ride in them. They also have a compressed air powered locomotive.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6647776,
+          40.4792135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "43",
+        "name": "The Troll Hole Museum",
+        "street": "228 E Main St, Alliance, OH 44601",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://thetrollhole.com/",
+        "description": "Are you feeling too sane? Why not learn about trolls, see cellebrities turned into rolls, troll based cinema, and find out if Santa is really a troll. It's the world's largest troll collection.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1022525,
+          40.9219451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "44",
+        "name": "Great Lakes Science Center",
+        "street": "601 Erieside Ave, Cleveland, OH 44114",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "Cleveland",
+        "website": "",
+        "description": "Featuring the NASA Glenn Visitor Center (with an actual Apollo capsule used for Skylab) and the Great Lakes Freighter William G Mather. The rest of the stuff is for kids.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.696742,
+          41.5073863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "45",
+        "name": "Rock and Roll Hall of Fame",
+        "street": "1100 E 9th St, Cleveland, OH 44114",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.rockhall.com/",
+        "description": "Memorabilia from history's greatest modern music performers. Located in Cleveland because some radio DJ here created the phrase ''Rock and Roll\".",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6954268,
+          41.5085201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "46",
+        "name": "Jungle Jims International Market Eastgate",
+        "street": "4450 Eastgate S Dr, Cincinnati, OH 45245",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.junglejims.com/",
+        "description": "Jungle Jims International Market literally has everything. This is the infinite IKEA of grocery stores. Yes there is a movie theater that only shows propaganda promoting the store that you are already in. Yes there is a bar. Yes there is a card game shop.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2736438,
+          39.0932823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "47",
+        "name": "American Sign Museum",
+        "street": "1330 Monmouth Ave, Cincinnati, OH 45225",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.americansignmuseum.org/",
+        "description": "All the good signs all in a former sign factory. This museum fulfills mankind's truest desire to look at pretty flashing lights in funny shapes.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5402342,
+          39.1434953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "48",
+        "name": "Mansfield Memorial Museum",
+        "street": "34 Park Ave W, Mansfield, OH 44902",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "https://themansfieldmuseum.com/",
+        "description": "Home of Elektro - one of the first ever robots displayed at the 1939 New Yorks's World Fair. Elektro could walk, talk, smoke a cigarette, blow a balloon, move its arms and fingers, and be enslaved by humanity (something that we will surely never come to regret). This museum isn't the best museum, I just really like Elektro.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5169573,
+          40.7586085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "49",
+        "name": "Crystal Cave",
+        "street": "978 Catawba Ave, Put-In-Bay, OH 43456",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "Put-In-Bay",
+        "website": "http://www.heinemanswinery.com/crystalcave.asp",
+        "description": "Ever wanted to stand in a cave surrounded by crystals like some kind of ancient enchanter? Now you can! There's another cave across the street if you are waiting for the ferry to take you back to the mainland.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8269727,
+          41.6466009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "50",
+        "name": "Ohio Caverns",
+        "street": "2210 OH-245, West Liberty, OH 43357",
+        "country": "United States",
+        "state": "Ohio",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Most caves are all the same color of rock, the caves at Ohio caverns are multi-colored and still wet and drippy. Considering how flat everything is in the area this is the most exciting geological feature for nearly 100 miles in every direction. Breathe it in.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6972116,
+          40.2383151
+        ]
+      }
     }
   ]
 }

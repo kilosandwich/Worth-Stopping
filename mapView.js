@@ -392,8 +392,14 @@ function populateMapMarkers(
 
 //Takes a string then opens google images to the search page.
 function openGoogleImagesSearch(searchTerm) {
+  console.log("We have opened the image search button, we are searching for:");
+  console.log(searchTerm);
   const query = encodeURIComponent(searchTerm);
+  console.log("Here is the URI we are searching for");
+  console.log(query);
   const url = `https://www.google.com/search?tbm=isch&q=${query}`;
+  console.log("Here is the url we constructed to search for:");
+  console.log(url);
   window.open(url, "_blank");
 }
 
