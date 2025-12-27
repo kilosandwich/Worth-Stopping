@@ -26,6 +26,8 @@
 var tagsjsonFilePath = "tags.json";
 var geojsonFilePath = "locations.geojson";
 let locationsgeojsonFileHandle = null; //this is the file handle, the user will fill it in using the button to do so. 
+let userLocationMarker = null; //this is the user location marker
+
 </script>
 <!--Leaflets javascript is loaded from an external source,
 and instead of writing all the code in this document the external
@@ -61,9 +63,16 @@ file.-->
 <nav id="navbar">
   
   <div id="nav-left">
-    <button id="nav-search" class="nav-btn">
-      &#128270; Search
+    <button id="nav-search" class="nav-btn"
+    title ="Search">
+      &#128270;
     </button>
+    <button id="locate-me-btn" 
+    title= "Center the map on your current location"
+    onclick="locateUser({ zoomLevel: 15 })"
+    >
+    📍
+  </button>
   </div>
   <div id="nav-title">Worth Stopping: Curated Destination</div>
   <div id="nav-right">

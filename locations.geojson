@@ -1131,6 +1131,212 @@
           40.2383151
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "51",
+        "name": "Camden Park",
+        "street": "5000 Waverly Rd, Huntington, WV 25704",
+        "country": "United States",
+        "state": "West Virginia",
+        "county": "",
+        "city": "Huntington",
+        "website": "http://www.camdenpark.com/",
+        "description": "A scooby-doo esque run-down amusement park built on a native American burial ground. The back seat of the Big Dipper rollercoaster was one of the few times I felt close to death. A fun time for the whole family.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5312097,
+          38.3972274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "52",
+        "name": "New River Gorge National Park and Preserve",
+        "street": "162 Visitor Center Rd, Lansing, WV 25862",
+        "country": "United States",
+        "state": "West Virginia",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/neri/planyourvisit/crvc.htm",
+        "description": "A deep river gorge in Appalachia with whitewater rafting and a bridge that is impossibly large to comprehend until you see it in person. When you see the wispy clouds moving through gorge and over the mountaintops you'll understand why this had to be made into a national park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0762644,
+          38.0700724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "53",
+        "name": "The Greenbrier",
+        "street": "101 W Main St, White Sulphur Springs, WV 24986",
+        "country": "United States",
+        "state": "West Virginia",
+        "county": "",
+        "city": "",
+        "website": "http://www.greenbrier.com/",
+        "description": "Congress built a bunker to protect itself from nuclear war under a luxury hotel. As of this moment this is the only United State continuity of government complex availible for tour, as Raven Rock Mountain Complex, Mount Weather Emergency Operations Center, and Warrenton Training Center continue to be in use to this day.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3086979,
+          37.7858382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "54",
+        "name": "Seneca Rocks",
+        "street": "WV-28, Seneca Rocks, WV 26884",
+        "country": "United States",
+        "state": "West Virginia",
+        "county": "",
+        "city": "",
+        "website": "https://www.fs.usda.gov/r09/monongahela/recreation/seneca-rocks-discovery-center",
+        "description": "Seneca Rocks are a concerningly thin scenic rock crag rising 900ft above the Monongahela National Forest. There's a 2-hour hike to an observation deck at the top that provides a good view of the surrounding area.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.365461,
+          38.8361166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "55",
+        "name": "West Virginia State Museum",
+        "street": "Building 9, 1900 Kanawha Blvd E #435, Charleston, WV 25305",
+        "country": "United States",
+        "state": "West Virginia",
+        "county": "",
+        "city": "Charleston",
+        "website": "https://wvculture.org/explore/wv-state-museum/",
+        "description": "Most state museums try to be inoffensive and lack coherent vision. By comparison, the West Virginia state museum offers a compelling walk through the state's history where visitors quite literally advance through time as they move through the exam. See how the state developed from woodland, to native history, to arrival of European settlers, to the U.S. Civil War, to mining and the present.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6140164,
+          38.3377176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "56",
+        "name": "Cathedral Falls",
+        "street": "US-60, Gauley Bridge, WV 25085",
+        "country": "United States",
+        "state": "West Virginia",
+        "county": "",
+        "city": "",
+        "website": "http://visitwv.com/cathedral-falls/",
+        "description": "Cathedrals falls is tucked away next to a very unsafe to drive on feeling highway. However, you can walk right up to the 60ft tall waterfall, and the cliffs are shaped in such a way they arch over your head like the roof of a cathedral. Pictures do not do it justice.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1789879,
+          38.1543662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "57",
+        "name": "Beckley Exhibition Coal Mine",
+        "street": "513 Ewart Ave, Beckley, WV 25801",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://beckley.org/coal-mine/",
+        "description": "Beckley Exhibition Coal Mine opened in 1889, ceased operations in 1953, and became the world's first public museum entirely dedicated to coal mining in 1962. Yes, you can go into the coal mine, and you get there in a tiny train.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1963594,
+          37.784393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "58",
+        "name": "Lost World Caverns",
+        "street": "907 Lost World Rd, Lewisburg, WV 24901",
+        "country": "United States",
+        "state": "West Virginia",
+        "county": "",
+        "city": "",
+        "website": "http://www.lostworldcaverns.com/",
+        "description": "A cavern with formations so fancy they are registered as a National Natural Landmark. There's a half mile loop of walking worth to do. The caverns are so spacious that self-guided tours are available.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4469487,
+          37.8327141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "59",
+        "name": "Isle Royale National Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/isro/index.htm",
+        "description": "The largest island of the largest freshwater lake in the world by surface area. 45 miles of jagged granite shores, abandoned copper mines, and untouched wilderness. Only accessible by boat or aircraft - there are no vehicles allowed on the island, so I hope you love hiking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4865545,
+          48.1460565
+        ]
+      }
     }
   ]
 }

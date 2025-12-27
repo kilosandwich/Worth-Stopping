@@ -445,3 +445,73 @@ function openDirections(streetAddress="", name =""){
 
 //To do: make a populate list view feature: theoretically the list view could be populated at the same time as the map but
 //hidden (this may be slow)
+
+
+//this locates the user and puts their location on a map. 
+function locateUser({
+  zoomLevel = 15,
+  pan = true,
+  showAccuracy = false
+} = {}) {
+
+  if (!navigator.geolocation) {
+    console.error("Geolocation is not supported by this browser.");
+    return;
+  }
+
+  navigator.geolocation.getCurrentPosition(
+    position => {
+      const lat = position.coords.latitude;
+      const lng = position.coords.longitude;
+      const accuracy = position.coords.accuracy;
+
+      // Create or update the marker
+      if (!userLocationMarker) {
+        userLocationMarker = L.circleMarker([lat, lng], {
+          radius: 6,
+          color: "#b00000",
+          fillColor: "#ff2b2b",
+          fillOpacity: 1,
+          weight: 2
+        }).addTo(map);
+      } else {
+        userLocationMarker.setLatLng([lat, lng]);
+      }
+
+      // Optional accuracy ring
+      if (showAccuracy) {
+        L.circle([lat, lng], {
+          radius: accuracy,
+          color: "#ff2b2b",
+          fillOpacity: 0.1,
+          weight: 1
+        }).addTo(map);
+      }
+
+      // Pan / zoom map
+      if (pan) {
+        map.setView([lat, lng], zoomLevel, { animate: true });
+      }
+    },
+    error => {
+      switch (error.code) {
+        case error.PERMISSION_DENIED:
+          console.error("User denied location access.");
+          break;
+        case error.POSITION_UNAVAILABLE:
+          console.error("Location information unavailable.");
+          break;
+        case error.TIMEOUT:
+          console.error("Location request timed out.");
+          break;
+        default:
+          console.error("Unknown geolocation error.");
+      }
+    },
+    {
+      enableHighAccuracy: true,
+      timeout: 10000,
+      maximumAge: 60000
+    }
+  );
+}
