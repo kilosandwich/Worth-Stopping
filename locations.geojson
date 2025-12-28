@@ -1337,6 +1337,348 @@
           48.1460565
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "60",
+        "name": "Museum of Science and Industry",
+        "street": "5700 S DuSable Lake Shore Dr, Chicago, IL 60637",
+        "country": "United States",
+        "state": "Illinois",
+        "county": "",
+        "city": "Chicago",
+        "website": "https://www.msichicago.org/",
+        "description": "A permanent structure from the 1893 World's Columbian Exposition houses a stainless-steel passenger train, a german U-boat, space capsules, an extensive model railroad, a mockup of old chicago streets, and a mockup coal mine.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5829636,
+          41.7905503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "61",
+        "name": "Field Museum",
+        "street": "https://www.fieldmuseum.org/",
+        "country": "",
+        "state": "Illinois",
+        "county": "",
+        "city": "Chicago",
+        "website": "https://www.fieldmuseum.org/",
+        "description": "The Field Museum of Natural History features multiple sections each expansive and detailed enough to be museums in their own right. Set aside an entire day for the Field Museum, it is mind-bogglingly extensive. These sections include but are not limited to:\n<br>\n1.) Fossils in dioramas organized by era, with funny little extinction event placards breaking up the sections as you walk through them.There is a nearly complete fossil of a T-Rex.\n<br>\n2.) Artifacts and houses from the pacific islands collected by a rich guy who was determined to capture how life was lived before Europeans showed up. \n<br>\n3.) a three story replica of an egyptian tomb complete with mummies.\n<br>",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.617163,
+          41.8662142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "62",
+        "name": "The Art Institute of Chicago",
+        "street": "111 S Michigan Ave, Chicago, IL 60603",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.artic.edu/",
+        "description": "300,000 paintings seems like a reasonable number of paintings to justify an art museum. Occupying a building from the 1893 World's Columbian Exposition, the Art Institute of Chicago has got the painting made of a bunch of dots and the one with the farmers and the pitchfork.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6226614,
+          41.879609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "63",
+        "name": "Shedd Aquarium",
+        "street": "1200 S DuSable Lake Shore Dr, Chicago, IL 60605",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.sheddaquarium.org/",
+        "description": "Having an Aquarium full of piranhas, electric eels, sea turtles, sharks, dolpins, belugas, sea otters, sea lions, and penguins is made all the more impressive by the fact that this aquarium is 700 miles from the ocean.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6140499,
+          41.8676014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "64",
+        "name": "Chicago History Museum",
+        "street": "1601 N Clark St, Chicago, IL 60614",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.chicagohistory.org/",
+        "description": "If you ever dreamed of seeing Chicago burning, this museum has a diorama to help you visualize it. Chicago burned to the ground in 1871 and just can't seem to let it go. This museum also features some antique cars from the elevated rail network.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6318981,
+          41.9117702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "65",
+        "name": "Institute for the Study of Ancient Cultures Museum",
+        "street": "1155 E 58th St, Chicago, IL 60637",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://isac.uchicago.edu/",
+        "description": "Have you ever said: \"Wow, I sure wish someone other than the British took the ancient treasures of the middle east\". Well, you're in luck.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5976305,
+          41.7892456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "66",
+        "name": "Par King Skill Golf",
+        "street": "21711 N Milwaukee Ave, Lincolnshire, IL 60069",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://par-king.com/",
+        "description": "This is the mini-golf course from cartoons in real life. It's got golf loopdeloop, golf rollercoaster, golf statute of liberty, golf roulette wheel, and golf taking the stairs at Sears Tower.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9250883,
+          42.1791156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "67",
+        "name": "Illinois Railway Museum",
+        "street": "7000 Olson Rd, Union, IL 60180",
+        "country": "United States",
+        "state": "Illinois",
+        "county": "",
+        "city": "Union",
+        "website": "http://www.irm.org/",
+        "description": "This is THE train museum in the USA. The largest railroad museum in the United States. 11 Storage barns on an 80 acre campus with over 200 trains and 500 pieces of rolling stock in total. Trains, interurbans, trolleys, buses, you name it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5277562,
+          42.22742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "68",
+        "name": "Caterpillar Visitors Center",
+        "street": "110 SW Washington St, Peoria, IL 61602",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.caterpillar.com/en/company/visitors-center.html",
+        "description": "Remember the yellow construction equipment toys you played with as a kid? This is where the actual equipment is made. Come and see all of it at the Caterpillar Visitors Center. Come on, you know you've always wanted to sit in the cab of a 2-story dump truck.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5890744,
+          40.6900016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "69",
+        "name": "Abraham Lincoln Presidential Library and Museum",
+        "street": "212 N 6th St, Springfield, IL 62701",
+        "country": "United States",
+        "state": "Illinois",
+        "county": "",
+        "city": "",
+        "website": "https://presidentlincoln.illinois.gov/",
+        "description": "Illinois loves Abraham Lincoln so much they made the official state slogan \"Land of Lincoln\" and forgot they voted for Stephen Douglas for Senator instead. This museum covers everything about Abraham Lincoln, including a diorama of the part of his life where he went to the theater. Presidential security has come a long way since Lincoln, with only 6 other sitting or former Presidents being shot, representing 22% of all Presidents since Lincoln. Progress.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6472106,
+          39.803343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "70",
+        "name": "Cahokia Mounds State Historic Site",
+        "street": "30 Ramey St, Collinsville, IL 62234",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://cahokiamounds.org/",
+        "description": "80 Earthen mounds with some standing over 100ft tall mark the site of a pre-Columbian city where 20,000 people once lived in 1100AD. The largest pre-Columbian earthen Construction in the United States and a UNESCO World Heritage Site. Cahokia was abandoned long before European settlers arrived and gave nearby St. Louis the nickname \"Mound City\".",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0620856,
+          38.6607213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "71",
+        "name": "Garden of the Gods Recreation Area",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.fs.usda.gov/r09/shawnee/recreation/garden-gods-recreation-area",
+        "description": "The observation trail in the Garden of the Gods Recreation Area of Shawnee National Forest leads to a cliff with sandstone rock formations and panoramnic views of the surrounding area. There's also other interesting hiking trails in the area.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3847232,
+          37.6046357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "72",
+        "name": "Cave In Rock State Park",
+        "street": "1 New State Park Rd, Cave-In-Rock, IL 62919",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "A 55ft tall keyhole shaped cave on the limestone bluffs of the Ohio River. Cave-In-Rock was the first State Park of Illinois which should give you an idea that people have always thought it was pretty neat.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1605937,
+          37.4675692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "73",
+        "name": "Little Grand Canyon - Shawnee National Forest",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Spiderweb like limestone formations and seasonal waterfalls in this canyon in Shawnee National Forest. It's a 2.9 mile hike, so expect to take 3-4 hours.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3948267,
+          37.6805944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "74",
+        "name": "Starved Rock State Park",
+        "street": "2678 East 873 Road, Oglesby, IL 61348",
+        "country": "",
+        "state": "Illinois",
+        "county": "",
+        "city": "",
+        "website": "https://dnr.illinois.gov/parks/park.starvedrock.html",
+        "description": "Canyons, waterfalls, and cliffs that look much bigger in person than they do in photos all at this state park which boasts very easy to do hikes.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9932585,
+          41.3206586
+        ]
+      }
     }
   ]
 }

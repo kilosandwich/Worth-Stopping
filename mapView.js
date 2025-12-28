@@ -378,9 +378,12 @@ function populateMapMarkers(
                 </button>
                 <hr>
               </div>
-              ${description|| ''}<br>`;
+              ${description|| ''}<br>
+              
+              <hr>
+              `;
 
-            e.popup.setContent(imageHtml + originalHtml);
+            e.popup.setContent(originalHtml + imageHtml) ;
           });
         }
 
