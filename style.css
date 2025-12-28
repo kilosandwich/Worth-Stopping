@@ -2,13 +2,13 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;     /* REQUIRED */
-  font-size: 18px;
+  font-size: 1rem;
 }
 
 /* Mobile: shrink everything proportionally */
 @media (max-width: 768px) {
   html {
-    font-size: 18px;
+    font-size: 1rem;
   }
 }
 
@@ -34,6 +34,12 @@ html, body { height:100%; margin:0; }
     bottom: 0; /*into account*/
     
 }
+
+/*
++N+N+N+N+N+N+N+N+N+N+N+N+N+N+N
+NAVIGATION BAR SECTION
+==============================
+*/
 
 #navbar {
   position: absolute;         /* stays above the map */
@@ -70,6 +76,11 @@ html, body { height:100%; margin:0; }
   flex: 0 0 auto;
 }
 
+/*
++S+S+S++S+S+S+S+S+S+S+S+
+SEARCH BAR SECTION
++S+S+S+S+S+S+S+S+S+S+S+S+S+*/
+
 .search-panel {
   display: none;
   position: absolute;
@@ -105,16 +116,32 @@ html, body { height:100%; margin:0; }
 }
 
 
+/*
+L+L+L+L+LL+L+L+L+L+L+L+L+L+L+L+L+
+Leaflet popup section
+================================ */
+
+/*markers themselvs on the map*/
+.leaflet-marker-icon {
+  opacity: 0.6;
+  transition: opacity 0.15s ease;
+}
+
+.leaflet-marker-icon:hover {
+  opacity: 1;
+}
+
 
 .leaflet-popup-content {
   max-height: 220px;
   overflow-y: auto;
 }
 
-/* Base popup icon buttons */
+/* These are the popup buttons within the map view. */
 .popup-google-pictures-btn,
 .popup-website-btn,
 .popup-directionse-btn,
+.popup-zoom-btn,
 .popup-edit-btn {
   min-width: 2.5rem;    /* ~40px tap target */
   min-height: 2.5rem;
@@ -131,6 +158,7 @@ html, body { height:100%; margin:0; }
 .popup-google-pictures-btn + button,
 .popup-website-btn + button,
 .popup-directionse-btn + button,
+.popup-zoom-btn + button,
 .popup-edit-btn + button {
   margin-left: 0.25rem;
 }
@@ -140,12 +168,28 @@ html, body { height:100%; margin:0; }
   .popup-google-pictures-btn,
   .popup-website-btn,
   .popup-directionse-btn,
-  .popup-edit-btn {
+  .popup-edit-btn
+  .popup-zoom-btn {
     min-width: 2.75rem;   /* ~44px */
     min-height: 2.75rem;
-    font-size: 1.35rem;
+    font-size: 0.9rem;
   }
 }
+
+.leaflet-popup-content {
+  width: 260px;        /* desktop default */
+  max-width: 90vw;     /* mobile-safe */
+  font-size: 0.9rem;     /* base text size */
+}
+
+.leaflet-popup-close-button {
+  font-size: 1.6rem;      /* icon size */
+  width: 36px;
+  height: 36px;
+  line-height: 36px;      /* centers the × */
+}
+
+
 
 
 /* =========================

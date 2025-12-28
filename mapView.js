@@ -221,6 +221,26 @@ function populateMapMarkers(
     //Remove all markers, this can be amended later to only remove markers in the layer
     clearAllMarkers(map);
     //where we leave markers (this is not important for now)
+    //////////////////////////////////////////////////////////////////////////
+    //MARKER SIZE DEFINITION SECTION
+    //define the smaller markers we want to use later
+    const smallMarkerIcon = L.icon({
+      //You should probably cache your own images locally at some point
+      //Loading them from a remote section will probably increase lag
+      //and more importantly removes control from yourself
+      iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
+      iconRetinaUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png",
+      shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+
+      iconSize: [16, 26],
+      iconAnchor: [8, 26],
+      popupAnchor: [1, -22],
+      shadowSize: [26, 26]
+    });
+    //////////////////////////////////////////////////////////////////////////
+
+
+
   fetch(geoJSONFile)
     .then(response => response.json())
     .then(geojsonData => {
@@ -311,7 +331,7 @@ function populateMapMarkers(
 
 
         // Marker creation
-        pointToLayer: (feature, latlng) => L.marker(latlng),
+        pointToLayer: (feature, latlng) => L.marker(latlng,{icon: smallMarkerIcon}),
 
         // Popup handling, remember this can be bound to anything within the layer
         //it doesn't have to be a marker
@@ -341,6 +361,7 @@ function populateMapMarkers(
             const uid = feature.properties?.uid || "No uid found";
             const website = feature.properties?.website || "";
             const streetAddress = feature.properties?.street|| "";
+            const coordinates = feature.geometry?.coordinates;
             console.log("The uid for this popup is:");
             console.log(uid);
             //define the original HTML
@@ -369,6 +390,12 @@ function populateMapMarkers(
                   title="Driving Directions"
                   onclick="openDirections('${streetAddress}','${name}')">
                   🗺️
+                </button>
+                <button
+                  class="popup-zoom-btn"
+                  title="Zoom to Destination"
+                  onclick="centerMapOnCoordinates('${coordinates}')">
+                  🎯
                 </button>
                 <button
                   class="popup-edit-btn"
@@ -450,6 +477,30 @@ function openDirections(streetAddress="", name =""){
 //hidden (this may be slow)
 
 
+function centerMapOnCoordinates(coordinates, zoomLevel =17){
+  console.log("Here is the coordinate object passed to us");
+  console.log(coordinates);
+
+    // Normalize string input
+  if (typeof coordinates === "string") {
+    coordinates = coordinates.split(",").map(Number);
+  }
+
+  if (
+    !Array.isArray(coordinates) ||
+    coordinates.length !== 2 ||
+    !Number.isFinite(coordinates[0]) ||
+    !Number.isFinite(coordinates[1])
+  ) {
+    console.warn("Invalid coordinates:", coordinates);
+    return;
+  }
+  const [lng, lat] = coordinates;
+
+  map.setView([lat, lng], zoomLevel, {
+    animate: true
+  });
+}
 //this locates the user and puts their location on a map. 
 function locateUser({
   zoomLevel = 15,

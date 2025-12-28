@@ -2201,6 +2201,464 @@
           46.0259036
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "98",
+        "name": "Funtown Splashtown USA",
+        "street": "774 Portland Rd, Saco, ME 04072",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.funtownsplashtownusa.com/",
+        "description": "An amusement park set in the mystical woods of Maine. Featuring a psychdellic indoor scrambler, a fast log flume where guests can ambush riders with water cannons, and a rollercoaster deep in the forest.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4286268,
+          43.5282538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "99",
+        "name": "Story Land",
+        "street": "850 NH-16, Glen, NH 03838",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.storylandnh.com/",
+        "description": "This children's amusement park in the is a vivid fever dream and is near no major cities. Despite being aimed at children, there is a surprisingly intense dinosaur themed wooden rollercoaster here. The only amusement park that I know of scored with a unique soundtrack by a composer. I turned a corner here and was confronted by animatronic singing bamboo.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1831095,
+          44.1159672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "100",
+        "name": "Indiana Dunes National Park",
+        "street": "1215 N State Rd 49, Porter, IN 46304",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/indu/index.htm",
+        "description": "Next to Chicago lays massive sand dunes on the shores of the world's largest freshwater lake system.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0528786,
+          41.6544374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "101",
+        "name": "Albanese Candy Factory Store",
+        "street": "5441 E Lincoln Hwy, Merrillville, IN 46410",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The source of the most delicious gummy candy in the world.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2702713,
+          41.4700206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "102",
+        "name": "Indiana Beach",
+        "street": "5224 E Indiana Beach Rd, Monticello, IN 47960",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.indianabeach.com/",
+        "description": "An Americana themed amusement park tightly packed on top of itself on a pier in the middle of a lake in the middle of Indiana. Notable features include a wooden rollercoaster stuffed into the corpse of a dark ride, a wooden rollercoaster built over the lake itself, and a wooden rollercoaster built over the rest of the park. Their slogan is \"There's More Than Corn In Indiana\".",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7704962,
+          40.7886762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "103",
+        "name": "Minnetrista Museum and Gardens",
+        "street": "1200 N Minnetrista Pkwy, Muncie, IN 47303",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.minnetrista.net/",
+        "description": "Home of the Bob Ross Experience. Paint your own happy little trees in Bob Ross's workshop. Oh and I guess there's some beautiful gardens here too.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3927094,
+          40.2026047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "104",
+        "name": "Holiday World And Splashin Safari",
+        "street": "452 E Christmas Blvd, Santa Claus, IN 47579",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "Santa Claus",
+        "website": "https://holidayworld.com/",
+        "description": "Did you know Edgar Allen Poe's poem 'The Raven' has its own rollercoaster themed after it? Holiday World is an amusement park themed to American holidays, oddly enough featuring the best waterpark in the United States. The Thanksgiving rollercoaster named The Voyage is renowend as one of the best rollercoasters ever built.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9128062,
+          38.1214267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "105",
+        "name": "International Monster Truck Museum and Hall of Fame",
+        "street": "541 W Main St, Butler, IN 46721",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.monstermuseum.org/",
+        "description": "Every lifted truck tries to imitate the glory of a Monster Truck but is a pale comparison. Come see the trucks that can do backflips and crush European sedans at the International Monster Truck Museum and Hall of Fame.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8887259,
+          41.430399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "106",
+        "name": "RV/MH Hall of Fame",
+        "street": "21565 Executive Pkwy, Elkhart, IN 46514",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://thervmhhalloffame.org/",
+        "description": "85% of All North American RVs are built in Elkhart Indiana and is known as the \"RV Capital of the World\". This hall of fame honors the legends of the motoring home industry and documents the development of the RV.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8801313,
+          41.7295283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "107",
+        "name": "Studebaker National Museum",
+        "street": "201 Chapin St, South Bend, IN 46601",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "http://www.studebakermuseum.org/",
+        "description": "You know those stylish cars from the 1950s? These are those cars. Studebaker was unique in that it was a carriage manufacturer that transitioned to automotive and lasted until 1968. Studebakers featured bolder styling compared to contemporary car manufacturers. This museum also has Abraham Lincoln's carriage from the night he got assassinated.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2623561,
+          41.6747834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "108",
+        "name": "Auburn Cord Duesenberg Automobile Museum",
+        "street": "1600 Wayne St, Auburn, IN 46706",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://automobilemuseum.org/",
+        "description": "Auburn Automobile and Duesenberg were luxury American car manufacuters that went bankrupt during the Great Depression. See a 1920s Art Deco automotive showroom filled with luxury vehicles housed in Auburn's headquarters as well as 120 vehicles curated for their signifigance. Literally right next to this outstanding automotive museum is the National Auto and Truck Museum so yeah, you're gonna see cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0571043,
+          41.3563057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "109",
+        "name": "National Auto and Truck Musem",
+        "street": "1000 Gordon M Buehrig Pl, Auburn, IN 46706",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://natmus.org/",
+        "description": "What's better than 120 vehicles at the nearby Auburn Cord Duesenberg Automobile Museum? 190+ classic cars, vintage trucks, rare prototypes including the GM Futurliner, and 6000+ model toy cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0563931,
+          41.3555007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "110",
+        "name": "Marengo Cave",
+        "street": "400 East State Rd 64, Marengo, IN 47140",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "Marengo",
+        "website": "https://marengocave.com/",
+        "description": "It's big, it's long, it's a mile of cave in Indiana. A U.S. National Natural Landmark offering two separate hour-long tours.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3395477,
+          38.3755529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "111",
+        "name": "West Baden Springs Hotel",
+        "street": "8538 W Baden Ave, West Baden Springs, IN 47469",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "http://www.frenchlick.com/hotels/westbaden",
+        "description": "\"Indiana's Monte Carlo\" - seriously that's what the submission for the National Register of Historical Places says -opened with the largest dome in the world in 1902 and is one of America's few remaining Grand Hotels. The trolley at the hotel takes you straight to the French Lick Casino to spend your hard earned social security checks.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6186228,
+          38.5669572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "112",
+        "name": "Turkey Run State Park",
+        "street": "8121 Park Rd, Marshall, IN 47859",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "https://www.in.gov/dnr/state-parks/parks-lakes/turkey-run-state-park/",
+        "description": "Narrow sandstone canyons that feel like the arches of a subway tunnel with waterfalls in the middle. There's also rocky cliffs facing the river.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.201049,
+          39.8909123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "113",
+        "name": "Bluespring Caverns Park",
+        "street": "1459 Blue Springs Cavern Rd, Bedford, IN 47421",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "https://www.bluespringcaverns.com/",
+        "description": "Kayak or boat on the world's largest navigable underground river (1-3 hour tour) at Bluespring Cavern in Indiana. Bet kayaking on an underground river in Indiana wasn't on your bucket list.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5468888,
+          38.7976625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "114",
+        "name": "Indianapolis Motor Speedway Museum",
+        "street": "4750 W 16th St, Indianapolis, IN 46222",
+        "country": "",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "400,000 people per year attend the Indianapolis Motor Speedway for the Indianapolis 500 . This museum is set in the heart of the racetrack that is the highest capacity sports venue in the world. Come and see the cars that have won the the top event in American open-wheel car racing.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2337296,
+          39.7902492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "115",
+        "name": "USS LST-325",
+        "street": "610 NW Riverside Dr, Evansville, IN 47708",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "Evansville",
+        "website": "http://www.lstmemorial.org/",
+        "description": "Landing Ship Tanks beach themselves to allow rapid unloading of invading forces via the bow doors, and require a shallow draft with high cargo capacity. LST-325 particpated in the Normandy Landings, and is the sole remaining operational LST in the United States.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5804076,
+          37.9729876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "116",
+        "name": "Squire Boone Caverns",
+        "street": "100 Squire Boone Rd SW, Mauckport, IN 47142",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "http://www.squireboonecaverns.com/",
+        "description": "A cave full of rushing water and underground waterfalls that disappears into a sinkhole. The stream that powers the gristle mill on the surface is the same as underground.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1349578,
+          38.0656107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "117",
+        "name": "Indiana Caverns",
+        "street": "1267 Green Acres Dr SW, Corydon, IN 47112",
+        "country": "United States",
+        "state": "Indiana",
+        "county": "",
+        "city": "",
+        "website": "https://www.indianacaverns.com/",
+        "description": "A 40ft underground waterfall bursting through the ceiling and a underground riverboat ride will really make you feel like you descended to the underworld in Indiana. This cavern is notable for the numerous ice-age fossils present.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1508632,
+          38.1824478
+        ]
+      }
     }
   ]
 }
