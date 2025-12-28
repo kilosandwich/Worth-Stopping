@@ -1679,6 +1679,165 @@
           41.3206586
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "75",
+        "name": "PEZ Visitor Center",
+        "street": "35 Prindle Hill Rd, Orange, CT 06477",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://us.pez.com/pages/admission",
+        "description": "PEZ history, PEZ Trivia, PEZ factory, PEZ merchandise, the PEZ motorcycle, and the world's largest PEZ dispenser. The ultimate PEZ collection at the PEZ factory.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9975056,
+          41.2636759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "76",
+        "name": "Submarine Force Library and Museum",
+        "street": "1 Crystal Lake Rd, Groton, CT 06340",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://ussnautilus.org/",
+        "description": "Connecticut has long been home to the United States' Submarine Force since the Electric Boat Company set up their modern facility in Groton in 1931. Tour the USS Nautilus - the world's first nuclear submarine. The museum also features a replica of the Turtle, a WW2 Kairyu-class Japanese midget submarine, the X-1 American Midget Submarine",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0870498,
+          41.3874668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "77",
+        "name": "Mystic Seaport Museum",
+        "street": "75 Greenmanville Ave, Mystic, CT 06355",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.mysticseaport.org/",
+        "description": "This is THE whaling museum. It's not just a whaling ship museum, it's an entire whaling industry living-history town.  Featuring the Charles W. Morgan- the last wooden sailing ship, along with 14 other historic ships, and 39 historic buildings.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9643972,
+          41.361237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "78",
+        "name": "Mystic Aquarium",
+        "street": "55 Coogan Blvd, Mystic, CT 06355",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.mysticaquarium.org/",
+        "description": "Listen, they have Japanese Spider Crabs. There's belugas and sea lions too if you're into that.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9534709,
+          41.3733877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "79",
+        "name": "Danbury Railway Museum",
+        "street": "120 White St, Danbury, CT 06810",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.danburyrail.org/",
+        "description": "A fine collection of self-propelled 1950s interurban cars, including a Mack Truck railbus. Yes you can just wander around inside them as they sit decaying, and it is beautiful.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4505809,
+          41.3978353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "80",
+        "name": "Connecticut Trolley Museum",
+        "street": "58 N Rd #9606, East Windsor, CT 06088",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.ct-trolley.org/",
+        "description": "Your admission includes unlimited rides on the trolleys through the the 2.4 mile heritage railroad.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5946739,
+          41.9313874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "81",
+        "name": "Shoreline Trolley Museum",
+        "street": "17 River St, East Haven, CT 06512",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.shorelinetrolley.org/",
+        "description": "Trolleys completely out of their natural habitat: a swamp. 100 streetcars at the United State's oldest operating trolley museum - including the oldest operating trolley in the United States. However, you only get to tour the trolley barns briefly after a mandatory 1.5 mile scenic trolley ride through the marsh.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8631286,
+          41.2742829
+        ]
+      }
     }
   ]
 }
