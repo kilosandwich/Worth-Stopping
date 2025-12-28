@@ -1827,7 +1827,7 @@
         "county": "",
         "city": "",
         "website": "http://www.shorelinetrolley.org/",
-        "description": "Trolleys completely out of their natural habitat: a swamp. 100 streetcars at the United State's oldest operating trolley museum - including the oldest operating trolley in the United States. However, you only get to tour the trolley barns briefly after a mandatory 1.5 mile scenic trolley ride through the marsh.",
+        "description": "Trolleys in a swamp - the opposite of their natural habitat. 100 streetcars at the United State's oldest operating trolley museum - including the oldest operating trolley in the United States. However, you only get to tour the trolley barns briefly after a mandatory 1.5 mile scenic trolley ride through the marsh.",
         "worth stopping": true,
         "museum": true
       },
@@ -1836,6 +1836,369 @@
         "coordinates": [
           -72.8631286,
           41.2742829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "82",
+        "name": "Magnolia Wilds",
+        "street": "11342 LA-955, Ethel, LA 70730",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.magnoliawilds.com/",
+        "description": "You can swim with otters and pet capybaras - for a hefty price. To simplify: otters are slippery, and capybaras feel like petting a broom. There, saved you $300.00.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0544757,
+          30.8117549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "83",
+        "name": "Louisiana Old Governors Mansion",
+        "street": "502 North Blvd, Baton Rouge, LA 70802",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.laogm.org/",
+        "description": "Governor Huey Long commissioned a governor's mansion that was identical to the whitehouse to bolster his presidential ambitions. Long was assassinated in 1936, but the mansion remains as a Louisiana version of the highest office on Earth.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1849778,
+          30.446521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "84",
+        "name": "National WWII Museum",
+        "street": "945 Magazine St, New Orleans, LA 70130",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nationalww2museum.org/",
+        "description": "World War Two: The Museum. If you need to get people as interested in World War II as you are - this is the place.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0705661,
+          29.9431326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "85",
+        "name": "Albacore Park",
+        "street": "569 Submarine Way, Portsmouth, NH 03801",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The USS Albacore was the first U.S. submarine designed for purely underwater performance, utilizing a teardrop hall and high tensile steel that became the standard worldwide. The submarine now rests entirely on dry land nearby the naval shipyard where she was built.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7669592,
+          43.0822176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "86",
+        "name": "Mt. Washington State Park",
+        "street": "1598 Mt Washington Auto Rd, MOUNT WASHINGTON, NH 03589",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Mt. Washington is the place on earth with the highest recorded wind speed of 231 mph. Despite being the windiest place on earth, you can drive your car to the top because this is America.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3032291,
+          44.2703753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "87",
+        "name": "Mount Washington Cog Railway",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The \"Railway to the Moon\". The second steepest rack-railway in the world goes to the top of the windiest mountain in the world. Tickets are expensive, and most of the cool steam locomotives have been replaced with diesels - but the few steam engines that remain are really really cool. Come on, you know you want to take a train up a mountain.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3509622,
+          44.2699777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "88",
+        "name": "Franconia Notch State Park",
+        "street": "Flume Gorge Visitor Center, 852 Daniel Webster Hwy, Lincoln, NH 03251",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "tateparks.org/find-parks-trails/franconia-notch-state-park",
+        "description": "Franconia Notch used to be home of New Hampshire's Old Man of The Mountain, a mountain face that looked like a human face profile. However, that collapsed. The waterfalls and flume gorge are still well worth a visit.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6799332,
+          44.0971088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "89",
+        "name": "Shelburne Museum",
+        "street": "6000 Shelburne Rd, Shelburne, VT 05482",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.shelburnemuseum.org/",
+        "description": "The heiress to the US Sugar monopoly decided to spend all her money collecting everything. She hauled a steamship and lighthouse up a mountain, and relocated her New York Apartment. Come see the museum of museums, stuffed animals, carved circus creatures, guns, art, carriages, and creepy dolls - all at the Shelburne Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2320329,
+          44.373059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "90",
+        "name": "Ben and Jerrys Factory",
+        "street": "1281 Waterbury-Stowe Rd Route 100, Waterbury, VT 05676",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.benjerry.com/waterbury",
+        "description": "The promised land where Ben and Jerrys ice cream is made. The ice cream tastes better here because it is fresh, and the factory tour is amazing.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7400525,
+          44.3529123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "91",
+        "name": "Seashore Trolley Museum",
+        "street": "195 Log Cabin Rd, Kennebunkport, ME 04046",
+        "country": "United States",
+        "state": "Maine",
+        "county": "",
+        "city": "",
+        "website": "http://www.trolleymuseum.org/",
+        "description": "This is THE trolley museum. The largest electric railway museum in the world with over 250 mass transit vehicles. The volunteers at the Seashore Trolley museum have been hoarding more buses, trolleys, and trains in the woods than they can realistically restore. Have you ever wanted to see literal piles of buses and trolleys? This is the place.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4894971,
+          43.4092731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "92",
+        "name": "Acadia National Park",
+        "street": "",
+        "country": "United States",
+        "state": "Maine",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/acad/index.htm",
+        "description": "Acadia National Park covers Mt. Desert Island, a scenic granite island with beautiful mountains and lakes - and only one beach. Come see a pair of mountains called The Bubbles which for some reason the national park service is in denial of what they really look like. The hiking here is gorgeous, fun, and relatively easy. Due to its popularity, you will need reservations to go up Mt. Cadillac by car.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2736636,
+          44.3385444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "93",
+        "name": "Island Cruises Bass Harbor",
+        "street": "12 Little Island Way, Bass Harbor, ME 04653",
+        "country": "United States",
+        "state": "Maine",
+        "county": "",
+        "city": "Bass Harbor",
+        "website": "http://www.bassharborcruises.com/",
+        "description": "A lobster boat has been converted into a tourist cruise vessel and will show you all the best islands nearby Acadia while regalling you with local history. The views are stunning, the sealife is abundant , and they will pull up a lobster trap so you can see how it's done.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3472314,
+          44.2395936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "94",
+        "name": "Nervous Nellies Jams and Jellies",
+        "street": "598 Sunshine Rd, Deer Isle, ME 04627",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nervousnellies.com/",
+        "description": "Terrifying scrap folk art in the foggy Maine woods. That may be downplaying it, the artist built an entire facade town complete with tower, castle, church, saloon, jail, inn, and much much more. The jam is pretty good too.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6232883,
+          44.2127331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "95",
+        "name": "Fort Knox and Penobscot Narrows Observatory",
+        "street": "740 Ft Knox Rd, Prospect, ME 04981",
+        "country": "",
+        "state": "Maine",
+        "county": "",
+        "city": "",
+        "website": "https://www.fortknoxmaine.com/",
+        "description": "This place definitely feels haunted. Damp granite fortifications with a commanding view of the Penobscot narrows make Fort Knox well worth visiting.  Additionally, there is an observatory on the nearby bridge that gives a good view of all of Maine.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8025445,
+          44.5662561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "96",
+        "name": "Grafton Notch State Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=1",
+        "description": "Dramatic swooshing waterfalls, boulder covered hiking trails,  and imposing granite mountains in the backwoods of Maine. Screw Auger Falls in particular looks like it was carved out of a fantasy novel.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9062173,
+          44.5721897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "97",
+        "name": "Baxter State Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://baxterstatepark.org/",
+        "description": "Baxter State Park is home of Mt. Katahdin, the tallest mountain in Maine (5,267ft). The mountains in the park are especially prominent, and the nearby lakes just make them look taller.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9453418,
+          46.0259036
         ]
       }
     }
