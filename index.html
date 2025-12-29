@@ -406,7 +406,10 @@ users location - that would allow them to see everything nearby by default
 yay!
 
 This also requires the map div id to exist, otherwise it cannot load*/
-var map = L.map('map').setView([39.8283, -98.5795], 4);
+var map = L.map('map', {
+  worldCopyJump: true
+});
+map.setView([39.8283, -98.5795], 4);
 
 
 // OpenStreetMap standard raster tiles

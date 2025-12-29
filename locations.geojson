@@ -2957,6 +2957,143 @@
           44.0927282
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "131",
+        "name": "Bass Pro Shops Pyramid",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://big-cypress.com/bass-pro-shops/",
+        "description": "The ancient Egyptian city of Memphis was known for its pyramid where they kept their honored treasures. So too the American city of Memphis, Tennessee keep their treasures in their 312 foot pyramid. It's a hotel, bar, bowling alley, observation deck, waterfowl hunting museum, and largest Bass Pro Shop in the world.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0523912,
+          35.1557107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "132",
+        "name": "Graceland",
+        "street": "Elvis Presley Blvd, Memphis, TN 38116",
+        "country": "United States",
+        "state": "Tennesee",
+        "county": "",
+        "city": "",
+        "website": "https://www.graceland.com/",
+        "description": "Everything Elvis, including his airplanes, tacky 70s mansion, and automobiles. Elvis Presley was the best selling music artist in history during his lifetime, and pioneered modern rock-and-roll as a genre. Even today, Elvis impersonators make their livings by pretending to be The King.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0229778,
+          35.0457888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "133",
+        "name": "National Civil Rights Museum",
+        "street": "450 Mulberry St, Memphis, TN 38103",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://www.civilrightsmuseum.org/",
+        "description": "Martin Luther King was shot here, his death inspired riots nationwide in 1968. This museum has a bus that you can get kicked out of your seat in, a bus that you can be set on fire in for trying to get people the right to vote, a lunch counter you can be harassed at for daring to order food, and a jail to get locked up in for getting out of line. All in all, the complete American Civil Rights experience.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0576393,
+          35.134439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "134",
+        "name": "USS Cairo Gunboat and Museum",
+        "street": "3201 Clay St, Vicksburg, MS 39183",
+        "country": "United States",
+        "state": "Mississippi",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/vick/u-s-s-cairo-gunboat.htm",
+        "description": "The USS Cairo was a union ironclad river gunboat during the US Civil War and was the first ship to ever be sunk by a remotely detonated mine. The wreck was found, excavated, and new parts put onto the outside so that you can get a feel for its construction. The USS Cairo is the only Civil War era river gunboat available for tour in existence.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8688587,
+          32.375875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "135",
+        "name": "Vicksburg National Military Park",
+        "street": "3201 Clay St, Vicksburg, MS 39183",
+        "country": "",
+        "state": "Mississippi",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/vick/",
+        "description": "The 47-day Siege of Vicksburg marked the turning point of the U.S. Civil War in the Union's favor. 30,000 Confederate soldiers were captured, and the Mississippi river came under the complete control of Union forces - cutting the Confederacy in two. Vicksburg National military Park features 20 miles of trenches and earthworks along the siege lines and offers an outstanding view of the Mississippi river.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8519721,
+          32.3440592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "136",
+        "name": "Lower Mississippi River Museum",
+        "street": "910 Washington St, Vicksburg, MS 39183",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.lmrm.org/",
+        "description": "See the M/V Mississippi IV, a United States Army Corp of Engineers vessel used for towing, river inspections, and public meetings. There's also various history about the Mississippi River and an outdoor scale flood model.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8818172,
+          32.3534849
+        ]
+      }
     }
   ]
 }
