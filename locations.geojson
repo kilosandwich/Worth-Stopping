@@ -2659,6 +2659,304 @@
           38.1824478
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "118",
+        "name": "National Railroad Museum",
+        "street": "2285 S Broadway, Ashwaubenon, WI 54304",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "http://www.nationalrrmuseum.org/",
+        "description": "It's not the biggest railroad museum, however the National Railroad Museum possesses  some notably locomotives, such as General Motors Aerotrain, Union Pacific Railroad Big Boy, British Rail A4 used by Supreme Allied Commander Dwight Eisenhower, and a GG1.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0482696,
+          44.4830925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "119",
+        "name": "Bay Beach Amusement Park",
+        "street": "1313 Bay Beach Rd, Green Bay, WI 54302",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "https://www.greenbaywi.gov/445/Bay-Beach-Amusement-Park",
+        "description": "The people of Green Bay love Green Bay so much that their municipal government built an affordable amusement park just for the people of Green Bay. To top is off, Bay Beach Park relocated Elvis's favorite rollercoaster - the Zippin Pippin from Memphis to Green Bay.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9799439,
+          44.5314366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "120",
+        "name": "SS Meteor Maritime Museum",
+        "street": "3285 200 Marina Dr, Superior, WI 54880",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://superiorpublicmuseums.org/",
+        "description": "The whaleback was a unique ship hull design optimized for maximum cargo and hydrodynamic efficiency by removing above-water area for wind and wave resistance. The SS Meteor is the last of its kind and is a goofy looking ship all around.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0633491,
+          46.7229375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "121",
+        "name": "Pattison State Park",
+        "street": "6294 WI-35, Superior, WI 54880",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://dnr.wisconsin.gov/topic/parks/pattison",
+        "description": "Pattison State Park is home to the 165ft tall Big Manitou Falls and the much less impressive 50ft Little Manitou Falls. The woods of Wisconsin don't get more scenic than this.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1223753,
+          46.5361803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "122",
+        "name": "Apostle Islands National Lakeshore",
+        "street": "415 Washington Ave, Bayfield, WI 54814",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/apis/index.htm",
+        "description": "Apostle Island National Lakeshore consisted of fantasy-like sandstone cliffs and sea caves on the edge of the largest freshwater lake in the world. The only problem is that most of the park is on islands, so you need a ocean-going kayak or to take a tour boat to really get a good look at any of it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6348234,
+          46.9305318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "123",
+        "name": "Willow River State Park",
+        "street": "1034 Co Hwy A, Hudson, WI 54016",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "http://dnr.wi.gov/topic/parks/name/willowriver/",
+        "description": "Willow River State Park is home to Willow Falls, a roaring waterfall in a 200ft deep gorge with dramatic overhangs.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6750718,
+          45.0199145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "124",
+        "name": "Mill Bluff State Park",
+        "street": "Gypsum Ave, Camp Douglas, WI 54618",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "https://dnr.wisconsin.gov/topic/parks/millbluff",
+        "description": "Sea stacks from ancient glacial lakes are now extremely out of place and make for good scenic hiking at Mill Bluff State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3187974,
+          43.9408102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "125",
+        "name": "The House On The Rock",
+        "street": "5754 WI-23, Spring Green, WI 53588",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.thehouseontherock.com/",
+        "description": "Have you ever wanted to experience an architectural version of a Salvador Dali painting? The House On The Rock is built on top of a steep rock, features Japanese gardens, a larger than life sized whale fighting a kraken, and a doll carousel inside. It is very difficult to describe the contents of this location because the contents are deliberately surreal.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1354258,
+          43.09941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "126",
+        "name": "The Mining and Rollo Jamison Museums",
+        "street": "405 E Main St, Platteville, WI 53818",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "http://www.mining.jamison.museum/",
+        "description": "Where else can you tour a lead mine?",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4734062,
+          42.7327952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "127",
+        "name": "Little Amerricka Amusement Park",
+        "street": "700 E Main St, Marshall, WI 53559",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "http://www.littleamerricka.com/",
+        "description": "It's 1950s decorations with 1950s safety sensitibilities at this classic park. Little Amerricka is home to a 3 mile long miniature railway, a rollercoaster with no seatbelts, a parachute tower, and a rollercoaster where you get inside the torture shoebox to bump your head.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.059065,
+          43.1642969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "128",
+        "name": "EAA Aviation Museum",
+        "street": "3000 Poberezny Rd, Oshkosh, WI 54902",
+        "country": "",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "Oshkosh",
+        "website": "https://www.eaa.org/",
+        "description": "The Experimental Aircraft Association has their own museum, featuring 200+ wacky and unique aircraft like the 1938 Bugatti Model 100 Racer, A rebuilt 1949 Tyler Aerocar, and Spaceship 1. EAA is right next to the annual weeklong EAA AirVenture Oshkosh event, the world's largest airshow.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5781734,
+          43.9842699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "129",
+        "name": "Harley-Davidson Museum",
+        "street": "400 W Canal St, Milwaukee, WI 53201",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "http://www.h-dmuseum.com/",
+        "description": "See over 450 motorcycles and trace the history of the legendary Harley-Davidson motorcycle company, up to and including when they stopped being affordable and cool.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916791,
+          43.0317172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "130",
+        "name": "Wisconsin Maritime Museum",
+        "street": "75 Maritime Dr, Manitowoc, WI 54220",
+        "country": "United States",
+        "state": "Wisconsin",
+        "county": "",
+        "city": "",
+        "website": "http://www.wisconsinmaritime.org/",
+        "description": "There's a mockup of an entire shipyard inside of the museum, and the USS Cobia, a WW2 Gato-class submarine docked outside.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6561866,
+          44.0927282
+        ]
+      }
     }
   ]
 }

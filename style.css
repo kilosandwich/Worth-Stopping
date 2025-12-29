@@ -132,10 +132,6 @@ Leaflet popup section
 }
 
 
-.leaflet-popup-content {
-  max-height: 220px;
-  overflow-y: auto;
-}
 
 /* These are the popup buttons within the map view. */
 .popup-google-pictures-btn,
@@ -177,16 +173,20 @@ Leaflet popup section
 }
 
 .leaflet-popup-content {
+  overflow-y: auto;
   width: 260px;        /* desktop default */
-  max-width: 90vw;     /* mobile-safe */
+  max-width: 90vw;
+  width: clamp(16rem, 90vw, 20rem);
+  max-height: 40vh;     /* mobile-safe */
   font-size: 0.9rem;     /* base text size */
 }
 
 .leaflet-popup-close-button {
   font-size: 1.6rem;      /* icon size */
-  width: 36px;
-  height: 36px;
-  line-height: 36px;      /* centers the × */
+  width: 2.25rem;
+  height: 2.25rem;
+  line-height: 2.25rem;
+      /* centers the × */
 }
 
 
