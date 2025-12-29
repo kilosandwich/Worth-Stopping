@@ -3187,6 +3187,764 @@
           30.2122566
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "141",
+        "name": "Gateway Arch National Park",
+        "street": "",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "St. Louis",
+        "website": "https://www.nps.gov/jeff/index.htm",
+        "description": "The Gateway Arch is the world's tallest arch at 630ft tall. The National Park Service says you are explicitly allowed to touch it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1858497,
+          38.6244877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "142",
+        "name": "City Museum",
+        "street": "750 N 16th St, St. Louis, MO 63103",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "St.Louis",
+        "website": "https://www.citymuseum.org/",
+        "description": "The City museum is a 10 story giant adult playground maze with 10 story slides. To experience all the climbing and sliding make sure to bring quick dry athletic wear, knee pads, and zippered pockets or you will be full of regret.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2008602,
+          38.6336924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "143",
+        "name": "Erie Maritime Museum",
+        "street": "150 E Front St, Erie, PA 16507",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://eriemaritimemuseum.org/",
+        "description": "The USS Niagara played a pivotal war in winning the Battle of Lake Erie in the War of 1812, was sunk in 1820 raised in 1913, and rebuilt. The Niagara is the only warship that fought on the Great Lakes still afloat, and the second oldest American warship. The Erie Maritime Museum is located in a former power station and features history of the Battle of Lake Erie.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0870081,
+          42.1365807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "144",
+        "name": "Waldameer and Water World",
+        "street": "220 Peninsula Dr, Erie, PA 16505",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://waldameer.com/",
+        "description": "The only amusement park in the United States where you can bring your own beer and bring your own dog. Waldameer features Ravine Flyer II, a world renowned rollercoaster which crosses a highway by bridge twice. Waldameer is one of the best amusement parks I have ever been to, period.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1571405,
+          42.1088383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "145",
+        "name": "Drake Well Museum and Park",
+        "street": "202 Museum Ln, Titusville, PA 16354",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://www.drakewell.org/",
+        "description": "Drake Well is the birthplace of the oil industry, all modern petroleum drilling and refining traces its roots back to the oil drilling boom started here in 1859.The world's first commerical oil well was so successful at producing oil that the price of oil dropped such that it became unprofitable.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6579236,
+          41.6112176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "146",
+        "name": "Kinzua Bridge State Park",
+        "street": "296 Viaduct Rd, Mt Jewett, PA 16740",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/kinzua-bridge-state-park",
+        "description": "Climb over the corpse of a collapsed 301ft 1900 railroad bridge that was destroyed by a Tornado in 2003. The surviving span of bridge now acts as a walkway and observation point for the wreckage.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5873042,
+          41.7596089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "147",
+        "name": "Austin Dam Memorial Park",
+        "street": "5384 PA-872, Austin, PA 16720",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://austindam.mailchimpsites.com/",
+        "description": "In 1911 The Austin Dam failed and the resulting floodwaters killed 78 people. You can now hike and climb over the ruins of the site of the tradgedy which somehow wasn't the worst dam failure in Pennsylvania's history.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0865445,
+          41.6526951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "148",
+        "name": "Phil's Burrow",
+        "street": "300 E Mahoning St, Punxsutawney, PA 15767",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.groundhog.org/",
+        "description": "Punxsutawney's entire economy is centered around the groundhog that lives at this burrow. Come see a town that is feverishly devoted to worshipping a marmot.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9681645,
+          40.9437266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "149",
+        "name": "Zippo Case Museum and Flagship Store",
+        "street": "Chestnut Street, 1932 Zippo Dr, Bradford, PA 16701",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.zippocasemuseum.com/",
+        "description": "Come see the destination devoted to starting tiny fires in your hand.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6509234,
+          41.943376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "150",
+        "name": "National Comedy Center",
+        "street": "203 W 2nd St, Jamestown, NY 14701",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://comedycenter.org/",
+        "description": "Jokes are funnier when you explain them with a museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2438375,
+          42.0948675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "151",
+        "name": "Letchworth State Park",
+        "street": "6375 Park Rd, Castile, NY 14427",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://parks.ny.gov/visit/state-parks/letchworth-state-park",
+        "description": "A 550ft gorge flanks 50 waterfalls, it's the Grand Canyon in green. The main waterfalls are over 100ft tall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0490772,
+          42.5789929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "152",
+        "name": "JELL-O Museum",
+        "street": "23 E Main St, Le Roy, NY 14482",
+        "country": "",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://www.jellogallery.org/",
+        "description": "Learn about the history of America's most famous gelatin manufacturer in the town where it all started.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9862945,
+          42.9787755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "153",
+        "name": "Herschell Carrousel Factory Museum",
+        "street": "180 Thompson St, North Tonawanda, NY 14120",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://www.carrouselmuseum.org/",
+        "description": "The source of most American carousels. North Tonawonda, NY used to be the home of 4 American Carrousel manufacturers, with Herschell lasting the longest. Herschell also invented the modern idea of amusement rides specially designed for small children. This museum operates several children's rides and has a functioning carousel that operates signifigantly faster than normal.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8731722,
+          43.0299513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "154",
+        "name": "Buffalo Naval Park",
+        "street": "1 Naval, Marina Park S, Buffalo, NY 14202",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "Buffalo",
+        "website": "http://buffalonavalpark.org/",
+        "description": "One of the most impressive naval collections in the United States. The only place where you can see a WW2 cruiser (Cleveland-class USS Little Rock), destroyer (Fletcher-class USS The Sulivans), submarine (Gato-class USS Croaker), and PT boat all in one place. The sail of the Los Angeles Class Submarine is also on display.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8798024,
+          42.8774779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "155",
+        "name": "Buffalo Transportation Pierce-Arrow Museum",
+        "street": "263 Michigan Ave, Buffalo, NY 14203",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "Buffalo",
+        "website": "https://www.pierce-arrow.com/",
+        "description": "Pierce Arrow manufactured luxury cars akin to Rolls Royce from 1901 to 1938, and this museum contains just about every model they ever made as well as those of other defunct Western New York automakers. Additionally, the museum constructed a gas station designed by Frank Lloyd Wright because the plans looked really cool.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8698489,
+          42.878855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "156",
+        "name": "Richardson Olmsted Campus",
+        "street": "444 Forest Ave, Buffalo, NY 14213",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.richardson-olmsted.com/",
+        "description": "Arkham asylum is based on this terrifying mental hospital - now a hotel!",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8825144,
+          42.9292838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "157",
+        "name": "Niagara Falls State Park",
+        "street": "332 Prospect St, Niagara Falls, NY 14303",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://www.niagarafallsstatepark.com/",
+        "description": "Niagara Falls State Park is located on an island separating the American Falls from Horseshoe Falls. Niagara falls is the highest flow rate of any waterfall in North America as the entirety of Lake Erie empties at this point into Lake Ontario at a rate of 5.9 million cubic feet per minute. The further you walk from the parking lot and the more stairs you take, the less crowded it gets - this is the American side after all.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0666686,
+          43.0861191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "158",
+        "name": "Niagara Power Vista Visitors Center",
+        "street": "5777 Lewiston Rd, Lewiston, NY 14092",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nypa.gov/communities/visitors-centers/niagara-power-vista",
+        "description": "Only 50% of the water in the Niagara River actually goes over Niagara Falls, the rest is diverted to a massive pair of dams paralleling each other in the 350ft Niagara Gorge.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0393043,
+          43.1403701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "159",
+        "name": "Whirlpool State Park",
+        "street": "3100 Niagara Scenic Pkwy, Niagara Falls, NY 14305",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://parks.ny.gov/parks/105/",
+        "description": "The Niagara River suddenly changes direction, causing turbulent water in the shape of a Whirlpool. The ever shifting whirlpool is most visible from the top of the gorge at Whirlpool State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0656712,
+          43.1202052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "160",
+        "name": "Niagara Amusement Park and Splash World",
+        "street": "2400 Grand Island Blvd, Grand Island, NY 14072",
+        "country": "",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://niagaraamusementpark.com/",
+        "description": "Niagara Amusement Park and Splash world features charming cowboy shows, including a train robbery in this tranquil and slightly run-down amusement park. You can see the rising mist of Niagara Falls from the top of the Silver Comet rollercoaster, and get hammered in the waterpark.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9728239,
+          43.0270873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "161",
+        "name": "Medina Railroad Museum",
+        "street": "530 West Ave, Medina, NY 14103",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://www.medinarailroadmuseum.org/",
+        "description": "An old train station has been turned into a massive model train display.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3897635,
+          43.2183097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "162",
+        "name": "Seabreeze Amusement Park",
+        "street": "4600 Culver Rd, Rochester, NY 14622",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://www.seabreeze.com/",
+        "description": "Seabreeze is a charming classic amusement park that has stuck to its history, featuring the Jack Rabbit - oldest rollercoaster in the United States, and the Bobsleds - the first modern hybrid steel-wooden rollercoaster. Seabreeze is situated on a hill overlooking Lake Ontario, and the view is stunning.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5424572,
+          43.2324272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "163",
+        "name": "The Strong National Museum of Play",
+        "street": "1 Manhattan Square Dr, Rochester, NY 14607",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The Strong is home to the National Museum of Play, National Toy Hall of Fame, World Video Game oHall of Game, and the International Center for the History of Electronic Games. Your childhood? They have it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6023592,
+          43.1525458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "164",
+        "name": "Stony Brook State Park",
+        "street": "10820 NY-36, Dansville, NY 14437",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://parks.ny.gov/parks/118/details.aspx",
+        "description": "Stone pathways let you get intimate with the curvaceous waterfalls and gorges of Stony Brook State Park. The state park has dammed a river such that it is now a natural swimming pool, complete with life guards.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6933224,
+          42.5166357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "165",
+        "name": "Bicycle Heaven",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "This is THE bicycle museum. A hoard of 3000 bicycles kept in pristine conditions from all eras - and nearly all of them are for sale or for rent.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0323603,
+          40.4566971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "166",
+        "name": "Kamin Science Center",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.kaminsciencecenter.org/",
+        "description": "The Kamin (formerly Carnegie) Science Center features the Robot Hall of Fame and the WW2 Tench-class submarine USS Requin. All those terrifying military robots that will surely be used against us? Their ancestors live here alongside the cute robots we see in movies and TV.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0183075,
+          40.4456306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "167",
+        "name": "Fort Necessity National Battlefield",
+        "street": "",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/fone/index.htm",
+        "description": "See where George Washington started the Seven Years War (or French and Indian War) by assassinating a French officer carrying a diplomatic message. This same war would lead to Britain imposing burdensome taxes on the American colonies to pay for their defense, leading directly to the American Revolutionary War where George Washington would be appointed the leading General for the revolutionaries.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.589446,
+          39.8152123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "168",
+        "name": "Fallingwater",
+        "street": "1491 Mill Run Rd, Mill Run, PA 15464",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://fallingwater.org/",
+        "description": "Wow, a super modern looking house built over a waterfall, bet that was built recently! Nope,  1936.  Frank Lloyd Wright's greatest architectural masterpiece.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4671382,
+          39.9059756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "169",
+        "name": "Kennywood",
+        "street": "4800 Kennywood Blvd, West Mifflin, PA 15122",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "4800 Kennywood Blvd, West Mifflin, PA 15122",
+        "description": "Kennywood is home to three historical 1920s rollercoasters that take follow the terrain of the ravines cutting through the park. It is also home of Phantom's Revenge, one of the most acclaimed hypercoasters ever built. Kennywood is also home to the last surviving Turtle and Kangaroo ride.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8636013,
+          40.3863071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "170",
+        "name": "Lincoln Highway Experience",
+        "street": "3435 Route 30 East, Latrobe, PA 15650",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://lhhc.org/",
+        "description": "Before the National Highway System, the Lincoln Highway nominally connected the East and West Coasts of the United States. In reality, it was a primitively paved dirt path. Learn the history of the Lincoln Highway and its tourist attractions. Your admission earns you a postcard , a cup of coffee, and a slice of pie inside of a historical diner.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3419892,
+          40.2913116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "171",
+        "name": "Idlewild and Soak Zone",
+        "street": "2574 Lincoln Hwy, Ligonier, PA 15658",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.idlewild.com/",
+        "description": "Idlewild (est. 1878) is a children's amusement park featuring Mr. Roger's Trolley (Now Daniel Tiger's Trolley, but I refuse to recognize that), and is the third oldest amusement park in the United States. Idlewild also features a land of children's storybooks come to life.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2792011,
+          40.2631097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "172",
+        "name": "Johnstown Flood National Memorial",
+        "street": "733 Lake Rd, South Fork, PA 15956",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/jofl",
+        "description": "On May 31, 1889 the South Fork Fishing and Hunting Club's earten South Fork Dam collapsed during heavy rainfall, leading to a flood that destroyed the city of Johnstown and killed 2,208 people. The remains of the earthen dam is now available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7720409,
+          40.3493338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "173",
+        "name": "Heinz History Center",
+        "street": "1212 Smallman St, Pittsburgh, PA 15222",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://www.heinzhistorycenter.org/",
+        "description": "The Heinz History Center features a prominent display by Heinz ketchup, Mr. Rogers set and puppets, and a replica of Elektro and Sparko (robots who are very dear to me).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9921223,
+          40.4467776
+        ]
+      }
     }
   ]
 }
