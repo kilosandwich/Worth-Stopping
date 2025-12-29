@@ -3094,6 +3094,99 @@
           32.3534849
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "137",
+        "name": "Red Bluff Mississippi",
+        "street": "",
+        "country": "United States",
+        "state": "Mississippi",
+        "county": "",
+        "city": "",
+        "website": "https://www.alltrails.com/trail/us/mississippi/red-bluff--3",
+        "description": "This colorful cliff keeps swallowing the nearby highway. The wreckage of cars and trains lay at the bottom near well marked trails.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9467093,
+          31.3255982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "138",
+        "name": "INFINITY Science Center",
+        "street": "1 Discovery Cir, Pearlington, MS 39572",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.visitinfinity.com/",
+        "description": "The Mississippi Rocket Test Stand at nearby Stennis Space Center doesn't do public tours, but they gave this place a Saturn V Booster and Apollo 4 Command Capsule.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6052924,
+          30.3116912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "139",
+        "name": "Jefferson Davis Presidential Library and Museum",
+        "street": "2244 Beach Blvd, Biloxi, MS 39531",
+        "country": "United States",
+        "state": "Mississippi",
+        "county": "",
+        "city": "",
+        "website": "http://www.visitbeauvoir.org/",
+        "description": "It's like the evil universe version of a United State Presidential Library where President of the Confederate States of America Jefferson Davis is honored at this museum run by the state of Mississippi. Their favorite words to use there are \"Heritage\", \"Resilience\", and \"Greatness\" - find out what they are reffering to at Jefferson Davis's retirement home on a former plantation.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9699031,
+          30.3932622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "140",
+        "name": "Fort Massachusetts",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/guis/learn/historyculture/fort-massachusetts.htm",
+        "description": "Run around in a mostly abandoned Civil War fort on an island that's part of Gulf Isslands National Seashore. Only accessible by boat.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9720186,
+          30.2122566
+        ]
+      }
     }
   ]
 }
