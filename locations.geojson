@@ -5,20 +5,22 @@
       "type": "Feature",
       "properties": {
         "uid": "1",
-        "name": "London",
-        "street": "",
-        "country": "",
-        "state": "",
+        "name": "New York Transit Museum",
+        "street": "99 Schermerhorn St, Brooklyn, NY 11201",
+        "country": "United States",
+        "state": "New York",
         "county": "",
-        "city": "",
-        "website": "",
-        "description": "London is the capital and largest city of the United Kingdom, standing on the River Thames in southeast England. \n\nThe queen wears a fancy hat here."
+        "city": "Brooklyn",
+        "website": "https://www.nytransitmuseum.org/",
+        "description": "This is THE subway museum. New York City turned the unused Court Street Station into a horde of preserved MTA trains from the founding of the subway system until present.",
+        "worth stopping": true,
+        "museum": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1276,
-          51.5072
+          -73.9902645,
+          40.6905302
         ]
       }
     },
@@ -26,15 +28,22 @@
       "type": "Feature",
       "properties": {
         "uid": "2",
-        "name": "New York City",
+        "name": "Coney Island Cyclone",
+        "street": "801 Riegelmann Boardwalk, Brooklyn, NY 11224",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://lunaparknyc.com/rides/coney-island-cyclone/",
+        "description": "The Coney Island Cyclone was built in 1927 and due to its popularity has been replicated 8 times. The rollercoaster is famously intense, you will be thrown out of your seat, squished down into your seat, and thrown to the side of your seat over and over until your heart is racing.",
         "worth stopping": true,
-        "description": "New York City is the most populous city in the United States, famous for its skyline, culture, and global influence."
+        "amusement park": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          -73.9776517,
+          40.5751136
         ]
       }
     },
@@ -42,15 +51,22 @@
       "type": "Feature",
       "properties": {
         "uid": "3",
-        "name": "Tokyo",
+        "name": "Wonder Wheel",
+        "street": "3059 W 12th St, Brooklyn, NY 11224",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.denoswonderwheel.com/?utm_source=GMBSocialClimb&utm_medium=Deno'sWonderWheelAmusementPark",
+        "description": "The Wonderwheel is the demented child of a rollercoaster and a ferris wheel, where your car swings freely in tracks. As gusts of seaside wind rock your carriage preciously, you will remember how much you value your life.",
         "worth stopping": true,
-        "description": "Tokyo is the capital of Japan and one of the world's most populous metropolitan areas, known for its modern architecture and culture."
+        "amusement park": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          -73.9791392,
+          40.5740606
         ]
       }
     },
@@ -2512,7 +2528,8 @@
         "city": "",
         "website": "http://www.frenchlick.com/hotels/westbaden",
         "description": "\"Indiana's Monte Carlo\" - seriously that's what the submission for the National Register of Historical Places says -opened with the largest dome in the world in 1902 and is one of America's few remaining Grand Hotels. The trolley at the hotel takes you straight to the French Lick Casino to spend your hard earned social security checks.",
-        "worth stopping": true
+        "worth stopping": true,
+        "architecture": true
       },
       "geometry": {
         "type": "Point",
@@ -3821,7 +3838,8 @@
         "website": "https://fallingwater.org/",
         "description": "Wow, a super modern looking house built over a waterfall, bet that was built recently! Nope,  1936.  Frank Lloyd Wright's greatest architectural masterpiece.",
         "worth stopping": true,
-        "museum": true
+        "museum": true,
+        "architecture": true
       },
       "geometry": {
         "type": "Point",
@@ -3943,6 +3961,468 @@
         "coordinates": [
           -79.9921223,
           40.4467776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "174",
+        "name": "Brooklyn Bridge",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The Brooklyn Bridge opened as the longest suspension bridge in the world in 1883. The Brooklyn bridge was overengineered with more cables than needed, a stiffening truss system, granite towers, and generous factor of safety in design. This has allowed the bridge to smoothly transition from handling carriages to trains and automobiles with very little redesign. Walk across the bridge at least once to experience the New York City skyline from the middle of the river.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9970935,
+          40.706314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "175",
+        "name": "9/11 Memorial and Museum",
+        "street": "180 Greenwich St, New York, NY 10007",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.911memorial.org/",
+        "description": "2763 people were killed by the collapse of the World Trade Center on 9/11/2001. The site where the towers once stood is memorial fountains where waterfalls flow into the abyss giving the impression of a profound sense of emptiness and loss. The museum beneath the site captures the horror of the event and sells souvenirs and t-shirts.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0132792,
+          40.711574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "176",
+        "name": "Empire State Building",
+        "street": "20 W 34th St., New York, NY 10001",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://www.esbnyc.com/",
+        "description": "The Empire State Building opened in 1931 as the tallest building in the world at 1,454 ft, and held this record until the openeing of the World Trade Center in 1973. A masterpiece of Art Deco architecture the Empire State Building is an icon of New York City and the United States of America.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9857,
+          40.7484194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "177",
+        "name": "Intrepid Museum",
+        "street": "Pier 86, W 46th St, New York, NY 10036",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://intrepidmuseum.org/",
+        "description": "The WW2 Essex-class aircraft carrier USS Intrepid has been turned into an aerospace museum, and because it's New York City they recieved the best aircraft political patronage could leverage. This includes the Space Shuttle Enterprise, a Concorde, Lockheed A-12, and the cold war era cruise missile submarine USS Growler.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0009675,
+          40.7648779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "178",
+        "name": "The Metropolitan Museum of Art",
+        "street": "1000 5th Ave, New York, NY 10028",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://www.metmuseum.org/",
+        "description": "The ultra-wealthy park their expensive paintings here for tax reasons. The Metropolitan Museum of Art possesses 2,000,000 works of art, including Washington Crossing the Delaware.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9635649,
+          40.7794197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "179",
+        "name": "Ellis Island National Museum of Immigration",
+        "street": "Ellis Is, Jersey City, NJ 07305",
+        "country": "United States",
+        "state": "New Jersey",
+        "county": "",
+        "city": "",
+        "website": "https://libertyellisfoundation.org/immigration-museum",
+        "description": "If you're from the United States, there's a good chance your ancestors got checked for diseases and poverty at Ellis Island Immigration Center along with the 12 million other immigrants who were processed here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0394267,
+          40.6994731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "180",
+        "name": "Statue of Liberty",
+        "street": "",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/stli/index.htm",
+        "description": "Public donations funded what was then the tallest statue in the world in the heart of New York City. The torch is no longer accessible after German Empire saboteurs detonated an ammunition pier nearby in New Jersey in the Black Tom explosion. The Statue of Liberty remains an American icon worldwide - which is why you can buy a lego version of it.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0449551,
+          40.6893114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "181",
+        "name": "Rye Playland",
+        "street": "1 Playland Pkwy, Rye, NY 10580",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://playlandpark.org/",
+        "description": "This 1927 Amusement Park set on the beach remains largely as it was opening day. Playland is one of the few municipally owned amusement parks in the United States.",
+        "worth stopping": true,
+        "amusement park": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.673769,
+          40.9663517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "182",
+        "name": "TWA Hotel",
+        "street": "1 Idlewild Dr, Queens, NY 11430",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://twahotel.com/",
+        "description": "The TWA Hotel is an example of 1950s futurism - basically it looks exactly like the movie The Incredibles.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7778033,
+          40.6457485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "183",
+        "name": "Bannerman Castle",
+        "street": "Pollepel Island, Beacon, NY 12508",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://bannermancastle.org/",
+        "description": "An abandoned military warehouse sits on an island in the middle of the Hudson River, where every view looks like a romance painting.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9892087,
+          41.4553952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "184",
+        "name": "Franklin D. Roosevelt Presidential Library and Museum",
+        "street": "4079 Albany Post Rd, Hyde Park, NY 12538",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://fdrlibrary.org/",
+        "description": "FDR combatted the Great Depression as governor of New York and took his programs nationwide, including: social security, insured bank accounts, federalized labor relations, agricultural price parity, mass deporations, and vast public works as executed through the Civilian Conservation Corps and Tennesee Valley Authority. FDR's policies were so popular the his party defied the typical midterm losses and increased its majorities. FDR leveraged this to win the presidency 4 times and died in office. Term limits exist solely because of him. The FDR Presidential Museum and Library is set on his family estate because he was a rich kid.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9345234,
+          41.768625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "185",
+        "name": "USS Slater",
+        "street": "141 Broadway, Albany, NY 12202",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.ussslater.org/",
+        "description": "Sometimes you need a smaller than usual destroyer to escort other slow ships. The WW2 era Cannon-class USS Slater is one of the few remaining destroyer escorts afloat, and was once part of the Greek navy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7497461,
+          42.6425351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "186",
+        "name": "Fort William Henry",
+        "street": "46 Canada St, Lake George, NY 12845",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://www.fwhmuseum.com/",
+        "description": "If you watched or read The last of The Mohicans, this is that fort. Fort William Henry was built in 1755 during the Seven Years War (French and Indian War). It was subjected to a siege in 1757 where the surrendering British were executed by the French's native allies.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7110873,
+          43.4200793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "187",
+        "name": "Fort Ticonderoga",
+        "street": "102 Fort Ti Rd, Ticonderoga, NY 12883",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://www.fortticonderoga.org/",
+        "description": "Fort Ticonderoga was built by the French in 1755 to control the scenic entrance to Lake Champlain. A large hill perfect for placing artillery overlooks Fort Ticonderoga, resultings in its capture by the British from the French in 1759, the Americans from the British in 1775, and the British from the Americans in 1777. Famously, the guns from the American capture in 1775 were hauled all the way to Boston to force the British to withdraw from the city during the American Revolution.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3903209,
+          43.8425114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "188",
+        "name": "Star Trek Original Series Set Tour",
+        "street": "112 Montcalm St, Ticonderoga, NY 12883",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.startrektour.com/",
+        "description": "Star Trek superfan James Cawley rebuilt the original Star Trek set from the original blueprints so that you too can gush over them.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4244878,
+          43.8480605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "189",
+        "name": "Adirondack Park",
+        "street": "",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://dec.ny.gov/welcome-to-the-adirondacks",
+        "description": "6.1 million acres of parkland in the mountainous backwoods of New York make Adirondack Park the biggest park in the Lower 48.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6496386,
+          44.5403628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "190",
+        "name": "Fort Stanwix National Monument",
+        "street": "100 N James St, Rome, NY 13440",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/fost/index.htm",
+        "description": "This spikey looking fortress prevented the British from advancing down the Saratoga valley during the Revolutionary War, leading to their eventual defeat in the Saratoga Campaign, and the entrance of the French into the war on the side of the Americans. It's also just a really cool looking wooden fort.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4554222,
+          43.2104736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "191",
+        "name": "Buttermilk Falls State Park",
+        "street": "106 E Buttermilk Falls Rd, Ithaca, NY 14850",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "https://parks.ny.gov/visit/state-parks/buttermilk-falls-state-park",
+        "description": "Pillars of rock, a narrow gorge, a swooshing water-carved creekbed, and a waterfall with a pathway that keeps you alongside it for all of its cascades makes Buttermilk Falls a must-see state park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5118762,
+          42.407658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "192",
+        "name": "Robert H. Treman State Park",
+        "street": "105 Enfield Falls Rd, Ithaca, NY 14850",
+        "country": "United States",
+        "state": "New York",
+        "county": "",
+        "city": "",
+        "website": "http://parks.ny.gov/parks/135/",
+        "description": "12 waterfalls nestled in a steep gorge, including the 115ft Lucifer Falls. The cliffs are spectacular and the Gorge and Rim trails show you everything.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5695189,
+          42.3992555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "193",
+        "name": "Watkins Glen State Park",
+        "street": "1009 N Franklin St, Watkins Glen, NY 14891",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://parks.ny.gov/parks/142/",
+        "description": "Watkins Glen's stream descends 400ft past 200ft cliffs with 19 waterfalls along the way, the trail acompanies and winds over and under the waterfalls of the beautiful curved gorge, keeping you close to the action the whole time.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.901835,
+          42.3674433
         ]
       }
     }
