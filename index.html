@@ -61,31 +61,55 @@ file.-->
  <!-- Import the menu scripts !-->
 
 <nav id="navbar">
-  
-  <div id="nav-left">
-    <button id="nav-search" class="nav-btn"
-    title ="Search">
-      &#128270;
-    </button>
-    <button id="locate-me-btn" 
-    class = "nav-btn";
-    title= "Center the map on your current location"
-    onclick="locateUser({ zoomLevel: 15 })"
-    >
-    📍
-  </button>
-  </div>
   <div id="nav-title">Worth Stopping: Curated Destinations</div>
-  <div id="nav-right">
-      <button 
-        id="nav-menu" 
-        class="nav-btn"
-        title="Menu"
-        >
-        &#9776;
+  <div id="nav-controls">
+
+    <div id="nav-left">
+      <button id="nav-search" class="nav-btn"
+      title ="Search">
+        &#128270;
       </button>
+      <button id="locate-me-btn" 
+      class = "nav-btn";
+      title= "Center the map on your current location"
+      onclick="locateUser({ zoomLevel: 15 })"
+      >
+      📍
+    </button>
+    <button id="random-location-btn" 
+      class = "nav-btn";
+      title= "Go to a random location - including the bad ones"
+      onclick="randomLocation(geojsonFilePath)"
+      >
+      🎲
+    </button>
+
+    </div>
+    
+    <div id="nav-right">
+        <button 
+          id="nav-menu" 
+          class="nav-btn"
+          title="Menu"
+          >
+          &#9776;
+        </button>
+        
+
+    </div>
+  </div>
+
+  <div id="menu-row">
+    <div id="menu-dropdown" class="dropdown">
+      <a href="#">About</a>
+      <hr>
+      <a href="#">Help</a>
+      <hr>
+      <a href="#"><button id="add-location">Add New Location</button></a>
+    </div>
   </div>
 </nav>
+
 
 <div id="search-dropdown" class="search-panel">
   <div class="search-section">
@@ -117,13 +141,7 @@ file.-->
 
 
 
-<div id="menu-dropdown" class="dropdown">
-  <a href="#">About</a>
-  <hr>
-  <a href="#">Help</a>
-  <hr>
-  <a href="#"><button id="add-location">Add New Location</button></a>
-</div>
+
 
 <!-- This is the about dropdown button, it appears when the user pushes on the about button and should
  appear below the navbar

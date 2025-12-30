@@ -569,3 +569,71 @@ function locateUser({
     }
   );
 }
+
+//find out the maximum UID, this is necessary in order to get a random location.
+async function getMaxUID(geojsonFilePath = "locations.geojson") {
+  const response = await fetch(geojsonFilePath);
+  const geojson = await response.json();
+
+  if (!geojson || !Array.isArray(geojson.features)) {
+    console.warn("Invalid GeoJSON structure");
+    return null;
+  }
+
+  let maxUID = null;
+
+  for (const feature of geojson.features) {
+    const uid = feature?.properties?.uid;
+
+    if (uid === undefined || uid === null) continue;
+
+    const numericUID = Number(uid);
+    if (!Number.isFinite(numericUID)) continue;
+
+    if (maxUID === null || numericUID > maxUID) {
+      maxUID = numericUID;
+    }
+  }
+
+  return maxUID;
+}
+
+async function getGeometryFromUID(uid, geojsonFilePath = "locations.geojson") {
+  const response = await fetch(geojsonFilePath);
+  const geojson = await response.json();
+
+  if (!geojson || !Array.isArray(geojson.features)) {
+    console.warn("Invalid GeoJSON structure");
+    return null;
+  }
+
+  const targetUID = Number(uid);
+
+  for (const feature of geojson.features) {
+    const featureUID = Number(feature?.properties?.uid);
+
+    if (Number.isFinite(featureUID) && featureUID === targetUID) {
+      return feature.geometry || null;
+    }
+  }
+
+  // No matching UID found
+  return null;
+}
+
+
+//this function generates a random int between 1 and the maximum UID, then 
+async function randomLocation(geojsonFilePath ="locations.geojson"){
+  console.log("Let's try to go to a random location!");
+  maxUID = Number( await getMaxUID(geojsonFilePath));
+  console.log("The random number we want to generate can only be this big");
+  console.log(maxUID);
+  minUID = 1;
+  rndUID = Math.floor(Math.random() * (maxUID - minUID + 1)) + minUID;
+  console.log("The random location we want to go to has the UID:");
+  console.log(maxUID);
+  locGeometry = await getGeometryFromUID(rndUID, geojsonFilePath);
+  coordinates = locGeometry.coordinates;
+  centerMapOnCoordinates(coordinates);
+
+}

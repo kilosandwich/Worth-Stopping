@@ -5621,6 +5621,213 @@
           37.8192231
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "246",
+        "name": "Space Needle",
+        "street": "400 Broad St, Seattle, WA 98109",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "https://www.spaceneedle.com/",
+        "description": "A 605ft space age tower built for the 1962 World's Fair, and one of the only structures in the region built to withstand the inevitable 9.0 magnitude earthquake. This is the observation tower that all other observation towers try to imitate.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3493438,
+          47.6205054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "247",
+        "name": "Museum of Flight",
+        "street": "",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "Seattle, WA 98108",
+        "description": "The largest private aircraft museum in the world featuring the planes of local aircraft manufacturer Boeing. The museum possesses 175 aircraft and spacecraft, including: the first presidential jet, a concorde, de Havilland Comet, Lockheed A-12, 727 prototype, 737, the first 747, 787, aerocar, and a DC-2.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2968772,
+          47.5184088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "248",
+        "name": "Flying Heritage and Combat Armor Museum",
+        "street": "3407 109th St SW, Everett, WA 98204",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "They sliced a tank in half here so you can get a good look at it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2803028,
+          47.8994028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "249",
+        "name": "Future of Flight Aviation Center and Boeing Tour",
+        "street": "8415 Paine Field Blvd, Mukilteo, WA 98275",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "https://www.boeingfutureofflight.com/",
+        "description": "This is where planes are born. Tour the largest building in the world at the Boeing Everett Production Facitiliy and see Boeing planes roll down the assembly line.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2905084,
+          47.9211939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "250",
+        "name": "America's Car Museum",
+        "street": "2702 E D St, Tacoma, WA 98421",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "http://www.americascarmuseum.org/",
+        "description": "Harold LeMay amassed the largest private car collection in the world.The 350 cars at America's Car Museum are only half the the LeMay car collection, the other half is available at the LeMay Family Collection at Marymount.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4304346,
+          47.2362258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "251",
+        "name": "LeMay Collections at Marymount",
+        "street": "325 152nd St E, Tacoma, WA 98445",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "https://lemaymarymount.org/",
+        "description": "Whereas America's Car Museum is an ordered sample of Harold LeMay's car collection, the LeMay Collections at Marymount is a chaotic warehouse of 500+ classic cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426773,
+          47.1210308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "252",
+        "name": "United States Naval Undersea Museum",
+        "street": "1 Garnett Way, Keyport, WA 98345",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://navalunderseamuseum.org/",
+        "description": "The nearby city of Bremerton is home of the Pacific Nuclear Submarine Fleet, and this is their museum. Featuring the control room from the USS Greenling, the Bathyscaphe Trieste II which was used to recover fallen satellite packages, and the Deep Submergence Rescue Vehicle",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6252884,
+          47.7001366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "253",
+        "name": "USS Turner Joy",
+        "street": "300 Washington Beach Ave, Bremerton, WA 98337",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The Cold War era Forrest Sherman-class destroyer USS Turner Joy is the only naval ship that the public can go on near Naval Station Bremerton. The USS Turner Joy was present during the Gulf of Tonkin Incident that was the catalyst for the U.S. involvement in the Vietnam War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6218746,
+          47.5647324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "254",
+        "name": "Snoqualmie Falls",
+        "street": "",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "A hotel is perched on the edge of a cliff overlooking a 270ft scenic waterfall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8377155,
+          47.5419001
+        ]
+      }
     }
   ]
 }

@@ -8,9 +8,17 @@ where they could feasibly fit.
 
 
 // menu.js
+
+
+/////////////////////////////////////////////////////////////////////////
+////MENU SECTION////////////////////////////////////////////////////////
+// Show/hide search panel
+
 const menuButton = document.getElementById('nav-menu');
 const dropdown   = document.getElementById('menu-dropdown');
 
+//This is the menu button
+//I want it such that when any button within the menu button is pushed that it hides the dropdown. 
 menuButton.addEventListener('click', () => {
     console.log("The menu button has been clicked");
   dropdown.style.display =
@@ -18,15 +26,27 @@ menuButton.addEventListener('click', () => {
   document.getElementById('about-dropdown').classList.add('hidden');
 });
 
-//to do: make a drop down menu that references the tags.json file and creates a checkmark based system that when the search 
-//button is hit revises the map or list view.
-//my assumption is that you will have to create a populate list feature entirely separate from the populate map feature
-//the list will be populated after the map because the map is more important
+//this is the about click handler
+document.querySelector('#menu-dropdown a').addEventListener('click', e => {
+  e.preventDefault();
+  //hide the dropdown when the about button is pushed
+    dropdown.style.display =
+    dropdown.style.display === 'flex' ? 'none' : 'flex';
+  //show the about menu if it is hidden, hide it if it is visible
+  document.getElementById('about-dropdown').classList.toggle('hidden');
+});
+// END MENU SECTION/////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
 
-// Show/hide search panel
+
+
+
+////////////////////////////////////////////////////////////////////////
+//SEARCH BUTTON SECTION/////////////////////////////////////////////////
+//the buildCheckboxes function references a json file which has the category 'categories' that points to the categories
+//within the json file you want to build checkboxes for the search menu. 
 const searchButton = document.getElementById("nav-search");
 const searchPanel  = document.getElementById("search-dropdown");
-
 searchButton.addEventListener("click", () => {
     // Toggle visibility
     console.log("The search button has been clicked!")
@@ -39,10 +59,6 @@ searchButton.addEventListener("click", () => {
         buildCheckboxes("tags.json");
     }
 });
-
-
-//the buildCheckboxes function references a json file which has the category 'categories' that points to the categories
-//within the json file you want to build checkboxes for the search menu. 
 async function buildCheckboxes(jsonTagsFilePath) {
   try {
     console.log("buildCheckboxes is running!");
@@ -198,12 +214,8 @@ async function buildNameAutocompleteList(geojsonFilePath) {
     console.error('Error building name autocomplete from GeoJSON:', err);
   }
 }
-
-//this is the about click handler
-document.querySelector('#menu-dropdown a').addEventListener('click', e => {
-  e.preventDefault();
-  document.getElementById('about-dropdown').classList.toggle('hidden');
-});
+//END SEARCH BUTTON SECTION////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
 
 
 
