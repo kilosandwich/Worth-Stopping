@@ -4231,7 +4231,7 @@
         "city": "",
         "website": "http://www.ussslater.org/",
         "description": "Sometimes you need a smaller than usual destroyer to escort other slow ships. The WW2 era Cannon-class USS Slater is one of the few remaining destroyer escorts afloat, and was once part of the Greek navy.",
-        "worth stopping": true,
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
@@ -4254,7 +4254,7 @@
         "city": "",
         "website": "https://www.fwhmuseum.com/",
         "description": "If you watched or read The last of The Mohicans, this is that fort. Fort William Henry was built in 1755 during the Seven Years War (French and Indian War). It was subjected to a siege in 1757 where the surrendering British were executed by the French's native allies.",
-        "worth stopping": true,
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
@@ -4346,7 +4346,7 @@
         "city": "",
         "website": "http://www.nps.gov/fost/index.htm",
         "description": "This spikey looking fortress prevented the British from advancing down the Saratoga valley during the Revolutionary War, leading to their eventual defeat in the Saratoga Campaign, and the entrance of the French into the war on the side of the Americans. It's also just a really cool looking wooden fort.",
-        "worth stopping": true,
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
@@ -4423,6 +4423,282 @@
         "coordinates": [
           -76.901835,
           42.3674433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "194",
+        "name": "Battleship Cove",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "It's the world's largest collection of WW2 US Naval Ships, including the South Dakota class USS Massachusetts, the Gearing-class destroyer Jospey P Kennedy Jr., the Balao-class USS Lionfish, the Soviet Union built East German Tarantul-class corvette Hiddensee, and PT-796 and PT-617.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.163315,
+          41.705905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "195",
+        "name": "Norman Rockwell Museum",
+        "street": "9 Glendale Rd, Stockbridge, MA 01262",
+        "country": "United States",
+        "state": "Massachusetts",
+        "county": "",
+        "city": "",
+        "website": "http://www.nrm.org/",
+        "description": "American artist Norman Rockwell painted extremely popular pictures that were seen by many Americans in the Saturday Evening Post. The Normal Rockwell Museum contains 574 of his works including the famous \"Four Freedoms\" paintings.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3368571,
+          42.2884787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "196",
+        "name": "American Heritage Museum",
+        "street": "568 Main St, Hudson, MA 01749",
+        "country": "United States",
+        "state": "Massachusetts",
+        "county": "",
+        "city": "",
+        "website": "https://www.americanheritagemuseum.org/",
+        "description": "By \"American Heritage\" they mean tanks, lots of operational tanks - that yes you can pay to ride in. These include the M1917A,  Matilda MK.II, Vickers Mk.IV, Churchill Crocodile, Cromwell I M4A1 Sherman, M3 Lee, M4A3E2 Sherman Jumbo, M22 Locust, M18 Hellcat , M5A1 Stuart VI, T-34, T34/85, Sturmgeschutz III, Panzer I.A, Panzer V, Jadgpanzer 38 Hetzer... you get the idea.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5077059,
+          42.4011367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "197",
+        "name": "Minute Man National Historical Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/mima",
+        "description": "See where the American Revolutionary War began on April 19, 1775 when British forces tried to seize locals guns.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3509972,
+          42.4690029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "198",
+        "name": "Lowell National Historical Park",
+        "street": "246 Market St, Lowell, MA 01852",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/lowe",
+        "description": "Lowell Massachusetts was the center of the American textile industry, and its large textile mills still loom over the city (see what I did there). The textile mills that survive are available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3125529,
+          42.64418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "199",
+        "name": "USS Constitution",
+        "street": "Building 22, Charlestown Navy Yard, Charlestown, MA 02129",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://ussconstitutionmuseum.org/",
+        "description": "The USS Constitution was one of the original six frigates comissioned by Congress that marked the beginning of the United States Navy. The USS Constitution fought the French in the Quasi-War, the Babary Pirates in the First Barbary War, and the British in the War of 1812 and remains afloat to this day as the oldest ship in the United States Navy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.056581,
+          42.3725267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "200",
+        "name": "USS Casin Young",
+        "street": "793 3rd St, Boston, MA 02129",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/bost/learn/historyculture/usscassinyoung.htm",
+        "description": "The WW2 era Fletcher-class destroyer USS Casin Young survived two kamikaze attacks and is still afloat today. Despite being a worthwhile attraction in its own right it is overshadowed by the fact that the USS Constitution is parked right to it.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.054764,
+          42.3721524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "201",
+        "name": "John F. Kennedy Presidential Library and Museum",
+        "street": "Columbia Point, Boston, MA 02125",
+        "country": "United States",
+        "state": "Massachusetts",
+        "county": "",
+        "city": "",
+        "website": "https://www.jfklibrary.org/",
+        "description": "The one and only time the United States elected a young and attractive president he got his head blown off. This made the American public very sad, and since JFK was also a rich kid his Presidential Library is extremely opulent.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0344346,
+          42.3162233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "202",
+        "name": "United States Naval Shipbuilding Museum",
+        "street": "549 South St Pier 3, Quincy, MA 02169",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.uss-salem.org/",
+        "description": "The WW2 era Des Moines-class cruiser USS Salem is back where it was built in Quincy. The Salem also offers ghost tours, and is also occasionally a haunted house.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9716529,
+          42.2423272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "203",
+        "name": "Plimoth Patuxet",
+        "street": "137 Warren Ave, Plymouth, MA 02360",
+        "country": "United States",
+        "state": "Massachusetts",
+        "county": "",
+        "city": "",
+        "website": "https://plimoth.org/",
+        "description": "A living history museum portraying the initial Plymouth colony in Massachusetts. The museum gives a good idea of just how insane and precauious it was to move to an entire continent and be the first colonist, and how much of a cultist the Puritans had to be in order for it to be worth it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6255001,
+          41.9380078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "204",
+        "name": "Springfield Armory National Historic Site",
+        "street": "1 Armory St #2, Springfield, MA 01105",
+        "country": "United States",
+        "state": "Massachusetts",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/spar",
+        "description": "Springfield Armory was the primary manufacturer for US military firearms from 1777 to 1968, when it was closed under the beliefs that it was more economical for private industry to produce firearms than the federal government. Springfield Armory National Historic Site contains all the firearms the United States government once produced for itself in the place they were produced.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5815561,
+          42.1073015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "205",
+        "name": "Museum of Fine Arts, Boston",
+        "street": "465 Huntington Ave, Boston, MA 02115",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.mfa.org/",
+        "description": "If I knew anything about art, I'm sure the 450,000 paintings at the Museum of Fine Arts in Boston would be really impressive to me.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0943989,
+          42.3396325
         ]
       }
     }
