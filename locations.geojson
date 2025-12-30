@@ -4977,6 +4977,351 @@
           47.5461775
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "218",
+        "name": "The Parthenon (Nashville)",
+        "street": "2500 West End Ave, Nashville, TN 37203",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://www.nashvilleparthenon.com/",
+        "description": "Nashville built an exact-size replica of the original Parthenon in Athens for the 1897 Tennessee Centennial Exposition -except this one wasn't destroyed by a gunpowder explosion.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8135338,
+          36.1496364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "219",
+        "name": "Lane Motor Museum",
+        "street": "702 Murfreesboro Pike, Nashville, TN 37210",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "http://www.lanemotormuseum.org/",
+        "description": "The Lane Motor Museum is nearly entirely devoted to microcars and prototypes. See just how little of a car auto manufacturers tried to sell the public all over the world.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7344429,
+          36.1403093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "220",
+        "name": "Beech Bend",
+        "street": "798 Beech Bend Park Rd, Bowling Green, KY 42101",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.beechbend.com/",
+        "description": "Beech Bend is a combined amusement-park-drag-strip with the imposing Kentucky Rumbler rollercoaster overlooking both. You haven't truly lived until you see racecars power down a drag strip while you plunge down the drop of a rollercoaster.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4017071,
+          37.0218924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "221",
+        "name": "National Corvette Museum",
+        "street": "350 Corvette Dr, Bowling Green, KY 42101",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "350 Corvette Dr, Bowling Green, KY 42101",
+        "description": "A rare collection of corvettes from the nearby GM Bowling Green Assembly, including a few corvettes that fell down a sinkhole that opened in the middle of the museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3745809,
+          37.0040596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "222",
+        "name": "Mammoth Cave National Park",
+        "street": "Quarters 43, 1 Mammoth Cave Pkwy, Mammoth Cave, KY 42259",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/maca",
+        "description": "Mammoth Cave is the world's largest cave system, it's so big in fact that it feels just like you're standing inside of a building, and it loses some of the magic. If you want to see any of the really cool stuff, you have to go on one of the guided tours which tend to be booked out weeks in advance - so plan ahead.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1009378,
+          37.1855228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "223",
+        "name": "Crystal Onyx Cave",
+        "street": "425 Prewitts Knob Rd, Cave City, KY 42127",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "https://crystalonyxcaveky.com/",
+        "description": "Crystal Onyx cave differentiates itself from the other caves in the region by emphasizing how wacky it is. There is an esoteric collection of sculptures on the surface, and stunning formations below it.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9741282,
+          37.1106137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "224",
+        "name": "Creation Museum",
+        "street": "https://creationmuseum.org/",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "2800 Bullittsburg Church Rd, Petersburg, KY 41080",
+        "description": "Australian Ken Ham Jesus Man and a team of ex-Universal Studios animatronics experts want to share their vision that the world is only around 6000 years old, and that mankind shared the planet with dinosaurs. Come and see expertly crafted intricate displays about the creation of the world according to their interpretation of the bible - including fully animatronic dinosaurs, a mockup Garden of Eden, and miniature Noah's Ark (the full sized one is down the road).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7826014,
+          39.0847015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "225",
+        "name": "Ark Encounter",
+        "street": "1 Ark Encounter Dr, Williamstown, KY 41097",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "https://arkencounter.com/",
+        "description": "Australian Ken Ham Jesus Man and his team of Amish woodworkers built a life sized version of Noah's Ark from the bible and filled it with the animals that they thought would have been in it - dinosaurs. It is truly a sight to be hold, and seeing is believing.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5924104,
+          38.6222254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "226",
+        "name": "Fairway To Heaven Miniature Golf",
+        "street": "560 Eureka Springs Dr, Lexington, KY 40517",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "http://www.lexingtonicecenter.com/",
+        "description": "Golf your way through bible with 3 divine themed miniature golf courses: one for the Old Testament, one for the New Testament, and one for the miracles of Jesus.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4565283,
+          37.9981514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "227",
+        "name": "Cocaine Bear (bear)",
+        "street": "1315 Winchester Rd #341, Lexington, KY 40505",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "http://kyforky.com/",
+        "description": "In 1985 a black bear overdosed on cocaine dropped by smugglers in the wilderness of Tennessee, and now sits stuffed at Kentucky for Kentucky where he can perform weddings if you believe he can. Cocaine Bear was eventually adapted into a feature film about the importance of family.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4570631,
+          38.044328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "228",
+        "name": "Kentucky Derby Museum",
+        "street": "704 Central Ave, Louisville, KY 40208",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "This is THE horse museum. Rich people who treat horses like F1 cars fly from all over the world  every year at Churchill Downs to watch the horses there run around a track once for two minutes. At the Kentucky Derby museums you can jump on a horse simulator and pretend that you too have importance to them.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7713397,
+          38.2054129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "229",
+        "name": "Louisville Mega Cavern",
+        "street": "1841 Taylor Ave, Louisville, KY 40213",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "https://louisvillemegacavern.com/",
+        "description": "An underground limestone mine is now a place where you can drive your car through caverns full of Christmas lights, aerial ropes courses, ziplines, and a historical tram tour.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.704042,
+          38.2012614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "230",
+        "name": "Harland Sanders Cafe and Museum",
+        "street": "688 US-25W, Corbin, KY 40701",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "http://www.sanderscafe.com/",
+        "description": "Colonel Sanders started his fried chicken empire from this small cafe in Kentucky. This is THE Kentucky fried chicken he has been referring to this entire time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.093811,
+          36.9599026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "231",
+        "name": "Natural Arch Kentucky",
+        "street": "",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "https://www.fs.usda.gov/r08/danielboone/recreation/natural-arch-picnic-area",
+        "description": "A 100ft long sandstone natural arch in Daniel Boone National Forest that can be viewed from a commanding position on the bluffs, and easily hiked to be admired up close.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5121456,
+          36.8453915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "232",
+        "name": "Gorge Underground",
+        "street": "2478 Glencairn Rd, Rogers, KY 41365",
+        "country": "United States",
+        "state": "Kentucky",
+        "county": "",
+        "city": "",
+        "website": "https://gorgeunderground.com/",
+        "description": "Kayak alone in a former limestone mine, you probably won't get lost.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6650107,
+          37.7599905
+        ]
+      }
     }
   ]
 }
