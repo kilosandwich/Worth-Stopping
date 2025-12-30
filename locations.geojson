@@ -5322,6 +5322,305 @@
           37.7599905
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "233",
+        "name": "Hoover Dam",
+        "street": "2785+G7, 81 Hoover Dam Access Rd, Boulder City, NV 89005",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "https://www.usbr.gov/lc/hooverdam/index.html",
+        "description": "See the only government infastructure project completed ahead of schedule. A 726ft Art Deco styled dam controlling the Colorado River in a 2000ft deep Canyon.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7376994,
+          36.0161337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "234",
+        "name": "Pinball Hall of Fame",
+        "street": "4925 Las Vegas Blvd S, Las Vegas, NV 89119",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "http://www.pinballmuseum.org/",
+        "description": "Get a better return than any Las Vegas casino because the money here goes straight to charity. 368+ pinball machines ranging from 1945-2024 eagerly await your quarters",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1709643,
+          36.0847911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "235",
+        "name": "National Atomic Testing Museum",
+        "street": "755 E Flamingo Rd, Las Vegas, NV 89119",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "https://www.atomicmuseum.vegas/",
+        "description": "Nevada was the site of 928 nuclear bomb detonations during the USA's nuclear testing program, with the resulting mushroom clouds being visible to tourists in Las Vegas. The Atomic Museum covers the history of nuclear weapons development and testing, including nuclear rocket propoulsion, handheld nuclear weapons, nuclear bomb racks for underground testing, and nuclear weapons in culture.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484492,
+          36.1140286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "236",
+        "name": "Machine Guns Vegas",
+        "street": "3501 Aldebaran Ave, Las Vegas, NV 89102",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "https://machinegunsvegas.com/",
+        "description": "The Firearms Owners Protection Act of 1986 makes it illegal for civilians to own machine guns made after 1986. Fortunately, Machine Guns Vegas has a special license that exempts them from this law so that you can shoot things really fast without joining the military.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1837611,
+          36.1271089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "237",
+        "name": "Red Rock Canyon National Conservation Area",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.blm.gov/programs/national-conservation-lands/nevada/red-rock-canyon",
+        "description": "In the washed out looking mountains of Nevada, the sharp red rocks of Red Rock canyon are visually striking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4341535,
+          36.1542325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "238",
+        "name": "Valley of Fire State Park",
+        "street": "",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "https://parks.nv.gov/parks/valley-of-fire",
+        "description": "Swirly bright red and pastel pink petroglyph covered sandstone formations in the desert appear to be on fire when caught in the sun.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5273313,
+          36.4784317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "239",
+        "name": "Gold Butte National Monument",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.blm.gov/programs/national-conservation-lands/nevada/gold-butte",
+        "description": "Chiseled red sanstone, alien rock formations, and twisting canyons with petroglyphs. The roads aren't paved, and there's no real trails, so this is one of those 'not really near anything but wow nature' kind of parks.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.168244,
+          36.3766684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "240",
+        "name": "Tonopah Historic Mining Park",
+        "street": "110 Burro Ave, Tonopah, NV 89049",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "https://www.tonopahminingpark.com/",
+        "description": "You know you want to run around a 1900 delapitated desert silver mine. Look at the terrifyingly claustrophobic shafts propped up with little more than logs doing their best.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2257877,
+          38.0696719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "241",
+        "name": "Nevada State Railroad Museum",
+        "street": "2180 S Carson St, Carson City, NV 89701",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "https://www.carsonrailroadmuseum.org/",
+        "description": "Pristine operational wild west railway trains in their native desert habitat. They also have a McKeen motor car that looks like a cross between a ship and a rail car. Yes you can ride the trains here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7683419,
+          39.1486078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "242",
+        "name": "National Automobile Museum",
+        "street": "1 Museum Dr, Reno, NV 89501",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "http://www.automuseum.org/",
+        "description": "220+ cars from casino magnate William Harrah's car collection are preserved here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8085818,
+          39.5260422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "243",
+        "name": "Great Basin National Park",
+        "street": "National Park, 100 Great Basin, Baker, NV 89311",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/grba/index.htm",
+        "description": "Ancient pine trees, snowy mountain peaks, caves, and a rapidly retreating glacier set in the middle of the desert of the Great Basin.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.304396,
+          39.0110978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "244",
+        "name": "Lehman Caves",
+        "street": "5500 NV-488, Baker, NV 89311",
+        "country": "United States",
+        "state": "Nevada",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/grba/planyourvisit/lehman-caves-tours.htm",
+        "description": "twisted dripping and melting caves in the middle of Great Basin National Park. Reservations are sold out weeks in advance - so plan ahead.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2197042,
+          39.0056252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "245",
+        "name": "Cathedral Gorge State Park",
+        "street": "111 Cathedral Gorge State Park Road, Panaca, NV 89042",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://parks.nv.gov/parks/cathedral-gorge/",
+        "description": "Erosion has carved the layered volcanic ash of a desert canyon into tall shear spires and caverns remniscent of a Cathedral.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4149152,
+          37.8192231
+        ]
+      }
     }
   ]
 }

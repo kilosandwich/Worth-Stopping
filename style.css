@@ -13,6 +13,10 @@ html, body {
 }
 
 
+/*DVDVDVDVDVDVDVDVDVDVDVDVDVDVDVDV
+DROP DOWN MENU SECTION
+==================================
+*/
 .dropdown {
   position: absolute;
   top: 48px;
@@ -23,8 +27,36 @@ html, body {
   flex-direction: column;
   width: 160px;
   z-index: 4000;
+  padding: 8px 12px;
 }
-html, body { height:100%; margin:0; }
+
+.dropdown hr {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 6px 0;
+}
+.dropdown a,
+.dropdown a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+
+.dropdown a:hover {
+  background-color: #f3f3f3;
+}
+
+.dropdown a:active {
+  background-color: #e6e6e6;
+}
+
+/*DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DROP DOWN MENU SECTION ABOVE THIS 
+=======================================
+*/
+
+
 
 #map {
     position: absolute;
@@ -75,6 +107,29 @@ NAVIGATION BAR SECTION
 #nav-right {
   flex: 0 0 auto;
 }
+
+.nav-btn {
+  width: 2.75rem;
+  height: 2.75rem;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 1.25rem;
+
+  background-color: #ffffff;
+  border: 1px solid #d0d0d0;
+  border-radius: 0.5rem;
+
+  cursor: pointer;
+  transition: background-color 120ms ease, border-color 120ms ease;
+}
+
+
+/*N^N^N^N^N^N^N^N^N^N^N^N^N^N^N^N^N
+===================================
+*/
 
 /*
 +S+S+S++S+S+S+S+S+S+S+S+
@@ -173,12 +228,11 @@ Leaflet popup section
 }
 
 .leaflet-popup-content {
-  overflow-y: auto;
-  width: 260px;        /* desktop default */
+  overflow-y: auto;       /* desktop default */
   max-width: 90vw;
   width: clamp(16rem, 90vw, 20rem);
   max-height: 40vh;     /* mobile-safe */
-  font-size: 0.9rem;     /* base text size */
+  font-size: 1rem;     /* base text size */
 }
 
 .leaflet-popup-close-button {

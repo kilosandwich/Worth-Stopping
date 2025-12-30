@@ -68,16 +68,21 @@ file.-->
       &#128270;
     </button>
     <button id="locate-me-btn" 
+    class = "nav-btn";
     title= "Center the map on your current location"
     onclick="locateUser({ zoomLevel: 15 })"
     >
     📍
   </button>
   </div>
-  <div id="nav-title">Worth Stopping: Curated Destination</div>
+  <div id="nav-title">Worth Stopping: Curated Destinations</div>
   <div id="nav-right">
-      <button id="nav-menu" class="nav-btn">
-        Menu &#9776;
+      <button 
+        id="nav-menu" 
+        class="nav-btn"
+        title="Menu"
+        >
+        &#9776;
       </button>
   </div>
 </nav>
@@ -114,7 +119,9 @@ file.-->
 
 <div id="menu-dropdown" class="dropdown">
   <a href="#">About</a>
+  <hr>
   <a href="#">Help</a>
+  <hr>
   <a href="#"><button id="add-location">Add New Location</button></a>
 </div>
 
