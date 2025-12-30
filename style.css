@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;     /* REQUIRED */
-  font-size: 1rem;
+  font-size: 18px;
 }
 
 body {
@@ -11,12 +11,6 @@ body {
   min-height: 100vh; /* important */
 }
 
-/* Mobile: shrink everything proportionally */
-@media (max-width: 768px) {
-  html {
-    font-size: 1rem;
-  }
-}
 
 #map {
 flex: 1 1 auto;
@@ -255,25 +249,12 @@ Leaflet popup section
   margin-left: 0.25rem;
 }
 
-/* Mobile tuning */
-@media (max-width: 768px) {
-  .popup-google-pictures-btn,
-  .popup-website-btn,
-  .popup-directionse-btn,
-  .popup-edit-btn
-  .popup-zoom-btn {
-    min-width: 2.75rem;   /* ~44px */
-    min-height: 2.75rem;
-    font-size: 0.9rem;
-  }
-}
-
 .leaflet-popup-content {
   overflow-y: auto;       /* desktop default */
   max-width: 80vw;
   width: clamp(16rem, 75vw, 20rem);
   max-height: 40vh;     /* mobile-safe */
-  font-size: 1rem;     /* base text size */
+  font-size: .8rem;     /* base text size */
 }
 
 .leaflet-popup-close-button {

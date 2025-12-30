@@ -634,6 +634,6 @@ async function randomLocation(geojsonFilePath ="locations.geojson"){
   console.log(maxUID);
   locGeometry = await getGeometryFromUID(rndUID, geojsonFilePath);
   coordinates = locGeometry.coordinates;
-  centerMapOnCoordinates(coordinates);
+  centerMapOnCoordinates(coordinates, 17);
 
 }

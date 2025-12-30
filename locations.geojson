@@ -5828,6 +5828,259 @@
           47.5419001
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "255",
+        "name": "W.T. Preston",
+        "street": "703 R Ave, Anacortes, WA 98221",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.anacorteswa.gov/422/",
+        "description": "The W.T. Preston is a United States Army Corps of Engineers sternwheeler snagboat that removed logjams and navigational hazards on rivers in the Puget sound from 1931-1981.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6090378,
+          48.5158987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "256",
+        "name": "North Cascades National Park",
+        "street": "376 Newhalem St, Marblemount, WA 98267",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/noca/index.htm",
+        "description": "300 glaciers crowning the jagged peaks and shear cliffs of the North Cascades Range. It's the most expansive glacial system in the lower 48. Explore crystal clear lakes, waterfalls, and river valleys by trail or wilderness hiking as there's fairly little infrastructure here.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2969456,
+          48.7715437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "257",
+        "name": "Olympic National Park",
+        "street": "3002 Mt Angeles Rd, Port Angeles, WA 98362",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/olym/index.htm",
+        "description": "Olympic National Park is a sea-stack strewn beach with a coastal rainforest next to a mountain range covered in glaciers and waterfalls. Olympic National Park is also the exlusive home of the Olympic Marmot, the Washington State Mammal.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6042547,
+          47.8017688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "258",
+        "name": "Mount Ranier National Park",
+        "street": "Longmire Rd, Packwood, WA 98361",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/mora/planyourvisit/longmire.htm",
+        "description": "A 14,410ft active stratovolcano towers over 25 glaciers, plummeting waterfalls, racing streams,  rocky gorges, hotsprings, and a rainforest. The volcano divides the parks into four distinct regions with their own visitors centers: Paradise, Longmire, Sunrise, Ohanapecosh, and Carbon River.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.752926,
+          46.8464359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "259",
+        "name": "Mount St. Helens National Volcanic Monument",
+        "street": "3029 Spirit Lake Hwy, Castle Rock, WA 98611",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "https://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=34143",
+        "description": "A smoldering 8363ft stratovolano towers over an ashen river valley and lava tube caves. The Johnston Ridge Observatory contains a museum regarding the 1980 eruption",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1935502,
+          46.1948268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "260",
+        "name": "Hanford B",
+        "street": "2000 Logston Blvd, Richland",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/mapr/planyourvisit/hanford-wa.htm",
+        "description": "Hanford B was the first large-scale nuclear reactor ever built, it provided plutonium for the construction of the nuclear weapons as part of the Manhattan Project in 1944. The abandoned reactor is now part of the Manhattan Project National historical Park, tours are available and are the only way for tourists to get onto the secured site. Call ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6473485,
+          46.6302459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "261",
+        "name": "Maryhill Stonehenge",
+        "street": "Stonehenge Dr, Goldendale, WA 98620",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "A 1929 replica of Stonehenge overlooks the Columbia river in Maryhill Washington.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8064888,
+          45.6943012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "262",
+        "name": "Spokane Falls",
+        "street": "",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "http://riverfrontspokane.org/",
+        "description": "Spokane Falls rushes through the the futuristic Riverfront Park in downtown Spokane.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4194688,
+          47.6621436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "263",
+        "name": "Palouse Falls State Park Heritage Site",
+        "street": "Palouse Falls Rd, LaCrosse, WA 99143",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://parks.wa.gov/find-parks/state-parks/Palouse-falls-state-park-heritage-site",
+        "description": "The 200ft Palouse Falls is situated in a bowl-shaped canyon with tiered cliffs, and is the official state waterfall of Washington.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2242619,
+          46.6633964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "264",
+        "name": "Sun Lakes-Dry Falls State Park",
+        "street": "34875 Park Lake Rd NE, Coulee City, WA 99115",
+        "country": "United States",
+        "state": "Washington",
+        "county": "",
+        "city": "",
+        "website": "http://parks.state.wa.us/298/Sun-Lakes-Dry-Falls",
+        "description": "During the ancient Missoula Floods, a 400ft tall and 3.5 mile wide waterfall stripped the landscape here down to the volcanic basalt. The devastation from the floods tore the landscape into a barren canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.362394,
+          47.5914715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "265",
+        "name": "Lake Chelan National Recreation Area",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/noca/planyourvisit/stehekin.htm",
+        "description": "A pictureseque lake next to the North Cascades range is only accessible by passenger ferry, floatplane, or hiking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4570258,
+          48.0618399
+        ]
+      }
     }
   ]
 }
