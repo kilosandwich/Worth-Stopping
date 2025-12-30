@@ -4701,6 +4701,282 @@
           42.3396325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "206",
+        "name": "Gooseberry Falls State Park",
+        "street": "3206 MN-61, Two Harbors, MN 55616",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "http://www.dnr.state.mn.us/state_parks/gooseberry_falls/index.html",
+        "description": "4 waterfalls cascade over ancient lava flows into the world's largest freshwater lake at Gooseberry Falls State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4684084,
+          47.1433749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "207",
+        "name": "Tettegouche State Park",
+        "street": "5702 MN-61, Silver Bay, MN 55614",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "http://www.dnr.state.mn.us/state_parks/tettegouche/",
+        "description": "Rocky vertical cliffs on Lake Superior with a 70ft high waterfall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.196153,
+          47.3386483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "208",
+        "name": "Judge CR Magney State Park",
+        "street": "4051 MN-61, Grand Marais, MN 55604",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "http://www.dnr.state.mn.us/state_parks/judge_cr_magney/",
+        "description": "Home of the Devil's Kettle, where the river splits into two waterfalls, one continuing the river's course, and the other plunging into a dark chasm with no visible reentry point.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0530858,
+          47.8181511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "209",
+        "name": "Grand Portage State Park",
+        "street": "9393 E MN-61, Grand Portage, MN 55605",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "http://www.dnr.state.mn.us/state_parks/grand_portage/index.html",
+        "description": "A scenic 120ft waterfall marks the national border between the United States and Canada.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5931423,
+          48.0005359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "210",
+        "name": "Lake Vermillion-Soudan Underground Mine State Park",
+        "street": "1302 McKinley Park Rd, Soudan, MN 55782",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00285",
+        "description": "Travel 2,341 feet to the depth of an iron mine in the Vermillion Range of Minnesota. The deepest and oldest iron mine in Minnesota (established 1882).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2420973,
+          47.8193346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "211",
+        "name": "SPAM Museum",
+        "street": "101 3rd Ave NE, Austin, MN 55912",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "https://www.spam.com/museum",
+        "description": "See how America's favorite processed meat made its way into our coronary arteries and our hearts.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9744313,
+          43.6694151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "212",
+        "name": "Mill City Museum",
+        "street": "704 S 2nd St, Minneapolis, MN 55401",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "https://www.mnhs.org/millcity",
+        "description": "Learn everything about industrial flour milling in the ruins of what was once the world's largest flour mill. Why ruins? It caught fire - flour mills do that.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2573323,
+          44.9787143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "213",
+        "name": "Hjemkomst Center",
+        "street": "202 1st Ave N, Moorhead, MN 56560",
+        "country": "United States",
+        "state": "Minnesota",
+        "county": "",
+        "city": "",
+        "website": "http://www.hjemkomstcenter.com/",
+        "description": "Minnesotans celebrated their Scandanavian heritage by building a replica of the Hopperstad Stave Church and a replica of the Gokstand Viking longboat.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7787015,
+          46.8779595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "214",
+        "name": "Scandanavian Heritage Association",
+        "street": "1020 S Broadway, Minot, ND 58701",
+        "country": "United States",
+        "state": "North Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://scandinavianheritage.org/",
+        "description": "Nothing quite says getting in touch with your ancestors like building a massive stave church and other Scandanavian buildings.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2979154,
+          48.2261181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "215",
+        "name": "Ronald Reagan Minuteman Missile State Historic Site",
+        "street": "555 113 1/2 Ave NE, Cooperstown, ND 58425",
+        "country": "United States",
+        "state": "North Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.history.nd.gov/historicsites/minutemanmissile/",
+        "description": "The Dakotas are as far away from the ocean as one can get, which makes them an optimal place to put nuclear lauch facilities since any first strike much traverse the maximum distance possible to reach them. Descend into the Oscar-Zero Missile Alert Facility and November-33 Launch Facility to witness a nuclear missile launch facility with the power to end the world. You can't go into the actual missile silo, which is a shame.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.127027,
+          47.4975788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "216",
+        "name": "Theodore Roosevelt National Park",
+        "street": "Exit 32, Belfield, ND 58622",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/thro/index.htm",
+        "description": "70,466 aces of badlands (with trees!) along the Little Missouri River. The park is divided into three units (South, North, Elkhorn Ranch) which all have their own unique flairs and scenic drives. It's a big National Park with around an hour of driving between each of the units.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3828154,
+          46.8948438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "217",
+        "name": "Little Missouri State Park",
+        "street": "910 103rd Ave NW, Killdeer, ND 58640",
+        "country": "United States",
+        "state": "North Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.parkrec.nd.gov/little-missouri-state-park-0",
+        "description": "It's like the badlands in nearby Teddy Roosevelt National Park, but much smaller.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7357766,
+          47.5461775
+        ]
+      }
     }
   ]
 }
