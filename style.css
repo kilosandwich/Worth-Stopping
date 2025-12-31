@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;     /* REQUIRED */
-  font-size: 18px;
+  font-size: medium;
 }
 
 body {
@@ -48,7 +48,7 @@ NAVIGATION BAR SECTION
   flex: 1 1 auto;
   text-align: center;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 1.3rem;
   padding-top: 0.5rem;   /* adjust to taste */
   padding-bottom: 0.5rem;
 
@@ -206,6 +206,12 @@ DROP DOWN MENU SECTION ABOVE THIS
 =======================================
 */
 
+
+
+
+
+
+
 /*
 L+L+L+L+LL+L+L+L+L+L+L+L+L+L+L+L+
 Leaflet popup section
@@ -254,7 +260,7 @@ Leaflet popup section
   max-width: 80vw;
   width: clamp(16rem, 75vw, 20rem);
   max-height: 40vh;     /* mobile-safe */
-  font-size: .8rem;     /* base text size */
+  font-size: 0.8rem;     /* base text size */
 }
 
 .leaflet-popup-close-button {

@@ -6081,6 +6081,98 @@
           48.0618399
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "266",
+        "name": "Evergreen Aviation and Space Museum",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Home of the largest intact aircraft: The 1947 Hughes H-4 Hercules Spruce Goose. Notable aircraft also include a de Havilland Venom, SR-71 Blackbird, F-117 Nighthawk, X-15, and X38 Also a part of the museum is the Wings and Waves waterpark, where you can take 4 waterslides out of a retired Boeing 747.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.145433,
+          45.204284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "267",
+        "name": "Crater Lake National Park",
+        "street": "Crater Lake National Park, Rim Village, CRATER LAKE, OR 97604",
+        "country": "United States",
+        "state": "Oregon",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/crla/index.htm",
+        "description": "A 1949ft deep lake inside of the remnants of a 6 mile wide destroyed volcano. Other extinct volcanos surround the park, as do pinnacled badlands and old growth forests.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1021943,
+          42.9431792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "268",
+        "name": "Toketee Falls",
+        "street": "7H7F+J3, Idleyld Park, OR 97447",
+        "country": "",
+        "state": "Oregon",
+        "county": "United States",
+        "city": "",
+        "website": "http://www.fs.usda.gov/umpqua/",
+        "description": "A 120ft waterfall pours through an opening in columnar basalt cliffs in the thick woods of Umpqua National Forest near the entrance to Crater Lake National Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433945,
+          43.2634099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "269",
+        "name": "Fort Stevens State Park",
+        "street": "1675 Peter Iredale Rd, Hammond, OR 97121",
+        "country": "United States",
+        "state": "Oregon",
+        "county": "",
+        "city": "",
+        "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=129",
+        "description": "An overgrown WW2 fort overlooks the beaches of the ever shifting mouth of the Colombia River and the shipwreck of the Peter Iredale.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9755767,
+          46.1894606
+        ]
+      }
     }
   ]
 }
