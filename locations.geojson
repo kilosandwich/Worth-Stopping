@@ -6173,6 +6173,236 @@
           46.1894606
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "270",
+        "name": "Bonneville Salt Flats",
+        "street": "Bonneville Salt Flats State Park, Wendover, UT 84083",
+        "country": "United States",
+        "state": "Utah",
+        "county": "",
+        "city": "",
+        "website": "https://www.blm.gov/visit/bonneville-salt-flats",
+        "description": "The flat lifeless salt plains here are the dried up remains of a 100 mile long ancient lake. This flatness has been put to optimal use by the Bureau of Land Management - as a high speed drag strip to set land speed records.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8519863,
+          40.7766244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "271",
+        "name": "Golden Spike National Historical Park",
+        "street": "6200 N 22300 W, Corinne, UT 84307",
+        "country": "United States",
+        "state": "Utah",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/gosp/index.htm",
+        "description": "In 1869 the United States completed the longest railroad ever built and united the tracks of the nation with a single Golden Spike. Working replicas of the locomotives that met are present and reenactments of the Golden Spike ceremony are held here on a seasonal schedule.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5511013,
+          41.6172928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "272",
+        "name": "Great Sand Dunes National Park and Preserve",
+        "street": "11999 CO-150, Mosca, CO 81146",
+        "country": "United States",
+        "state": "Colorado",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The tallest sand dunes in the United States are between the Rocky Mountains and some grassland. Sand from dried up ancient lakes has piled dunes against the snowcapped mountains. These are the tallest sand dunes in North America with some up to 750ft tall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.527228,
+          37.7777167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "273",
+        "name": "Capulin Volcano National Monument",
+        "street": "46 Volcano Highway, Capulin, NM 88414",
+        "country": "United States",
+        "state": "New Mexico",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/cavo/",
+        "description": "Hike the rim and crater of a 1000ft extinct cone volcano surrounded by lush grassland. Don't worry, you can drive your car to the top - this is America after all.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9703256,
+          36.7821977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "274",
+        "name": "Little Jerusalem Badlands State Park",
+        "street": "County Road 400 and Gold Road, Oakley, KS 67748",
+        "country": "United States",
+        "state": "Kansas",
+        "county": "",
+        "city": "",
+        "website": "https://ksoutdoors.gov/State-Parks/Locations/Little-Jerusalem-Badlands",
+        "description": "Are the soaring badlands of Badlands National Park too tall for you? Are there too many people? What if I told you there were 100ft tall miniature badlands that you can easily hike up and down and all around. Stay on the trails, the Niobrara Chalk formations are soft and easily damaged, and this is all western Kansas really has going for it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9373706,
+          38.8036714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "275",
+        "name": "Tallgrass Prarie National Preserve",
+        "street": "2480B KS-177, Strong City, KS 66869",
+        "country": "United States",
+        "state": "Kansas",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/tapr/index.htm",
+        "description": "Grassland so flat and grassy that the Federal government decided to preserve it as the definition of grassland.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5581077,
+          38.4323498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "276",
+        "name": "Big Brutus",
+        "street": "6509 NW 60th St, West Mineral, KS 66782",
+        "country": "United States",
+        "state": "Kansas",
+        "county": "",
+        "city": "",
+        "website": "http://www.bigbrutus.org/",
+        "description": "The second largest electric shovel ever built was designed to strip the Kansas coal fields from 1962 to 1974. This 160ft piece of machinery is the museum - quite literally, the interior has been transformed into a museum space.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9384319,
+          37.2735026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "277",
+        "name": "J. M. Davis Arms and Historical Museum",
+        "street": "330 N J M Davis Blvd, Claremore, OK 74017",
+        "country": "United States",
+        "state": "Oklahoma",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "This is THE gun museum in the United States. 12,000 firearms are stored in seemingly endless rows of shelves. All because J.M. Davis's dad bribed his child to take his medicine with the promise of a shotgun - beginning a lifelong obsession.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6154028,
+          36.3149226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "278",
+        "name": "Strataca",
+        "street": "3650 E Ave G, Hutchinson, KS 67501",
+        "country": "United States",
+        "state": "Kansas",
+        "county": "",
+        "city": "",
+        "website": "http://www.underkansas.org/",
+        "description": "When you think \"Kansas\" do you think 150 miles of endless labyrinthian underground tunnels from which you may never escape? Travel in electric tram through 40ft tall salt mining tunnels 650ft below the surface to see the world's greatest salt mining museum. The massive salt mine also sees use as a 26 acre underground vault and storage area for valuable documents and film.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.867855,
+          38.0436584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "279",
+        "name": "Cosmosphere",
+        "street": "1100 N Plum St, Hutchinson, KS 67501",
+        "country": "United States",
+        "state": "Kansas",
+        "county": "",
+        "city": "",
+        "website": "http://www.cosmo.org/",
+        "description": "Going upwards is really fascinating to people that live in a land as flat as a pancake. The Cosmosphere is the largest collection of Soviet space artifacts outside of Moscow. Home to the Apollo 13 command module, Soviet Union Vostock and Voskhod 2 space capsules, a Titan II rocket; the actual filght-ready backup models for Sputnik 1, Sputnik 2, and Vanguard; replicas of the Space Shuttle Endeavour, and much much more.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9217054,
+          38.065156
+        ]
+      }
     }
   ]
 }
