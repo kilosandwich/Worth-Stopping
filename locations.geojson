@@ -6403,6 +6403,52 @@
           38.065156
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "280",
+        "name": "Dwight D. Eisenhower Presidential Library, Museum and Boyhood Home",
+        "street": "200 S E 4th St, Abilene, KS 67410",
+        "country": "United States",
+        "state": "Kansas",
+        "county": "",
+        "city": "",
+        "website": "https://www.eisenhowerlibrary.gov/",
+        "description": "Eisenhower was just a dude from Kansas who joined the military in 1915 and rose through the ranks. Being Supreme Allied Commander while winning the biggest war in history made him popular enough to win the presidency. Eisenhower enforced Civil Rights legislation, built the USA's highway system, started NASA and presided over the most prosperous economic period in American history. America has never again elected a man without a full head of hair.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2111061,
+          38.9116728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "281",
+        "name": "Oz Museum",
+        "street": "511 Road to Oz Highway, Wamego, KS 66547",
+        "country": "United States",
+        "state": "Kansas",
+        "county": "",
+        "city": "",
+        "website": "http://www.ozmuseum.com/",
+        "description": "Kansas is best known internationally for being the place Dorothy from the Wizard of Oz chose over staying in a magical world. At the Oz museum you can watch her repeat this decision over and over again in their theater. You can also take pictures with various recreations of the set and characters.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3054151,
+          39.202515
+        ]
+      }
     }
   ]
 }
