@@ -1,7 +1,7 @@
 
 # Worth Stopping
 
-**What if there was a website where only the good stuff was listed?** 
+**What if there was a travel website where only the good stuff was listed?** 
 
 The most beautiful parks, the best museums, and the most delicious food. That is the idea behind Worth Stopping. 
 
@@ -10,6 +10,7 @@ Worth Stopping makes traveling fun and easy - click the location marker and simp
 
 # Creating Worth Stopping
 *How did you find all these places?*
+
 1.) Look up every park run by the central government of wherever you are looking. Usually National and State/Provincial levels. 
 
 2.) Look up every museum ship. 

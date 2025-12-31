@@ -6933,6 +6933,192 @@
           36.4357981
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "303",
+        "name": "Fantastic Caverns",
+        "street": "4872 N Farm Rd 125, Springfield, MO 65803",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "",
+        "website": "https://www.missouriscave.com/",
+        "description": "These caverns are so massive you can drive a car through them, and you do. Take an hour long jeep-towed journey through the path of an ancient underground river.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3596132,
+          37.2888608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "304",
+        "name": "Ha Ha Tonka State Park",
+        "street": "1491 Missouri D, Camdenton, MO 65020",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "",
+        "website": "https://mostateparks.com/park/ha-ha-tonka-state-park",
+        "description": "Explore an abandoned mansion on the edge of the soaring cliffs of Ha Ha Tonka State Park. The surroundings are gorgeous too with sinkholes, waterfalls, caves, and a natural bridge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7685943,
+          37.9731986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "305",
+        "name": "Harry S. Truman Presidential Library and Museum",
+        "street": "500 W US Hwy 24, Independence, MO 64050",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "",
+        "website": "http://www.trumanlibrary.gov/",
+        "description": "Harry S. Truman replaced Henry A. Wallace as Vice President because Wallace was considerd too left-wing, and as a result became President upon President Franklin Delano Roosevelt's Death. Truman authorized the first use of nuclear weapons in war, the Berlin Airlift, desegregation of the armed forces, and began demilitarization following the victory of WW2. As a result the nation found itself unprepared for the Korean War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4212615,
+          39.1033816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "306",
+        "name": "National World War I Museum and Memorial",
+        "street": "2 Memorial Dr, Kansas City, MO 64108",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "Kansas City",
+        "website": "https://www.theworldwar.org/",
+        "description": "Kansas residents started a fundraising drive in 1919 and as a result the WWI memorial was built in Kansas City in 1926. The memorial features a massive stone observation tower, and a museum to the second largest war fought so far in the European thunderdome.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5876084,
+          39.0802508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "307",
+        "name": "Forest Park (St. Louis)",
+        "street": "",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "",
+        "website": "https://stlzoo.org/",
+        "description": "Forest Park is the former site of the 1904 World's Fair - and with the number of free world class museums its as if the World's Fair is still happening. Forest Park features: the St Louis Zoo, St. Louis Art Museum, Missouri History Museum, art deco greenhouse, and the St. Louis Science Center.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2839938,
+          38.639687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "308",
+        "name": "Bonne Terre Mine",
+        "street": "185 Park Ave, Bonne Terre, MO 63628",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "",
+        "website": "http://www.bonneterremine.com/",
+        "description": "Go scuba diving around abandoned mining equipment at the world's largest subterranean lake in a submerged 150-year old lead mine. There's also a brief boat tour if swimming in a lead mine sounds like a bad idea to you. It gets busy - so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5515175,
+          37.9225143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "309",
+        "name": "Meramec State Park",
+        "street": "115 Meramec Pk Rd, Sullivan, MO 63080",
+        "country": "United States",
+        "state": "Missouri",
+        "county": "",
+        "city": "",
+        "website": "http://mostateparks.com/park/meramec-state-park",
+        "description": "Most spectacular cave tours have lighting - this one doesn't. So keep your hands on your flashlight, and don't stray off the path.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1059419,
+          38.2065918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "310",
+        "name": "Onondaga Cave State park",
+        "street": "7556 Missouri H, Leasburg, MO 65535",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://mostateparks.com/park/onondaga-cave-state-park",
+        "description": "Onondaga cave is tall, REALLY tall and there's a mile of it for tours. If Onondaga cave isn't enough for you there is also Cathedral Cave which looks as if the ceiling is melting.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2364868,
+          38.06194
+        ]
+      }
     }
   ]
 }
