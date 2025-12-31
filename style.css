@@ -3,6 +3,8 @@ html, body {
   padding: 0;
   height: 100%;     /* REQUIRED */
   font-size: medium;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -29,6 +31,8 @@ NAVIGATION BAR SECTION
   top: 0;
   left: 0;
   right: 0;
+  
+  
 
   background: #fff;
   border-bottom: 1px solid #ccc;
@@ -152,7 +156,7 @@ DROP DOWN MENU SECTION
   border: 1px solid #ccc;
   display: none;   /* HIDE BY DEFAULT */
   flex-direction: column;
-  width: 160px;
+  width: 10rem;
   z-index: 4000;
   padding: 8px 12px;
 }
@@ -195,7 +199,7 @@ DROP DOWN MENU SECTION
   pointer-events: auto;
   background: #fff;
   border: 1px solid #ccc;
-  width: 220px;
+  width: 13.75rem;
 }
 
 
@@ -292,7 +296,7 @@ Leaflet popup section
 }
 
 .about-content {
-  max-width: 900px;
+  max-width: 75vw;
   margin: 0 auto;
   padding: 20px 24px;
   font-family: sans-serif;
