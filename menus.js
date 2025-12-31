@@ -15,7 +15,10 @@ where they could feasibly fit.
 // Show/hide search panel
 
 const menuButton = document.getElementById('nav-menu');
+const menuDropdown = document.getElementById('menu-dropdown');
 const dropdown   = document.getElementById('menu-dropdown');
+const faqLink = document.getElementById('faq-link');
+const aboutLink =document.getElementById('about-link');
 
 //This is the menu button
 //I want it such that when any button within the menu button is pushed that it hides the dropdown. 
@@ -24,17 +27,35 @@ menuButton.addEventListener('click', () => {
   dropdown.style.display =
     dropdown.style.display === 'flex' ? 'none' : 'flex';
   document.getElementById('about-dropdown').classList.add('hidden');
+  document.getElementById('faq-dropdown').classList.add('hidden');
 });
 
-//this is the about click handler
-document.querySelector('#menu-dropdown a').addEventListener('click', e => {
+//this is the ABOUT click handler
+aboutLink.addEventListener('click', e => {
+  console.log("The About button has been pushed!");
   e.preventDefault();
   //hide the dropdown when the about button is pushed
     dropdown.style.display =
     dropdown.style.display === 'flex' ? 'none' : 'flex';
   //show the about menu if it is hidden, hide it if it is visible
   document.getElementById('about-dropdown').classList.toggle('hidden');
+
 });
+
+//faq
+faqLink.addEventListener('click', e => {
+  e.preventDefault();
+    //hide the dropdown when the about button is pushed
+    dropdown.style.display =
+    dropdown.style.display === 'flex' ? 'none' : 'flex';
+  console.log("The FAQ button has been pushed!");
+
+
+  // Toggle the FAQ panel
+  document.getElementById('faq-dropdown').classList.toggle('hidden');
+});
+
+
 // END MENU SECTION/////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
 
