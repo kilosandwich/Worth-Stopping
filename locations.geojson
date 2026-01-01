@@ -7512,6 +7512,421 @@
           31.9029034
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "328",
+        "name": "Chiricahua National Monument",
+        "street": "12856 East Rhyolite Creek Road, Willcox, AZ 85643",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/chir/index.htm",
+        "description": "It really looks like someone had just spent the past few thousand years balancing rocks on top of each other. Hoodoos, arches, and balancing rocks as far as the eyes can see. All formed from eroded volcanic ash.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3416624,
+          32.0122111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "329",
+        "name": "Grand Canyon National Park",
+        "street": "8 S Entrance Rd, Grand Canyon Village, AZ 86023",
+        "country": "United Staes",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/grca/index.htm",
+        "description": "This is THE Canyon. 277 miles of mile deep canyon, and you start at the top looking down. Even if there is snow at the top, the bottom is still a scorching desert. If you plan to hike it, it is way harder to go down than it is to go back up, and NO you can't drive to the bottom despite this being America.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3553191,
+          36.2674522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "330",
+        "name": "Havasu Creek",
+        "street": "Havasupai, Supai, AZ 86435",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.havasupaireservations.com/",
+        "description": "Havasu Creek is a bright blue stream on the Havasupai indian Reservation home to meandering waterfall oasis canyons in the hot desert. This includes the 100ft Havasu Falls. Good luck getting there - the only way in is by helicopter, hiking, or riding a donkey.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6980481,
+          36.2547978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "331",
+        "name": "Vermillion Cliffs National Monument",
+        "street": "745 US-89, Kanab, UT 84741",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.blm.gov/national-conservation-lands/arizona/vermilion-cliffs",
+        "description": "The arches and canyons here look like the layered brush strokes of a Van-gough painting. You need a permit. There's no roads - so once you're in you can roam free. Make sure to check out The Wave at the Coyote Buttes North trailhead - which is only accessible by daily lottery.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8272242,
+          36.8623197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "332",
+        "name": "Antelope Canyon",
+        "street": "AZ-98, Page, AZ 86040",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/",
+        "description": "The curved canyons of Antelope Canyon look straight out of the movie Dune and is exclusively accessible through guided tours.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.374546,
+          36.8627404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "333",
+        "name": "Navajo National Monument",
+        "street": "Visitor Center, Kayenta, AZ 86033",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/nava/index.htm",
+        "description": "Massive alcoves in the cliffs are full of the ancient Native American cliff-dwelling villages.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5459661,
+          36.6781918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "334",
+        "name": "Monument Valley",
+        "street": "U.S. 163 Scenic, Oljato-Monument Valley, UT 84536",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://navajonationparks.org/tribal-parks/monument-valley/",
+        "description": "Massive sandstone buttes stand alone in the desert. These are the quintessential images of the American Southwest.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0746282,
+          36.9430753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "335",
+        "name": "Canyon de Chelly National Monument",
+        "street": "Indn Rte 7, Chinle, AZ 86503",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/cach/index.htm",
+        "description": "A 750ft vertical sandstone spire, ancient cliff dwellings, and sheer cliffs. Visits to the canyon floor are only by permit or tour.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.539412,
+          36.1531495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "336",
+        "name": "Petrified Forest National Park",
+        "street": "1 Park Rd, Petrified Forest National Park, AZ 86028",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/pefo/index.htm",
+        "description": "Ancient forests have toppled over and turned to rainbow colored stone in this colorful canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7825548,
+          35.0661375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "337",
+        "name": "Meteor Crater",
+        "street": "Meteor Crater Rd, Winslow, AZ 86047",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://meteorcrater.com/",
+        "description": "The most obvious sign of a meteor impact you are ever gong to see on this planet a - 3700ft wide crater. The actual meteor is in the visitor's center here.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0231332,
+          35.0272094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "338",
+        "name": "Slide Rock State Park",
+        "street": "6871 AZ-89A, Sedona, AZ 86336",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://azstateparks.com/slide-rock/",
+        "description": "Slide Rock State Park is like if the Grand Canyon had lots and lots of very green trees while still being made of tall red rock.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7530262,
+          34.9434694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "339",
+        "name": "Coconino National Forest",
+        "street": "1824 S Thompson St, Flagstaff, AZ 86001",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.fs.usda.gov/coconino",
+        "description": "Pretty much all of the forests and canyons of Arizona are part of Cococino National Forest - this includes all the beautiful trails out in Sedona. There are simply too many beautiful sites within the forest to choose from, so the entire forest has been included.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5591235,
+          34.9131325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "340",
+        "name": "Hall of Flame Fire Museum",
+        "street": "6101 E Van Buren St, Phoenix, AZ 85008",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://www.hallofflame.org/",
+        "description": "This is THE firetruck/firefighting museum. The world's largest firefighting museum has over 130 firetrucks. Arizona is a desert, so things catch on fire a lot here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9532415,
+          33.4476211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "341",
+        "name": "Organ Pipe Cactus National Monument",
+        "street": "10 Organ Pipe Dr, Ajo, AZ 85321",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/orpi/index.htm",
+        "description": "Organ Pipe Cactus are a bundle of stems that grow up to 26ft in height, and at Organ Pipe Cactus National Monument there's a whole forest of them.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.837992,
+          32.0262153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "342",
+        "name": "Arizona-Sonora Desert Museum",
+        "street": "2021 N Kinney Rd, Tucson, AZ 85743",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.desertmuseum.org/",
+        "description": "All the cool wildlife and plants of Arizona in one beautifully landscaped place. Coyotes, prarrie dogs, bighorn sheep, cougars, hawks, and owls.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1665033,
+          32.2429438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "343",
+        "name": "Tombstone, Arizona",
+        "street": "395 E Allen St, Tombstone, AZ 85638",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://www.tombstonechamber.com/",
+        "description": "The entire city of Tombstone, Arizona has preserved its boomtown architecture and heritage of wild-west gunfights. The gunfight at the O.K. Corral happened here, and formed the archetype of the American Wild West.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0673682,
+          31.7128712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "344",
+        "name": "Kartchner Caverns State Park",
+        "street": "2980 AZ-90, Benson, AZ 85602",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://azstateparks.com/kartchner/",
+        "description": "2.4 miles of stunning 50,000 year old limestone caves in the Arizona desert. Get a reservation, this cave is busy.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3483948,
+          31.8362635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "345",
+        "name": "Old Tucson Studios",
+        "street": "201 Kinney Rd, Tucson, AZ 85735",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://oldtucson.com/",
+        "description": "This is literally the wild west town you see in movies and television.  That's because pretty much every production that needed a wild west setting was filmed here at this movie studio from 1939-present.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1307748,
+          32.2177498
+        ]
+      }
     }
   ]
 }
