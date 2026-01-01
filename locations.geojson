@@ -4876,7 +4876,8 @@
         "website": "http://www.hjemkomstcenter.com/",
         "description": "Minnesotans celebrated their Scandanavian heritage by building a replica of the Hopperstad Stave Church and a replica of the Gokstand Viking longboat.",
         "worth stopping": true,
-        "museum": true
+        "museum": true,
+        "architecture": true
       },
       "geometry": {
         "type": "Point",
@@ -7279,6 +7280,236 @@
         "coordinates": [
           -91.3803331,
           40.3905032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "318",
+        "name": "Devils Tower",
+        "street": "Devils Tower-National Monument Rd, Devils Tower, WY 82714",
+        "country": "United States",
+        "state": "Wyoming",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/deto/index.htm",
+        "description": "The core of a dead volcano petrified on the surface of Wyoming. Native American tribes rumor that this near vertical 1,267ft columnar butte was formed by massive bears scraping their claws against its sides.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.716383,
+          44.590706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "319",
+        "name": "Independence Rock",
+        "street": "WY-220, Alcova, WY 82620",
+        "country": "United States",
+        "state": "Wyoming",
+        "county": "",
+        "city": "",
+        "website": "http://wyoparks.state.wy.us/index.php/places-to-go/independence-rock",
+        "description": "An out of place bulbous 130ft rock between two mountain ranges is inscribed with the names of the settlers who passed by it on the Oregon Trail. If you ever played Oregon Trail, you know this rock well.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1313736,
+          42.4937969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "320",
+        "name": "Yellowstone National Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/yell/index.htm",
+        "description": "One day the Yellowstone Caldera will erupt and scour half of North America. For now, enjoy 2.2 million acres of geysers, bubbling hot springs, 350+ waterfalls,  and dazzling canyons of the world's first National Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8282727,
+          44.4604136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "321",
+        "name": "Old Faithful Inn",
+        "street": "3200 Old Faithful Inn Rd, Yellowstone National Park, WY 82190",
+        "country": "United States",
+        "state": "Wyoming",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/places/000/old-faithful-inn.htm",
+        "description": "The largest log structure in the world is built next to the Old Faithful Geyser. It's all wood and is a masterpiece within its own right. This is the massive lodge that all park lodges try to imitate.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8313405,
+          44.4597676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "322",
+        "name": "Bannack State Park",
+        "street": "721 Bannack Rd, Dillon, MT 59725",
+        "country": "United States",
+        "state": "Montana",
+        "county": "",
+        "city": "",
+        "website": "https://fwp.mt.gov/stateparks/bannack-state-park",
+        "description": "A real mining ghost town in the dry hills of Montana. Yes you can go in the buildings - it's encouraged.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9972492,
+          45.1619302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "323",
+        "name": "Castles N Coasters",
+        "street": "9445 N Metro Pkwy E, Phoenix, AZ 85051",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.castlesncoasters.com/",
+        "description": "Home of the official Operation Desert Storm rollecoaster. The arcade feels like what it must have been like to enter Saddam Hussein's palace. Stray cats roam the immaculate landscaping of the mini golf courses and live in the tiny structures there.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1187221,
+          33.5723724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "324",
+        "name": "Saguaro National Park",
+        "street": "3693 S Old Spanish Trail, Tucson, AZ 85730",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/sagu/index.htm",
+        "description": "These cacti are nothing like the little plants you leave to die in your windowsill - they're 60ft tall and live for 100 years. There is a whole forest of Saguaro Cacti in Saguaro National Park. The park is divided into two districts: the Tucson Mountain District and the Rincon Mountain District, each with their own visitor's center and trails.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6129969,
+          32.1830859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "325",
+        "name": "Pima Air And Space Museum",
+        "street": "6000 E Valencia Rd, Tucson, AZ 85756",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://www.pimaair.org/",
+        "description": "This is THE air and space museum. Look, I know I said that about the USAF museum, but this is a close second. 400+ aircraft lay over 80-acres and 6 hangers akin to an aircraft boneyard in the Arizona desert. You can walk up to most of the aircraft, there are no ropes or fences, but the hot metal is its own deterrent. Featuring 3 different B-52s, A B-36 (the largest bomber ever built), YC-14, SR-71, B-58, an airborne observatory inside of a 747, etc....basically every aircraft you could ever want to see.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8681521,
+          32.1393765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "326",
+        "name": "Biosphere 2",
+        "street": "32540 S Biosphere Rd, Oracle, AZ 85623",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "https://biosphere2.org/",
+        "description": "The largest closed ecological system ever constructed designed to simulate a life support system for space colonization. Every biome is simulated: rainforest, ocean (complete with coral reef), mangrove wetlands, savnnah grassland, and a fog desert. Now available for tour - and this time the humans inside won't run out of oxygen.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8522323,
+          32.5785278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "327",
+        "name": "Titan Missile Museum",
+        "street": "1580 W Duval Mine Rd, Green Valley, AZ 85614",
+        "country": "United States",
+        "state": "Arizona",
+        "county": "",
+        "city": "",
+        "website": "http://www.titanmissilemuseum.org/",
+        "description": "Nuclear missile silo complete with nuclear missile. Titan II missiles were the backbone of the USAs land based deterrent until the Minuteman missile series. You can go into the control room and look at the missile on various tours.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9995159,
+          31.9029034
         ]
       }
     }
