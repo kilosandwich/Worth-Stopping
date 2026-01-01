@@ -4891,7 +4891,7 @@
       "type": "Feature",
       "properties": {
         "uid": "214",
-        "name": "Scandanavian Heritage Association",
+        "name": "Scandinavian Heritage Park",
         "street": "1020 S Broadway, Minot, ND 58701",
         "country": "United States",
         "state": "North Dakota",
@@ -7925,6 +7925,325 @@
         "coordinates": [
           -111.1307748,
           32.2177498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "346",
+        "name": "Falls Park",
+        "street": "131 E Falls Park Dr, Sioux Falls, SD 57104",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://siouxfalls.gov/explorethefalls",
+        "description": "Rushing waters over pink rock with no guardrails to stop you. Seriously, you can hop on the rocks until you are in the middle of the waterfall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7241531,
+          43.5566474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "347",
+        "name": "Palisades State Park",
+        "street": "48422 256th St, Garretson, SD 57030",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://gfp.sd.gov/parks/detail/palisades-state-park/",
+        "description": "Pink rock forms 50ft tall vertical cliffs and freestanding stacks and hoodoos at Palisades State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5167275,
+          43.6906317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "348",
+        "name": "Devils Gulch Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.visitgarretson.com/tourismrecreation/devils-gulch-park/",
+        "description": "Outlaw Jesse James jumped the  raging rapids and pink quartize pinnacles of this chasm on horseback. Now you can walk it thanks to the handy steel grate bridge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4949194,
+          43.7230617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "349",
+        "name": "Minuteman Missile National Historic Site",
+        "street": "24545 CottonWood Rd, Philip, SD 57567",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/mimi/",
+        "description": "There are 450 active Minuteman III  nuclear missiles in the surrounding area, visit their retired sibling the Minuteman II and its launch control system. Tour the Delta-01 Launch Control Facility to see the keys to armageddon, then pop on by the Delta-09 Minuteman Missile Silo. You will need to book a tour - it's a nuclear missile silo.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9014354,
+          43.8445064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "350",
+        "name": "Badlands National Park",
+        "street": "25216 SD-240, Interior, SD 57750",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/badl/index.htm",
+        "description": "244,000 acres of the most scenic badlands in the world. Bighorn sheep and prarrie dogs are abundant, and the vistas are seemingly endless. Because it's America, you can tour the entire rim by automobile.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3424452,
+          43.855361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "351",
+        "name": "Mount Rushmore National Memorial",
+        "street": "13000 SD-244 Building 31, Keystone, SD 57751",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/moru/index.htm",
+        "description": "The USA carved massive 60ft scultpures of its best presidents into the Black Hills of South Dakota. It's very far away from the viewing platform, so it looks much smaller in person. This is the sculpture that all other sculptures carved into mountainsides tries to imitate.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4589927,
+          43.8788123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "352",
+        "name": "Black Elk Peak",
+        "street": "Sylvan Lake - Harney, Keystone, SD 57751",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.fs.usda.gov/r02/blackhills/recreation",
+        "description": "The highest point in South Dakota with a perfect view to take in all the beauty of the Black Hills. There's an observation tower at the very top. The best trailhead is located in Custer State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5311647,
+          43.8659534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "353",
+        "name": "Custer State Park",
+        "street": "13438 US Hwy 16A, Custer, SD 57730",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://gfp.sd.gov/parks/detail/custer-state-park/",
+        "description": "If Custer State Park wasn't a state park, it would be a national park - that's how good it is. All the trails that are worth going to: Black Elk Peak, Cathedral Spires, Needles Eye Tunnel, Sunday Gulch, etc. are all here. The Wildlife Loop Road lets you get literally next to wild Bison who are acclimated to cars.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3700557,
+          43.7602013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "354",
+        "name": "Black Hills National Forest",
+        "street": "",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.fs.usda.gov/blackhills",
+        "description": "The Black Hills are a mountainous island of green  surrounded by the Great Plains. Black Hills National Forest contains most of the trails and scenic roadways, with the rest being part of Custer State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8548487,
+          44.0147921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "355",
+        "name": "Spearfish Canyon",
+        "street": "10605 Wildlife Ln, Lead, SD 57754",
+        "country": "United States",
+        "state": "South dakota",
+        "county": "",
+        "city": "",
+        "website": "https://gfp.sd.gov/parks/detail/spearfish-canyon-nature-area/",
+        "description": "Spearfish canyon is a gorge filled with waterfalls part of the Black Hills National Forest. Make sure to check out Spearfish Falls and Roughlock falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9244585,
+          44.3501326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "356",
+        "name": "Homestake Mine (South Dakota)",
+        "street": "160 W Main St, Lead, SD 57754",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.sanfordlab.org/slhvc",
+        "description": "This 8000ft deep former gold mine has been converted into into the Deep Underground Science and Engineering Laboratory - the deepest underground laboratory in the United States. Research into dark matter and neutrinos is conducted there due to the ability to escape cosmic radiation. Now you can stare into the void of the pit of the mine - which is a sight in itself.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7638973,
+          44.3520683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "357",
+        "name": "Crazy Horse Memorial",
+        "street": "Crazy Horse, SD 57730",
+        "country": "Crazy Horse, SD 57730",
+        "state": "United States",
+        "county": "South Dakota",
+        "city": "",
+        "website": "https://crazyhorsememorial.org/",
+        "description": "This mountainside carving will be the largest in the world if it's ever completed - the face alone is larger than the heads of Mount Rushmore.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.624517,
+          43.8366163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "358",
+        "name": "Wind Cave National Park",
+        "street": "26611 US-385, Hot Springs, SD 57747",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/wica/index.htm",
+        "description": "The boxwork walls of Wind Cave look like a terrifying spiderweb, and the cave breathes as if you were in the innards of some horrible creature. You have to purchase a tour to see the caves, and you can only do that at the visitor's center the day of.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4788398,
+          43.5566402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "359",
+        "name": "Jewel Cave National Monument",
+        "street": "11149 US-16 B-12, Custer, SD 57730",
+        "country": "United States",
+        "state": "South Dakota",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/jeca/index.htm",
+        "description": "Calcite crystals line the walls of this 220 mile breathing cave in the Black Hills of South Dakota. You need a reservation to visit this busy cave, so try to book months in advance online."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.829435,
+          43.7298436
         ]
       }
     }

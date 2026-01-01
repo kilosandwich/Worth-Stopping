@@ -1,5 +1,5 @@
 :root {
-  --navbar-height: 7rem; /* Set height variables.*/
+  --navbar-height: 5.25rem; /* Set height variables.*/
 }
 
 
@@ -75,7 +75,7 @@ NAVIGATION BAR SECTION
   font-weight: bold;
   font-size: 1.3rem;
   padding-top: 0.5rem;   /* adjust to taste */
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
 
 }
 /* Left group stays left */
@@ -335,8 +335,10 @@ Leaflet popup section
    ========================= */
 
 .about-panel {
-  position: relative;
+  position: absolute;
+  top: var(--navbar-height);       
   left: 0;
+  bottom: 0;
   width: 100%;
   background-color: #ffffff;
   border-bottom: 1px solid #ccc;
@@ -378,7 +380,7 @@ Leaflet popup section
 #edit-dropdown {
   display: none;              /* editor.js should set to block when opened */
   position: absolute;
-  top: 0;                  /* must match #navbar height */
+  top: var(--navbar-height);                /* must match #navbar height */
   left: 0;
   right: 0;
   bottom: 0;
