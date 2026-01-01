@@ -4,7 +4,7 @@ html, body {
   height: 100%;     /* REQUIRED */
   font-size: medium;
   max-width: 100%;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 body {
@@ -36,7 +36,7 @@ NAVIGATION BAR SECTION
 
   background: #fff;
   border-bottom: 1px solid #ccc;
-  z-index: 1000;
+  z-index: 1001;
 
   display: flex;
   flex-direction: column;
