@@ -1,3 +1,8 @@
+:root {
+  --navbar-height: 7rem; /* Set height variables.*/
+}
+
+
 html, body {
   margin: 0;
   padding: 0;
@@ -24,6 +29,11 @@ body {
 
 
 #map {
+position: fixed;
+top: var(--navbar-height);
+left: 0;
+right: 0;
+bottom: 0;
 flex: 1;
 min-height: 0;
 touch-action: manipulation;
@@ -36,17 +46,18 @@ NAVIGATION BAR SECTION
 */
 
 #navbar {
-  position: sticky;         /* stays above the map */
-  flex-shrink: 0;
+  position: fixed;
+  height: var(--navbar-height);
   top: 0;
   left: 0;
-  right: 0;
+  right: 0;        /* stays above the map */
+  flex-shrink: 0;
   
   
 
   background: #fff;
   border-bottom: 1px solid #ccc;
-  z-index: 1001;
+  z-index: 9001;
 
   display: flex;
   flex-direction: column;
@@ -125,7 +136,7 @@ SEARCH BAR SECTION
 .search-panel {
   display: none;
   position: relative;
-  top: 48px;
+  top: var(--navbar-height);
   left: 0;
   right: 0;
   background: #ffffff;
@@ -160,7 +171,8 @@ DROP DOWN MENU SECTION
 ==================================
 */
 .dropdown {
-  position: relative;
+  position: fixed;
+  top: var(--navbar-height);
   right: 0px;
   background: #fff;
   border: 1px solid #ccc;
