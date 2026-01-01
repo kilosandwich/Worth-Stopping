@@ -7119,6 +7119,168 @@
           38.06194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "311",
+        "name": "Enchanted Forest (Oregon)",
+        "street": "8462 Enchanted Way SE, Turner, OR 97392",
+        "country": "United States",
+        "state": "Oregon",
+        "county": "",
+        "city": "",
+        "website": "http://www.enchantedforest.com/",
+        "description": "Enchanted Forest amusement park converted a waterslide into a in-house built rollercoaster, the resulting engineering creation is a beautiful monstrosity. Additionally the park has a re-creation of various fairy tales, and they look right in place in the haunted forests of Oregon.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0089479,
+          44.8313302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "312",
+        "name": "Iowa 80",
+        "street": "https://iowa80truckstop.com/",
+        "country": "United States",
+        "state": "Iowa",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Go Truck Yourself at the world's largest truck stop! Go to the truck museum, the truck movie theater, the truck dentist, the truck church, the truck gift shop, and the SUPER TRUCK SHOWROOM. It's a trucker's paradise - except that it's in Iowa.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7814177,
+          41.6179184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "313",
+        "name": "Herbert Hoover Presidential Museum and Library",
+        "street": "210 Parkside Dr, West Branch, IA 52358",
+        "country": "United States",
+        "state": "Iowa",
+        "county": "",
+        "city": "",
+        "website": "https://hoover.archives.gov/",
+        "description": "Herbert Hoover was born on a ranch, became a wealthy mining engineer, saved Belgium from starvation in World War I as the head of the Belgian relief Commission, saved Russia and Eastern Europe from starvation as head of the American Relief Administration, presided over the economic boom of the Roaring Twenties as Commerce Secretary, and successfully led the active Federal response to the Great Mississippi Flood of 1927. Herbert Hoover's work undoubtably saved millions of lives by the time he took office in 1929 - surely he would go down in history as a good president.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.348105,
+          41.6690882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "314",
+        "name": "John Deere Tractor And Engine Museum",
+        "street": "500 Westfield Ave, Waterloo, IA 50701",
+        "country": "United States",
+        "state": "Iowa",
+        "county": "",
+        "city": "",
+        "website": "https://about.deere.com/en-us/explore-john-deere/visit-us/john-deere-tractor-and-engine-museum",
+        "description": "Behold the evolution of the tractor and the cult of John Deere.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3532547,
+          42.498666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "315",
+        "name": "Maquoketa Caves State Park",
+        "street": "9688 Caves Rd, Maquoketa, IA 52060",
+        "country": "United States",
+        "state": "Iowa",
+        "county": "",
+        "city": "",
+        "website": "https://www.iowadnr.gov/maquoketacaves",
+        "description": "Natural bridges, 13 caves, rock strewn hills, and soaring bluffs - all somehow in Iowa. I'm probably underselling it, but a speed camera ticketed me in Iowa and that's impacting my favor.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7740874,
+          42.119524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "316",
+        "name": "The National Mississippi River Museum And Aquarium",
+        "street": "350 E 3rd St, Dubuque, IA 52001",
+        "country": "United States",
+        "state": "Iowa",
+        "county": "",
+        "city": "",
+        "website": "http://www.rivermuseum.org/",
+        "description": "If the boatshop and the 1934 river dredge William M. Black don't convince you to come here, the National Mississippi River Museum and Aquarium also has a Giant Pacific Octopus and river otters.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6614724,
+          42.4966775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "317",
+        "name": "George M. Verity (towboat)",
+        "street": "200 Mississippi Dr, Keokuk, IA 52632",
+        "country": "United States",
+        "state": "Iowa",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "See a  Mississippi River 1927 paddlewheeler towboat, one of the few Mississippi museum paddlewheelers that actually carried cargo and looks like how you imagine a paddlewheel ship would look.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3803331,
+          40.3905032
+        ]
+      }
     }
   ]
 }
