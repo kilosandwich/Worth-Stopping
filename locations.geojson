@@ -8246,6 +8246,307 @@
           43.7298436
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "360",
+        "name": "The Caverns",
+        "street": "555 Charlie Roberts Rd, Pelham, TN 37366",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "http://www.thecaverns.com/",
+        "description": "Have you ever wanted to listen to a rave inside of a cave. Now you can at The Caverns - the only concert venue I know of inside of a cave.  There's also cave tours, but those are just OK.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8250963,
+          35.331802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "361",
+        "name": "Big South Fork National River and Recreation Area",
+        "street": "4564 Leatherwood Rd, Oneida, TN 37841",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/biso",
+        "description": "Explore towering cliffs, natural bridges, waterfalls, and the abandoned mining town of Blue Heron, Kentucky - all nestled close to the Big South Fork Cumberland River.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7401024,
+          36.5442058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "362",
+        "name": "Titanic Museum (Pigeon forge, Tennessee)",
+        "street": "",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://titanicattraction.com/",
+        "description": "It only takes 100 years for a tragedy to become a romance. See the half-scale replica of the front half of the Titanic at the world's largest permanent Titanic museum. If you are rooting for the iceberg - I've got good news for you.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5788488,
+          35.820509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "363",
+        "name": "Dollywood",
+        "street": "2700 Dollywood Parks Blvd, Pigeon Forge, TN 37863",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://www.dollywood.com/",
+        "description": "The official amusement park of country music star and future saint: Dolly Parton, and consistently ranked among the top amusement parks worldwide.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5337801,
+          35.7962085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "364",
+        "name": "Great Smoky Mountains National Park",
+        "street": "1420 Fighting Creek Gap Rd, Gatlinburg, TN 37738",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/grsm/index.htm",
+        "description": "Waterfalls, cliffs, and endless rocky mountains covered in mist that resembles smoke. Make sure to check out Kuwohi (Clingman's Dome) - the highest point in the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.537284,
+          35.6858368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "365",
+        "name": "Craighead Caverns",
+        "street": "140 Lost Sea Rd, Sweetwater, TN 37874",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://thelostsea.com/",
+        "description": "Sail through caverns at the United State's largest underground lake - yes there's a waterfall and trout down here.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4309972,
+          35.5356647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "366",
+        "name": "Chickamauga and Chattanooga National Military Park",
+        "street": "110 Point Park Rd, Lookout Mountain, TN 37350",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/chch/index.htm",
+        "description": "20,000 soldiers fought through the clouds on top of Lookout Mountain for control of Chatanooga, as a part of the broader Chatnooga campaign of the U.S. Civil War.  Chickamauga was the largest battle of the Western Theater where 34,000 soldiers became casualties. Now you can walk the battlefields with a sky-high view of the city in the river-valley below.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3443495,
+          35.0109706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "367",
+        "name": "Ruby Falls",
+        "street": "1720 Scenic Hwy, Chattanooga, TN 37409",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://www.rubyfalls.com/",
+        "description": "A 60ft waterfall inside of a cave on top of Lookout Mountain - only accessible by tour.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3394703,
+          35.0190007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "368",
+        "name": "Fall Creek Falls State Park",
+        "street": "2009 Village Camp Rd, Spencer, TN 38585",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://tnstateparks.com/parks/gift-shops/fall-creek-falls",
+        "description": "A 256ft tall waterfall surrounded by bowl shaped cliffs is the main star of this park - but there's 7 other waterfalls and 4 caves if that's not enough for you. The waterfall and gorge have scenic overlooks and unsafe feeling rope bridges if somehow all other other things weren't enough for you. It's the most visited state park in Tennesse for a reason.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3561552,
+          35.6670713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "369",
+        "name": "Cumberland Caverns",
+        "street": "1437 Cumberland Caverns Rd, McMinnville, TN 37110",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://cumberlandcaverns.com/",
+        "description": "This cave is so large that they host concerns inside of it.  There's five seperate walking tours which do not even begin to cover the 32 miles of mapped passages.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6833211,
+          35.6662713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "370",
+        "name": "Rock Island State Park (Tennessee)",
+        "street": "82 Beach Rd, Rock Island, TN 38581",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://tnstateparks.com/parks/rock-island",
+        "description": "Twin Falls bursts seemingly out of nowhere from a cavern in the lush cliffs into the Caney Fork River just downstream of the Great Falls Dam. The cliffs, rapids, and gorge here are also quite impressive with a series of smaller waterfalls. There is also a derelict cotton mill in the woods available to explore.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6369698,
+          35.8088595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "371",
+        "name": "Burgess Falls State Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "A 136ft waterfall anchors this series of 4 waterfalls through a gorge in the forests of Tennessee. If it doesn't look tall enough, you can swim and kayak at the base and look up at the towering wall of rock and water above you (though you have to paddle 4 miles upriver to do so).",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5997876,
+          36.0438571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "372",
+        "name": "Cummins Falls State Park",
+        "street": "390 Cummins Falls Ln, Cookeville, TN 38501",
+        "country": "United States",
+        "state": "Tennessee",
+        "county": "",
+        "city": "",
+        "website": "https://tnstateparks.com/parks/cummins-falls",
+        "description": "The base of this 75ft waterfall and gorge are accessible with a permit to splash about in the tiers of cascades and rocks.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5702046,
+          36.2490809
+        ]
+      }
     }
   ]
 }
