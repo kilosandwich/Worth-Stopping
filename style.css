@@ -5,6 +5,15 @@ html, body {
   font-size: medium;
   max-width: 100%;
   overflow: hidden;
+  touch-action: none;
+  overscroll-behavior: none;
+  inset: 0;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
 }
 
 body {
@@ -15,9 +24,9 @@ body {
 
 
 #map {
-flex: 1 1 auto;
+flex: 1;
 min-height: 0;
-    
+touch-action: manipulation;
 }
 
 /*
@@ -28,6 +37,7 @@ NAVIGATION BAR SECTION
 
 #navbar {
   position: sticky;         /* stays above the map */
+  flex-shrink: 0;
   top: 0;
   left: 0;
   right: 0;
@@ -220,6 +230,11 @@ DROP DOWN MENU SECTION ABOVE THIS
 L+L+L+L+LL+L+L+L+L+L+L+L+L+L+L+L+
 Leaflet popup section
 ================================ */
+.leaflet-container {
+  z-index: 1;
+  touch-action: manipulation;
+}
+
 
 /*+ - zoom buttons */
 .leaflet-control-zoom.leaflet-bar a {
@@ -231,7 +246,16 @@ Leaflet popup section
 
 }
 
+.leaflet-control-zoom a {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  pointer-events: auto;
+  outline: none;
+}
 
+.leaflet-control-zoom a:focus {
+  outline: none;
+}
 
 
 

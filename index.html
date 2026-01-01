@@ -472,6 +472,18 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
+//OK, now that the map is created, prevent the map from focusing itself
+//and thus removing the navigation tab
+map.whenReady(() => {
+  document
+    .querySelectorAll('.leaflet-control-zoom a')
+    .forEach(a => {
+      a.setAttribute('tabindex', '-1');
+      a.addEventListener('focus', e => e.target.blur());
+    });
+});
+
+
 /*You want to do something to the map? It can only be done after the leaflet map object
 is created and linked to the raster tyles from the raster location (this can be local)
 a simple, theoretically if I want to load them from a local geoJSON file you would do so
