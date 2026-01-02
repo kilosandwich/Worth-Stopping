@@ -8547,6 +8547,466 @@
           36.2490809
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "373",
+        "name": "Knoebels Amusement Resort",
+        "street": "391 Knoebels Blvd, Elysburg, PA 17824",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.knoebels.com/",
+        "description": "Knoebels is a coal-mining themed amusement park/resort/lumber yard. Ride the coal-mining themed rollercoaster, tour the coal-mining museum, and buy little coal mining helmets for your kids. Knoebels is also home to the renowned rollercoaster Phoenix, considered the best wooden rollercoaster ever built - it has won the Golden Ticket Awards Top Wooden Rollercoaster from 2018-2025. Knoebels also operates the only wooden bobsled coaster in the world: Flying Turns.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5020589,
+          40.8793722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "374",
+        "name": "Ricketts Glen State Park",
+        "street": "695 PA-487, Benton, PA 17814",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/ricketts-glen-state-park",
+        "description": "24 waterfalls with stone plate pathways precariously flanking their sides. The trees form a perfect canopy meaning you are fully enclosed by the ridges, streams, and forests of Ricketts Glen State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2836982,
+          41.3236993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "375",
+        "name": "Lackawanna Coal Mine Tour",
+        "street": "1 Bald Mountain Road, Scranton, PA 18411",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.lackawannacounty.org/government/departments/parks_and_recreation/coal_mine_tour.php",
+        "description": "See where Santa's presents for the naughty list comes from in this tour of a 1903 coal mine.This is the last remaining mine in the Scranton region because the type of coal found in the region is no longer in high demand.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7152722,
+          41.416657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "376",
+        "name": "Steamtown National Historic Site",
+        "street": "350 Cliff St, Scranton, PA 18503",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "This railway museum is run by the National Park Service and the actual museum section features incredibly detailed history and walkthroughs of the Delaware, Lackawanna and Western Railroad. Walk through immaculately cared for railcars and see rare the Union Pacific Big Boy and DL&W MU electric commuter railcars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6713165,
+          41.4073037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "377",
+        "name": "Bills Old Bike Barn",
+        "street": "7145 Columbia Blvd, Bloomsburg, PA 17815",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "200+ historical motorcycles and americana in an indoor historical mockup of a fictional town called Billville.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3196282,
+          41.0397061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "378",
+        "name": "No. 9 Coal Mine and Museum",
+        "street": "9 Dock St, Lansford, PA 18232",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://www.no9coalmine.com/",
+        "description": "No. 9 Coal Mine was the longest continuously operated coal mine in the world, running from 1855 to 1972. During the mine tour you will dive 700ft below groud beneath a mountain to an oddly drippy anthracite coal mine. If the mine seems unsafe, well now you know why they invented strip mining.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8971679,
+          40.8287522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "379",
+        "name": "Ringing Rocks County Park",
+        "street": "Ringing Rocks Rd, Upper Black Eddy, PA 18972",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.buckscounty.gov/Facilities/Facility/Details/Ringing-Rocks-Park-5",
+        "description": "Get out your hammer and start smacking rocks in the rock field to hear the funny sounds they make at Ringing Rocks State Park. The rocks sound like bells when struck, it's really unique. Its a field full of people hitting rocks with hammers. Nature.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1295387,
+          40.5626255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "380",
+        "name": "Dorney Park",
+        "street": "3830 Dorney Park Rd, Allentown, PA 18104",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://www.dorneypark.com/",
+        "description": "Dorney Park (est. 1884) is the 5th oldest amusement park in the nation. It's also home to Demon Drop - the most inhuman and terrifying ride ever constructed. Featuring 8 rollercoasters, the best waterpark in the region, and a miniature railway from the 1930s whose cattlepen like locking cars are charming and a fire hazard.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "381",
+        "name": "Reading Pagoda",
+        "street": "98 Duryea Dr, Reading, PA 19602",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.readingpagoda.com/",
+        "description": "A 1908 Japanese Pagoda looms over the valley of Reading, Pennsylvania. This just goes to show that Americans have always been obsessed with Japan.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.905655,
+          40.336059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "382",
+        "name": "Valley Forge National Historical Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Valley Forge was the Continental Army's winter quarters during the winter of 1777-1778. During the winter here, Prussian military officer Friedrich von Steuben drilled the inexperienced militia until it was modeled after the most advanced military power in Europe - Prussia itself. At the park, you can witness the terrible housing conditions and fortifications that the Continental Army posessed and marvel at the fact they survived the winter at all.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4457468,
+          40.0998809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "383",
+        "name": "USS New Jersey",
+        "street": "100 Clinton St, Camden, NJ 08103",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://www.battleshipnewjersey.org/",
+        "description": "The WW2 era Iowa-class USS New Jersey is one of the most powerful battleships the United States ever fielded. The USS New Jersey fought in WW2, Korea, Vietnam, Lebanon, and the Persian Gulf. The massive warship is now available for tour in New Jersey.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1337849,
+          39.9393724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "384",
+        "name": "Independence Seaport Museum",
+        "street": "211 S Christopher Columbus Blvd, Philadelphia, PA 19106",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://www.phillyseaport.org/",
+        "description": "The Independence Seaport Museum features the USS Olympia - the only surviving American vessel from the Spanish-American war- and the WW2 era Balao-class submarine USS Becunana, and an indoor replica of the 1797 Schooner Dilligence.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1406368,
+          39.9459362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "385",
+        "name": "Museum of the American Revolution",
+        "street": "101 S 3rd St, Philadelphia, PA 19106",
+        "country": "United Staets",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.amrevmuseum.org/",
+        "description": "USA! USA! USA! Ok, the chant didn't exist yet because the 13-Colonies hadn't signed the constitution - but come see the greatest collection of American Revolution artifacts and paintings in the same city where independence was declared",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.145763,
+          39.9483002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "386",
+        "name": "Independence Hall",
+        "street": "520 Chestnut St, Philadelphia, PA 19106",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/inde/planyourvisit/independencehall.html",
+        "description": "Come see the compact place where the Declaration of Independence (1776) and the United States Constitution (1787) were both argued into existence by the founding fathers of the United States. The Liberty Bell is stored just across the street.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1512279,
+          39.9496178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "387",
+        "name": "Mutter Museum",
+        "street": "19 S 22nd St, Philadelphia, PA 19103",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://muttermuseum.org/",
+        "description": "Horrifying anatomical specimens and equipment that will make you go \"Wow that's President Grover Cleveland's tumor\". Also on site is half of Albert Einstein's brain, 139 skulls, and bones from people that had syphilus.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1765419,
+          39.9532433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "388",
+        "name": "Gettysburg National Military Park",
+        "street": "1195 Baltimore Pike Suite 100, Gettysburg, PA 17325",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/gett/index.htm",
+        "description": "This is THE battlefield to see in the USA. The battlefield is preserved exactly as it was during the U.S. Civil War in 1863, where 185,000 soldiers fought and 36,000 died on three days in July of 1863. The battlefield features expensive monuments, and interesting landscape - in particular the Devil's Den and Little Roundtop. The visitor center features an excellent explanation of the battle, the Gettysburg Address, and an impossibly large painting of the battle called the Cyclorama",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2261639,
+          39.8113396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "389",
+        "name": "Railroad Museum of Pennsylvania",
+        "street": "300 Gap Rd, Strasburg, PA 17579",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://rrmuseumpa.org/",
+        "description": "This railroad museum focuses on all the railroads in Pennsylvania. - and features over 100 locomotives and railcars. Prominent locomotives include the streamlined electric GG1, a B1 yard switcher, an 1838 Rocket, and the 1940's World's Fair replica of the John Bull.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1605124,
+          39.9821262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "390",
+        "name": "National Watch and Clock Museum",
+        "street": "514 Poplar St, Columbia, PA 17512",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "https://museum.nawcc.org/",
+        "description": "So many interesting clocks that you'll lose track of time. Horology is just as fun as the way it's pronounced would imply.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5021429,
+          40.0370616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "391",
+        "name": "The Hershey Story Museum",
+        "street": "63 W Chocolate Ave, Hershey, PA 17033",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "http://hersheystory.org/",
+        "description": "The closest we will ever come to Willy Wonka's chocolate factory in real life. Hershey, Pennsylvania's entire economy is devoted to this chocolate manufacturer - and the amusement park owned by the chocolate manufacturer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6521964,
+          40.2852449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "392",
+        "name": "Hersheypark",
+        "street": "100 Hersheypark Dr, Hershey, PA 17033",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "This candy themed amusement park really feels like what would have been built if Willy Wonka was an American. It's also the largest amusement park on the U.S. East Coast, with 15 different rollercoasters that are all somehow good.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6566309,
+          40.2879945
+        ]
+      }
     }
   ]
 }
