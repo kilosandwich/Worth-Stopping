@@ -637,3 +637,40 @@ async function randomLocation(geojsonFilePath ="locations.geojson"){
   centerMapOnCoordinates(coordinates, 17);
 
 }
+
+function hideAllOverlays(map) {
+  console.log("Hiding all layers!");
+  // Use a Set to avoid duplicates across repeated hides
+  if (!map._hiddenOverlays) map._hiddenOverlays = new Set();
+
+  map.eachLayer(layer => {
+    // Keep base tiles; hide everything else that is currently on the map
+    if (!(layer instanceof L.TileLayer)) {
+      map._hiddenOverlays.add(layer);//put overlays on a hidden array for the map, we will access this later. 
+      map.removeLayer(layer);
+    }
+  });
+}
+
+function restoreAllOverlays(map) {
+  console.log("Let's add back those hidden layers!");
+  const hidden = map._hiddenOverlays;
+  if (!hidden || hidden.size === 0) return;
+
+  hidden.forEach(layer => {
+    // Add back only if it's not already on the map
+    if (!map.hasLayer(layer)) {
+      map.addLayer(layer);
+    }
+  });
+
+  hidden.clear();
+}
+
+
+function toggleAllOverlays(map) {
+  const hidden = map._hiddenOverlays;
+  if (hidden && hidden.size > 0) restoreAllOverlays(map);
+  else hideAllOverlays(map);
+}
+
