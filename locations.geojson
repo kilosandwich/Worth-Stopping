@@ -9122,6 +9122,98 @@
           39.5457961
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "398",
+        "name": "Fort Delaware State Park",
+        "street": "55 Clinton St, Delaware City, DE 19706",
+        "country": "United States",
+        "state": "Delaware",
+        "county": "",
+        "city": "",
+        "website": "https://www.destateparks.com/park/fort-delaware/",
+        "description": "This War of 1812 era fort has also acted as a prisoner of war camp, and is surrounded by a moat and a river - giving the impression of a castle. The fort is only accessible by boat.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5678522,
+          39.5893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "399",
+        "name": "Air Mobility Command Museum",
+        "street": "1301 Heritage Rd, Dover AFB, DE 19902",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.amcmuseum.org/",
+        "description": "How the heck does the most powerful military on earth move stuff around by air? This museum features basically every model of U.S.A. airlifter aircraft - all 35 of them- and yes, you can go inside many of them.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4567894,
+          39.1189229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "400",
+        "name": "Cape Henlopen State Park",
+        "street": "15099 Cape Henlopen Dr, Lewes, DE 19958",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.destateparks.com/park/cape-henlopen/",
+        "description": "You know you want to wander around WW2 observation towers, forts, and gun emplacements on the beautiful beaches of Delaware.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0871652,
+          38.7773549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "401",
+        "name": "Coastal Wilds",
+        "street": "34215 Peppers Corner Rd, Frankford, DE 19945",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.coastalwilds.org/",
+        "description": "You can swim with sea otters, feed a sloth (if he feels like it), and pet capybaras at Coastal Wilds. The otters are playful and aggressive with short attention spans. One otter bit by finger here and started spinning to try to tear it off, it was adorable.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1357269,
+          38.5187183
+        ]
+      }
     }
   ]
 }
