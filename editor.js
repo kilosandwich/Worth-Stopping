@@ -159,14 +159,23 @@ async function generateUID(geojsonFilePath = "locations.geojson") {
 
 function autofillEditorInput(uid,props ="",coordinates=""){
   //make sure to convert the coordinates into a usable type
+  console.log("Editor autofill converting props into autofill");
+  console.log("Filling UID");
   document.getElementById("editor-uid").value = uid || "";
+  console.log("Filling name");
   document.getElementById("editor-name").value = props?.name || "";
+  console.log("Filling street");
   document.getElementById("editor-street").value = props?.street|| "";
+  console.log("Filling country");
   document.getElementById("editor-country").value = props?.country || "";
+  /*
   document.getElementById("editor-state").value = props?.state || "";
   document.getElementById("editor-county").value = props?.county || "";
   document.getElementById("editor-city").value = props?.city || "";
+  */
+  console.log("Filling website");
   document.getElementById("editor-website").value = props?.website || "";
+  console.log("Filling description");
   document.getElementById("editor-description").value = props?.description || "";
 
   //Coordinates are not stored in an array, the array must be converted to a string in order to be displayed
@@ -392,9 +401,11 @@ async function editorGetInputs() {
   props.name = editorGetName();
   props.street = editorGetStreetAddress();
   props.country = editorGetCountry();
+  /*
   props.state = editorGetState();
   props.county = editorGetCounty();
   props.city = editorGetCity();
+  */
   props.website = editorGetWebsite();
   props.description = editorGetDescription();
 
@@ -696,6 +707,7 @@ function editorGetCountry(){
   return countryInput.value.trim();
 }
 
+/*
 function editorGetState(){
   const stateInput = document.getElementById("editor-state");
   if (!stateInput){
@@ -728,7 +740,7 @@ function editorGetCity(){
   //trim the finale value or else it will be whitespacey
   return cityInput.value.trim();
 }
-
+*/
 function editorGetWebsite(){
   const websiteInput = document.getElementById("editor-website");
   if (!websiteInput){

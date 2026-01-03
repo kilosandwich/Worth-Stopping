@@ -101,7 +101,7 @@ NAVIGATION BAR SECTION
 
 /* Right group stays right */
 #nav-right {
-  flex-direction:column;
+  flex-direction: row;
   align-items: flex-end;
 }
 
