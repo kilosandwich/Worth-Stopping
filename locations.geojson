@@ -8727,8 +8727,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          -75.5316158,
+          40.5786138
         ]
       }
     },
@@ -9005,6 +9005,121 @@
         "coordinates": [
           -76.6566309,
           40.2879945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "393",
+        "name": "Paterson Great Falls National Historical Park",
+        "street": "72 McBride Ave Ext, Paterson, NJ 07501",
+        "country": "United States",
+        "state": "New Jersey",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Paterson Falls is a 77ft waterfall in a gorge in the middle of the historic industrial town of Paterson, New Jersey. The bridge, obeservation deck, and park lets you get particularly close to it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1813968,
+          40.9160783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "394",
+        "name": "Paterson Museum",
+        "street": "2 Market St, Paterson, NJ 07501",
+        "country": "United States",
+        "state": "New Jersey",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The inventor of the modern submarine - John Philip Holland- has his first boats located here, including the Holland I - Holland's first submarine, and the   Fenian Ram - the world's first practical submarine. There's also guns on display from the founding of the firearms manufacturer Colt, and silk production equipment.  Call before visiting, the museum sometimes shuts down due to high internal temperatures.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.178918,
+          40.9134552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "395",
+        "name": "Sterling Hill Mining Museum",
+        "street": "30 Plant St, Ogdensburg, NJ 07439",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "Sterling Hill Mine's rocks are known for their fluorescence - they glow in the dark. Under UV light, the mine lights up into a psychedellic frenzy in the Rainbow Tunnel.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6041948,
+          41.083473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "396",
+        "name": "Gateway National Recreation Area",
+        "street": "128 S Hartshorne Dr, Highlands, NJ 07732",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The Gateway to New York Harbor is strewn with abandoned WW2 era gun emplacements and other massive forifications protecting NYC. Gateway National Recreation Area is divided into three parts, each containing its own forts and beaches - Sandy Hook Unit with Fort Hancock, State Island Unit with Fort Wadsworth, and Jamaica Bay Unit with Fort Tilden.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9887282,
+          40.4396044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "397",
+        "name": "Matchbox Road Museum",
+        "street": "15 Pearl St, Newfield, NJ 08344",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://m.facebook.com/MatchboxRoadMuseum/",
+        "description": "One man has wisely hoarded every Matchbox toy car. Tours by appointment only.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0220018,
+          39.5457961
         ]
       }
     }
