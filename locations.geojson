@@ -9605,6 +9605,235 @@
           38.9968835
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "419",
+        "name": "Patuxent River Naval Air Museum",
+        "street": "22156 Three Notch Rd, Lexington Park, MD 20653",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.paxmuseum.com/",
+        "description": "Patuxent River Naval Air Museum is home to the X32-B and X35-C - the losing and winning fighters of the Joint Strike Fighter competition, as well as a large assortment of historical US Naval jet Aircraft and helicopters. It's the closest you'll ever be able to get to some of these airplanes, because there are no fences stopping you in the outdoor section.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4628931,
+          38.2764188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "420",
+        "name": "N.S. Savannah",
+        "street": "Baltimore, MD 21224",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "The world's first commercial nuclear-powered vessel was built with the interiors of an ultra-futuristic yacht to promote nuclear power to the public. Tours are only monthly or if you donate a lot of money so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5556721,
+          39.2584983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "421",
+        "name": "SS John W. Brown",
+        "street": "Pier 13, 4601 Newgate Ave, Baltimore, MD 21224",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.ssjohnwbrown.org/",
+        "description": "During World War II the United States initiated the Emergency Shipbuilding Program to mass-produce ships the same way automobiles had been mass produced. 2,710 Liberty Ships were produced, and the SS John W. Brown is one of two that remains operational.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5561685,
+          39.2594213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "422",
+        "name": "Historic Ships In Baltimore",
+        "street": "301 E Pratt St, Baltimore, MD 21202",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://historicships.org/",
+        "description": "Baltimore merged nearly all of its maritime museums into one single massive musuem featuring: USS Constellation (1853) - the last purely sailing vessel produced by the United States Navy, the Treasury-class cutter WHEC-37 - the last surviving warship of Pearl Harbor, the WW2 era Tench-class submarine USS Torsk, the Lightship Chesapeake, and the lighthouse Seven Foot Knoll Light.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6108628,
+          39.2855928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "423",
+        "name": "National Aquarium (Baltimore)",
+        "street": "501 E Pratt St, Baltimore, MD 21202",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://aqua.org/",
+        "description": "They've got so many sharks and also 750 other species of enjoyable sealife across two piers and six levels.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6083,
+          39.28527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "424",
+        "name": "Fort McHenry National Monument",
+        "street": "2400 E Fort Ave, Baltimore, MD 21230",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/fomc/index.htm",
+        "description": "Fort McHenry resisted British bombardment during the war of 1812, preventing an invasion of Baltimore. The Star Spangled banner - the national anthem of the United States - was inspired by the never wavering flag of the United States during the intense artillery and rocket barrage. The fort itself is now available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5806695,
+          39.2634314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "425",
+        "name": "B&O Railroad Museum",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.borail.org/",
+        "description": "The Baltimore and Ohio Railroad was the oldest railroad in the United States, and the first to adopt steam engines as common carriers for its services. The line operated from 1828 until its 1987 merger with CSX. The museum features the Tom Thumb - a replica of the first American-built steam locomotive in regular service, the 1832 Grasshopper - one of the oldest surviving American locomotives, and the 1836 John Hancock.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6325135,
+          39.285391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "426",
+        "name": "System Source Computer Museum",
+        "street": "338 Clubhouse Rd, Hunt Valley, MD 21031",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://museum.syssrc.com/home/",
+        "description": "Tour computing from its inception as mechanical tabulators to modern computers. Located right next to the National Electronics Museum.  Tours by appointment only.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6637808,
+          39.4856668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "427",
+        "name": "Antietam National Battlefield",
+        "street": "5831 Dunker Church Rd, Sharpsburg, MD 21782",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/anti/index.htm",
+        "description": "The battle Antietam during the U.S. Civil War was the site of the bloodiest one day battle in American history - 22,727 soldiers were turned into dead or casualties in 12 hours. Antietam marked the end of the Confederacy's invasion of Maryland and the victory was soon followed with the Emancipation Proclamation - ending the legal status of slavery in the Confederacy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7446061,
+          39.4741816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "428",
+        "name": "Harpers Ferry National Historical Park",
+        "street": "",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "",
+        "description": "On October 16th, 1859 American abolitionist John Brown raided a federal armor in Harpers Ferry with the hopes of igniting and arming a slave revolt to end slavery in the United States. The raid and resulting outpouring of sympathy for abolition during Brown's publicized trial fueled slaveowners fears that the northern states planned to end slavery by force if neccesary. The armory is now availible for tour, andthe mountains surrounding Harpers Ferry have hiking trails that enable good views of the meeting of the confluence of the Potomac and Shenandoah rivers.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+-77.7297845, 39.3230334
+        ]
+      }
     }
   ]
 }

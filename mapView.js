@@ -15,7 +15,7 @@ behind:
 //Or would it be that there's a default filter?
 
 
-async function getPictures(searchTerm, numImages){
+async function getPictures(searchTerm, numImages,maxWidth = 600){
     /*this function will scrape the internet (wikimedia) for pictures
     and return an array of urls for the images where the pictures can be found
     this array of URLs will later be passed into a function that converts
@@ -28,6 +28,7 @@ async function getPictures(searchTerm, numImages){
     try{
         searchTerm = encodeURIComponent(searchTerm);
         numImages = encodeURIComponent(numImages);
+        maxWidth = encodeURIComponent(maxWidth);
 
     }catch (err){
         console.log("Could not convert the given parameters into URI ")
@@ -47,7 +48,8 @@ async function getPictures(searchTerm, numImages){
             '&gsrlimit=' +
             numImages + //this specifies how many files you want to load
             "&gsrnamespace=6"+ //this bit is absolutely critical, it says to search only among images
-            '&iiprop=url';
+            '&iiprop=url'+
+            '&iiurlwidth=' + maxWidth;
         //I checked, the url constructed is accurate. 
         console.log("The url we constructed was: "+url)
         // Fetch from Wikimedia
@@ -93,7 +95,7 @@ async function getPictures(searchTerm, numImages){
 //if you wish to adjust how the html is constructed for popup images, this is the place
 async function buildPopupImages(searchTerm, numImages) {
     urls = [];
-    urls = await getPictures(searchTerm, numImages);
+    urls = await getPictures(searchTerm, numImages, 600);
     console.log("We ran getPictures using the search term "+ searchTerm+ " and the number of images " + numImages + " here is the url array returned:");
     console.log(urls)
     // Guard if empty array
