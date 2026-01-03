@@ -9214,6 +9214,397 @@
           38.5187183
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "402",
+        "name": "Museum of the Bible (DC)",
+        "street": "400 4th St SW 6th floor, Washington, DC 20024",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.museumofthebible.org/",
+        "description": "Arts and crafts retail store Hobby Lobby funded the terrorist group ISIS to buy artifacts from smugglers for this museum. The artifacts were returned, but this museum dedicated to the history of how the bible as we know it came to be remains.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0169322,
+          38.8847094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "403",
+        "name": "International Spy Museum",
+        "street": "700 L'Enfant Plaza SW, Washington, DC 20024",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.spymuseum.org/",
+        "description": "Turns out the capitol of the United States is a really good place to spy on stuff. Cold War era spying and gadgets are all here at the International Spy Museum: suicide pins, enigma machines, heavy water, forgery printing plates, buttonhole cameras, lipstick pistols, and the Aston Martin DB5 from James Bond.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0253953,
+          38.8839208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "404",
+        "name": "Fords Theatre",
+        "street": "511 10th St NW, Washington, DC 20004",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://fords.org/",
+        "description": "Watch the hit 1860's play My American Cousin at the same place it was held when C-List actor John Wilkes Booth assassinated President Abraham Lincoln during the funniest joke in the play. It's also a well preserved historical theater and museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0257308,
+          38.8966284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "405",
+        "name": "National Air and Space Museum",
+        "street": "650 Jefferson Dr SW, Washington, DC 20004",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://airandspace.si.edu/",
+        "description": "The USA invented flight, broke the sound barrier, and went to the moon - come see all of the actual historical aircraft that acomplished these feats first at the National Air and Space Museum on the National Mall. Including the 1903 Wright Flyer, The Spirit of St. Louis, the Bell X-1, Apollo 11's command capsule Columbia, and SpaceShipOne. There's also the original scale model of the Enterprise from Star Trek.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0197813,
+          38.8880307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "406",
+        "name": "National Postal Museum",
+        "street": "2 Massachusetts Ave NE, Washington, DC 20002",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://postalmuseum.si.edu/",
+        "description": "Nothing stops the mail. The US Postal Service actsas the USA's primary delivery service even when there was nothing but barren frontier and sewed the nation together. See postal wagons, trucks, trains, planes, and stamps that will make you want to go postal.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008363,
+          38.8979858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "407",
+        "name": "United States Botanical Garden",
+        "street": "100 Maryland Ave SW, Washington, DC 20001",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.usbg.gov/",
+        "description": "The United States Botanical Garden features exotic plants divided into rooms modeled after their native biomes. This is one of the best kept botanical gardens in the world - after all, it's right next to the United States Congress.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0128966,
+          38.8880111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "408",
+        "name": "National Museum of the United States Navy",
+        "street": "736 Sicard St SE, Washington, DC 20374",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.history.navy.mil/content/history/museums/nmusn.html",
+        "description": "The world's most powerful navy deserves an equally powerful museum. The museum features a naval railway gun, a Vietnam era Swift Boat, and the bathysphere Trieste - the first submarine to reach the bottom of the Marianas Trench. A new museum is under construction, and you need to register for a base access pass form if you even want to do a private tour - but it's still a nice museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9954891,
+          38.8730552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "409",
+        "name": "Washington Monument",
+        "street": "2 15th St NW, Washington, DC 20024",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/wamo/index.htm",
+        "description": "The Washington Monument opened as the tallest structure in the world in 1884 until supassed by the Eiffel Tower. The massive obelisk is towers over the DC area.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035302,
+          38.8893619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "410",
+        "name": "Lincoln Memorial",
+        "street": "2 Lincoln Memorial Cir NW, Washington, DC 20002",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/linc/index.htm/index.htm",
+        "description": "A massive statute of President Abraham Lincoln looms over the nationa's capitol in a memorial that echos the design of ancient Greek temples. The undercroft is nearly 8 stories deep as a necessary foundation for the swampy ground beneath.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0511074,
+          38.8892708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "411",
+        "name": "National Archives Building",
+        "street": "701 Constitution Ave. NW, Washington, DC 20408",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://visit.archives.gov/",
+        "description": "This is the location of the real National Treasure. The National Archives Museum is home to the original copies of the Declaration of Independence, the Constitution, the Bill of Rights, and the Emancipation Proclamation. These documents formed the foundation of the United States and have been widely copied the world over. Notably, nearly every other constitution worldwide leaves out the bits where freedom is considered more important than order - I'm sure that won't lead to problems in those countries.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0230088,
+          38.8927665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "412",
+        "name": "Mount Vernon",
+        "street": "3200 Mount Vernon Memorial Hwy, Mt Vernon, VA 22121",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.mountvernon.org/",
+        "description": "The museum, residence, plantation, distilery, and tomb of the USA's first President: George Washington. Yes you can buy the alcohol from the distillery and get hammered like Washington would have wanted.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0863881,
+          38.7079929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "413",
+        "name": "National Museum of the Marine Corps",
+        "street": "1775 Semper Fidelis Wy, Triangle, VA 22172",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.usmcmuseum.com/",
+        "description": "Did you know the U.S. Navy has its own army? From the Hall of Montezuma to the shores of Tripoli, the United States marines have been invading countries - and winning- since the nation's founding. Get a depressingly realistic look at the Marine's history - including a room that simulates the -54F cold of the Battle of the Chosin Reservoir  - and see the flag from Iwo Jima.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3436393,
+          38.544257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "414",
+        "name": "Steven F. Udvar-Hazy Center",
+        "street": "14390 Air and Space Museum Pkwy, Chantilly, VA 20151",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://airandspace.si.edu/visit/udvar-hazy-center",
+        "description": "The National Air and Space Museum continues at the Steven F. Udvar-Hazy Center, featuring some of America's greatest aircraft that couldn't quite fit anywhere else but a hangar. Featuring the Space Shuttle Discovery, Enola Gay- the first aircraft to drop an atomic bomb, an SR-71 Blackbird,  the Concorde, the Bell XV-15, Langley Aerodrome A, Dornier Do 335, X-35 prototype for the F-35, as well as other aircraft that are the last of their model.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4445404,
+          38.9104841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "415",
+        "name": "NRA National Firearms Museum",
+        "street": "11250 Waples Mill Rd, Fairfax, VA 22030",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nramuseums.com/",
+        "description": "Guns, guns, and more guns - it's 3000 guns in a museum run by gun lobbyists near the capitol of the country known for its guns. See the history of the development of American guns as well as notable guns known for their shootiness.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3355381,
+          38.8629898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "416",
+        "name": "Manassas National Battlefield Park",
+        "street": "6511 Sudley Rd, Manassas, VA 20109",
+        "country": "",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "http://www.nps.gov/mana/index.htm",
+        "description": "How hard could it be to win a Civil War? Just defeat the Confederate Army and march to their capitol in Richmond. See the battlefield where the Union lost against the Confederacy twice. The landscape remains the nearly the same as it was when the battles were faught in 1860 and 1862 - just some farmer's fields.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5218319,
+          38.813121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "417",
+        "name": "Glen Echo Park (Maryland)",
+        "street": "7300 Macarthur Blvd, Glen Echo, MD 20812",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://glenechopark.org/",
+        "description": "This glitzy Art-deco amusement park is now just a regular park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1384346,
+          38.966186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "418",
+        "name": "Great Falls (Potomac River)",
+        "street": "9200 Old Dominion Dr, McLean, VA 22102",
+        "country": "United States",
+        "state": "",
+        "county": "",
+        "city": "",
+        "website": "https://www.nps.gov/grfa",
+        "description": "A series of jagged rapids and picturesque waterfalls drops the Potomac River 76ft through a scenic gorge just north of DC.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2535972,
+          38.9968835
+        ]
+      }
     }
   ]
 }
