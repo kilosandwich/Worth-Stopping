@@ -9676,6 +9676,226 @@
           42.7080346
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "485",
+        "name": "Richard Nixon Presidential Library and Museum",
+        "street": "18001 Yorba Linda Blvd, Yorba Linda, CA 92886",
+        "country": "USA",
+        "website": "https://www.nixonlibrary.gov/",
+        "description": "Richard Nixon leveraged his anti-communist credentials into being the Vice President for Eisenhower during the 1950s Red Scare, was almost murdered by protestors in Venezuela,  lost to a pretty boy from Massaschusetts in the 1960 presidential election, and lost the 1962 California gubernatorial election. Undettered, Nixon learned about the magic of 'branding' and 'Silent Majorities' and won the 1968 Presidential election. As President, Nixon ended the draft, ended the Vietnam war, lowered the voting age to 18, ended the gold standard, split Communist China from the Soviet Union, signed nuclear arms limitations treaties, created the EPA, created OSHA, oversaw the moon landing, and covered up a break in to his opponent's offices leading to his resignation. He's only remembered for the last thing though.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8192668,
+          33.8894504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "486",
+        "name": "Oregon Dunes National Recreation Area",
+        "street": "855 Highway Ave, Reedsport, OR 97467",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465",
+        "description": "40 miles of ever shifting 500ft windswept sandstones and quicksand next to lush seasonal rainforests on the Oregon coast.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2053484,
+          43.6127233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "487",
+        "name": "Ecola State Park",
+        "street": "Cannon Beach, OR 97110",
+        "country": "USA",
+        "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=136",
+        "description": "Seastacks, temperate rainforests, beaches, and cliffs are why Ecola State Park was the filming location for The Goonies.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9669717,
+          45.8841249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "488",
+        "name": "Oregon Maritime Museum",
+        "street": "198 SW Naito Pkwy, Portland, OR 97204",
+        "country": "USA",
+        "website": "http://www.oregonmaritimemuseum.org/",
+        "description": "The 1947 sternwheeler tugboat Portland was the last sternwheel tugboat built in the United States and is now a maritime museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6699407,
+          45.5201746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "489",
+        "name": "Oregon Museum of Science and Industry",
+        "street": "1945 SE Water Ave, Portland, OR 97214",
+        "country": "USA",
+        "website": "https://omsi.edu/",
+        "description": "The Cold War era Barbel-class submarine is also docked here and available for tour. The rest of the museum is mostly for kids, so just buy the ticket for the submarine.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6662711,
+          45.5084567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "490",
+        "name": "Oregon Rail Heritage Center",
+        "street": "2250 SE Water Ave, Portland, OR 97214",
+        "country": "USA",
+        "website": "http://www.orhf.org/",
+        "description": "They have the orange one!!! To be more specific it's the Art Deco streamlined Southern Pacific 4449 - Daylight; part of the American Freedom Train during the Bicentennial Celebration. This is one of the most beautiful locomotives ever built - and yes you can ride in it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6618417,
+          45.5072204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "491",
+        "name": "Jamestown Settlement",
+        "street": "2110 Jamestown Rd, Williamsburg, VA 23185",
+        "country": "USA",
+        "website": "https://www.jyfmuseums.org/visit/jamestown-settlement",
+        "description": "English colonists landed at Jamestown in 1607 and created the first permanent English settlement in the Americas. Turns out building a colony is hard, and 75% of them died the first year. Shortly thereafter, Tobacco was established as a cash-crop and the colony prospered. Thank you smoking. Jamestown Settlement is a living history museum is a recreation of the original settlement and colony ships Susan Constant, Godspeed, and Discovery. See what it was like to try to fulfill the dream of home ownership for 17th century English settlers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7842186,
+          37.2251534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "492",
+        "name": "Oregon Caves National Monument and Preserve",
+        "street": "19000 Caves Hwy, Cave Junction, OR 97523",
+        "country": "USA",
+        "website": "https://www.nps.gov/orca/index.htm",
+        "description": "The drapery formations of these caves standout because they are made of marble and reside in a temperate rainforest.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4074636,
+          42.0983569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "493",
+        "name": "Mount Hood National Forest",
+        "street": "27500 E Timberline Road, Government Camp, OR 97028",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r06/mthood",
+        "description": "Mount Hood is a 11,249ft active stratovolcano home to glaciers at the summit and temperate rainforest at the base. When the mountain inevitably erupts, the mudflows will likely destroy several surrounding communities. It's also a really pretty mountain that's the tallest in the immediate area. There's skiiing and hiking if you want to take in some good views.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6963816,
+          45.3724688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "494",
+        "name": "Silver Falls State Park",
+        "street": "20024 Silver Falls Hwy SE, Sublimity, OR 97385",
+        "country": "USA",
+        "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=151",
+        "description": "Silver Creek Canyon contains ten waterfalls with heights up to 178ft in cavernous amphiteater-like surroundings that allow trails to pass behind the water. It's much much bigger than it looks in the pictures, it's as if a building is looming over you. The 7.6 mile Trail of Ten Falls lets you see every waterfall in the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6588792,
+          44.8788953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "495",
+        "name": "Columbia River Gorge National Scenic Area",
+        "street": "Star Route, Cascade Locks, OR 97014",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r06/columbiarivergorge",
+        "description": "Massive waterfalls, temperate rainforests, mountains, and hiking trails line the Colombia river as it passes through the Cascade Range to the Pacific Ocean. The highest waterfall in the area is the 620ft Multonmah falls. However, don't miss 242ft Wahkeena Falls, the overhanging mountain of Latourrel falls, Bridal Veil Falls, Horsetail Falls, and Ponytail falls. There's much much more to do - it's a 50 mile long gorge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1282863,
+          45.573695
+        ]
+      }
     }
   ]
 }
