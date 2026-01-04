@@ -8,8 +8,6 @@
         "name": "New York Transit Museum",
         "street": "99 Schermerhorn St, Brooklyn, NY 11201",
         "country": "USA",
-        "state": "New York",
-        "city": "Brooklyn",
         "website": "https://www.nytransitmuseum.org/",
         "description": "This is THE subway museum. New York City turned the unused Court Street Station into a horde of preserved MTA trains from the founding of the subway system until present.",
         "worth stopping": true,
@@ -70,9 +68,8 @@
         "name": "The Henry Ford Museum of American Innovation",
         "street": "20900 Oakwood Blvd, Dearborn, MI 48124",
         "country": "USA",
-        "state": "Michigan",
-        "county": "Wayne",
-        "city": "Dearborn",
+        
+
         "website": "https://www.thehenryford.org/",
         "description": "Henry Ford decided to buy all of American history and put it in the world's largest indoor-outdoor museum complex (12 acres indoors, 240 acres outdoors). It's an aerospace museum, a living history museum, automobile, railroad, and science museum,Including:\n<br>\n<br>1.) All presidential limosines, including the ones John F. Kennedy and Ronald Reagan were shot in. \n<br>2.) The chair Abraham Lincoln was assassinated in.\n<br>3.) A 1:1 replica of Independence Hall.\n<br>4.) The Wright Brother's Bicycle shop where they developed the first airplane.\n<br>5.) Thomas Edison's Menlo Park Laboratory Complex.\n<br>6.) Rosa Park's bus. \n<br>7.) The homes and farms of Henry Ford, Thomas Edison, and Harvey Firstone.",
         "worth stopping": true,
@@ -93,9 +90,8 @@
         "name": "Detroit Institute of Arts",
         "street": "5200 Woodward Ave, Detroit, MI 48202",
         "country": "USA",
-        "state": "Michigan",
-        "county": "Wayne",
-        "city": "Detroit",
+        
+
         "website": "https://dia.org/",
         "description": "See all the art Detroit purchased when it was the richest city in the world. There's also an entire Egyptian tomb and part of a European castle in here.",
         "worth stopping": true,
@@ -116,9 +112,8 @@
         "name": "Detroit Historical Museum",
         "street": "5401 Woodward Ave, Detroit, MI 48202",
         "country": "USA",
-        "state": "Michigan",
-        "county": "Wayne",
-        "city": "Detroit",
+        
+
         "website": "https://www.detroithistorical.org/visit/detroit-historical-museum",
         "description": "Remember when Detroit was the 5th largest city in the United States of America and the richest city in the world? This museum sure does. Featuring assembly lines, a recreation of historical Detroit streets - including armored personnel carriers from all those times the Michigan National Guard had to quell riots.",
         "worth stopping": true,
@@ -139,9 +134,8 @@
         "name": "Motown Museum",
         "street": "2648 Berry Gordy Jr. Boulevard, 2648 W Grand Blvd, Detroit, MI 48208",
         "country": "USA",
-        "state": "Detroit",
-        "county": "Wayne",
-        "city": "Detroit",
+
+
         "website": "http://www.motownmuseum.org/",
         "description": "Music writer and producer Berry Gordy bought a bunch of houses, turned them into a music studio, and approached music production like a Detroit assembly line - turning artists into stars through rigorous trainining and quality control. This museum is where the Jackson 5, Stevie Wonder, Marvin Gaye, The Supremes, and the Four Tops got their start.",
         "worth stopping": true,
@@ -162,9 +156,8 @@
         "name": "Cranbrook Educational Community",
         "street": "380 Lone Pine Rd, Bloomfield Hills, MI 48304",
         "country": "USA",
-        "state": "Michigan",
-        "county": "Oakland",
-        "city": "Bloomfield Hills",
+        
+
         "website": "http://housegardens.cranbrook.edu/",
         "description": "An Art Deco museum-garden complex created when Detroit was the richest city in the world. Featuring the Cranbrook Art Museum, the Cranbrook Institute of Science, and the Cranbrook House and Gardens.",
         "worth stopping": true,
@@ -186,9 +179,8 @@
         "name": "Gilmore Car Museum",
         "street": "6865 Hickory Rd, Hickory Corners, MI 49060",
         "country": "USA",
-        "state": "Michigan",
-        "county": "Barry",
-        "city": "Hickory Corners",
+        
+ 
         "website": "http://www.gilmorecarmuseum.org/",
         "description": "What's better than one building full of cars? 14 buildings full of cars set in an entire town built just for one car museum. It's 90 acres of cars.",
         "worth stopping": true,
@@ -209,7 +201,7 @@
         "name": "Sleeping bear Dunes National Lakeshore",
         "street": "9922 W Front St, Empire, MI 49630",
         "country": "USA",
-        "state": "Michigan",
+        
         "website": "http://www.nps.gov/slbe/index.htm",
         "description": "35 miles of 450ft tall sand dunes next to the largest freshwater lakes in the world.",
         "worth stopping": true,
@@ -230,7 +222,7 @@
         "name": "Mackinac Island State Park",
         "street": "7029 Huron Rd, Mackinac Island, MI 49757",
         "country": "USA",
-        "state": "Michigan",
+        
         "website": "https://www.mackinacparks.com/attraction/mackinac-island-state-parks/",
         "description": "Mackinac Island was the second national park after Yellowstone, but Michigan wanted it back. The state that is the heart of the American automotive industry banned cars on this island to preserve its beauty.",
         "worth stopping": true,
@@ -251,7 +243,7 @@
         "name": "S.S. City of Milwaukee",
         "street": "99 Arthur St, Manistee, MI 49660",
         "country": "USA",
-        "state": "Michigan",
+        
         "website": "http://www.carferry.com/",
         "description": "The SS City of Milkwaukee is the last railroad ferry on the Great Lakes. It's also a museum, hotel, and haunted house depending on the time of year. The USCGC Acacia is also docked as a museum ship.",
         "worth stopping": true,
@@ -272,8 +264,7 @@
         "name": "S.S. Milwaukee Clipper",
         "street": "2098 Lakeshore Dr, Muskegon, MI 49441",
         "country": "USA",
-        "state": "Michigan",
-        "city": "Muskegon",
+
         "website": "",
         "description": "It's museum passenger/car ferry ship built in 1904 and modernized in the 1950s. The resulting ship feels uniquely like a cross between an insane-asylum and a bus.",
         "worth stopping": true,
@@ -294,8 +285,7 @@
         "name": "Gerald R. Ford Presidential Museum",
         "street": "303 Pearl St NW, Grand Rapids, MI 49504",
         "country": "USA",
-        "state": "Michigan",
-        "city": "Grand Rapids",
+
         "website": "https://www.fordlibrarymuseum.gov/",
         "description": "Come see the Gerald R. Ford Presidential Museum where you can learn that President Gerald Ford did nothing wrong (in their opinion).",
         "worth stopping": true,
@@ -316,7 +306,7 @@
         "name": "Pictured Rocks National Lakeshore",
         "street": "1505 Sand Point Rd, Munising, MI 49862",
         "country": "USA",
-        "state": "Michigan",
+        
         "website": "https://www.nps.gov/piro/index.htm",
         "description": "It's fancy rocks, waterfalls, sand dunes, and shipwrecks on the world's largest freshwater lake by surface area. The lake is 45F all year round, so enjoy the breeze - but don't go swimming.",
         "worth stopping": true,
@@ -357,7 +347,7 @@
         "name": "Porcupine Mountains Wilderness State Park",
         "street": "33303 Headquarters Rd, Ontonagon, MI 49953",
         "country": "USA",
-        "state": "Michigan",
+        
         "website": "https://www.michigan.gov/recsearch/parks/Porkies",
         "description": "Waterfalls, dynamic cliffs, and a lake in the sky (Lake of the Clouds) in this stunning state park.",
         "worth stopping": true,
@@ -378,7 +368,7 @@
         "name": "Quincy Mine",
         "street": "49750 US-41, Hancock, MI 49930",
         "country": "USA",
-        "state": "Michigan",
+        
         "website": "http://www.quincymine.com/",
         "description": "A Michigan Upper Peninsula Copper mine that remains frightfully cold year round. Part of the Keweenaw National Historical Park.",
         "worth stopping": true
@@ -418,8 +408,7 @@
         "name": "U.S.S. Edson",
         "street": "",
         "country": "USA",
-        "state": "Michigan",
-        "city": "Bay City",
+
         "website": "http://www.svnsm.com/",
         "description": "The USS Edson is a 1958 Forrest-Sharman class destroyer. U.S. Navy veteran volunteers tend to mull about on deck. Interestingly, this ship museum lets you wander around the engine room with very little restrictions.",
         "worth stopping": true,
@@ -440,8 +429,7 @@
         "name": "Air Zoo",
         "street": "6151 Portage Rd, Portage, MI 49002",
         "country": "USA",
-        "state": "Michigan",
-        "city": "Portage",
+
         "website": "",
         "description": "The Air Zoo is a combined children's amusement park and aerospace museum. The flight simulators let you do barrel rolls and loops and I highly recommend them. Uniquely, the air zoo has a Curtiss Ascender, F-117 Nighthawk, SR-71B Blackbird",
         "worth stopping": true,
@@ -462,9 +450,8 @@
         "name": "Sloan Museum",
         "street": "1221 E Kearsley St, Flint, MI 48503",
         "country": "USA",
-        "state": "Michigan",
-        "county": "Genesee",
-        "city": "Flint",
+        
+
         "website": "https://sloanlongway.org/sloan/",
         "description": "80,000 people used to work in 37 General Motors Automotive Factories in Flint, Michigan. Today that number is less than 8000. All the while General Motors placed its prototypes and successes in this local museum named after the CEO that took General Motors to its zenith when it held 50% market share in the U.S. auto market.",
         "worth stopping": true,
@@ -485,8 +472,7 @@
         "name": "USS Silversides Submarine Museum",
         "street": "1346 Bluff St, Muskegon, MI 49441",
         "country": "USA",
-        "state": "Michigan",
-        "city": "Muskegon",
+
         "website": "http://www.silversidesmuseum.org/",
         "description": "A World War Two Gato-class submarine that sunk 23 enemy ships in the Pacific Theater is now available for tour in Muskegon, Michigan - a place that is most definitely not the ocean.",
         "worth stopping": true,
@@ -527,7 +513,7 @@
         "name": "Tahquamenon Falls State Park",
         "street": "Tahquamenon River, Michigan, Paradise, MI 49768",
         "country": "USA",
-        "state": "Michigan",
+        
         "website": "https://www.michigan.gov/recsearch/parks/TahquamenonFalls",
         "description": "Copper-colored 50ft waterfalls in the rocky wilderness of the Upper Peninsula of Michigan.",
         "worth stopping": true,
@@ -548,8 +534,7 @@
         "name": "National Museum of the Great Lakes",
         "street": "1701 Front St, Toledo, OH 43605",
         "country": "USA",
-        "state": "Ohio",
-        "city": "Toledo",
+
         "website": "http://www.nmgl.org/",
         "description": "The National Museum of the Great Lakes features the SS Colonel James M. Schoonmaker, a 1911 Great Lakes iron ore freighter. Despite its nautical appearances, the crew quarters on the stern is lavishly decorated like a Victorian mansion.",
         "worth stopping": true,
@@ -570,7 +555,7 @@
         "name": "Rutherford B. Hayes Presidential Library and Museums",
         "street": "Spiegel Grove, Fremont, OH 43420",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "",
         "description": "It's called the Rutherford B. Hayes Presidential Library and Museum, but it should be more accurately titled the \"Medal of Honor Recipient Webb C. Hayes Museum, featuring my dad who did nothing wrong: President Rutherford B. Hayes\".",
         "worth stopping": true,
@@ -591,8 +576,7 @@
         "name": "Cedar Point",
         "street": "1 Cedar Point Dr, Sandusky, OH 44870",
         "country": "USA",
-        "state": "Ohio",
-        "city": "Sandusky",
+
         "website": "https://www.cedarpoint.com/",
         "description": "19 World class rollercoasters on the eleventh largest freshwater lake in the world. Winner of Best Amusement Park In The World for 16 consecutive years. Featuring multiple rollercoasters that have all been ranked as best in the world at the time of their opening.",
         "worth stopping": true,
@@ -633,7 +617,7 @@
         "name": "Cincinnati Museum Center",
         "street": "1301 Western Ave, Cincinnati, OH 45203",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "http://www.cincymuseum.org/",
         "description": "The train station that was the basis for DC's Hall of Justice is now a museum center. Somehow there is an entire steamboat (complete with historical waterfront), cave, ice cave, and forest in the basement. Also dinosaurs, mummies, and astronauts. It is just as glorious as it sounds.",
         "worth stopping": true,
@@ -654,8 +638,7 @@
         "name": "Columbus Zoo and Aquarium",
         "street": "4850 W Powell Rd, Powell, OH 43065",
         "country": "USA",
-        "state": "Ohio",
-        "city": "Powell",
+
         "website": "https://www.columbuszoo.org/",
         "description": "Jack Hanna's legendary zoo with 800 species of animals, including manatees, lions, leopards, tigers, elephants, lynxes, sea lions and seals, cheetahs, sea turtles, penguins, koalas, moose, river otters, pallas cats, polar bears, etc. There's also two rollercoasters and an outstanding waterpark built into the zoo.",
         "worth stopping": true,
@@ -696,7 +679,7 @@
         "name": "Wordens Ledges",
         "street": "Wordens Ledges Loop Trail, Hinckley, OH 44233",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "https://www.clevelandmetroparks.com/parks/visit/parks/hinckley-reservation/worden-s-ledges",
         "description": "Terrifying century old rock visiages carved into the face of a cliff deep in the woods. I genuinely felt I was going to get murdered despite being in the safe suburbs of Cleveland.",
         "worth stopping": true,
@@ -737,7 +720,7 @@
         "name": "Warren G. Harding Presidential Library and Museum",
         "street": "380 Mt Vernon Ave, Marion, OH 43302",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "https://hardingpresidentialsites.org/",
         "description": "President Warren G. Harding promised to \"Return to Normalcy\" and \"Make America Great Again\" following American overseas interventionism, enforced political correctness, percieved weakness on immigration, and a plague. A favorite of newspaper reporters due owning his own newspaper where the country could hear his thoughts, Harding also presided over a corrupt cabinet, womanized, then died of a heart attack after being strained from touring the country for massive rallies. This is his museum and tomb.",
         "worth stopping": true,
@@ -798,7 +781,7 @@
         "name": "Kings Island",
         "street": "6300 Kings Island Drive, Mason, OH 45040",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "https://www.visitkingsisland.com/",
         "description": "The Eiffel Tower, 15 rollercoasters, including a homemade 7361ft ride through the woods. Kings Island is one of the world's greatest amusement parks which revived the public's interest in rollercoasters following the decline of the amusement industry in the 1970s.",
         "worth stopping": true,
@@ -819,8 +802,7 @@
         "name": "Hocking Hills State Park",
         "street": "19988 OH-664 Scenic, Logan, OH 43138",
         "country": "USA",
-        "state": "Ohio",
-        "city": "Logan",
+
         "website": "https://ohiodnr.gov/go-and-do/plan-a-visit/find-a-property/hocking-hills-state-park",
         "description": "Caves and waterfalls, waterfalls in caves, rock overhangs, and gentle hikes. It's like Ohio is trying to trick you into thinking it's a nice place to be.",
         "worth stopping": true,
@@ -841,8 +823,7 @@
         "name": "Early Television Museum",
         "street": "5396 Franklin St, Hilliard, OH 43026",
         "country": "USA",
-        "state": "Ohio",
-        "city": "Hilliard",
+
         "website": "http://www.earlytelevision.org/",
         "description": "Did you know you can make a television screen out of a single lightbulb and a spinning disc with holes in it? Learn about the wacky frontier of television when television stations went to bed for the evening, and the British could still manufacture electronics.",
         "worth stopping": true,
@@ -863,7 +844,7 @@
         "name": "Trap History Museum",
         "street": "6106 Bausch Rd, Galloway, OH 43119",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "http://www.traphistorymuseum.com/",
         "description": "4000 traps of all types and historical periods located next to a public safety equipment supplier to remind them of the consequences should they fail. Come see 20ft giant bear trap that might be our only protection against Godzilla. Tours by appointment only - please call ahead of time.",
         "worth stopping": true,
@@ -924,8 +905,7 @@
         "name": "Great Lakes Science Center",
         "street": "601 Erieside Ave, Cleveland, OH 44114",
         "country": "USA",
-        "state": "Ohio",
-        "city": "Cleveland",
+
         "website": "",
         "description": "Featuring the NASA Glenn Visitor Center (with an actual Apollo capsule used for Skylab) and the Great Lakes Freighter William G Mather. The rest of the stuff is for kids.",
         "worth stopping": true,
@@ -1005,7 +985,7 @@
         "name": "Mansfield Memorial Museum",
         "street": "34 Park Ave W, Mansfield, OH 44902",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "https://themansfieldmuseum.com/",
         "description": "Home of Elektro - one of the first ever robots displayed at the 1939 New Yorks's World Fair. Elektro could walk, talk, smoke a cigarette, blow a balloon, move its arms and fingers, and be enslaved by humanity (something that we will surely never come to regret). This museum isn't the best museum, I just really like Elektro.",
         "worth stopping": true,
@@ -1026,8 +1006,7 @@
         "name": "Crystal Cave",
         "street": "978 Catawba Ave, Put-In-Bay, OH 43456",
         "country": "USA",
-        "state": "Ohio",
-        "city": "Put-In-Bay",
+
         "website": "http://www.heinemanswinery.com/crystalcave.asp",
         "description": "Ever wanted to stand in a cave surrounded by crystals like some kind of ancient enchanter? Now you can! There's another cave across the street if you are waiting for the ferry to take you back to the mainland.",
         "worth stopping": true
@@ -1047,7 +1026,7 @@
         "name": "Ohio Caverns",
         "street": "2210 OH-245, West Liberty, OH 43357",
         "country": "USA",
-        "state": "Ohio",
+        
         "website": "",
         "description": "Most caves are all the same color of rock, the caves at Ohio caverns are multi-colored and still wet and drippy. Considering how flat everything is in the area this is the most exciting geological feature for nearly 100 miles in every direction. Breathe it in.",
         "worth stopping": true
@@ -1067,8 +1046,7 @@
         "name": "Camden Park",
         "street": "5000 Waverly Rd, Huntington, WV 25704",
         "country": "USA",
-        "state": "West Virginia",
-        "city": "Huntington",
+
         "website": "http://www.camdenpark.com/",
         "description": "A scooby-doo esque run-down amusement park built on a native American burial ground. The back seat of the Big Dipper rollercoaster was one of the few times I felt close to death. A fun time for the whole family.",
         "worth stopping": true,
@@ -1089,7 +1067,7 @@
         "name": "New River Gorge National Park and Preserve",
         "street": "162 Visitor Center Rd, Lansing, WV 25862",
         "country": "USA",
-        "state": "West Virginia",
+        
         "website": "http://www.nps.gov/neri/planyourvisit/crvc.htm",
         "description": "A deep river gorge in Appalachia with whitewater rafting and a bridge that is impossibly large to comprehend until you see it in person. When you see the wispy clouds moving through gorge and over the mountaintops you'll understand why this had to be made into a national park.",
         "worth stopping": true,
@@ -1110,7 +1088,7 @@
         "name": "The Greenbrier",
         "street": "101 W Main St, White Sulphur Springs, WV 24986",
         "country": "USA",
-        "state": "West Virginia",
+        
         "website": "http://www.greenbrier.com/",
         "description": "Congress built a bunker to protect itself from nuclear war under a luxury hotel. As of this moment this is the only United State continuity of government complex availible for tour, as Raven Rock Mountain Complex, Mount Weather Emergency Operations Center, and Warrenton Training Center continue to be in use to this day.",
         "worth stopping": true
@@ -1130,7 +1108,7 @@
         "name": "Seneca Rocks",
         "street": "WV-28, Seneca Rocks, WV 26884",
         "country": "USA",
-        "state": "West Virginia",
+        
         "website": "https://www.fs.usda.gov/r09/monongahela/recreation/seneca-rocks-discovery-center",
         "description": "Seneca Rocks are a concerningly thin scenic rock crag rising 900ft above the Monongahela National Forest. There's a 2-hour hike to an observation deck at the top that provides a good view of the surrounding area.",
         "worth stopping": true,
@@ -1151,8 +1129,7 @@
         "name": "West Virginia State Museum",
         "street": "Building 9, 1900 Kanawha Blvd E #435, Charleston, WV 25305",
         "country": "USA",
-        "state": "West Virginia",
-        "city": "Charleston",
+
         "website": "https://wvculture.org/explore/wv-state-museum/",
         "description": "Most state museums try to be inoffensive and lack coherent vision. By comparison, the West Virginia state museum offers a compelling walk through the state's history where visitors quite literally advance through time as they move through the exam. See how the state developed from woodland, to native history, to arrival of European settlers, to the U.S. Civil War, to mining and the present.",
         "worth stopping": true,
@@ -1173,7 +1150,7 @@
         "name": "Cathedral Falls",
         "street": "US-60, Gauley Bridge, WV 25085",
         "country": "USA",
-        "state": "West Virginia",
+        
         "website": "http://visitwv.com/cathedral-falls/",
         "description": "Cathedrals falls is tucked away next to a very unsafe to drive on feeling highway. However, you can walk right up to the 60ft tall waterfall, and the cliffs are shaped in such a way they arch over your head like the roof of a cathedral. Pictures do not do it justice.",
         "worth stopping": true,
@@ -1214,7 +1191,7 @@
         "name": "Lost World Caverns",
         "street": "907 Lost World Rd, Lewisburg, WV 24901",
         "country": "USA",
-        "state": "West Virginia",
+        
         "website": "http://www.lostworldcaverns.com/",
         "description": "A cavern with formations so fancy they are registered as a National Natural Landmark. There's a half mile loop of walking worth to do. The caverns are so spacious that self-guided tours are available.",
         "worth stopping": true,
@@ -1255,8 +1232,7 @@
         "name": "Museum of Science and Industry",
         "street": "5700 S DuSable Lake Shore Dr, Chicago, IL 60637",
         "country": "USA",
-        "state": "Illinois",
-        "city": "Chicago",
+
         "website": "https://www.msichicago.org/",
         "description": "A permanent structure from the 1893 World's Columbian Exposition houses a stainless-steel passenger train, a german U-boat, space capsules, an extensive model railroad, a mockup of old chicago streets, and a mockup coal mine.",
         "worth stopping": true,
@@ -1277,8 +1253,7 @@
         "name": "Field Museum",
         "street": "https://www.fieldmuseum.org/",
         "country": "USA",
-        "state": "Illinois",
-        "city": "Chicago",
+
         "website": "https://www.fieldmuseum.org/",
         "description": "The Field Museum of Natural History features multiple sections each expansive and detailed enough to be museums in their own right. Set aside an entire day for the Field Museum, it is mind-bogglingly extensive. These sections include but are not limited to:\n<br>\n1.) Fossils in dioramas organized by era, with funny little extinction event placards breaking up the sections as you walk through them.There is a nearly complete fossil of a T-Rex.\n<br>\n2.) Artifacts and houses from the pacific islands collected by a rich guy who was determined to capture how life was lived before Europeans showed up. \n<br>\n3.) a three story replica of an egyptian tomb complete with mummies.\n<br>",
         "worth stopping": true,
@@ -1397,8 +1372,7 @@
         "name": "Illinois Railway Museum",
         "street": "7000 Olson Rd, Union, IL 60180",
         "country": "USA",
-        "state": "Illinois",
-        "city": "Union",
+
         "website": "http://www.irm.org/",
         "description": "This is THE train museum in the USA. The largest railroad museum in the United States. 11 Storage barns on an 80 acre campus with over 200 trains and 500 pieces of rolling stock in total. Trains, interurbans, trolleys, buses, you name it.",
         "worth stopping": true,
@@ -1438,7 +1412,7 @@
         "name": "Abraham Lincoln Presidential Library and Museum",
         "street": "212 N 6th St, Springfield, IL 62701",
         "country": "USA",
-        "state": "Illinois",
+        
         "website": "https://presidentlincoln.illinois.gov/",
         "description": "Illinois loves Abraham Lincoln so much they made the official state slogan \"Land of Lincoln\" and forgot they voted for Stephen Douglas for Senator instead. This museum covers everything about Abraham Lincoln, including a diorama of the part of his life where he went to the theater. Presidential security has come a long way since Lincoln, with only 6 other sitting or former Presidents being shot, representing 22% of all Presidents since Lincoln. Progress.",
         "worth stopping": true,
@@ -1539,7 +1513,7 @@
         "name": "Starved Rock State Park",
         "street": "2678 East 873 Road, Oglesby, IL 61348",
         "country": "USA",
-        "state": "Illinois",
+        
         "website": "https://dnr.illinois.gov/parks/park.starvedrock.html",
         "description": "Canyons, waterfalls, and cliffs that look much bigger in person than they do in photos all at this state park which boasts very easy to do hikes.",
         "worth stopping": true,
@@ -1875,7 +1849,7 @@
         "name": "Seashore Trolley Museum",
         "street": "195 Log Cabin Rd, Kennebunkport, ME 04046",
         "country": "USA",
-        "state": "Maine",
+        
         "website": "http://www.trolleymuseum.org/",
         "description": "This is THE trolley museum. The largest electric railway museum in the world with over 250 mass transit vehicles. The volunteers at the Seashore Trolley museum have been hoarding more buses, trolleys, and trains in the woods than they can realistically restore. Have you ever wanted to see literal piles of buses and trolleys? This is the place.",
         "worth stopping": true,
@@ -1896,7 +1870,7 @@
         "name": "Acadia National Park",
         "street": "",
         "country": "USA",
-        "state": "Maine",
+        
         "website": "https://www.nps.gov/acad/index.htm",
         "description": "Acadia National Park covers Mt. Desert Island, a scenic granite island with beautiful mountains and lakes - and only one beach. Come see a pair of mountains called The Bubbles which for some reason the national park service is in denial of what they really look like. The hiking here is gorgeous, fun, and relatively easy. Due to its popularity, you will need reservations to go up Mt. Cadillac by car.",
         "worth stopping": true,
@@ -1917,8 +1891,7 @@
         "name": "Island Cruises Bass Harbor",
         "street": "12 Little Island Way, Bass Harbor, ME 04653",
         "country": "USA",
-        "state": "Maine",
-        "city": "Bass Harbor",
+
         "website": "http://www.bassharborcruises.com/",
         "description": "A lobster boat has been converted into a tourist cruise vessel and will show you all the best islands nearby Acadia while regalling you with local history. The views are stunning, the sealife is abundant , and they will pull up a lobster trap so you can see how it's done.",
         "worth stopping": true
@@ -1957,7 +1930,7 @@
         "name": "Fort Knox and Penobscot Narrows Observatory",
         "street": "740 Ft Knox Rd, Prospect, ME 04981",
         "country": "USA",
-        "state": "Maine",
+        
         "website": "https://www.fortknoxmaine.com/",
         "description": "This place definitely feels haunted. Damp granite fortifications with a commanding view of the Penobscot narrows make Fort Knox well worth visiting.  Additionally, there is an observatory on the nearby bridge that gives a good view of all of Maine.",
         "worth stopping": true,
@@ -2058,7 +2031,7 @@
         "name": "Indiana Dunes National Park",
         "street": "1215 N State Rd 49, Porter, IN 46304",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "https://www.nps.gov/indu/index.htm",
         "description": "Next to Chicago lays massive sand dunes on the shores of the world's largest freshwater lake system.",
         "worth stopping": true,
@@ -2138,8 +2111,7 @@
         "name": "Holiday World And Splashin Safari",
         "street": "452 E Christmas Blvd, Santa Claus, IN 47579",
         "country": "USA",
-        "state": "Indiana",
-        "city": "Santa Claus",
+
         "website": "https://holidayworld.com/",
         "description": "Did you know Edgar Allen Poe's poem 'The Raven' has its own rollercoaster themed after it? Holiday World is an amusement park themed to American holidays, oddly enough featuring the best waterpark in the United States. The Thanksgiving rollercoaster named The Voyage is renowend as one of the best rollercoasters ever built.",
         "worth stopping": true,
@@ -2200,7 +2172,7 @@
         "name": "Studebaker National Museum",
         "street": "201 Chapin St, South Bend, IN 46601",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "http://www.studebakermuseum.org/",
         "description": "You know those stylish cars from the 1950s? These are those cars. Studebaker was unique in that it was a carriage manufacturer that transitioned to automotive and lasted until 1968. Studebakers featured bolder styling compared to contemporary car manufacturers. This museum also has Abraham Lincoln's carriage from the night he got assassinated.",
         "worth stopping": true,
@@ -2261,8 +2233,7 @@
         "name": "Marengo Cave",
         "street": "400 East State Rd 64, Marengo, IN 47140",
         "country": "USA",
-        "state": "Indiana",
-        "city": "Marengo",
+
         "website": "https://marengocave.com/",
         "description": "It's big, it's long, it's a mile of cave in Indiana. A U.S. National Natural Landmark offering two separate hour-long tours.",
         "worth stopping": true,
@@ -2283,7 +2254,7 @@
         "name": "West Baden Springs Hotel",
         "street": "8538 W Baden Ave, West Baden Springs, IN 47469",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "http://www.frenchlick.com/hotels/westbaden",
         "description": "\"Indiana's Monte Carlo\" - seriously that's what the submission for the National Register of Historical Places says -opened with the largest dome in the world in 1902 and is one of America's few remaining Grand Hotels. The trolley at the hotel takes you straight to the French Lick Casino to spend your hard earned social security checks.",
         "worth stopping": true,
@@ -2304,7 +2275,7 @@
         "name": "Turkey Run State Park",
         "street": "8121 Park Rd, Marshall, IN 47859",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "https://www.in.gov/dnr/state-parks/parks-lakes/turkey-run-state-park/",
         "description": "Narrow sandstone canyons that feel like the arches of a subway tunnel with waterfalls in the middle. There's also rocky cliffs facing the river.",
         "worth stopping": true,
@@ -2325,7 +2296,7 @@
         "name": "Bluespring Caverns Park",
         "street": "1459 Blue Springs Cavern Rd, Bedford, IN 47421",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "https://www.bluespringcaverns.com/",
         "description": "Kayak or boat on the world's largest navigable underground river (1-3 hour tour) at Bluespring Cavern in Indiana. Bet kayaking on an underground river in Indiana wasn't on your bucket list.",
         "worth stopping": true,
@@ -2346,7 +2317,7 @@
         "name": "Indianapolis Motor Speedway Museum",
         "street": "4750 W 16th St, Indianapolis, IN 46222",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "",
         "description": "400,000 people per year attend the Indianapolis Motor Speedway for the Indianapolis 500 . This museum is set in the heart of the racetrack that is the highest capacity sports venue in the world. Come and see the cars that have won the the top event in American open-wheel car racing.",
         "worth stopping": true,
@@ -2367,8 +2338,7 @@
         "name": "USS LST-325",
         "street": "610 NW Riverside Dr, Evansville, IN 47708",
         "country": "USA",
-        "state": "Indiana",
-        "city": "Evansville",
+
         "website": "http://www.lstmemorial.org/",
         "description": "Landing Ship Tanks beach themselves to allow rapid unloading of invading forces via the bow doors, and require a shallow draft with high cargo capacity. LST-325 particpated in the Normandy Landings, and is the sole remaining operational LST in the United States.",
         "worth stopping": true,
@@ -2389,7 +2359,7 @@
         "name": "Squire Boone Caverns",
         "street": "100 Squire Boone Rd SW, Mauckport, IN 47142",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "http://www.squireboonecaverns.com/",
         "description": "A cave full of rushing water and underground waterfalls that disappears into a sinkhole. The stream that powers the gristle mill on the surface is the same as underground.",
         "worth stopping": true,
@@ -2410,7 +2380,7 @@
         "name": "Indiana Caverns",
         "street": "1267 Green Acres Dr SW, Corydon, IN 47112",
         "country": "USA",
-        "state": "Indiana",
+        
         "website": "https://www.indianacaverns.com/",
         "description": "A 40ft underground waterfall bursting through the ceiling and a underground riverboat ride will really make you feel like you descended to the underworld in Indiana. This cavern is notable for the numerous ice-age fossils present.",
         "worth stopping": true,
@@ -2431,7 +2401,7 @@
         "name": "National Railroad Museum",
         "street": "2285 S Broadway, Ashwaubenon, WI 54304",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "http://www.nationalrrmuseum.org/",
         "description": "It's not the biggest railroad museum, however the National Railroad Museum possesses  some notably locomotives, such as General Motors Aerotrain, Union Pacific Railroad Big Boy, British Rail A4 used by Supreme Allied Commander Dwight Eisenhower, and a GG1.",
         "worth stopping": true,
@@ -2452,7 +2422,7 @@
         "name": "Bay Beach Amusement Park",
         "street": "1313 Bay Beach Rd, Green Bay, WI 54302",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "https://www.greenbaywi.gov/445/Bay-Beach-Amusement-Park",
         "description": "The people of Green Bay love Green Bay so much that their municipal government built an affordable amusement park just for the people of Green Bay. To top is off, Bay Beach Park relocated Elvis's favorite rollercoaster - the Zippin Pippin from Memphis to Green Bay.",
         "worth stopping": true,
@@ -2533,7 +2503,7 @@
         "name": "Willow River State Park",
         "street": "1034 Co Hwy A, Hudson, WI 54016",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "http://dnr.wi.gov/topic/parks/name/willowriver/",
         "description": "Willow River State Park is home to Willow Falls, a roaring waterfall in a 200ft deep gorge with dramatic overhangs.",
         "worth stopping": true,
@@ -2554,7 +2524,7 @@
         "name": "Mill Bluff State Park",
         "street": "Gypsum Ave, Camp Douglas, WI 54618",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "https://dnr.wisconsin.gov/topic/parks/millbluff",
         "description": "Sea stacks from ancient glacial lakes are now extremely out of place and make for good scenic hiking at Mill Bluff State Park.",
         "worth stopping": true,
@@ -2594,7 +2564,7 @@
         "name": "The Mining and Rollo Jamison Museums",
         "street": "405 E Main St, Platteville, WI 53818",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "http://www.mining.jamison.museum/",
         "description": "Where else can you tour a lead mine?",
         "worth stopping": true,
@@ -2615,7 +2585,7 @@
         "name": "Little Amerricka Amusement Park",
         "street": "700 E Main St, Marshall, WI 53559",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "http://www.littleamerricka.com/",
         "description": "It's 1950s decorations with 1950s safety sensitibilities at this classic park. Little Amerricka is home to a 3 mile long miniature railway, a rollercoaster with no seatbelts, a parachute tower, and a rollercoaster where you get inside the torture shoebox to bump your head.",
         "worth stopping": true,
@@ -2636,8 +2606,7 @@
         "name": "EAA Aviation Museum",
         "street": "3000 Poberezny Rd, Oshkosh, WI 54902",
         "country": "USA",
-        "state": "Wisconsin",
-        "city": "Oshkosh",
+
         "website": "https://www.eaa.org/",
         "description": "The Experimental Aircraft Association has their own museum, featuring 200+ wacky and unique aircraft like the 1938 Bugatti Model 100 Racer, A rebuilt 1949 Tyler Aerocar, and Spaceship 1. EAA is right next to the annual weeklong EAA AirVenture Oshkosh event, the world's largest airshow.",
         "worth stopping": true,
@@ -2658,7 +2627,7 @@
         "name": "Harley-Davidson Museum",
         "street": "400 W Canal St, Milwaukee, WI 53201",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "http://www.h-dmuseum.com/",
         "description": "See over 450 motorcycles and trace the history of the legendary Harley-Davidson motorcycle company, up to and including when they stopped being affordable and cool.",
         "worth stopping": true,
@@ -2679,7 +2648,7 @@
         "name": "Wisconsin Maritime Museum",
         "street": "75 Maritime Dr, Manitowoc, WI 54220",
         "country": "USA",
-        "state": "Wisconsin",
+        
         "website": "http://www.wisconsinmaritime.org/",
         "description": "There's a mockup of an entire shipyard inside of the museum, and the USS Cobia, a WW2 Gato-class submarine docked outside.",
         "worth stopping": true,
@@ -2719,7 +2688,7 @@
         "name": "Graceland",
         "street": "Elvis Presley Blvd, Memphis, TN 38116",
         "country": "USA",
-        "state": "Tennesee",
+
         "website": "https://www.graceland.com/",
         "description": "Everything Elvis, including his airplanes, tacky 70s mansion, and automobiles. Elvis Presley was the best selling music artist in history during his lifetime, and pioneered modern rock-and-roll as a genre. Even today, Elvis impersonators make their livings by pretending to be The King.",
         "worth stopping": true,
@@ -2740,7 +2709,7 @@
         "name": "National Civil Rights Museum",
         "street": "450 Mulberry St, Memphis, TN 38103",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://www.civilrightsmuseum.org/",
         "description": "Martin Luther King was shot here, his death inspired riots nationwide in 1968. This museum has a bus that you can get kicked out of your seat in, a bus that you can be set on fire in for trying to get people the right to vote, a lunch counter you can be harassed at for daring to order food, and a jail to get locked up in for getting out of line. All in all, the complete American Civil Rights experience.",
         "worth stopping": true,
@@ -2761,7 +2730,7 @@
         "name": "USS Cairo Gunboat and Museum",
         "street": "3201 Clay St, Vicksburg, MS 39183",
         "country": "USA",
-        "state": "Mississippi",
+        
         "website": "http://www.nps.gov/vick/u-s-s-cairo-gunboat.htm",
         "description": "The USS Cairo was a union ironclad river gunboat during the US Civil War and was the first ship to ever be sunk by a remotely detonated mine. The wreck was found, excavated, and new parts put onto the outside so that you can get a feel for its construction. The USS Cairo is the only Civil War era river gunboat available for tour in existence.",
         "worth stopping": true,
@@ -2782,7 +2751,7 @@
         "name": "Vicksburg National Military Park",
         "street": "3201 Clay St, Vicksburg, MS 39183",
         "country": "USA",
-        "state": "Mississippi",
+        
         "website": "http://www.nps.gov/vick/",
         "description": "The 47-day Siege of Vicksburg marked the turning point of the U.S. Civil War in the Union's favor. 30,000 Confederate soldiers were captured, and the Mississippi river came under the complete control of Union forces - cutting the Confederacy in two. Vicksburg National military Park features 20 miles of trenches and earthworks along the siege lines and offers an outstanding view of the Mississippi river.",
         "worth stopping": true,
@@ -2823,7 +2792,7 @@
         "name": "Red Bluff Mississippi",
         "street": "",
         "country": "USA",
-        "state": "Mississippi",
+        
         "website": "https://www.alltrails.com/trail/us/mississippi/red-bluff--3",
         "description": "This colorful cliff keeps swallowing the nearby highway. The wreckage of cars and trains lay at the bottom near well marked trails.",
         "worth stopping": true,
@@ -2864,7 +2833,7 @@
         "name": "Jefferson Davis Presidential Library and Museum",
         "street": "2244 Beach Blvd, Biloxi, MS 39531",
         "country": "USA",
-        "state": "Mississippi",
+        
         "website": "http://www.visitbeauvoir.org/",
         "description": "It's like the evil universe version of a United State Presidential Library where President of the Confederate States of America Jefferson Davis is honored at this museum run by the state of Mississippi. Their favorite words to use there are \"Heritage\", \"Resilience\", and \"Greatness\" - find out what they are reffering to at Jefferson Davis's retirement home on a former plantation.",
         "worth stopping": true,
@@ -2906,8 +2875,7 @@
         "name": "Gateway Arch National Park",
         "street": "",
         "country": "USA",
-        "state": "Missouri",
-        "city": "St. Louis",
+
         "website": "https://www.nps.gov/jeff/index.htm",
         "description": "The Gateway Arch is the world's tallest arch at 630ft tall. The National Park Service says you are explicitly allowed to touch it.",
         "worth stopping": true,
@@ -2928,8 +2896,7 @@
         "name": "City Museum",
         "street": "750 N 16th St, St. Louis, MO 63103",
         "country": "USA",
-        "state": "Missouri",
-        "city": "St.Louis",
+
         "website": "https://www.citymuseum.org/",
         "description": "The City museum is a 10 story giant adult playground maze with 10 story slides. To experience all the climbing and sliding make sure to bring quick dry athletic wear, knee pads, and zippered pockets or you will be full of regret.",
         "worth stopping": true,
@@ -2950,7 +2917,7 @@
         "name": "Erie Maritime Museum",
         "street": "150 E Front St, Erie, PA 16507",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://eriemaritimemuseum.org/",
         "description": "The USS Niagara played a pivotal war in winning the Battle of Lake Erie in the War of 1812, was sunk in 1820 raised in 1913, and rebuilt. The Niagara is the only warship that fought on the Great Lakes still afloat, and the second oldest American warship. The Erie Maritime Museum is located in a former power station and features history of the Battle of Lake Erie.",
         "worth stopping": true,
@@ -2991,7 +2958,7 @@
         "name": "Drake Well Museum and Park",
         "street": "202 Museum Ln, Titusville, PA 16354",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://www.drakewell.org/",
         "description": "Drake Well is the birthplace of the oil industry, all modern petroleum drilling and refining traces its roots back to the oil drilling boom started here in 1859.The world's first commerical oil well was so successful at producing oil that the price of oil dropped such that it became unprofitable.",
         "worth stopping": true,
@@ -3012,7 +2979,7 @@
         "name": "Kinzua Bridge State Park",
         "street": "296 Viaduct Rd, Mt Jewett, PA 16740",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/kinzua-bridge-state-park",
         "description": "Climb over the corpse of a collapsed 301ft 1900 railroad bridge that was destroyed by a Tornado in 2003. The surviving span of bridge now acts as a walkway and observation point for the wreckage.",
         "worth stopping": true,
@@ -3053,7 +3020,7 @@
         "name": "Phil's Burrow",
         "street": "300 E Mahoning St, Punxsutawney, PA 15767",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.groundhog.org/",
         "description": "Punxsutawney's entire economy is centered around the groundhog that lives at this burrow. Come see a town that is feverishly devoted to worshipping a marmot.",
         "worth stopping": true
@@ -3093,7 +3060,7 @@
         "name": "National Comedy Center",
         "street": "203 W 2nd St, Jamestown, NY 14701",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://comedycenter.org/",
         "description": "Jokes are funnier when you explain them with a museum.",
         "worth stopping": true,
@@ -3114,7 +3081,7 @@
         "name": "Letchworth State Park",
         "street": "6375 Park Rd, Castile, NY 14427",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://parks.ny.gov/visit/state-parks/letchworth-state-park",
         "description": "A 550ft gorge flanks 50 waterfalls, it's the Grand Canyon in green. The main waterfalls are over 100ft tall.",
         "worth stopping": true,
@@ -3135,7 +3102,7 @@
         "name": "JELL-O Museum",
         "street": "23 E Main St, Le Roy, NY 14482",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://www.jellogallery.org/",
         "description": "Learn about the history of America's most famous gelatin manufacturer in the town where it all started.",
         "worth stopping": true,
@@ -3156,7 +3123,7 @@
         "name": "Herschell Carrousel Factory Museum",
         "street": "180 Thompson St, North Tonawanda, NY 14120",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://www.carrouselmuseum.org/",
         "description": "The source of most American carousels. North Tonawonda, NY used to be the home of 4 American Carrousel manufacturers, with Herschell lasting the longest. Herschell also invented the modern idea of amusement rides specially designed for small children. This museum operates several children's rides and has a functioning carousel that operates signifigantly faster than normal.",
         "worth stopping": true,
@@ -3177,8 +3144,7 @@
         "name": "Buffalo Naval Park",
         "street": "1 Naval, Marina Park S, Buffalo, NY 14202",
         "country": "USA",
-        "state": "New York",
-        "city": "Buffalo",
+
         "website": "http://buffalonavalpark.org/",
         "description": "One of the most impressive naval collections in the United States. The only place where you can see a WW2 cruiser (Cleveland-class USS Little Rock), destroyer (Fletcher-class USS The Sulivans), submarine (Gato-class USS Croaker), and PT boat all in one place. The sail of the Los Angeles Class Submarine is also on display.",
         "worth stopping": true,
@@ -3199,8 +3165,7 @@
         "name": "Buffalo Transportation Pierce-Arrow Museum",
         "street": "263 Michigan Ave, Buffalo, NY 14203",
         "country": "USA",
-        "state": "New York",
-        "city": "Buffalo",
+
         "website": "https://www.pierce-arrow.com/",
         "description": "Pierce Arrow manufactured luxury cars akin to Rolls Royce from 1901 to 1938, and this museum contains just about every model they ever made as well as those of other defunct Western New York automakers. Additionally, the museum constructed a gas station designed by Frank Lloyd Wright because the plans looked really cool.",
         "worth stopping": true,
@@ -3241,7 +3206,7 @@
         "name": "Niagara Falls State Park",
         "street": "332 Prospect St, Niagara Falls, NY 14303",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://www.niagarafallsstatepark.com/",
         "description": "Niagara Falls State Park is located on an island separating the American Falls from Horseshoe Falls. Niagara falls is the highest flow rate of any waterfall in North America as the entirety of Lake Erie empties at this point into Lake Ontario at a rate of 5.9 million cubic feet per minute. The further you walk from the parking lot and the more stairs you take, the less crowded it gets - this is the American side after all.",
         "worth stopping": true,
@@ -3302,7 +3267,7 @@
         "name": "Niagara Amusement Park and Splash World",
         "street": "2400 Grand Island Blvd, Grand Island, NY 14072",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://niagaraamusementpark.com/",
         "description": "Niagara Amusement Park and Splash world features charming cowboy shows, including a train robbery in this tranquil and slightly run-down amusement park. You can see the rising mist of Niagara Falls from the top of the Silver Comet rollercoaster, and get hammered in the waterpark.",
         "worth stopping": true,
@@ -3323,7 +3288,7 @@
         "name": "Medina Railroad Museum",
         "street": "530 West Ave, Medina, NY 14103",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://www.medinarailroadmuseum.org/",
         "description": "An old train station has been turned into a massive model train display.",
         "worth stopping": true,
@@ -3344,7 +3309,7 @@
         "name": "Seabreeze Amusement Park",
         "street": "4600 Culver Rd, Rochester, NY 14622",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://www.seabreeze.com/",
         "description": "Seabreeze is a charming classic amusement park that has stuck to its history, featuring the Jack Rabbit - oldest rollercoaster in the United States, and the Bobsleds - the first modern hybrid steel-wooden rollercoaster. Seabreeze is situated on a hill overlooking Lake Ontario, and the view is stunning.",
         "worth stopping": true,
@@ -3365,7 +3330,7 @@
         "name": "The Strong National Museum of Play",
         "street": "1 Manhattan Square Dr, Rochester, NY 14607",
         "country": "USA",
-        "state": "New York",
+        
         "website": "",
         "description": "The Strong is home to the National Museum of Play, National Toy Hall of Fame, World Video Game oHall of Game, and the International Center for the History of Electronic Games. Your childhood? They have it.",
         "worth stopping": true,
@@ -3386,7 +3351,7 @@
         "name": "Stony Brook State Park",
         "street": "10820 NY-36, Dansville, NY 14437",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://parks.ny.gov/parks/118/details.aspx",
         "description": "Stone pathways let you get intimate with the curvaceous waterfalls and gorges of Stony Brook State Park. The state park has dammed a river such that it is now a natural swimming pool, complete with life guards.",
         "worth stopping": true,
@@ -3447,7 +3412,7 @@
         "name": "Fort Necessity National Battlefield",
         "street": "",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.nps.gov/fone/index.htm",
         "description": "See where George Washington started the Seven Years War (or French and Indian War) by assassinating a French officer carrying a diplomatic message. This same war would lead to Britain imposing burdensome taxes on the American colonies to pay for their defense, leading directly to the American Revolutionary War where George Washington would be appointed the leading General for the revolutionaries.",
         "worth stopping": true,
@@ -3468,7 +3433,7 @@
         "name": "Fallingwater",
         "street": "1491 Mill Run Rd, Mill Run, PA 15464",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://fallingwater.org/",
         "description": "Wow, a super modern looking house built over a waterfall, bet that was built recently! Nope,  1936.  Frank Lloyd Wright's greatest architectural masterpiece.",
         "worth stopping": true,
@@ -3490,7 +3455,7 @@
         "name": "Kennywood",
         "street": "4800 Kennywood Blvd, West Mifflin, PA 15122",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "4800 Kennywood Blvd, West Mifflin, PA 15122",
         "description": "Kennywood is home to three historical 1920s rollercoasters that take follow the terrain of the ravines cutting through the park. It is also home of Phantom's Revenge, one of the most acclaimed hypercoasters ever built. Kennywood is also home to the last surviving Turtle and Kangaroo ride.",
         "worth stopping": true,
@@ -3511,7 +3476,7 @@
         "name": "Lincoln Highway Experience",
         "street": "3435 Route 30 East, Latrobe, PA 15650",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://lhhc.org/",
         "description": "Before the National Highway System, the Lincoln Highway nominally connected the East and West Coasts of the United States. In reality, it was a primitively paved dirt path. Learn the history of the Lincoln Highway and its tourist attractions. Your admission earns you a postcard , a cup of coffee, and a slice of pie inside of a historical diner.",
         "worth stopping": true,
@@ -3572,7 +3537,7 @@
         "name": "Heinz History Center",
         "street": "1212 Smallman St, Pittsburgh, PA 15222",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://www.heinzhistorycenter.org/",
         "description": "The Heinz History Center features a prominent display by Heinz ketchup, Mr. Rogers set and puppets, and a replica of Elektro and Sparko (robots who are very dear to me).",
         "worth stopping": true,
@@ -3633,7 +3598,7 @@
         "name": "Empire State Building",
         "street": "20 W 34th St., New York, NY 10001",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://www.esbnyc.com/",
         "description": "The Empire State Building opened in 1931 as the tallest building in the world at 1,454 ft, and held this record until the openeing of the World Trade Center in 1973. A masterpiece of Art Deco architecture the Empire State Building is an icon of New York City and the United States of America.",
         "worth stopping": true,
@@ -3674,7 +3639,7 @@
         "name": "The Metropolitan Museum of Art",
         "street": "1000 5th Ave, New York, NY 10028",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://www.metmuseum.org/",
         "description": "The ultra-wealthy park their expensive paintings here for tax reasons. The Metropolitan Museum of Art possesses 2,000,000 works of art, including Washington Crossing the Delaware.",
         "worth stopping": true,
@@ -3695,7 +3660,7 @@
         "name": "Ellis Island National Museum of Immigration",
         "street": "Ellis Is, Jersey City, NJ 07305",
         "country": "USA",
-        "state": "New Jersey",
+        
         "website": "https://libertyellisfoundation.org/immigration-museum",
         "description": "If you're from the United States, there's a good chance your ancestors got checked for diseases and poverty at Ellis Island Immigration Center along with the 12 million other immigrants who were processed here.",
         "worth stopping": true,
@@ -3716,7 +3681,7 @@
         "name": "Statue of Liberty",
         "street": "",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://www.nps.gov/stli/index.htm",
         "description": "Public donations funded what was then the tallest statue in the world in the heart of New York City. The torch is no longer accessible after German Empire saboteurs detonated an ammunition pier nearby in New Jersey in the Black Tom explosion. The Statue of Liberty remains an American icon worldwide - which is why you can buy a lego version of it.",
         "worth stopping": true,
@@ -3738,7 +3703,7 @@
         "name": "Rye Playland",
         "street": "1 Playland Pkwy, Rye, NY 10580",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://playlandpark.org/",
         "description": "This 1927 Amusement Park set on the beach remains largely as it was opening day. Playland is one of the few municipally owned amusement parks in the United States.",
         "worth stopping": true,
@@ -3760,7 +3725,7 @@
         "name": "TWA Hotel",
         "street": "1 Idlewild Dr, Queens, NY 11430",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://twahotel.com/",
         "description": "The TWA Hotel is an example of 1950s futurism - basically it looks exactly like the movie The Incredibles.",
         "worth stopping": true,
@@ -3781,7 +3746,7 @@
         "name": "Bannerman Castle",
         "street": "Pollepel Island, Beacon, NY 12508",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://bannermancastle.org/",
         "description": "An abandoned military warehouse sits on an island in the middle of the Hudson River, where every view looks like a romance painting.",
         "worth stopping": true,
@@ -3802,7 +3767,7 @@
         "name": "Franklin D. Roosevelt Presidential Library and Museum",
         "street": "4079 Albany Post Rd, Hyde Park, NY 12538",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://fdrlibrary.org/",
         "description": "FDR combatted the Great Depression as governor of New York and took his programs nationwide, including: social security, insured bank accounts, federalized labor relations, agricultural price parity, mass deporations, and vast public works as executed through the Civilian Conservation Corps and Tennesee Valley Authority. FDR's policies were so popular the his party defied the typical midterm losses and increased its majorities. FDR leveraged this to win the presidency 4 times and died in office. Term limits exist solely because of him. The FDR Presidential Museum and Library is set on his family estate because he was a rich kid.",
         "worth stopping": true,
@@ -3843,7 +3808,7 @@
         "name": "Fort William Henry",
         "street": "46 Canada St, Lake George, NY 12845",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://www.fwhmuseum.com/",
         "description": "If you watched or read The last of The Mohicans, this is that fort. Fort William Henry was built in 1755 during the Seven Years War (French and Indian War). It was subjected to a siege in 1757 where the surrendering British were executed by the French's native allies.",
         "local attractions": true,
@@ -3864,7 +3829,7 @@
         "name": "Fort Ticonderoga",
         "street": "102 Fort Ti Rd, Ticonderoga, NY 12883",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://www.fortticonderoga.org/",
         "description": "Fort Ticonderoga was built by the French in 1755 to control the scenic entrance to Lake Champlain. A large hill perfect for placing artillery overlooks Fort Ticonderoga, resultings in its capture by the British from the French in 1759, the Americans from the British in 1775, and the British from the Americans in 1777. Famously, the guns from the American capture in 1775 were hauled all the way to Boston to force the British to withdraw from the city during the American Revolution.",
         "worth stopping": true,
@@ -3905,7 +3870,7 @@
         "name": "Adirondack Park",
         "street": "",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://dec.ny.gov/welcome-to-the-adirondacks",
         "description": "6.1 million acres of parkland in the mountainous backwoods of New York make Adirondack Park the biggest park in the Lower 48.",
         "worth stopping": true,
@@ -3946,7 +3911,7 @@
         "name": "Buttermilk Falls State Park",
         "street": "106 E Buttermilk Falls Rd, Ithaca, NY 14850",
         "country": "USA",
-        "state": "New York",
+        
         "website": "https://parks.ny.gov/visit/state-parks/buttermilk-falls-state-park",
         "description": "Pillars of rock, a narrow gorge, a swooshing water-carved creekbed, and a waterfall with a pathway that keeps you alongside it for all of its cascades makes Buttermilk Falls a must-see state park.",
         "worth stopping": true,
@@ -3967,7 +3932,7 @@
         "name": "Robert H. Treman State Park",
         "street": "105 Enfield Falls Rd, Ithaca, NY 14850",
         "country": "USA",
-        "state": "New York",
+        
         "website": "http://parks.ny.gov/parks/135/",
         "description": "12 waterfalls nestled in a steep gorge, including the 115ft Lucifer Falls. The cliffs are spectacular and the Gorge and Rim trails show you everything.",
         "worth stopping": true,
@@ -4028,7 +3993,7 @@
         "name": "Norman Rockwell Museum",
         "street": "9 Glendale Rd, Stockbridge, MA 01262",
         "country": "USA",
-        "state": "Massachusetts",
+        
         "website": "http://www.nrm.org/",
         "description": "American artist Norman Rockwell painted extremely popular pictures that were seen by many Americans in the Saturday Evening Post. The Normal Rockwell Museum contains 574 of his works including the famous \"Four Freedoms\" paintings.",
         "worth stopping": true,
@@ -4049,7 +4014,7 @@
         "name": "American Heritage Museum",
         "street": "568 Main St, Hudson, MA 01749",
         "country": "USA",
-        "state": "Massachusetts",
+        
         "website": "https://www.americanheritagemuseum.org/",
         "description": "By \"American Heritage\" they mean tanks, lots of operational tanks - that yes you can pay to ride in. These include the M1917A,  Matilda MK.II, Vickers Mk.IV, Churchill Crocodile, Cromwell I M4A1 Sherman, M3 Lee, M4A3E2 Sherman Jumbo, M22 Locust, M18 Hellcat , M5A1 Stuart VI, T-34, T34/85, Sturmgeschutz III, Panzer I.A, Panzer V, Jadgpanzer 38 Hetzer... you get the idea.",
         "worth stopping": true,
@@ -4150,7 +4115,7 @@
         "name": "John F. Kennedy Presidential Library and Museum",
         "street": "Columbia Point, Boston, MA 02125",
         "country": "USA",
-        "state": "Massachusetts",
+        
         "website": "https://www.jfklibrary.org/",
         "description": "The one and only time the United States elected a young and attractive president he got his head blown off. This made the American public very sad, and since JFK was also a rich kid his Presidential Library is extremely opulent.",
         "worth stopping": true,
@@ -4191,7 +4156,7 @@
         "name": "Plimoth Patuxet",
         "street": "137 Warren Ave, Plymouth, MA 02360",
         "country": "USA",
-        "state": "Massachusetts",
+        
         "website": "https://plimoth.org/",
         "description": "A living history museum portraying the initial Plymouth colony in Massachusetts. The museum gives a good idea of just how insane and precauious it was to move to an entire continent and be the first colonist, and how much of a cultist the Puritans had to be in order for it to be worth it.",
         "worth stopping": true,
@@ -4212,7 +4177,7 @@
         "name": "Springfield Armory National Historic Site",
         "street": "1 Armory St #2, Springfield, MA 01105",
         "country": "USA",
-        "state": "Massachusetts",
+        
         "website": "http://www.nps.gov/spar",
         "description": "Springfield Armory was the primary manufacturer for US military firearms from 1777 to 1968, when it was closed under the beliefs that it was more economical for private industry to produce firearms than the federal government. Springfield Armory National Historic Site contains all the firearms the United States government once produced for itself in the place they were produced.",
         "worth stopping": true,
@@ -4253,7 +4218,7 @@
         "name": "Gooseberry Falls State Park",
         "street": "3206 MN-61, Two Harbors, MN 55616",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "http://www.dnr.state.mn.us/state_parks/gooseberry_falls/index.html",
         "description": "4 waterfalls cascade over ancient lava flows into the world's largest freshwater lake at Gooseberry Falls State Park.",
         "worth stopping": true,
@@ -4274,7 +4239,7 @@
         "name": "Tettegouche State Park",
         "street": "5702 MN-61, Silver Bay, MN 55614",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "http://www.dnr.state.mn.us/state_parks/tettegouche/",
         "description": "Rocky vertical cliffs on Lake Superior with a 70ft high waterfall.",
         "worth stopping": true,
@@ -4295,7 +4260,7 @@
         "name": "Judge CR Magney State Park",
         "street": "4051 MN-61, Grand Marais, MN 55604",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "http://www.dnr.state.mn.us/state_parks/judge_cr_magney/",
         "description": "Home of the Devil's Kettle, where the river splits into two waterfalls, one continuing the river's course, and the other plunging into a dark chasm with no visible reentry point.",
         "worth stopping": true,
@@ -4316,7 +4281,7 @@
         "name": "Grand Portage State Park",
         "street": "9393 E MN-61, Grand Portage, MN 55605",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "http://www.dnr.state.mn.us/state_parks/grand_portage/index.html",
         "description": "A scenic 120ft waterfall marks the national border between the United States and Canada.",
         "worth stopping": true,
@@ -4337,7 +4302,7 @@
         "name": "Lake Vermillion-Soudan Underground Mine State Park",
         "street": "1302 McKinley Park Rd, Soudan, MN 55782",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00285",
         "description": "Travel 2,341 feet to the depth of an iron mine in the Vermillion Range of Minnesota. The deepest and oldest iron mine in Minnesota (established 1882).",
         "worth stopping": true,
@@ -4358,7 +4323,7 @@
         "name": "SPAM Museum",
         "street": "101 3rd Ave NE, Austin, MN 55912",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "https://www.spam.com/museum",
         "description": "See how America's favorite processed meat made its way into our coronary arteries and our hearts.",
         "worth stopping": true,
@@ -4379,7 +4344,7 @@
         "name": "Mill City Museum",
         "street": "704 S 2nd St, Minneapolis, MN 55401",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "https://www.mnhs.org/millcity",
         "description": "Learn everything about industrial flour milling in the ruins of what was once the world's largest flour mill. Why ruins? It caught fire - flour mills do that.",
         "worth stopping": true,
@@ -4400,7 +4365,7 @@
         "name": "Hjemkomst Center",
         "street": "202 1st Ave N, Moorhead, MN 56560",
         "country": "USA",
-        "state": "Minnesota",
+        
         "website": "http://www.hjemkomstcenter.com/",
         "description": "Minnesotans celebrated their Scandanavian heritage by building a replica of the Hopperstad Stave Church and a replica of the Gokstand Viking longboat.",
         "worth stopping": true,
@@ -4422,7 +4387,7 @@
         "name": "Scandinavian Heritage Park",
         "street": "1020 S Broadway, Minot, ND 58701",
         "country": "USA",
-        "state": "North Dakota",
+        
         "website": "https://scandinavianheritage.org/",
         "description": "Nothing quite says getting in touch with your ancestors like building a massive stave church and other Scandanavian buildings.",
         "worth stopping": true,
@@ -4443,7 +4408,7 @@
         "name": "Ronald Reagan Minuteman Missile State Historic Site",
         "street": "555 113 1/2 Ave NE, Cooperstown, ND 58425",
         "country": "USA",
-        "state": "North Dakota",
+        
         "website": "https://www.history.nd.gov/historicsites/minutemanmissile/",
         "description": "The Dakotas are as far away from the ocean as one can get, which makes them an optimal place to put nuclear lauch facilities since any first strike much traverse the maximum distance possible to reach them. Descend into the Oscar-Zero Missile Alert Facility and November-33 Launch Facility to witness a nuclear missile launch facility with the power to end the world. You can't go into the actual missile silo, which is a shame.",
         "worth stopping": true,
@@ -4484,7 +4449,7 @@
         "name": "Little Missouri State Park",
         "street": "910 103rd Ave NW, Killdeer, ND 58640",
         "country": "USA",
-        "state": "North Dakota",
+        
         "website": "https://www.parkrec.nd.gov/little-missouri-state-park-0",
         "description": "It's like the badlands in nearby Teddy Roosevelt National Park, but much smaller.",
         "worth stopping": true,
@@ -4505,7 +4470,7 @@
         "name": "The Parthenon (Nashville)",
         "street": "2500 West End Ave, Nashville, TN 37203",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://www.nashvilleparthenon.com/",
         "description": "Nashville built an exact-size replica of the original Parthenon in Athens for the 1897 Tennessee Centennial Exposition -except this one wasn't destroyed by a gunpowder explosion.",
         "worth stopping": true,
@@ -4527,7 +4492,7 @@
         "name": "Lane Motor Museum",
         "street": "702 Murfreesboro Pike, Nashville, TN 37210",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "http://www.lanemotormuseum.org/",
         "description": "The Lane Motor Museum is nearly entirely devoted to microcars and prototypes. See just how little of a car auto manufacturers tried to sell the public all over the world.",
         "worth stopping": true,
@@ -4588,7 +4553,7 @@
         "name": "Mammoth Cave National Park",
         "street": "Quarters 43, 1 Mammoth Cave Pkwy, Mammoth Cave, KY 42259",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "http://www.nps.gov/maca",
         "description": "Mammoth Cave is the world's largest cave system, it's so big in fact that it feels just like you're standing inside of a building, and it loses some of the magic. If you want to see any of the really cool stuff, you have to go on one of the guided tours which tend to be booked out weeks in advance - so plan ahead.",
         "worth stopping": true,
@@ -4610,7 +4575,7 @@
         "name": "Crystal Onyx Cave",
         "street": "425 Prewitts Knob Rd, Cave City, KY 42127",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "https://crystalonyxcaveky.com/",
         "description": "Crystal Onyx cave differentiates itself from the other caves in the region by emphasizing how wacky it is. There is an esoteric collection of sculptures on the surface, and stunning formations below it.",
         "worth stopping": true,
@@ -4631,7 +4596,7 @@
         "name": "Creation Museum",
         "street": "https://creationmuseum.org/",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "2800 Bullittsburg Church Rd, Petersburg, KY 41080",
         "description": "Australian Ken Ham Jesus Man and a team of ex-Universal Studios animatronics experts want to share their vision that the world is only around 6000 years old, and that mankind shared the planet with dinosaurs. Come and see expertly crafted intricate displays about the creation of the world according to their interpretation of the bible - including fully animatronic dinosaurs, a mockup Garden of Eden, and miniature Noah's Ark (the full sized one is down the road).",
         "worth stopping": true,
@@ -4652,7 +4617,7 @@
         "name": "Ark Encounter",
         "street": "1 Ark Encounter Dr, Williamstown, KY 41097",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "https://arkencounter.com/",
         "description": "Australian Ken Ham Jesus Man and his team of Amish woodworkers built a life sized version of Noah's Ark from the bible and filled it with the animals that they thought would have been in it - dinosaurs. It is truly a sight to be hold, and seeing is believing.",
         "worth stopping": true,
@@ -4673,7 +4638,7 @@
         "name": "Fairway To Heaven Miniature Golf",
         "street": "560 Eureka Springs Dr, Lexington, KY 40517",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "http://www.lexingtonicecenter.com/",
         "description": "Golf your way through bible with 3 divine themed miniature golf courses: one for the Old Testament, one for the New Testament, and one for the miracles of Jesus.",
         "worth stopping": true
@@ -4693,7 +4658,7 @@
         "name": "Cocaine Bear (bear)",
         "street": "1315 Winchester Rd #341, Lexington, KY 40505",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "http://kyforky.com/",
         "description": "In 1985 a black bear overdosed on cocaine dropped by smugglers in the wilderness of Tennessee, and now sits stuffed at Kentucky for Kentucky where he can perform weddings if you believe he can. Cocaine Bear was eventually adapted into a feature film about the importance of family.",
         "worth stopping": true
@@ -4713,7 +4678,7 @@
         "name": "Kentucky Derby Museum",
         "street": "704 Central Ave, Louisville, KY 40208",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "",
         "description": "This is THE horse museum. Rich people who treat horses like F1 cars fly from all over the world  every year at Churchill Downs to watch the horses there run around a track once for two minutes. At the Kentucky Derby museums you can jump on a horse simulator and pretend that you too have importance to them.",
         "worth stopping": true,
@@ -4734,7 +4699,7 @@
         "name": "Louisville Mega Cavern",
         "street": "1841 Taylor Ave, Louisville, KY 40213",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "https://louisvillemegacavern.com/",
         "description": "An underground limestone mine is now a place where you can drive your car through caverns full of Christmas lights, aerial ropes courses, ziplines, and a historical tram tour.",
         "worth stopping": true,
@@ -4755,7 +4720,7 @@
         "name": "Harland Sanders Cafe and Museum",
         "street": "688 US-25W, Corbin, KY 40701",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "http://www.sanderscafe.com/",
         "description": "Colonel Sanders started his fried chicken empire from this small cafe in Kentucky. This is THE Kentucky fried chicken he has been referring to this entire time.",
         "worth stopping": true,
@@ -4776,7 +4741,7 @@
         "name": "Natural Arch Kentucky",
         "street": "",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "https://www.fs.usda.gov/r08/danielboone/recreation/natural-arch-picnic-area",
         "description": "A 100ft long sandstone natural arch in Daniel Boone National Forest that can be viewed from a commanding position on the bluffs, and easily hiked to be admired up close.",
         "worth stopping": true,
@@ -4797,7 +4762,7 @@
         "name": "Gorge Underground",
         "street": "2478 Glencairn Rd, Rogers, KY 41365",
         "country": "USA",
-        "state": "Kentucky",
+        
         "website": "https://gorgeunderground.com/",
         "description": "Kayak alone in a former limestone mine, you probably won't get lost.",
         "worth stopping": true,
@@ -4818,7 +4783,7 @@
         "name": "Hoover Dam",
         "street": "2785+G7, 81 Hoover Dam Access Rd, Boulder City, NV 89005",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "https://www.usbr.gov/lc/hooverdam/index.html",
         "description": "See the only government infastructure project completed ahead of schedule. A 726ft Art Deco styled dam controlling the Colorado River in a 2000ft deep Canyon.",
         "worth stopping": true,
@@ -4840,7 +4805,7 @@
         "name": "Pinball Hall of Fame",
         "street": "4925 Las Vegas Blvd S, Las Vegas, NV 89119",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "http://www.pinballmuseum.org/",
         "description": "Get a better return than any Las Vegas casino because the money here goes straight to charity. 368+ pinball machines ranging from 1945-2024 eagerly await your quarters",
         "worth stopping": true,
@@ -4861,7 +4826,7 @@
         "name": "National Atomic Testing Museum",
         "street": "755 E Flamingo Rd, Las Vegas, NV 89119",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "https://www.atomicmuseum.vegas/",
         "description": "Nevada was the site of 928 nuclear bomb detonations during the USA's nuclear testing program, with the resulting mushroom clouds being visible to tourists in Las Vegas. The Atomic Museum covers the history of nuclear weapons development and testing, including nuclear rocket propoulsion, handheld nuclear weapons, nuclear bomb racks for underground testing, and nuclear weapons in culture.",
         "worth stopping": true,
@@ -4882,7 +4847,7 @@
         "name": "Machine Guns Vegas",
         "street": "3501 Aldebaran Ave, Las Vegas, NV 89102",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "https://machinegunsvegas.com/",
         "description": "The Firearms Owners Protection Act of 1986 makes it illegal for civilians to own machine guns made after 1986. Fortunately, Machine Guns Vegas has a special license that exempts them from this law so that you can shoot things really fast without joining the military.",
         "worth stopping": true
@@ -4922,7 +4887,7 @@
         "name": "Valley of Fire State Park",
         "street": "",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "https://parks.nv.gov/parks/valley-of-fire",
         "description": "Swirly bright red and pastel pink petroglyph covered sandstone formations in the desert appear to be on fire when caught in the sun.",
         "worth stopping": true,
@@ -4963,7 +4928,7 @@
         "name": "Tonopah Historic Mining Park",
         "street": "110 Burro Ave, Tonopah, NV 89049",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "https://www.tonopahminingpark.com/",
         "description": "You know you want to run around a 1900 delapitated desert silver mine. Look at the terrifyingly claustrophobic shafts propped up with little more than logs doing their best.",
         "worth stopping": true,
@@ -4984,7 +4949,7 @@
         "name": "Nevada State Railroad Museum",
         "street": "2180 S Carson St, Carson City, NV 89701",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "https://www.carsonrailroadmuseum.org/",
         "description": "Pristine operational wild west railway trains in their native desert habitat. They also have a McKeen motor car that looks like a cross between a ship and a rail car. Yes you can ride the trains here.",
         "worth stopping": true,
@@ -5005,7 +4970,7 @@
         "name": "National Automobile Museum",
         "street": "1 Museum Dr, Reno, NV 89501",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "http://www.automuseum.org/",
         "description": "220+ cars from casino magnate William Harrah's car collection are preserved here.",
         "worth stopping": true,
@@ -5046,7 +5011,7 @@
         "name": "Lehman Caves",
         "street": "5500 NV-488, Baker, NV 89311",
         "country": "USA",
-        "state": "Nevada",
+        
         "website": "https://www.nps.gov/grba/planyourvisit/lehman-caves-tours.htm",
         "description": "twisted dripping and melting caves in the middle of Great Basin National Park. Reservations are sold out weeks in advance - so plan ahead.",
         "worth stopping": true,
@@ -5087,7 +5052,7 @@
         "name": "Space Needle",
         "street": "400 Broad St, Seattle, WA 98109",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "https://www.spaceneedle.com/",
         "description": "A 605ft space age tower built for the 1962 World's Fair, and one of the only structures in the region built to withstand the inevitable 9.0 magnitude earthquake. This is the observation tower that all other observation towers try to imitate.",
         "worth stopping": true,
@@ -5108,7 +5073,7 @@
         "name": "Museum of Flight",
         "street": "",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "Seattle, WA 98108",
         "description": "The largest private aircraft museum in the world featuring the planes of local aircraft manufacturer Boeing. The museum possesses 175 aircraft and spacecraft, including: the first presidential jet, a concorde, de Havilland Comet, Lockheed A-12, 727 prototype, 737, the first 747, 787, aerocar, and a DC-2.",
         "worth stopping": true,
@@ -5129,7 +5094,7 @@
         "name": "Flying Heritage and Combat Armor Museum",
         "street": "3407 109th St SW, Everett, WA 98204",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "",
         "description": "They sliced a tank in half here so you can get a good look at it.",
         "worth stopping": true,
@@ -5150,7 +5115,7 @@
         "name": "Future of Flight Aviation Center and Boeing Tour",
         "street": "8415 Paine Field Blvd, Mukilteo, WA 98275",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "https://www.boeingfutureofflight.com/",
         "description": "This is where planes are born. Tour the largest building in the world at the Boeing Everett Production Facitiliy and see Boeing planes roll down the assembly line.",
         "worth stopping": true,
@@ -5171,7 +5136,7 @@
         "name": "America's Car Museum",
         "street": "2702 E D St, Tacoma, WA 98421",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "http://www.americascarmuseum.org/",
         "description": "Harold LeMay amassed the largest private car collection in the world.The 350 cars at America's Car Museum are only half the the LeMay car collection, the other half is available at the LeMay Family Collection at Marymount.",
         "worth stopping": true,
@@ -5192,7 +5157,7 @@
         "name": "LeMay Collections at Marymount",
         "street": "325 152nd St E, Tacoma, WA 98445",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "https://lemaymarymount.org/",
         "description": "Whereas America's Car Museum is an ordered sample of Harold LeMay's car collection, the LeMay Collections at Marymount is a chaotic warehouse of 500+ classic cars.",
         "worth stopping": true,
@@ -5253,7 +5218,7 @@
         "name": "Snoqualmie Falls",
         "street": "",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "",
         "description": "A hotel is perched on the edge of a cliff overlooking a 270ft scenic waterfall.",
         "worth stopping": true,
@@ -5334,7 +5299,7 @@
         "name": "Mount Ranier National Park",
         "street": "Longmire Rd, Packwood, WA 98361",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "https://www.nps.gov/mora/planyourvisit/longmire.htm",
         "description": "A 14,410ft active stratovolcano towers over 25 glaciers, plummeting waterfalls, racing streams,  rocky gorges, hotsprings, and a rainforest. The volcano divides the parks into four distinct regions with their own visitors centers: Paradise, Longmire, Sunrise, Ohanapecosh, and Carbon River.",
         "worth stopping": true,
@@ -5355,7 +5320,7 @@
         "name": "Mount St. Helens National Volcanic Monument",
         "street": "3029 Spirit Lake Hwy, Castle Rock, WA 98611",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "https://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=34143",
         "description": "A smoldering 8363ft stratovolano towers over an ashen river valley and lava tube caves. The Johnston Ridge Observatory contains a museum regarding the 1980 eruption",
         "worth stopping": true,
@@ -5376,7 +5341,7 @@
         "name": "Hanford B",
         "street": "2000 Logston Blvd, Richland",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "https://www.nps.gov/mapr/planyourvisit/hanford-wa.htm",
         "description": "Hanford B was the first large-scale nuclear reactor ever built, it provided plutonium for the construction of the nuclear weapons as part of the Manhattan Project in 1944. The abandoned reactor is now part of the Manhattan Project National historical Park, tours are available and are the only way for tourists to get onto the secured site. Call ahead.",
         "worth stopping": true,
@@ -5417,7 +5382,7 @@
         "name": "Spokane Falls",
         "street": "",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "http://riverfrontspokane.org/",
         "description": "Spokane Falls rushes through the the futuristic Riverfront Park in downtown Spokane.",
         "worth stopping": true,
@@ -5458,7 +5423,7 @@
         "name": "Sun Lakes-Dry Falls State Park",
         "street": "34875 Park Lake Rd NE, Coulee City, WA 99115",
         "country": "USA",
-        "state": "Washington",
+        
         "website": "http://parks.state.wa.us/298/Sun-Lakes-Dry-Falls",
         "description": "During the ancient Missoula Floods, a 400ft tall and 3.5 mile wide waterfall stripped the landscape here down to the volcanic basalt. The devastation from the floods tore the landscape into a barren canyon.",
         "worth stopping": true,
@@ -5519,7 +5484,7 @@
         "name": "Crater Lake National Park",
         "street": "Crater Lake National Park, Rim Village, CRATER LAKE, OR 97604",
         "country": "USA",
-        "state": "Oregon",
+        
         "website": "https://www.nps.gov/crla/index.htm",
         "description": "A 1949ft deep lake inside of the remnants of a 6 mile wide destroyed volcano. Other extinct volcanos surround the park, as do pinnacled badlands and old growth forests.",
         "worth stopping": true,
@@ -5540,7 +5505,7 @@
         "name": "Toketee Falls",
         "street": "7H7F+J3, Idleyld Park, OR 97447",
         "country": "USA",
-        "state": "Oregon",
+        
         "county": "USA",
         "website": "http://www.fs.usda.gov/umpqua/",
         "description": "A 120ft waterfall pours through an opening in columnar basalt cliffs in the thick woods of Umpqua National Forest near the entrance to Crater Lake National Park.",
@@ -5562,7 +5527,7 @@
         "name": "Fort Stevens State Park",
         "street": "1675 Peter Iredale Rd, Hammond, OR 97121",
         "country": "USA",
-        "state": "Oregon",
+        
         "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=129",
         "description": "An overgrown WW2 fort overlooks the beaches of the ever shifting mouth of the Colombia River and the shipwreck of the Peter Iredale.",
         "worth stopping": true,
@@ -5583,7 +5548,7 @@
         "name": "Bonneville Salt Flats",
         "street": "Bonneville Salt Flats State Park, Wendover, UT 84083",
         "country": "USA",
-        "state": "Utah",
+        
         "website": "https://www.blm.gov/visit/bonneville-salt-flats",
         "description": "The flat lifeless salt plains here are the dried up remains of a 100 mile long ancient lake. This flatness has been put to optimal use by the Bureau of Land Management - as a high speed drag strip to set land speed records.",
         "worth stopping": true,
@@ -5604,7 +5569,7 @@
         "name": "Golden Spike National Historical Park",
         "street": "6200 N 22300 W, Corinne, UT 84307",
         "country": "USA",
-        "state": "Utah",
+        
         "website": "http://www.nps.gov/gosp/index.htm",
         "description": "In 1869 the United States completed the longest railroad ever built and united the tracks of the nation with a single Golden Spike. Working replicas of the locomotives that met are present and reenactments of the Golden Spike ceremony are held here on a seasonal schedule.",
         "worth stopping": true,
@@ -5625,7 +5590,7 @@
         "name": "Great Sand Dunes National Park and Preserve",
         "street": "11999 CO-150, Mosca, CO 81146",
         "country": "USA",
-        "state": "Colorado",
+
         "website": "",
         "description": "The tallest sand dunes in the United States are between the Rocky Mountains and some grassland. Sand from dried up ancient lakes has piled dunes against the snowcapped mountains. These are the tallest sand dunes in North America with some up to 750ft tall.",
         "worth stopping": true,
@@ -5646,7 +5611,7 @@
         "name": "Capulin Volcano National Monument",
         "street": "46 Volcano Highway, Capulin, NM 88414",
         "country": "USA",
-        "state": "New Mexico",
+
         "website": "http://www.nps.gov/cavo/",
         "description": "Hike the rim and crater of a 1000ft extinct cone volcano surrounded by lush grassland. Don't worry, you can drive your car to the top - this is America after all.",
         "worth stopping": true,
@@ -5667,7 +5632,7 @@
         "name": "Little Jerusalem Badlands State Park",
         "street": "County Road 400 and Gold Road, Oakley, KS 67748",
         "country": "USA",
-        "state": "Kansas",
+        
         "website": "https://ksoutdoors.gov/State-Parks/Locations/Little-Jerusalem-Badlands",
         "description": "Are the soaring badlands of Badlands National Park too tall for you? Are there too many people? What if I told you there were 100ft tall miniature badlands that you can easily hike up and down and all around. Stay on the trails, the Niobrara Chalk formations are soft and easily damaged, and this is all western Kansas really has going for it.",
         "worth stopping": true,
@@ -5688,7 +5653,7 @@
         "name": "Tallgrass Prarie National Preserve",
         "street": "2480B KS-177, Strong City, KS 66869",
         "country": "USA",
-        "state": "Kansas",
+        
         "website": "https://www.nps.gov/tapr/index.htm",
         "description": "Grassland so flat and grassy that the Federal government decided to preserve it as the definition of grassland.",
         "worth stopping": true,
@@ -5709,7 +5674,7 @@
         "name": "Big Brutus",
         "street": "6509 NW 60th St, West Mineral, KS 66782",
         "country": "USA",
-        "state": "Kansas",
+        
         "website": "http://www.bigbrutus.org/",
         "description": "The second largest electric shovel ever built was designed to strip the Kansas coal fields from 1962 to 1974. This 160ft piece of machinery is the museum - quite literally, the interior has been transformed into a museum space.",
         "worth stopping": true,
@@ -5730,7 +5695,7 @@
         "name": "J. M. Davis Arms and Historical Museum",
         "street": "330 N J M Davis Blvd, Claremore, OK 74017",
         "country": "USA",
-        "state": "Oklahoma",
+        
         "website": "",
         "description": "This is THE gun museum in the United States. 12,000 firearms are stored in seemingly endless rows of shelves. All because J.M. Davis's dad bribed his child to take his medicine with the promise of a shotgun - beginning a lifelong obsession.",
         "worth stopping": true,
@@ -5751,7 +5716,7 @@
         "name": "Strataca",
         "street": "3650 E Ave G, Hutchinson, KS 67501",
         "country": "USA",
-        "state": "Kansas",
+        
         "website": "http://www.underkansas.org/",
         "description": "When you think \"Kansas\" do you think 150 miles of endless labyrinthian underground tunnels from which you may never escape? Travel in electric tram through 40ft tall salt mining tunnels 650ft below the surface to see the world's greatest salt mining museum. The massive salt mine also sees use as a 26 acre underground vault and storage area for valuable documents and film.",
         "worth stopping": true,
@@ -5772,7 +5737,7 @@
         "name": "Cosmosphere",
         "street": "1100 N Plum St, Hutchinson, KS 67501",
         "country": "USA",
-        "state": "Kansas",
+        
         "website": "http://www.cosmo.org/",
         "description": "Going upwards is really fascinating to people that live in a land as flat as a pancake. The Cosmosphere is the largest collection of Soviet space artifacts outside of Moscow. Home to the Apollo 13 command module, Soviet Union Vostock and Voskhod 2 space capsules, a Titan II rocket; the actual filght-ready backup models for Sputnik 1, Sputnik 2, and Vanguard; replicas of the Space Shuttle Endeavour, and much much more.",
         "worth stopping": true,
@@ -5793,7 +5758,7 @@
         "name": "Dwight D. Eisenhower Presidential Library, Museum and Boyhood Home",
         "street": "200 S E 4th St, Abilene, KS 67410",
         "country": "USA",
-        "state": "Kansas",
+        
         "website": "https://www.eisenhowerlibrary.gov/",
         "description": "Eisenhower was just a dude from Kansas who joined the military in 1915 and rose through the ranks. Being Supreme Allied Commander while winning the biggest war in history made him popular enough to win the presidency. Eisenhower enforced Civil Rights legislation, built the USA's highway system, started NASA and presided over the most prosperous economic period in American history. America has never again elected a man without a full head of hair.",
         "worth stopping": true,
@@ -5814,7 +5779,7 @@
         "name": "Oz Museum",
         "street": "511 Road to Oz Highway, Wamego, KS 66547",
         "country": "USA",
-        "state": "Kansas",
+        
         "website": "http://www.ozmuseum.com/",
         "description": "Kansas is best known internationally for being the place Dorothy from the Wizard of Oz chose over staying in a magical world. At the Oz museum you can watch her repeat this decision over and over again in their theater. You can also take pictures with various recreations of the set and characters.",
         "worth stopping": true,
@@ -5835,7 +5800,7 @@
         "name": "London Museum Cafe and Soda Fountain",
         "street": "10690 Main St, New London, TX 75684",
         "country": "USA",
-        "state": "Texas",
+        
         "website": "http://nlsd.net/Museum.htm",
         "description": "On May 18. 1937 a natural gas leak destroyed the London School in New London Texas, killing 311 teachers and students while their parents watched helplessly from the PTA meeting held in the adjacent gym. That's why mercaptan is added to gas to make it smell bad. Honor the memory of the third-worst disaster in Texas by eating ice cream at this soda fountain and local history museum.",
         "worth stopping": true,
@@ -5856,7 +5821,7 @@
         "name": "Texas Broadcast Museum",
         "street": "416 E Main St, Kilgore, TX 75662",
         "country": "USA",
-        "state": "Texas",
+        
         "website": "https://www.texasbroadcastmuseum.com/",
         "description": "This is THE broadcasting museum. It's everything television broadcasting at the Texas Broadcasting Museum. Come see the DuMont Telecruiser, the ESPN mobile unit, a fully functioning TV studio, radio studio, piles of television cameras, broadcasting equipment, and endless radios.",
         "worth stopping": true,
@@ -5937,7 +5902,7 @@
         "name": "Arkansas Inland Maritime Museum",
         "street": "120 Riverfront Park Dr, North Little Rock, AR 72114",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "https://nlr.ar.gov/departments/parks-and-recreation/arkansas-inland-maritime-museum/",
         "description": "The tugboat Hoga survived the attack on Pearl Harbor in 1941 and is one of the last surviving ships from that day. The WW2 era Balao-class submarine and nuclear testing survivor USS Razorback is also sitting here in the Arkansas River, 350miles away from the nearest ocean.",
         "worth stopping": true,
@@ -5958,7 +5923,7 @@
         "name": "William J. Clinton Presidential Library and Museum",
         "street": "1200 President Clinton Ave, Little Rock, AR 72201",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "https://www.clintonpresidentialcenter.org/",
         "description": "President Bill Clinton really chose to make his museum shaped like a single long elevated shaft.",
         "worth stopping": true,
@@ -5999,7 +5964,7 @@
         "name": "Silver Dollar City",
         "street": "399 Silver Dollar City Pkwy, Branson, MO 65616",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "https://www.silverdollarcity.com/",
         "description": "An amusement park where it's always the 1880s, and that includes a spectacular caving experience built right into the park. Silver Dollar City consistently ranks as one of the top amusement parks in the world. Silver Dollar City's rollercoaster Outlaw Run ranks consistently in the top 10 wooden rollercoasters on the planet.",
         "worth stopping": true,
@@ -6021,7 +5986,7 @@
         "name": "Christ of the Ozarks",
         "street": "937 Passion Play Rd, Eureka Springs, AR 72632",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "http://greatpassionplay.org/christ-of-the-ozarks.html",
         "description": "Come see the 67ft \"Milk Carton Jesus\", a replica of the Holy Land, and the Berlin Wall; all on top of a mountain in the Ozarks.",
         "worth stopping": true,
@@ -6062,7 +6027,7 @@
         "name": "Pinnacle Mountain State Park",
         "street": "9600 AR-300, Roland, AR 72135",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "https://www.arkansasstateparks.com/parks/pinnacle-mountain-state-park",
         "description": "A rocky tetrahedron-shaped mountain offers stunning views of the islands in the Arkansas River and nearby lakes.",
         "worth stopping": true,
@@ -6083,7 +6048,7 @@
         "name": "Petit Jean State Park",
         "street": "1285 Petit Jean Mountain Rd, Morrilton, AR 72110",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "https://www.arkansasstateparks.com/parks/petit-jean-state-park",
         "description": "A 95ft waterfall, impressive canyons, caves, arches, and a rocky mountaintop overlooking the Arkansas River explain why Petit Jean was made the first Arkansas State Park.",
         "worth stopping": true,
@@ -6104,7 +6069,7 @@
         "name": "Mount Magazine State Park",
         "street": "Lodge Dr, Havana, AR 72842",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "https://www.arkansasstateparks.com/parks/mount-magazine-state-park",
         "description": "Mount Magazine is the highest point in Arkansas(2753ft) and offers commanding views from its bluffs and lodge. There's a road to the top because this is America.",
         "worth stopping": true,
@@ -6125,7 +6090,7 @@
         "name": "United States Marshals Museum",
         "street": "789 Riverfront Dr, Fort Smith, AR 72901",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "http://www.marshalsmuseum.org/",
         "description": "The United States Marshals Service is the original U.S. federal law enforcement agency from the founding of the nation. Learn about their history in this highly stylized museum that focuses how U.S. Marshals acted as source of the law in the frontier.",
         "worth stopping": true,
@@ -6146,7 +6111,7 @@
         "name": "The Walmart Museum",
         "street": "105 N Main St, Bentonville, AR 72712",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "http://www.walmartmuseum.com/",
         "description": "International retail giant Walmart got its start at this humble store in this small Arkansas town. Fortunately, Walmart has followed its founder Sam Walton's vision of treating employees well, quality American-made products, and low prices.",
         "worth stopping": true,
@@ -6167,7 +6132,7 @@
         "name": "Top of The Rock, Branson, Missouri",
         "street": "150 Top of the Rock Rd, Ridgedale, MO 65739",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "http://www.topoftherock.com/attractions/lost-canyon-en.html",
         "description": "You can drive a golf cart through a waterfall filled cave here. Privately owned lake-view vistas, waterfalls, caves with waterfalls, and pinnacles tour all conducted by golf cart at the top of a cliff near Branson Missouri. Make sure to check out the Lost Canyon Cave and Nature Trail and Ancient Ozarks Natural History Museum.",
         "worth stopping": true,
@@ -6188,7 +6153,7 @@
         "name": "Dogwood Canyon and Nature Park",
         "street": "2038 State Hwy 86, Lampe, MO 65681",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "https://dogwoodcanyon.org/",
         "description": "The official park of Bass Pro Shops founder Johny Morris. Layered plate-like cliffs and waterfalls dot this canyon at this 10,000-acre privately owned park near Branson, Missouri.",
         "worth stopping": true,
@@ -6209,7 +6174,7 @@
         "name": "Wonders of Wildlife Museum and Aquarium",
         "street": "600 W Sunshine St, Springfield, MO 65807",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "https://wondersofwildlife.org/",
         "description": "This is the first Bass Pro Shops, and it features the massive Wonders of Wildlife Aquarium, the IGFA Fishing Hall of Fame, and the NRA National Sporting Arms Museum. Yes they have Japanese Spider Crabs.",
         "worth stopping": true,
@@ -6250,7 +6215,7 @@
         "name": "Cosmic Cavern",
         "street": "6386 AR-21, Berryville, AR 72616",
         "country": "USA",
-        "state": "Arkansas",
+
         "website": "http://www.cosmiccavern.com/",
         "description": "Trout-filled caverns with notable soda-straw like formations and bottomless underground lakes. Seriously - they haven't found the bottom of the lakes yet.",
         "worth stopping": true,
@@ -6271,7 +6236,7 @@
         "name": "Fantastic Caverns",
         "street": "4872 N Farm Rd 125, Springfield, MO 65803",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "https://www.missouriscave.com/",
         "description": "These caverns are so massive you can drive a car through them, and you do. Take an hour long jeep-towed journey through the path of an ancient underground river.",
         "worth stopping": true,
@@ -6292,7 +6257,7 @@
         "name": "Ha Ha Tonka State Park",
         "street": "1491 Missouri D, Camdenton, MO 65020",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "https://mostateparks.com/park/ha-ha-tonka-state-park",
         "description": "Explore an abandoned mansion on the edge of the soaring cliffs of Ha Ha Tonka State Park. The surroundings are gorgeous too with sinkholes, waterfalls, caves, and a natural bridge.",
         "worth stopping": true,
@@ -6313,7 +6278,7 @@
         "name": "Harry S. Truman Presidential Library and Museum",
         "street": "500 W US Hwy 24, Independence, MO 64050",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "http://www.trumanlibrary.gov/",
         "description": "Harry S. Truman replaced Henry A. Wallace as Vice President because Wallace was considerd too left-wing, and as a result became President upon President Franklin Delano Roosevelt's Death. Truman authorized the first use of nuclear weapons in war, the Berlin Airlift, desegregation of the armed forces, and began demilitarization following the victory of WW2. As a result the nation found itself unprepared for the Korean War.",
         "worth stopping": true,
@@ -6334,8 +6299,7 @@
         "name": "National World War I Museum and Memorial",
         "street": "2 Memorial Dr, Kansas City, MO 64108",
         "country": "USA",
-        "state": "Missouri",
-        "city": "Kansas City",
+
         "website": "https://www.theworldwar.org/",
         "description": "Kansas residents started a fundraising drive in 1919 and as a result the WWI memorial was built in Kansas City in 1926. The memorial features a massive stone observation tower, and a museum to the second largest war fought so far in the European thunderdome.",
         "worth stopping": true,
@@ -6356,7 +6320,7 @@
         "name": "Forest Park (St. Louis)",
         "street": "",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "https://stlzoo.org/",
         "description": "Forest Park is the former site of the 1904 World's Fair - and with the number of free world class museums its as if the World's Fair is still happening. Forest Park features: the St Louis Zoo, St. Louis Art Museum, Missouri History Museum, art deco greenhouse, and the St. Louis Science Center.",
         "worth stopping": true,
@@ -6379,7 +6343,7 @@
         "name": "Bonne Terre Mine",
         "street": "185 Park Ave, Bonne Terre, MO 63628",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "http://www.bonneterremine.com/",
         "description": "Go scuba diving around abandoned mining equipment at the world's largest subterranean lake in a submerged 150-year old lead mine. There's also a brief boat tour if swimming in a lead mine sounds like a bad idea to you. It gets busy - so plan ahead.",
         "worth stopping": true,
@@ -6400,7 +6364,7 @@
         "name": "Meramec State Park",
         "street": "115 Meramec Pk Rd, Sullivan, MO 63080",
         "country": "USA",
-        "state": "Missouri",
+        
         "website": "http://mostateparks.com/park/meramec-state-park",
         "description": "Most spectacular cave tours have lighting - this one doesn't. So keep your hands on your flashlight, and don't stray off the path.",
         "worth stopping": true,
@@ -6441,7 +6405,7 @@
         "name": "Enchanted Forest (Oregon)",
         "street": "8462 Enchanted Way SE, Turner, OR 97392",
         "country": "USA",
-        "state": "Oregon",
+        
         "website": "http://www.enchantedforest.com/",
         "description": "Enchanted Forest amusement park converted a waterslide into a in-house built rollercoaster, the resulting engineering creation is a beautiful monstrosity. Additionally the park has a re-creation of various fairy tales, and they look right in place in the haunted forests of Oregon.",
         "worth stopping": true,
@@ -6462,7 +6426,7 @@
         "name": "Iowa 80",
         "street": "https://iowa80truckstop.com/",
         "country": "USA",
-        "state": "Iowa",
+        
         "website": "",
         "description": "Go Truck Yourself at the world's largest truck stop! Go to the truck museum, the truck movie theater, the truck dentist, the truck church, the truck gift shop, and the SUPER TRUCK SHOWROOM. It's a trucker's paradise - except that it's in Iowa.",
         "worth stopping": true,
@@ -6483,7 +6447,7 @@
         "name": "Herbert Hoover Presidential Museum and Library",
         "street": "210 Parkside Dr, West Branch, IA 52358",
         "country": "USA",
-        "state": "Iowa",
+        
         "website": "https://hoover.archives.gov/",
         "description": "Herbert Hoover was born on a ranch, became a wealthy mining engineer, saved Belgium from starvation in World War I as the head of the Belgian relief Commission, saved Russia and Eastern Europe from starvation as head of the American Relief Administration, presided over the economic boom of the Roaring Twenties as Commerce Secretary, and successfully led the active Federal response to the Great Mississippi Flood of 1927. Herbert Hoover's work undoubtably saved millions of lives by the time he took office in 1929 - surely he would go down in history as a good president.",
         "worth stopping": true,
@@ -6504,7 +6468,7 @@
         "name": "John Deere Tractor And Engine Museum",
         "street": "500 Westfield Ave, Waterloo, IA 50701",
         "country": "USA",
-        "state": "Iowa",
+        
         "website": "https://about.deere.com/en-us/explore-john-deere/visit-us/john-deere-tractor-and-engine-museum",
         "description": "Behold the evolution of the tractor and the cult of John Deere.",
         "worth stopping": true,
@@ -6525,7 +6489,7 @@
         "name": "Maquoketa Caves State Park",
         "street": "9688 Caves Rd, Maquoketa, IA 52060",
         "country": "USA",
-        "state": "Iowa",
+        
         "website": "https://www.iowadnr.gov/maquoketacaves",
         "description": "Natural bridges, 13 caves, rock strewn hills, and soaring bluffs - all somehow in Iowa. I'm probably underselling it, but a speed camera ticketed me in Iowa and that's impacting my favor.",
         "worth stopping": true,
@@ -6547,7 +6511,7 @@
         "name": "The National Mississippi River Museum And Aquarium",
         "street": "350 E 3rd St, Dubuque, IA 52001",
         "country": "USA",
-        "state": "Iowa",
+        
         "website": "http://www.rivermuseum.org/",
         "description": "If the boatshop and the 1934 river dredge William M. Black don't convince you to come here, the National Mississippi River Museum and Aquarium also has a Giant Pacific Octopus and river otters.",
         "worth stopping": true,
@@ -6568,7 +6532,7 @@
         "name": "George M. Verity (towboat)",
         "street": "200 Mississippi Dr, Keokuk, IA 52632",
         "country": "USA",
-        "state": "Iowa",
+        
         "website": "",
         "description": "See a  Mississippi River 1927 paddlewheeler towboat, one of the few Mississippi museum paddlewheelers that actually carried cargo and looks like how you imagine a paddlewheel ship would look.",
         "worth stopping": true,
@@ -6589,7 +6553,7 @@
         "name": "Devils Tower",
         "street": "Devils Tower-National Monument Rd, Devils Tower, WY 82714",
         "country": "USA",
-        "state": "Wyoming",
+        
         "website": "https://www.nps.gov/deto/index.htm",
         "description": "The core of a dead volcano petrified on the surface of Wyoming. Native American tribes rumor that this near vertical 1,267ft columnar butte was formed by massive bears scraping their claws against its sides.",
         "worth stopping": true,
@@ -6610,7 +6574,7 @@
         "name": "Independence Rock",
         "street": "WY-220, Alcova, WY 82620",
         "country": "USA",
-        "state": "Wyoming",
+        
         "website": "http://wyoparks.state.wy.us/index.php/places-to-go/independence-rock",
         "description": "An out of place bulbous 130ft rock between two mountain ranges is inscribed with the names of the settlers who passed by it on the Oregon Trail. If you ever played Oregon Trail, you know this rock well.",
         "worth stopping": true,
@@ -6651,7 +6615,7 @@
         "name": "Old Faithful Inn",
         "street": "3200 Old Faithful Inn Rd, Yellowstone National Park, WY 82190",
         "country": "USA",
-        "state": "Wyoming",
+        
         "website": "https://www.nps.gov/places/000/old-faithful-inn.htm",
         "description": "The largest log structure in the world is built next to the Old Faithful Geyser. It's all wood and is a masterpiece within its own right. This is the massive lodge that all park lodges try to imitate.",
         "worth stopping": true,
@@ -6672,7 +6636,7 @@
         "name": "Bannack State Park",
         "street": "721 Bannack Rd, Dillon, MT 59725",
         "country": "USA",
-        "state": "Montana",
+
         "website": "https://fwp.mt.gov/stateparks/bannack-state-park",
         "description": "A real mining ghost town in the dry hills of Montana. Yes you can go in the buildings - it's encouraged.",
         "worth stopping": true,
@@ -6693,7 +6657,7 @@
         "name": "Castles N Coasters",
         "street": "9445 N Metro Pkwy E, Phoenix, AZ 85051",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.castlesncoasters.com/",
         "description": "Home of the official Operation Desert Storm rollecoaster. The arcade feels like what it must have been like to enter Saddam Hussein's palace. Stray cats roam the immaculate landscaping of the mini golf courses and live in the tiny structures there.",
         "worth stopping": true,
@@ -6714,7 +6678,7 @@
         "name": "Saguaro National Park",
         "street": "3693 S Old Spanish Trail, Tucson, AZ 85730",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.nps.gov/sagu/index.htm",
         "description": "These cacti are nothing like the little plants you leave to die in your windowsill - they're 60ft tall and live for 100 years. There is a whole forest of Saguaro Cacti in Saguaro National Park. The park is divided into two districts: the Tucson Mountain District and the Rincon Mountain District, each with their own visitor's center and trails.",
         "worth stopping": true,
@@ -6735,7 +6699,7 @@
         "name": "Pima Air And Space Museum",
         "street": "6000 E Valencia Rd, Tucson, AZ 85756",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.pimaair.org/",
         "description": "This is THE air and space museum. Look, I know I said that about the USAF museum, but this is a close second. 400+ aircraft lay over 80-acres and 6 hangers akin to an aircraft boneyard in the Arizona desert. You can walk up to most of the aircraft, there are no ropes or fences, but the hot metal is its own deterrent. Featuring 3 different B-52s, A B-36 (the largest bomber ever built), YC-14, SR-71, B-58, an airborne observatory inside of a 747, etc....basically every aircraft you could ever want to see.",
         "worth stopping": true,
@@ -6756,7 +6720,7 @@
         "name": "Biosphere 2",
         "street": "32540 S Biosphere Rd, Oracle, AZ 85623",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://biosphere2.org/",
         "description": "The largest closed ecological system ever constructed designed to simulate a life support system for space colonization. Every biome is simulated: rainforest, ocean (complete with coral reef), mangrove wetlands, savnnah grassland, and a fog desert. Now available for tour - and this time the humans inside won't run out of oxygen.",
         "worth stopping": true,
@@ -6777,7 +6741,7 @@
         "name": "Titan Missile Museum",
         "street": "1580 W Duval Mine Rd, Green Valley, AZ 85614",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://www.titanmissilemuseum.org/",
         "description": "Nuclear missile silo complete with nuclear missile. Titan II missiles were the backbone of the USAs land based deterrent until the Minuteman missile series. You can go into the control room and look at the missile on various tours.",
         "worth stopping": true,
@@ -6798,7 +6762,7 @@
         "name": "Chiricahua National Monument",
         "street": "12856 East Rhyolite Creek Road, Willcox, AZ 85643",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.nps.gov/chir/index.htm",
         "description": "It really looks like someone had just spent the past few thousand years balancing rocks on top of each other. Hoodoos, arches, and balancing rocks as far as the eyes can see. All formed from eroded volcanic ash.",
         "worth stopping": true,
@@ -6819,7 +6783,7 @@
         "name": "Grand Canyon National Park",
         "street": "8 S Entrance Rd, Grand Canyon Village, AZ 86023",
         "country": "United Staes",
-        "state": "Arizona",
+        
         "website": "https://www.nps.gov/grca/index.htm",
         "description": "This is THE Canyon. 277 miles of mile deep canyon, and you start at the top looking down. Even if there is snow at the top, the bottom is still a scorching desert. If you plan to hike it, it is way harder to go down than it is to go back up, and NO you can't drive to the bottom despite this being America.",
         "worth stopping": true,
@@ -6840,7 +6804,7 @@
         "name": "Havasu Creek",
         "street": "Havasupai, Supai, AZ 86435",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.havasupaireservations.com/",
         "description": "Havasu Creek is a bright blue stream on the Havasupai indian Reservation home to meandering waterfall oasis canyons in the hot desert. This includes the 100ft Havasu Falls. Good luck getting there - the only way in is by helicopter, hiking, or riding a donkey.",
         "worth stopping": true,
@@ -6861,7 +6825,7 @@
         "name": "Vermillion Cliffs National Monument",
         "street": "745 US-89, Kanab, UT 84741",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.blm.gov/national-conservation-lands/arizona/vermilion-cliffs",
         "description": "The arches and canyons here look like the layered brush strokes of a Van-gough painting. You need a permit. There's no roads - so once you're in you can roam free. Make sure to check out The Wave at the Coyote Buttes North trailhead - which is only accessible by daily lottery.",
         "worth stopping": true,
@@ -6882,7 +6846,7 @@
         "name": "Antelope Canyon",
         "street": "AZ-98, Page, AZ 86040",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/",
         "description": "The curved canyons of Antelope Canyon look straight out of the movie Dune and is exclusively accessible through guided tours.",
         "worth stopping": true,
@@ -6903,7 +6867,7 @@
         "name": "Navajo National Monument",
         "street": "Visitor Center, Kayenta, AZ 86033",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://www.nps.gov/nava/index.htm",
         "description": "Massive alcoves in the cliffs are full of the ancient Native American cliff-dwelling villages.",
         "worth stopping": true,
@@ -6924,7 +6888,7 @@
         "name": "Monument Valley",
         "street": "U.S. 163 Scenic, Oljato-Monument Valley, UT 84536",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://navajonationparks.org/tribal-parks/monument-valley/",
         "description": "Massive sandstone buttes stand alone in the desert. These are the quintessential images of the American Southwest.",
         "worth stopping": true,
@@ -6945,7 +6909,7 @@
         "name": "Canyon de Chelly National Monument",
         "street": "Indn Rte 7, Chinle, AZ 86503",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://www.nps.gov/cach/index.htm",
         "description": "A 750ft vertical sandstone spire, ancient cliff dwellings, and sheer cliffs. Visits to the canyon floor are only by permit or tour.",
         "worth stopping": true,
@@ -6966,7 +6930,7 @@
         "name": "Petrified Forest National Park",
         "street": "1 Park Rd, Petrified Forest National Park, AZ 86028",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.nps.gov/pefo/index.htm",
         "description": "Ancient forests have toppled over and turned to rainbow colored stone in this colorful canyon.",
         "worth stopping": true,
@@ -6987,7 +6951,7 @@
         "name": "Meteor Crater",
         "street": "Meteor Crater Rd, Winslow, AZ 86047",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://meteorcrater.com/",
         "description": "The most obvious sign of a meteor impact you are ever gong to see on this planet a - 3700ft wide crater. The actual meteor is in the visitor's center here.",
         "worth stopping": true,
@@ -7008,7 +6972,7 @@
         "name": "Slide Rock State Park",
         "street": "6871 AZ-89A, Sedona, AZ 86336",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://azstateparks.com/slide-rock/",
         "description": "Slide Rock State Park is like if the Grand Canyon had lots and lots of very green trees while still being made of tall red rock.",
         "worth stopping": true,
@@ -7029,7 +6993,7 @@
         "name": "Coconino National Forest",
         "street": "1824 S Thompson St, Flagstaff, AZ 86001",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.fs.usda.gov/coconino",
         "description": "Pretty much all of the forests and canyons of Arizona are part of Cococino National Forest - this includes all the beautiful trails out in Sedona. There are simply too many beautiful sites within the forest to choose from, so the entire forest has been included.",
         "worth stopping": true,
@@ -7050,7 +7014,7 @@
         "name": "Hall of Flame Fire Museum",
         "street": "6101 E Van Buren St, Phoenix, AZ 85008",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://www.hallofflame.org/",
         "description": "This is THE firetruck/firefighting museum. The world's largest firefighting museum has over 130 firetrucks. Arizona is a desert, so things catch on fire a lot here.",
         "worth stopping": true,
@@ -7071,7 +7035,7 @@
         "name": "Organ Pipe Cactus National Monument",
         "street": "10 Organ Pipe Dr, Ajo, AZ 85321",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://www.nps.gov/orpi/index.htm",
         "description": "Organ Pipe Cactus are a bundle of stems that grow up to 26ft in height, and at Organ Pipe Cactus National Monument there's a whole forest of them.",
         "worth stopping": true,
@@ -7092,7 +7056,7 @@
         "name": "Arizona-Sonora Desert Museum",
         "street": "2021 N Kinney Rd, Tucson, AZ 85743",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://www.desertmuseum.org/",
         "description": "All the cool wildlife and plants of Arizona in one beautifully landscaped place. Coyotes, prarrie dogs, bighorn sheep, cougars, hawks, and owls.",
         "worth stopping": true,
@@ -7114,7 +7078,7 @@
         "name": "Tombstone, Arizona",
         "street": "395 E Allen St, Tombstone, AZ 85638",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://www.tombstonechamber.com/",
         "description": "The entire city of Tombstone, Arizona has preserved its boomtown architecture and heritage of wild-west gunfights. The gunfight at the O.K. Corral happened here, and formed the archetype of the American Wild West.",
         "worth stopping": true,
@@ -7135,7 +7099,7 @@
         "name": "Kartchner Caverns State Park",
         "street": "2980 AZ-90, Benson, AZ 85602",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "https://azstateparks.com/kartchner/",
         "description": "2.4 miles of stunning 50,000 year old limestone caves in the Arizona desert. Get a reservation, this cave is busy.",
         "worth stopping": true,
@@ -7156,7 +7120,7 @@
         "name": "Old Tucson Studios",
         "street": "201 Kinney Rd, Tucson, AZ 85735",
         "country": "USA",
-        "state": "Arizona",
+        
         "website": "http://oldtucson.com/",
         "description": "This is literally the wild west town you see in movies and television.  That's because pretty much every production that needed a wild west setting was filmed here at this movie studio from 1939-present.",
         "worth stopping": true,
@@ -7177,7 +7141,7 @@
         "name": "Falls Park",
         "street": "131 E Falls Park Dr, Sioux Falls, SD 57104",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://siouxfalls.gov/explorethefalls",
         "description": "Rushing waters over pink rock with no guardrails to stop you. Seriously, you can hop on the rocks until you are in the middle of the waterfall.",
         "worth stopping": true,
@@ -7198,7 +7162,7 @@
         "name": "Palisades State Park",
         "street": "48422 256th St, Garretson, SD 57030",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://gfp.sd.gov/parks/detail/palisades-state-park/",
         "description": "Pink rock forms 50ft tall vertical cliffs and freestanding stacks and hoodoos at Palisades State Park.",
         "worth stopping": true,
@@ -7239,7 +7203,7 @@
         "name": "Minuteman Missile National Historic Site",
         "street": "24545 CottonWood Rd, Philip, SD 57567",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.nps.gov/mimi/",
         "description": "There are 450 active Minuteman III  nuclear missiles in the surrounding area, visit their retired sibling the Minuteman II and its launch control system. Tour the Delta-01 Launch Control Facility to see the keys to armageddon, then pop on by the Delta-09 Minuteman Missile Silo. You will need to book a tour - it's a nuclear missile silo.",
         "worth stopping": true,
@@ -7260,7 +7224,7 @@
         "name": "Badlands National Park",
         "street": "25216 SD-240, Interior, SD 57750",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.nps.gov/badl/index.htm",
         "description": "244,000 acres of the most scenic badlands in the world. Bighorn sheep and prarrie dogs are abundant, and the vistas are seemingly endless. Because it's America, you can tour the entire rim by automobile.",
         "worth stopping": true,
@@ -7281,7 +7245,7 @@
         "name": "Mount Rushmore National Memorial",
         "street": "13000 SD-244 Building 31, Keystone, SD 57751",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.nps.gov/moru/index.htm",
         "description": "The USA carved massive 60ft scultpures of its best presidents into the Black Hills of South Dakota. It's very far away from the viewing platform, so it looks much smaller in person. This is the sculpture that all other sculptures carved into mountainsides tries to imitate.",
         "worth stopping": true,
@@ -7302,7 +7266,7 @@
         "name": "Black Elk Peak",
         "street": "Sylvan Lake - Harney, Keystone, SD 57751",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.fs.usda.gov/r02/blackhills/recreation",
         "description": "The highest point in South Dakota with a perfect view to take in all the beauty of the Black Hills. There's an observation tower at the very top. The best trailhead is located in Custer State Park.",
         "worth stopping": true,
@@ -7343,7 +7307,7 @@
         "name": "Black Hills National Forest",
         "street": "",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.fs.usda.gov/blackhills",
         "description": "The Black Hills are a mountainous island of green  surrounded by the Great Plains. Black Hills National Forest contains most of the trails and scenic roadways, with the rest being part of Custer State Park.",
         "worth stopping": true,
@@ -7364,7 +7328,7 @@
         "name": "Spearfish Canyon",
         "street": "10605 Wildlife Ln, Lead, SD 57754",
         "country": "USA",
-        "state": "South dakota",
+        
         "website": "https://gfp.sd.gov/parks/detail/spearfish-canyon-nature-area/",
         "description": "Spearfish canyon is a gorge filled with waterfalls part of the Black Hills National Forest. Make sure to check out Spearfish Falls and Roughlock falls.",
         "worth stopping": true,
@@ -7385,7 +7349,7 @@
         "name": "Homestake Mine (South Dakota)",
         "street": "160 W Main St, Lead, SD 57754",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.sanfordlab.org/slhvc",
         "description": "This 8000ft deep former gold mine has been converted into into the Deep Underground Science and Engineering Laboratory - the deepest underground laboratory in the United States. Research into dark matter and neutrinos is conducted there due to the ability to escape cosmic radiation. Now you can stare into the void of the pit of the mine - which is a sight in itself.",
         "worth stopping": true,
@@ -7406,7 +7370,7 @@
         "name": "Crazy Horse Memorial",
         "street": "Crazy Horse, SD 57730",
         "country": "Crazy Horse, SD 57730",
-        "state": "USA",
+  
         "county": "South Dakota",
         "website": "https://crazyhorsememorial.org/",
         "description": "This mountainside carving will be the largest in the world if it's ever completed - the face alone is larger than the heads of Mount Rushmore.",
@@ -7427,7 +7391,7 @@
         "name": "Wind Cave National Park",
         "street": "26611 US-385, Hot Springs, SD 57747",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.nps.gov/wica/index.htm",
         "description": "The boxwork walls of Wind Cave look like a terrifying spiderweb, and the cave breathes as if you were in the innards of some horrible creature. You have to purchase a tour to see the caves, and you can only do that at the visitor's center the day of.",
         "worth stopping": true,
@@ -7448,7 +7412,7 @@
         "name": "Jewel Cave National Monument",
         "street": "11149 US-16 B-12, Custer, SD 57730",
         "country": "USA",
-        "state": "South Dakota",
+        
         "website": "https://www.nps.gov/jeca/index.htm",
         "description": "Calcite crystals line the walls of this 220 mile breathing cave in the Black Hills of South Dakota. You need a reservation to visit this busy cave, so try to book months in advance online."
       },
@@ -7467,7 +7431,7 @@
         "name": "The Caverns",
         "street": "555 Charlie Roberts Rd, Pelham, TN 37366",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "http://www.thecaverns.com/",
         "description": "Have you ever wanted to listen to a rave inside of a cave. Now you can at The Caverns - the only concert venue I know of inside of a cave.  There's also cave tours, but those are just OK.",
         "worth stopping": true,
@@ -7488,7 +7452,7 @@
         "name": "Big South Fork National River and Recreation Area",
         "street": "4564 Leatherwood Rd, Oneida, TN 37841",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "http://www.nps.gov/biso",
         "description": "Explore towering cliffs, natural bridges, waterfalls, and the abandoned mining town of Blue Heron, Kentucky - all nestled close to the Big South Fork Cumberland River.",
         "worth stopping": true,
@@ -7509,7 +7473,7 @@
         "name": "Titanic Museum (Pigeon forge, Tennessee)",
         "street": "",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://titanicattraction.com/",
         "description": "It only takes 100 years for a tragedy to become a romance. See the half-scale replica of the front half of the Titanic at the world's largest permanent Titanic museum. If you are rooting for the iceberg - I've got good news for you.",
         "worth stopping": true,
@@ -7530,7 +7494,7 @@
         "name": "Dollywood",
         "street": "2700 Dollywood Parks Blvd, Pigeon Forge, TN 37863",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://www.dollywood.com/",
         "description": "The official amusement park of country music star and future saint: Dolly Parton, and consistently ranked among the top amusement parks worldwide.",
         "worth stopping": true,
@@ -7551,7 +7515,7 @@
         "name": "Great Smoky Mountains National Park",
         "street": "1420 Fighting Creek Gap Rd, Gatlinburg, TN 37738",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://www.nps.gov/grsm/index.htm",
         "description": "Waterfalls, cliffs, and endless rocky mountains covered in mist that resembles smoke. Make sure to check out Kuwohi (Clingman's Dome) - the highest point in the park.",
         "worth stopping": true,
@@ -7592,7 +7556,7 @@
         "name": "Chickamauga and Chattanooga National Military Park",
         "street": "110 Point Park Rd, Lookout Mountain, TN 37350",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://www.nps.gov/chch/index.htm",
         "description": "20,000 soldiers fought through the clouds on top of Lookout Mountain for control of Chatanooga, as a part of the broader Chatnooga campaign of the U.S. Civil War.  Chickamauga was the largest battle of the Western Theater where 34,000 soldiers became casualties. Now you can walk the battlefields with a sky-high view of the city in the river-valley below.",
         "worth stopping": true,
@@ -7614,7 +7578,7 @@
         "name": "Ruby Falls",
         "street": "1720 Scenic Hwy, Chattanooga, TN 37409",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://www.rubyfalls.com/",
         "description": "A 60ft waterfall inside of a cave on top of Lookout Mountain - only accessible by tour.",
         "worth stopping": true,
@@ -7635,7 +7599,7 @@
         "name": "Fall Creek Falls State Park",
         "street": "2009 Village Camp Rd, Spencer, TN 38585",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://tnstateparks.com/parks/gift-shops/fall-creek-falls",
         "description": "A 256ft tall waterfall surrounded by bowl shaped cliffs is the main star of this park - but there's 7 other waterfalls and 4 caves if that's not enough for you. The waterfall and gorge have scenic overlooks and unsafe feeling rope bridges if somehow all other other things weren't enough for you. It's the most visited state park in Tennesse for a reason.",
         "worth stopping": true,
@@ -7657,7 +7621,7 @@
         "name": "Cumberland Caverns",
         "street": "1437 Cumberland Caverns Rd, McMinnville, TN 37110",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://cumberlandcaverns.com/",
         "description": "This cave is so large that they host concerns inside of it.  There's five seperate walking tours which do not even begin to cover the 32 miles of mapped passages.",
         "worth stopping": true,
@@ -7678,7 +7642,7 @@
         "name": "Rock Island State Park (Tennessee)",
         "street": "82 Beach Rd, Rock Island, TN 38581",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://tnstateparks.com/parks/rock-island",
         "description": "Twin Falls bursts seemingly out of nowhere from a cavern in the lush cliffs into the Caney Fork River just downstream of the Great Falls Dam. The cliffs, rapids, and gorge here are also quite impressive with a series of smaller waterfalls. There is also a derelict cotton mill in the woods available to explore.",
         "worth stopping": true,
@@ -7719,7 +7683,7 @@
         "name": "Cummins Falls State Park",
         "street": "390 Cummins Falls Ln, Cookeville, TN 38501",
         "country": "USA",
-        "state": "Tennessee",
+        
         "website": "https://tnstateparks.com/parks/cummins-falls",
         "description": "The base of this 75ft waterfall and gorge are accessible with a permit to splash about in the tiers of cascades and rocks.",
         "worth stopping": true,
@@ -7740,7 +7704,7 @@
         "name": "Knoebels Amusement Resort",
         "street": "391 Knoebels Blvd, Elysburg, PA 17824",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.knoebels.com/",
         "description": "Knoebels is a coal-mining themed amusement park/resort/lumber yard. Ride the coal-mining themed rollercoaster, tour the coal-mining museum, and buy little coal mining helmets for your kids. Knoebels is also home to the renowned rollercoaster Phoenix, considered the best wooden rollercoaster ever built - it has won the Golden Ticket Awards Top Wooden Rollercoaster from 2018-2025. Knoebels also operates the only wooden bobsled coaster in the world: Flying Turns.",
         "worth stopping": true,
@@ -7761,7 +7725,7 @@
         "name": "Ricketts Glen State Park",
         "street": "695 PA-487, Benton, PA 17814",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/ricketts-glen-state-park",
         "description": "24 waterfalls with stone plate pathways precariously flanking their sides. The trees form a perfect canopy meaning you are fully enclosed by the ridges, streams, and forests of Ricketts Glen State Park.",
         "worth stopping": true,
@@ -7782,7 +7746,7 @@
         "name": "Lackawanna Coal Mine Tour",
         "street": "1 Bald Mountain Road, Scranton, PA 18411",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.lackawannacounty.org/government/departments/parks_and_recreation/coal_mine_tour.php",
         "description": "See where Santa's presents for the naughty list comes from in this tour of a 1903 coal mine.This is the last remaining mine in the Scranton region because the type of coal found in the region is no longer in high demand.",
         "worth stopping": true,
@@ -7823,7 +7787,7 @@
         "name": "Bills Old Bike Barn",
         "street": "7145 Columbia Blvd, Bloomsburg, PA 17815",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "",
         "description": "200+ historical motorcycles and americana in an indoor historical mockup of a fictional town called Billville.",
         "worth stopping": true,
@@ -7844,7 +7808,7 @@
         "name": "No. 9 Coal Mine and Museum",
         "street": "9 Dock St, Lansford, PA 18232",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://www.no9coalmine.com/",
         "description": "No. 9 Coal Mine was the longest continuously operated coal mine in the world, running from 1855 to 1972. During the mine tour you will dive 700ft below groud beneath a mountain to an oddly drippy anthracite coal mine. If the mine seems unsafe, well now you know why they invented strip mining.",
         "worth stopping": true,
@@ -7865,7 +7829,7 @@
         "name": "Ringing Rocks County Park",
         "street": "Ringing Rocks Rd, Upper Black Eddy, PA 18972",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.buckscounty.gov/Facilities/Facility/Details/Ringing-Rocks-Park-5",
         "description": "Get out your hammer and start smacking rocks in the rock field to hear the funny sounds they make at Ringing Rocks State Park. The rocks sound like bells when struck, it's really unique. Its a field full of people hitting rocks with hammers. Nature.",
         "worth stopping": true,
@@ -7886,7 +7850,7 @@
         "name": "Dorney Park",
         "street": "3830 Dorney Park Rd, Allentown, PA 18104",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://www.dorneypark.com/",
         "description": "Dorney Park (est. 1884) is the 5th oldest amusement park in the nation. It's also home to Demon Drop - the most inhuman and terrifying ride ever constructed. Featuring 8 rollercoasters, the best waterpark in the region, and a miniature railway from the 1930s whose cattlepen like locking cars are charming and a fire hazard.",
         "worth stopping": true,
@@ -7907,7 +7871,7 @@
         "name": "Reading Pagoda",
         "street": "98 Duryea Dr, Reading, PA 19602",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.readingpagoda.com/",
         "description": "A 1908 Japanese Pagoda looms over the valley of Reading, Pennsylvania. This just goes to show that Americans have always been obsessed with Japan.",
         "worth stopping": true,
@@ -7948,7 +7912,7 @@
         "name": "USS New Jersey",
         "street": "100 Clinton St, Camden, NJ 08103",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://www.battleshipnewjersey.org/",
         "description": "The WW2 era Iowa-class USS New Jersey is one of the most powerful battleships the United States ever fielded. The USS New Jersey fought in WW2, Korea, Vietnam, Lebanon, and the Persian Gulf. The massive warship is now available for tour in New Jersey.",
         "worth stopping": true,
@@ -7969,7 +7933,7 @@
         "name": "Independence Seaport Museum",
         "street": "211 S Christopher Columbus Blvd, Philadelphia, PA 19106",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://www.phillyseaport.org/",
         "description": "The Independence Seaport Museum features the USS Olympia - the only surviving American vessel from the Spanish-American war- and the WW2 era Balao-class submarine USS Becunana, and an indoor replica of the 1797 Schooner Dilligence.",
         "worth stopping": true,
@@ -7990,7 +7954,7 @@
         "name": "Museum of the American Revolution",
         "street": "101 S 3rd St, Philadelphia, PA 19106",
         "country": "United Staets",
-        "state": "Pennsylvania",
+        
         "website": "https://www.amrevmuseum.org/",
         "description": "USA! USA! USA! Ok, the chant didn't exist yet because the 13-Colonies hadn't signed the constitution - but come see the greatest collection of American Revolution artifacts and paintings in the same city where independence was declared",
         "worth stopping": true,
@@ -8011,7 +7975,7 @@
         "name": "Independence Hall",
         "street": "520 Chestnut St, Philadelphia, PA 19106",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.nps.gov/inde/planyourvisit/independencehall.html",
         "description": "Come see the compact place where the Declaration of Independence (1776) and the United States Constitution (1787) were both argued into existence by the founding fathers of the United States. The Liberty Bell is stored just across the street.",
         "worth stopping": true,
@@ -8032,7 +7996,7 @@
         "name": "Mutter Museum",
         "street": "19 S 22nd St, Philadelphia, PA 19103",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://muttermuseum.org/",
         "description": "Horrifying anatomical specimens and equipment that will make you go \"Wow that's President Grover Cleveland's tumor\". Also on site is half of Albert Einstein's brain, 139 skulls, and bones from people that had syphilus.",
         "worth stopping": true,
@@ -8053,7 +8017,7 @@
         "name": "Gettysburg National Military Park",
         "street": "1195 Baltimore Pike Suite 100, Gettysburg, PA 17325",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://www.nps.gov/gett/index.htm",
         "description": "This is THE battlefield to see in the USA. The battlefield is preserved exactly as it was during the U.S. Civil War in 1863, where 185,000 soldiers fought and 36,000 died on three days in July of 1863. The battlefield features expensive monuments, and interesting landscape - in particular the Devil's Den and Little Roundtop. The visitor center features an excellent explanation of the battle, the Gettysburg Address, and an impossibly large painting of the battle called the Cyclorama",
         "worth stopping": true,
@@ -8074,7 +8038,7 @@
         "name": "Railroad Museum of Pennsylvania",
         "street": "300 Gap Rd, Strasburg, PA 17579",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://rrmuseumpa.org/",
         "description": "This railroad museum focuses on all the railroads in Pennsylvania. - and features over 100 locomotives and railcars. Prominent locomotives include the streamlined electric GG1, a B1 yard switcher, an 1838 Rocket, and the 1940's World's Fair replica of the John Bull.",
         "worth stopping": true,
@@ -8095,7 +8059,7 @@
         "name": "National Watch and Clock Museum",
         "street": "514 Poplar St, Columbia, PA 17512",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "https://museum.nawcc.org/",
         "description": "So many interesting clocks that you'll lose track of time. Horology is just as fun as the way it's pronounced would imply.",
         "worth stopping": true,
@@ -8116,7 +8080,7 @@
         "name": "The Hershey Story Museum",
         "street": "63 W Chocolate Ave, Hershey, PA 17033",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "http://hersheystory.org/",
         "description": "The closest we will ever come to Willy Wonka's chocolate factory in real life. Hershey, Pennsylvania's entire economy is devoted to this chocolate manufacturer - and the amusement park owned by the chocolate manufacturer.",
         "worth stopping": true,
@@ -8137,7 +8101,7 @@
         "name": "Hersheypark",
         "street": "100 Hersheypark Dr, Hershey, PA 17033",
         "country": "USA",
-        "state": "Pennsylvania",
+        
         "website": "",
         "description": "This candy themed amusement park really feels like what would have been built if Willy Wonka was an American. It's also the largest amusement park on the U.S. East Coast, with 15 different rollercoasters that are all somehow good.",
         "worth stopping": true,
@@ -8158,7 +8122,7 @@
         "name": "Paterson Great Falls National Historical Park",
         "street": "72 McBride Ave Ext, Paterson, NJ 07501",
         "country": "USA",
-        "state": "New Jersey",
+        
         "website": "",
         "description": "Paterson Falls is a 77ft waterfall in a gorge in the middle of the historic industrial town of Paterson, New Jersey. The bridge, obeservation deck, and park lets you get particularly close to it.",
         "worth stopping": true,
@@ -8179,7 +8143,7 @@
         "name": "Paterson Museum",
         "street": "2 Market St, Paterson, NJ 07501",
         "country": "USA",
-        "state": "New Jersey",
+        
         "website": "",
         "description": "The inventor of the modern submarine - John Philip Holland- has his first boats located here, including the Holland I - Holland's first submarine, and the   Fenian Ram - the world's first practical submarine. There's also guns on display from the founding of the firearms manufacturer Colt, and silk production equipment.  Call before visiting, the museum sometimes shuts down due to high internal temperatures.",
         "worth stopping": true,
@@ -8260,7 +8224,7 @@
         "name": "Fort Delaware State Park",
         "street": "55 Clinton St, Delaware City, DE 19706",
         "country": "USA",
-        "state": "Delaware",
+
         "website": "https://www.destateparks.com/park/fort-delaware/",
         "description": "This War of 1812 era fort has also acted as a prisoner of war camp, and is surrounded by a moat and a river - giving the impression of a castle. The fort is only accessible by boat.",
         "worth stopping": true,
@@ -9514,6 +9478,45 @@
         "coordinates": [
           -86.2210015,
           34.5738283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "461",
+        "name": "Nauticus (Norfolk)",
+        "street": "1 Waterside Dr Suite 248, Norfolk, VA 23510",
+        "country": "USA",
+        "website": "http://www.nauticus.org/",
+        "description": "Norfolk is home of Naval Station Norfolk - the largest naval station in the world which protects the entrance to the USA's capitol and Chesapeake Bay. The WW2 era Iowa-class battleship USS Wisconsin is docked at Nauticus at a part of the Hampton Roads Naval Museum.  The USS Wisconsin is one of the largest battleships ever constructed, and one of the largest ever built. The USS Wisconsin served in WW2, Korea, and the Gulf War - and is now available for tour. It's really really big so it may take some time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2952833,
+          36.8474523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "462",
+        "name": "The Mariners Museum and Park",
+        "street": "",
+        "country": "",
+        "website": "",
+        "description": "The Mariner's Museum and Park is home to the USS Monitor center. The USS Monitor was a revolutionary warship which was the first to feature a combination of complete iron armor, exclusively use of steam power, and emphasis on high caliber guns in revolving turrets. After the ironclad CSS Virginia destroyed 3 union wooden warships with impunity at the Battle of Hampton Roads in 1861 it was engaged by the USS Monitor where the two ironclad warships were unable to damage each other - marking the end of the age of sail and wooden warships forever. The museum features a full-scale replica of the USS Monitor, as well as the turret of the actual USS Monitor.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+-76.4875334 ,37.0550884
         ]
       }
     }
