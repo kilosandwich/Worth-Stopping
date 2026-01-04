@@ -9416,6 +9416,266 @@
           37.561065
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "472",
+        "name": "Strategic Air Command and Aerospace Museum",
+        "street": "28210 W Park Hwy, Ashland, NE 68003",
+        "country": "USA",
+        "website": "http://www.sacmuseum.org/",
+        "description": "Strategic Air Command was a command of the United States Air Force from 1947-1992 in charge of nuclear weapons, reconnaisance, and aerial refueling. SAC was based in Nebraska, and that's why this museum features: A B-36 the largest bomber ever built, an Avro Vulcan, an XF-85 Goblin, B-1 Lancer, the X-38, and the nuclear missiles Atlas, Thor, and so much more!",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3201626,
+          41.0180906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "473",
+        "name": "Omahas Henry Doorly Zoo and Aquarium",
+        "street": "3701 S 10th St, Omaha, NE 68107",
+        "country": "USA",
+        "website": "https://www.omahazoo.com/",
+        "description": "This is consistently rated as the world's best zoo. They have hyraxes.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9271248,
+          41.2254614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "474",
+        "name": "Freedom Park (Omaha)",
+        "street": "2497 Freedom Park Rd, Omaha, NE 68110",
+        "country": "USA",
+        "website": "https://parks.cityofomaha.org/freedom-park/",
+        "description": "When you think \"the ocean\" and \"navy\" I know you think of \"Omaha, Nebraska\". Nonetheless, there WW2 era Admirable-class minesweeper USS Hazard and cold war era T-1-class training submarine USS Marlin are here, on dry land, 800 miles from the ocean.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9011892,
+          41.2765592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "475",
+        "name": "Museum of American Speed",
+        "street": "599 Oakcreek Dr, Lincoln, NE 68528",
+        "country": "USA",
+        "website": "http://www.museumofamericanspeed.org/",
+        "description": "The Museum of American Speed is dedicated to car racing, not any particular style of racing, just racing itself. That means speedcars, go-karts, indy cars, soap box derby cars., and cars that are just jet engines with wheels attached.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7254585,
+          40.8185742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "476",
+        "name": "Pioneer Village (Nebraska)",
+        "street": "138 US-6, Minden, NE 68959",
+        "country": "USA",
+        "website": "https://www.pioneervillage.com/",
+        "description": "Successful plastic manufacturer Harold Warp decided to buy anything with American historical signifigance, and began collecting buildings, art, and technology with the result being: Pioneer Village a museum of museums for Great Plains Americana. Pioneer Village is spread over 28 buildings on 20acres, including a car museum of 350+ cars and covered wagons, tractors, trains, airplanes, America's oldest carousel, carriages, and so so much more.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9514506,
+          40.5043265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "477",
+        "name": "Ashfall Fossil Beds State Historical Park",
+        "street": "86930 517th Ave, Royal, NE 68773",
+        "country": "USA",
+        "website": "https://outdoornebraska.gov/location/ashfall-fossil-beds/",
+        "description": "12 million years ago, a volcano erupted and the prehistoric creatures at this site died from inhaling volcanic ash. The fossils of these creatures lays in a twisted pile of agony - also known as a fossil site. Now you can view these fossils up close where they lay.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1564447,
+          42.4217231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "478",
+        "name": "Smith Falls State Park",
+        "street": "90159 Smith Falls Rd, Valentine, NE 69201",
+        "country": "USA",
+        "website": "http://outdoornebraska.gov/smithfalls/",
+        "description": "This waterfall in the Great Plains pumps out of a natural spring into a verdant and narrow canyon. If the viewing platform isn't majestic enough for you, there are stairs right to the base of the falls.  Smith Falls is the highest waterfall in the state of Nebraska.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3158172,
+          42.8879869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "479",
+        "name": "Chimney Rock National Historic Site",
+        "street": "Chimney Rock Trail, Bayard, NE 69334",
+        "country": "USA",
+        "website": "https://www.nps.gov/places/000/chimney-rock-national-historic-site.htm",
+        "description": "Chimney Rock is a spire of sandstone and ash that rises 286ft above the plains surrounding it. The spire was a landmark for settlers heading west as it was the first hint of mountains as they passed through the Great Plains. The spire used to be 490ft tall when it was first sighted, but has since been struck by lightning.  Visitors can hike up to the base and then look straight up to truly understand how monumental it really is.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3481389,
+          41.7038395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "480",
+        "name": "Scotts Bluff National Monument",
+        "street": "190276 Old Oregon Trail, Gering, NE 69341",
+        "country": "USA",
+        "website": "http://www.nps.gov/scbl",
+        "description": "An 800ft tall castle shaped bluff towers over the flat landscape surrounding it. Tunnels and trails criss cross their way to the top of the bluff. Or you can just drive to the summit - this is America.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7007189,
+          41.8369438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "481",
+        "name": "Wildcat Hills State Recreation Area",
+        "street": "210615 NE-71, Gering, NE 69341",
+        "country": "USA",
+        "website": "https://outdoornebraska.gov/location/wildcat-hills/",
+        "description": "The rocky escarpment of the Wildcat Hills provides scenic view of the plains and is a perfect representation of the American West. It's all scenic buttes all the time if you can't get enough Nebraska butte.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6773674,
+          41.7081686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "482",
+        "name": "Toadstool Geologic Park",
+        "street": "Harrison, NE 69346",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r02/nebraska/recreation/toadstool-geological-park-and-campground",
+        "description": "It really looks like Badlands National Park except smaller and someone stacked plates of rock on everything so they resembled toadstools.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5842636,
+          42.8580536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "483",
+        "name": "Fort Robinson State Park",
+        "street": "3200 US-20, Crawford, NE 69339",
+        "country": "USA",
+        "website": "https://outdoornebraska.gov/location/fort-robinson/",
+        "description": "Fort Robinson was a fort of the Old West that is towered over by hikeable tree covered badlands and bluffs. Fort Robinson was also the location of the surrender of the Lakota war leader Crazy Horse, and the 1879 Fort Robinson Massacre where Cheyenne fleeing imprisonment were hunted down and killed.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4681181,
+          42.6681218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "484",
+        "name": "Chadron State Park",
+        "street": "15951 Gold Rush Byway, Chadron, NE 69337",
+        "country": "USA",
+        "website": "https://outdoornebraska.gov/location/chadron/",
+        "description": "See sweeping badlands and buttes of the Pine Ridge escarpment from horseback or on foot. Chadron State Park was Nebraska's first state park",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0091813,
+          42.7080346
+        ]
+      }
     }
   ]
 }
