@@ -9896,6 +9896,127 @@
           45.573695
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "496",
+        "name": "Train Mountain Railroad",
+        "street": "36941 S Chiloquin Rd, Chiloquin, OR 97624",
+        "country": "USA",
+        "website": "http://trainmountain.org/",
+        "description": "Model railroads too small? Real railroads too big? How about 36 miles of rideable miniature railroad at Train Mountain - the largest miniature railroad in the world. Weave through the mountains of Oregon on miniature trains, and check out the rail museum for regular sized trains.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8879958,
+          42.5582135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "497",
+        "name": "Newberry National Volcanic Monument",
+        "street": "58201 US-97, Bend, OR 97702",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/visit/destination/newberry-national-volcanic-monument-0",
+        "description": "walk across a dead volcano at the Lava Butte, through ancient lava tubes at Lava River Cave,  see lava molds of ancient trees at Lava Cast Forest. The grounds remain dead from ancient lava flows - and you can hike among them.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3571678,
+          43.9173263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "498",
+        "name": "High Desert Museum",
+        "street": "59800 S Hwy 97, Bend, OR 97702",
+        "country": "USA",
+        "website": "http://www.highdesertmuseum.org/",
+        "description": "The eastern half of Oregon is arid steppe called the High Desert, and the High Desert Museum . Featuring re-creations of native american villages, fur trapping encampments, boomtowns, an entire sawmill, and live otters and other wildlife.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3416099,
+          43.9659363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "499",
+        "name": "Smith Rock State Park",
+        "street": "9988 NE Crooked River Dr, Terrebonne, OR 97760",
+        "country": "USA",
+        "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=36",
+        "description": "Sheer 350ft cliffs of volcanic basalt are nearly all rock climbing destinations.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1405064,
+          44.3671445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "500",
+        "name": "John Day Fossil Beds National Monument",
+        "street": "Mitchell, OR 97750",
+        "country": "USA",
+        "website": "https://www.nps.gov/joda/index.htm",
+        "description": "John Day Fossil Beds National Monument is broken up into three separate units - the palisades and volcanic lahars of the Clarno Unit; the volcanic strata, fossils museum and bighorn sheep of the Sheep Rock Unit, and the colorful red sashes on wavy yellow hills of the Painted Hills Unit. Each unit is a hiking destination in its own right and are each located roughly 30 minutes from each other.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2671581,
+          44.6498529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "501",
+        "name": "National Historic Oregon Trail Interpretive Center",
+        "street": "22267 OR-86, Baker City, OR 97814",
+        "country": "USA",
+        "website": "https://www.blm.gov/learn/interpretive-centers/national-historic-oregon-trail-interpretive-center",
+        "description": "This is THE Oregon Trail museum. Before the transcontinental railroad, America settlers drove their wagons westwards across the plains and rocky mountains towards the rich farmland of Oregon. The museum features the development of the Oregon trail as well as the remnnants of a gold mine.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7286334,
+          44.8146014
+        ]
+      }
     }
   ]
 }
