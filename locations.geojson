@@ -9053,6 +9053,188 @@
           29.4762751
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "438",
+        "name": "Natural Tunnel State Park",
+        "street": "306 Chairlift Loop, Duffield, VA 24244",
+        "country": "USA",
+        "website": "http://www.dcr.virginia.gov/state_parks/nat.shtml",
+        "description": "This cave was so big they put a rail line through it with little alteration. It looks like something out of a train set. The bowl shaped gorge has nearly vertical cliffs, making the arch of the tunnel even more impressive looking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7445254,
+          36.7024631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "439",
+        "name": "Virginia Museum of Transportation",
+        "street": "303 Norfolk Ave SW, Roanoke, VA 24016",
+        "country": "USA",
+        "website": "https://www.vmt.org/",
+        "description": "The Virginia Museum of Transportation features historical locomotives that operated on the Chesapeake Western, Virginia Central, and Norfolk and Western rail lines. This includes a streamlined train called the No.611, and a Jupiter nuclear missile for some reason. I do not know why a train museum has a nuclear missile.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9462822,
+          37.2731353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "440",
+        "name": "Natural Bridge State Park (Virginia)",
+        "street": "6477 S Lee Hwy, Natural Bridge, VA 24578",
+        "country": "USA",
+        "website": "https://www.dcr.virginia.gov/state-parks/natural-bridge",
+        "description": "This 215ft tall natural bridge is actually used as a bridge for U.S. Route 11. This bridge was surveyed by a young George Washington - he even engraved his initials on the site. You can hike down to the bottom of the near vertical gorge and look straightup and feel uneasy that there are cars moving above you held up only by what nature has provided.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5447815,
+          37.6278125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "441",
+        "name": "Natural Chimneys Regional Park",
+        "street": "94 Natural Chimneys Ln, Mt Solon, VA 22843",
+        "country": "USA",
+        "website": "https://dwr.virginia.gov/vbwt/sites/natural-chimneys-regional-park/",
+        "description": "120ft limestone chimney like spires loom off the side of a cliff. The Hall of Fame Jousting Tournament is held annually at the base of the chimneys.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0826756,
+          38.3586127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "442",
+        "name": "Shenandoah Valley National Park",
+        "street": "Skyline Drive Milepost 51, Stanley, VA 22851",
+        "country": "USA",
+        "website": "https://www.nps.gov/shen/index.htm",
+        "description": "Shenandoah Valley National Park is home of Skyline Drive - where you literally drive on top of a mountain ridge while having stunning views on either side. There's waterfalls and tunnels and crazy views - and you don't even have to get out of you car. It's what George Washington would have wanted probably.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4371681,
+          38.5178088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "443",
+        "name": "Luray Caverns",
+        "street": "101 Cave Hill Rd, Luray, VA 22835",
+        "country": "USA",
+        "website": "",
+        "description": "Luray caverns is a massive underground cave underground, but a hedge maze, toy museum, automobile museum, and living history village on the surface. The underground caverns feature rooms over 140ft tall.",
+        "worth stopping": true,
+        "museum": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4832893,
+          38.6645965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "444",
+        "name": "Monticello",
+        "street": "1050 Monticello Loop, Charlottesville, VA 22902",
+        "country": "USA",
+        "website": "https://www.monticello.org/",
+        "description": "Thomas Jefferson authored the declaration of Independence, founded the Democratic party, and was elected President of the United States because John Adams was super condescending and unlikeable. Jefferson promptly declared war on the Barbary Pirates, doubled the size of the nation with the Louisiana Purchase, and embargoed the British to bring manufacturing back to the United States. Thomas Jefferson was a prolific inventor and architect: that swivel chair you're sitting in? Thomas Jefferson invented it. Thomas Jefferson's architectural design submission for the White House didn't win, but he built his own house at his plantation in the same style.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4524856,
+          38.0102371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "445",
+        "name": "James Madison's Montpelier",
+        "street": "11350 Constitution Hwy, Montpelier Station, VA 22957",
+        "country": "USA",
+        "website": "http://www.montpelier.org/",
+        "description": "James Madison authored the Bill of Rights that forms the backbone of codified freedom in the United States of America . The Bill of Rights has has been copied often, but never duplicated because other countries prioritze order over freedom - and that always works out for them. After being elected President, Madison promptly started the War of 1812, created the Second Bank of the United States, and implemented tariffs to bring industry back to the United States (are you sensing a historical theme?). James Madison's plantation is now a museum about everything James Madison.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.168465,
+          38.2188078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "446",
+        "name": "Appomattox Court House National Historical Park",
+        "street": "111 National Park Dr, Appomattox, VA 24522",
+        "country": "USA",
+        "website": "http://www.nps.gov/apco/index.htm",
+        "description": "General George Armstrong Custer's calvary blocked the retreat of Confederate General Robert E. Lee - trapping his army at Appomatox Court House. This lead to the surrender of the Army of Northern Virginia, and as a result the end of the end of the U.S. Civil War and Slavery in the United States. The site of Lee's surrender has been reconstructed so you can relive the moment the aristocratic slaveowning traitors finally realized they had lost to a drunk guy from Ohio.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7972308,
+          37.3770874
+        ]
+      }
     }
   ]
 }
