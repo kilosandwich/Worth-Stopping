@@ -9316,6 +9316,106 @@
           37.2713984
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "467",
+        "name": "Fort Monroe National Monument",
+        "street": "",
+        "country": "",
+        "website": "",
+        "description": "Fort Monroe is the largest fort by area ever built by the United States. It is so big that you drive your car around inside of it to get around. Fort Monroe was a beacon of freedom during the U.S. Civil War as it remained in Union control despite being surrounded by the Confederacy. Thousands of slaves from the surrounding Virginia countryside their freedom and fled to Fort Monroe. Confederacy President Jefferson Davis was imprisoned at Fort Monroe following the end of the Civil War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3072891,
+          37.0040762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "468",
+        "name": "Keystone Truck and Tractor Museum",
+        "street": "880 W Roslyn Rd, Colonial Heights, VA 23834",
+        "country": "USA",
+        "website": "http://www.keystonetractorworks.com/",
+        "description": "This is THE tractor museum. One man has amassed the world's largest tractor collection - instead of endless fields of corn, it's an endless warehouse of tractors. Historical tractors, streamlined tractors, German Tractors, French Tractors, big tractors, small tractors - TRACTORS TRACTORS TRACTORS. There's also trucks.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3943046,
+          37.2482876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "469",
+        "name": "Petersburg National Battlefield",
+        "street": "5001 Siege Rd, Petersburg, VA 23803",
+        "country": "USA",
+        "website": "http://www.nps.gov/pete/",
+        "description": "The end of the U.S. Civil War descended into trench warfare as Union forces besieged the Confederate capitol of Richmond for 9 months beginning in 1864. Innovative attempts were made to break Confederate lines, including digging a tunnel beneath their position and detonating a staggering amount of explosives in it. The crater and trenchworks are still visible to this day.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3779509,
+          37.2184201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "470",
+        "name": "American Civil War Museum",
+        "street": "",
+        "country": "",
+        "website": "",
+        "description": "Richmond, Virginia was the capitol of the Confederacy during the U.S. Civil War, and the Tredegar Iron Works was the heart of industrial military production for the traitors - supplying half of all domestic production of artillery and nearly all locomotives. The decaying Iron Works are now the American Civil War museum where it's everything Civil War all the time always.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4455248,
+          37.5353703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "471",
+        "name": "Science Museum of Virginia",
+        "street": "2500 W Broad St, Richmond, VA 23220",
+        "country": "USA",
+        "website": "https://smv.org/",
+        "description": "Richmond's former railway station has been converted into a giant science museum - because no one takes trains anymore - cars forever! Also home to the submarine Aluminaut - which helped recover lost hydrogen bombs off Spain in 1966, and an SR-71 Blackbird. They also have taught rats to play basketball and have daily shows. You can also play air hockey against a robot arm.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4658095,
+          37.561065
+        ]
+      }
     }
   ]
 }
