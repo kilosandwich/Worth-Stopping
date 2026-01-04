@@ -9235,6 +9235,287 @@
           37.3770874
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "447",
+        "name": "Air Force Armament Museum",
+        "street": "100 Museum Dr, Eglin AFB, FL 32542",
+        "country": "USA",
+        "website": "http://www.afarmamentmuseum.com/",
+        "description": "Bombs - the sequel to planes. Come see the bomb museum. Featuring the MOAB - the largest conventional bomb in the United States' arsenal, Tomahawk Cruise Missiles, T-12 Cloudmaker Earthquake Bomb, and the BLU-82B Daisy Cutter. Outdoor aircraft including the Canberra, B-52, B-47,  SR-71 Blackbird, and 31+ other aircraft that drop bombs or find out where bombs should be dropped.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.560959,
+          30.4661972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "448",
+        "name": "National Naval Aviation Museum",
+        "street": "",
+        "country": "",
+        "website": "http://www.navalaviationmuseum.org/",
+        "description": "This is THE naval aviation museum. It only took 12 years from the invention of the aircraft to begin launching them from ships to attack other ships. The National Naval Aviation Museum is devoted to naval aviation and features 150+ aircraft including those from the Blue Angels - the Navy's Flight Demonstration Squadron (they do airshows). The museum features a control car from a navy K-class blimp, a PB2Y-5R Coronado, Curtiss NC-4, Martin Marlin, and other seaplanes and carrier aircraft tracing the history of naval aviation.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3040162,
+          30.3493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "449",
+        "name": "Fort Pickens",
+        "street": "1400 Fort Pickens Rd, Pensacola Beach, FL 32561",
+        "country": "USA",
+        "website": "https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm",
+        "description": "Fort Pickens was one of the few forts in the South that did not fall into Confederate hands during the U.S. Civil War. Now you can roam the abandoned fort and WW2 gun emplacements on the beach as part of the Gulf Islands National Seashore",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2906116,
+          30.3269272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "450",
+        "name": "Fort Morgan State Historic Site",
+        "street": "110 AL-180, Gulf Shores, AL 36542",
+        "country": "USA",
+        "website": "https://ahc.alabama.gov/",
+        "description": "Do you like roaming through hurricane-damaged brick forts from the War of 1812 and WW2 artillery batteries on the beach? Of course you do.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.023366,
+          30.2277144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "451",
+        "name": "Fort Gaines",
+        "street": "51 Bienville Blvd, Dauphin Island, AL 36528",
+        "country": "USA",
+        "website": "https://fort-gaines.com/",
+        "description": "Roam across the beach and through a hurricane-damaged Civil War era fort on an island while staring across the bay at a completely difference hurricane-damaged War of 1812 era fort.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0757832,
+          30.2483207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "452",
+        "name": "Battleship Memorial Park",
+        "street": "228 Battleship Pkwy, Spanish Fort, AL 36527",
+        "country": "USA",
+        "website": "https://www.ussalabama.com/",
+        "description": "The United States has the last battleships afloat because all other nations were too poor or too naughty to keep theirs. Battleship Memorial Park is home to the WW2 era South Dakota-class battleship USS Alabama, the WW2 era Gato-class submarine USS Drum, and some random tanks and aircraft scattered around for good measure.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0157229,
+          30.6818277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "453",
+        "name": "United States Army Aviation Museum",
+        "street": "Novosel St, Fort Rucker, AL 36362",
+        "country": "USA",
+        "website": "http://www.armyaviationmuseum.org/",
+        "description": "This is THE helicopter museum with over 160 aircraft (mostly helicopters). Rare museum features include: the experimental helicopters XH-51A, AH-56 Cheyenne (it had a tail thrusting propeller!), the RAH-66 Comanche (the stealth helicopter!); the convertiplanes XV-1, XV-5, VZ-3; and the compound helicopter S-72. This museum is on a military base, so you will have to go through a military checkpoint - plan ahead, call ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7129817,
+          31.3242387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "454",
+        "name": "Noccalula Falls Park",
+        "street": "Noccalula Falls",
+        "country": "USA",
+        "website": "https://www.noccalulafallspark.com/",
+        "description": "This 90ft waterfall features a seemingly endless overhang into a hikeable gorge. It also features a statue depicting a woman throwing herself into the gorge - which is a daring example to set for children.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0211131,
+          34.0414803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "455",
+        "name": "Southern Museum of Flight",
+        "street": "4343 73rd St N, Birmingham, AL 35206",
+        "country": "USA",
+        "website": "https://southernmuseumofflight.org/",
+        "description": "This museum features a B-25 pulled from a lake and a Soviet Mi-25 captured in the Libyan desert along with 100+ other aircraft. Some of the aircraft are a block away just down the road for the outdoor section of the museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7380066,
+          33.563607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "456",
+        "name": "Barber Vintage Motorsports Museum",
+        "street": "6030 Barber Motorsports Pkwy, Leeds, AL 35094",
+        "country": "USA",
+        "website": "http://www.barbermuseum.org/",
+        "description": "George W. Barber was not merely satisfied with owning the racetrack nextdoor, he also collected 1600 racecars and motorcycles and literally stacked them. They are stacked on a  4-story shelf, you'll know it when you see it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6141267,
+          33.5334559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "457",
+        "name": "Sloss Furnaces",
+        "street": "20 32nd St N, Birmingham, AL 35222",
+        "country": "USA",
+        "website": "http://www.slossfurnaces.org/",
+        "description": "You want to run around a 15-acre abandoned steel mill from 1971 - it's just something you want to do.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7905697,
+          33.520797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "458",
+        "name": "Majestic Caverns",
+        "street": "5181 Desoto Caverns Pkwy, Childersburg, AL 35044",
+        "country": "USA",
+        "website": "https://majesticcaverns.com/",
+        "description": "Majestic Caverns has a really really wide and tall room where the entire ceiling is an endless forest of Stactites. There's also a laser light show.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2778086,
+          33.3067648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "459",
+        "name": "U.S. Space and Rocket Center",
+        "street": "1 Tranquility Base, Huntsville, AL 35805",
+        "country": "USA",
+        "website": "https://www.rocketcenter.com/",
+        "description": "If you like rocket engines, this is the museum. Redstone Arsenal in Huntsville is where rocket engines actually get developed and built. As a result, the US Space and Rocket Center has a lot of rockets that you very much want to see, including an upright mockup of the Saturn V, an actual Saturn V on its side Saturn I, various space capsules and rockets, and the Space Shuttle test simulator Pathfinder",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6538276,
+          34.711251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "460",
+        "name": "Cathedral Caverns State Park",
+        "street": "637 Cave Rd, Woodville, AL 35776",
+        "country": "USA",
+        "website": "https://www.alapark.com/parks/cathedral-caverns-state-park",
+        "description": "This cavern is known for its stalagmites that rise from the floor like a cathedral.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2210015,
+          34.5738283
+        ]
+      }
     }
   ]
 }
