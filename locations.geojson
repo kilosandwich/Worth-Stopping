@@ -7260,7 +7260,7 @@
         "street": "1420 Fighting Creek Gap Rd, Gatlinburg, TN 37738",
         "country": "USA",
         "website": "https://www.nps.gov/grsm/index.htm",
-        "description": "Waterfalls, cliffs, and endless rocky mountains covered in mist that resembles smoke. Make sure to check out Kuwohi (Clingman's Dome) - the highest point in the park.",
+        "description": "It's a temperate rainforest right here in the Appalachians. Waterfalls, cliffs, and endless rocky mountains covered in mist that resembles smoke. Make sure to check out Kuwohi (Clingman's Dome) - the highest point in the park.",
         "worth stopping": true,
         "park": true
       },
@@ -10376,6 +10376,66 @@
         "coordinates": [
           -82.25033,
           35.4328261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "520",
+        "name": "Gorges State Park",
+        "street": "976 Grassy Ridge Rd, Sapphire, NC 28774",
+        "country": "USA",
+        "website": "http://ncparks.gov/gorges-state-park",
+        "description": "26 waterfalls through rugged river gorges at the tripoint of North Carolina, South Carolina, and Georgia - all in the Appalachian Temperate Rainforest. Rainbow and Turtleback falls are especially shallow, and resemble a glass thin sheet of water rushing over the smooth bare rock of the mountainside.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9507788,
+          35.0963529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "521",
+        "name": "Whitewater Falls (North Carolina)",
+        "street": "Whitewater Falls Ln, Cashiers, NC 28717",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r08/northcarolina/recreation/whitewater-falls",
+        "description": "A 411ft waterfall that's so pretty people keep going off the trail to slip and die. It's the highest waterfall east of the Rocky Mountains, and  is a part of Nantahala National Forest.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0170653,
+          35.0350185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "522",
+        "name": "Dry Falls (North Carolina)",
+        "street": "Dry Falls Parking Lot, Highlands, NC 28741",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r08/northcarolina/recreation/dry-falls",
+        "description": "Dry Falls is a 65ft waterfall with a viewing area beneath its overhang - meaning you are behind the waterfall itself. Dry Falls is very busy - so plan ahead - try to come here early in the morning or late in the evening.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2385575,
+          35.0683914
         ]
       }
     }
