@@ -10438,6 +10438,346 @@
           35.0683914
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "523",
+        "name": "Ronald Reagan Presidential Library",
+        "street": "40 Presidential Dr #88, Simi Valley, CA 93065",
+        "country": "USA",
+        "website": "http://www.reaganfoundation.org/",
+        "description": "B-list movie star Ronald Reagan made a really good speech in support of Republican presidential nominee Barry Goldwater in 1964, which he leveraged into a successful run for Governor of California, then President. Reagan challenged the Soviet Union to an arms race it couldn't afford, leading to the dissolution of America's greatest enemy. Reagan also ignored the AIDS epidemic, ended inflation, got rid of government regulations, got shot, hid he had alzheimers, and cut taxes - leading to massive budget deficits. However, he was really charismatic, the economy was doing great, and the Soviet Union was defeated - so he was very popular. Reagan kept Air Force One for himself at this library.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8196177,
+          34.2596313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "524",
+        "name": "Knotts Berry Farm",
+        "street": "8039 Beach Blvd, Buena Park, CA 90620",
+        "country": "USA",
+        "website": "https://www.knotts.com/",
+        "description": "A chicken dinner restaurant leveraged its success into becoming a major amusement park. You can still get the chicken dinners, and they are delicious. The park also features the greatest log flume ride ever built, an actual ghost town, a replica of Independence Hall, and a lineup of 9 stellar rollercoasters that each try to do something unique.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0008499,
+          33.8446107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "525",
+        "name": "San Francisco Maritime National Historical Park",
+        "street": "2984 Hyde Street Pier #2976, San Francisco, CA 94109",
+        "country": "USA",
+        "website": "http://www.nps.gov/safr",
+        "description": "Whereas most maritime museums consists of just one ship, theSan Francisco Maritime National Historical Park consists of 6. This includes the steam ferryboat Eureka, the 1886 sailing ship Balclutha, the lumber schooner C.A. Thayer, the scow schooner Alma, and the tugs Eppelton Hall and Hercules. The museum building itself is set inside an Art Deco bathhouse.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421935,
+          37.809578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "526",
+        "name": "Alcatraz Island",
+        "street": "Alcatraz Island, San Francisco, CA",
+        "country": "USA",
+        "website": "https://www.nps.gov/alca/index.htm",
+        "description": "Alcatraz Federal Penitentiary opened in 1934 to house the most notorious criminals of the United States - making it one of the most famous prisons in the United States. Considered nearly inescapable due to the fast ice-cold currents surrounding the island, nonethless prisoners tried their best to escape anyway. The island is situated in the middle of San Francisco Bay, giving a spectacular view of the city and surrounding area. Part of the Golden Gate National Recreation Area.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4231526,
+          37.8266021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "527",
+        "name": "Castle Air Museum",
+        "street": "5050 Santa Fe Dr, Atwater, CA 95301",
+        "country": "USA",
+        "website": "https://castleairmuseum.org/visitor-information/",
+        "description": "This is the best air museum in California. 35 acres of 80+ historical aircraft relaxing outdoors - including the B-36 - the largest bomber ever built. Other highlights include Air Force One (VC-9), an Avro Vulcan, CF-100 Canuck, F-117 nighthawk, SR-71 Blackbird, and Saab Draken.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.577899,
+          37.3648489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "528",
+        "name": "California State Railroad Museum",
+        "street": "125 I St, Sacramento, CA 95814",
+        "country": "USA",
+        "website": "http://www.californiarailroad.museum/",
+        "description": "The California State Railroad museum traces the history of railroading in California, from the arrival of the first steam engines during the California Gold Rush to the dominance of diesel. The museum has over 25 historic locomotives in pristine condition - and they look exactly how you would expect the trains of the Wild West to look. Featuring the C.P. Huntington - the first locomotive ever bought by Central Pacific Railroad in 1863. The C.P. Huntington is also better known as the model of train that every miniature railroad in every amusement park and zoo has copied.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5045739,
+          38.5850037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "529",
+        "name": "Marshall Gold Discovery State Historic Park",
+        "street": "310 Back St, Coloma, CA 95613",
+        "country": "USA",
+        "website": "http://www.parks.ca.gov/?page_id=484",
+        "description": "This is THE gold rush museum. In 1848 gold was discovered in this location, sparking the California Gold Rush. This historic park includes the ghost town of Coloma, and a museum tracing the history of the gold rush. Take gold panning lessons and see the mill where gold was first discovered, along with 20 other historic buildings.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8926146,
+          38.8020686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "530",
+        "name": "Santa Cruz Beach Boardwalk",
+        "street": "400 Beach St, Santa Cruz, CA 95060",
+        "country": "USA",
+        "website": "https://beachboardwalk.com/",
+        "description": "The 1924 Giant Dipper rollercoaster is still roaring at Santa Cruz Beach Boardwalk, along with a strong supporting lineup of rides and attractions that overlook the beach. Come on down to California's oldest amusement park which has stood the test of time.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0151419,
+          36.9646955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "531",
+        "name": "Big Basin Redwoods State Park",
+        "street": "21600 Big Basin Hwy, Boulder Creek, CA 95006",
+        "country": "USA",
+        "website": "https://www.parks.ca.gov/?page_id=540",
+        "description": "Once you hiike among Redwood trees in the wild, you will never stop thinking about how weak and tiny all other trees look in comparison.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2221662,
+          37.1722926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "532",
+        "name": "Computer History Museum",
+        "street": "1401 N Shoreline Blvd, Mountain View, CA 94043",
+        "country": "USA",
+        "website": "http://www.computerhistory.org/",
+        "description": "See how humanity tricked rocks into thinking at the Computer History Museum. See how computing evolved from spinning gears in mechanical tabulators to shelve-sized computers to  handheld personal computing supported by shelve-sized computers. Only at the Computer History Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0773376,
+          37.4141617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "533",
+        "name": "Winchester Mystery House",
+        "street": "525 S Winchester Blvd, San Jose, CA 95128",
+        "country": "USA",
+        "website": "https://winchestermysteryhouse.com/",
+        "description": "When you are losing your mind, but have lots of money, you too can build a 160 room mansion with a deliberately confusing floor plan to stop ghosts. Is that door real? Does that staircase go anywhere? Find out!",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9511974,
+          37.3183212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "534",
+        "name": "USS Potomac (AG-25)",
+        "street": "540 Water St, Oakland, CA 94607",
+        "country": "USA",
+        "website": "http://www.usspotomac.org/",
+        "description": "The President used to own a yacht. It's like Yacht Force One, and it's available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2801548,
+          37.7953947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "535",
+        "name": "USS Hornet Sea, Air and Space Museum",
+        "street": "707 W Hornet Ave, Alameda, CA 94501",
+        "country": "USA",
+        "website": "https://uss-hornet.org/",
+        "description": "The WW2 era Essex-class aircraft carrier USS Hornet is now a museum ship that you can roam through. The Hornet saw extensive service in WW2, Vietnam, and the Space Race. The Hornet recovered Apollo 11 and 12 - and as a result the museum has dedicated space sections. Including: the Mobile Quarantine Facility, and an Apollo Command Module. There's also a bunch of carrier aircraft.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3028778,
+          37.7726475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "536",
+        "name": "SS Jeremiah O Brien",
+        "street": "Pier 35, San Francisco, CA 94133",
+        "country": "USA",
+        "website": "http://www.ssjeremiahobrien.org/",
+        "description": "The SS Jeremiah O'Brien is one of the last operational Liberty Ships afloat. During WW2 the United States embarked on a massive shipbuilding program to haul cargo across the Atlantic. The Liberty Ships were the most mass produced ship ever in history, but few remain. Tour one of the last ones! The cargo hold is a museum too.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4070756,
+          37.808603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "537",
+        "name": "SS Red Oak Victory",
+        "street": "1337 Canal Boulevard Berth 5, Richmond, CA 94804",
+        "country": "USA",
+        "website": "http://www.redoakvictory.us/",
+        "description": "The WW2 era Victory ships were the sequel to the mass-produced Liberty Ships. The Red Oak Victory in particular saw service in the Pacific. It's even more WW2 era cargo ships, which there aren't a lot of. The Red Oak Victory would be much more impressive if the SS Jeremiah O'Brien weren't docked so close by. Still, it's well worth a visit.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3657766,
+          37.9058364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "538",
+        "name": "San Francisco Cable Car Museum",
+        "street": "1201 Mason St, San Francisco, CA 94108",
+        "country": "USA",
+        "website": "http://www.cablecarmuseum.org/",
+        "description": "The San Francisco Cable Cars are not propelled by onboard motors, instead they grip a continuously moving cable in the middle of the roadway propelled by a massive central motor. Come see the massive central motor, the terrifyingly tense wires, and a plethora of historical cable cars that have been plying the streets since 1878.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4118382,
+          37.7947286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "539",
+        "name": "Angel Island State Park",
+        "street": "VH9F+WQ, Tiburon, CA 94920",
+        "country": "USA",
+        "website": "http://www.parks.ca.gov/?page_id=468",
+        "description": "If your family is from the west coast of the United States, there's a good chance your ancestors passed through here if they passed the disease and poverty checks. Angel island also doubled as a missile station and Prisoner of War camp. Now you too can imagine what is was like to be rejected from entering the United States after crossing the entire Pacific Ocean. Angel Island is only accessible by boat.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4258446,
+          37.8698512
+        ]
+      }
     }
   ]
 }
