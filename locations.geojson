@@ -10237,6 +10237,147 @@
           32.8565795
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "513",
+        "name": "Reed Gold Mine",
+        "street": "9621 Reed Mine Rd, Midland, NC 28107",
+        "country": "USA",
+        "website": "https://historicsites.nc.gov/all-sites/reed-gold-mine",
+        "description": "The Reed Mine's discovery of gold in North Carolina kicked off the Carolina gold rush. Settlers flooded to North Carolina in a bid to strike it rich. Guided tours are now offered of the 1799 Gold Mine - one of the oldest mines in the nation.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4666755,
+          35.2852597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "514",
+        "name": "NASCAR Hall of Fame",
+        "street": "400 E M.L.K. Jr Blvd, Charlotte, NC 28202",
+        "country": "USA",
+        "website": "http://www.nascarhall.com/",
+        "description": "Turning left has never been so fun at the NASCAR Hall of Fame. Learn about the best of the best in NASCAR history.  Featuring racing simulators, a movie theater, and so many race cars you will develop a strong desire to never take right turns again.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.844148,
+          35.2211329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "515",
+        "name": "Sullenberger Aviation Museum",
+        "street": "4108 Minuteman Way, Charlotte, NC 28208",
+        "country": "USA",
+        "website": "http://www.sullenbergeraviation.org/",
+        "description": "When else are you going to see a plane that crashed? Come see a commercial passenger plane that crashed in the Hudson River. There's also 40+ historical aircraft here too.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9330648,
+          35.2252068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "516",
+        "name": "Grandfather Mountain State Park",
+        "street": "9872 Highway 105 South, Banner Elk, NC 28604",
+        "country": "USA",
+        "website": "http://www.ncparks.gov/grandfather-mountain-state-park",
+        "description": "Hike or drive to the top of a mountain to see the \"Mile High Swinging Bridge\" spanning a gorge between two mountains. The view from the top is spectacular, and you can keep hiking to see even more!",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8320586,
+          36.0956974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "517",
+        "name": "Mount Mitchell State Park",
+        "street": "2388 NC-128, Burnsville, NC 28714",
+        "country": "USA",
+        "website": "http://www.ncparks.gov/mount-mitchell-state-park",
+        "description": "Mount Mitchell is the highest peak (6684ft) east of the Mississippi River. The good news is you can drive to the top, because America loves you. There's also a string of trails along the mountaintop if you feel like excercising.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2652246,
+          35.7649893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "518",
+        "name": "Biltmore",
+        "street": "Asheville, NC 28803",
+        "country": "USA",
+        "website": "https://www.biltmore.com/",
+        "description": "The Vanderbilt family built the largest privately owned home (178,926sqft) in the United States in extravagant style. It's not just a mansion, he built an entire fake village, winery, gardens, lagoon, waterfall, stables, bass pond, and boathouse. It's 8000 acres of gilded age excess.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5530106,
+          35.5407698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "519",
+        "name": "Chimney Rock State Park",
+        "street": "174 Chimney Rock Park Rd, Chimney Rock, NC 28720",
+        "country": "USA",
+        "website": "https://www.ncparks.gov/state-parks/chimney-rock-state-park",
+        "description": "Chimney Rock is a 315ft monolith, but the park is so much more. There are 400ft tall waterfalls flowing down overhanging cliffs, hiking tunnels bored through the mountainside, and miles of scenic hiking. Reservations are required - plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25033,
+          35.4328261
+        ]
+      }
     }
   ]
 }
