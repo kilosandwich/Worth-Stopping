@@ -10017,6 +10017,226 @@
           44.8146014
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "502",
+        "name": "Carolina Beach State Park",
+        "street": "1010 State Park Rd, Carolina Beach, NC 28428",
+        "country": "USA",
+        "website": "https://www.ncparks.gov/carolina-beach-state-park",
+        "description": "Venus Fly Traps come from a small section of North and South Carolina. At Carolina Beach State Park you can walk into the woods to see Venus Fly Traps via Flytrap Trail.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9133469,
+          34.0481725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "503",
+        "name": "USS North Carolina",
+        "street": "1 Battleship Rd NE, Wilmington, NC 28401",
+        "country": "USA",
+        "website": "https://battleshipnc.com/",
+        "description": "The WW2 era North Carolina-class battleship North Carolina was completed prior to WW2 and saw action in the Pacific Theater. The massive warship is the only surviving battleship concieved under the Washington Treaty System, which aimed to prevent naval arms races by limiting battleship size and caliber. The ship is a city in itself and was staffed by 2000 crew members - and now you can roam around it on self-guided tours.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9547573,
+          34.2364528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "504",
+        "name": "Roanoke Island Festival Park",
+        "street": "1 Festival Park, Manteo, NC 27954",
+        "country": "USA",
+        "website": "https://www.roanokeisland.com/plan-your-visit/site-attractions/adventure-museum",
+        "description": "In 1585 the English attempted to permanently colonize North America for the first time under the leadership of Sir Walter Raleigh. When the English returned to Roanoake to resupply their colony in 1590, they found it abandoned - but didn't search for them- despite indications that the colonists had reloacted to Croatoan Island. The English did not attempt to colonize North America again for another 15 years. The Roanoake Adventure Museum chronicles the history of the 'lost colony' , an 'American Indian town', a re-creation of the settlement, and possesses a replica of the colony ship Elizabeth that was part of the attempt to colonize Roanoake Island.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.666131,
+          35.9108546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "505",
+        "name": "The Birthplace of Pepsi",
+        "street": "256 Middle St, New Bern, NC 28560",
+        "country": "USA",
+        "website": "https://pepsistore.com/",
+        "description": "In 1898 pharmacist Caleb Bradham invented what is now Pepsi-Cola: the backbone of the PepsiCo food conglomerate which now encompasses 25% of the US Soft Drink market. Coca-Cola is only more successful because they put the same plants as cocaine in their drinks. See where it's everything blue and Pepsi at this museum - also the straight up just tell you the formula.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0398687,
+          35.1067514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "506",
+        "name": "Fort Macon State Park",
+        "street": "2303 E Fort Macon Rd, Atlantic Beach, NC 28512",
+        "country": "USA",
+        "website": "https://www.ncparks.gov/fort-macon-state-park",
+        "description": "Even more Civil War era forts on the beach! This one also used to be a prison. Roam around through the probably haunted masonry halls of Fort Macon, then hit the sand",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6790888,
+          34.6961091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "507",
+        "name": "CSS Neuse",
+        "street": "100 N Queen St, Kinston, NC 28501",
+        "country": "USA",
+        "website": "https://historicsites.nc.gov/all-sites/css-neuse-and-governor-caswell-memorial",
+        "description": "The CSS Neuse was a Confederate ironclad warship built during the US Civil War - she was sunk by her crew before ever seeing combat. The hull was recovered, and a replica of the warship was built at the CSS Neuse Civil War Museum. Now you can wander around inside of it and wonder why they display the Confederate flag so proudly.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.581893,
+          35.2607194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "508",
+        "name": "Boars Nest - A Dukes of Hazzard Museum",
+        "street": "4647 Helena Moriah Rd, Rougemont, NC 27572",
+        "country": "USA",
+        "website": "https://www.facebook.com/BoarsNest01/",
+        "description": "Have you ever been such a big fan of a television show you recreated the set as if it were a real place? Well the people at the Boar's Nest have done so for the TV show Dukes of Hazard (the show with the orange car with a confederate flag on top where they destroyed a car every episode). This is one of those museums run by a guy on Facebook, so check the web ahead of time before going.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8830622,
+          36.2727294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "509",
+        "name": "Airborne and Special Operations Museum",
+        "street": "100 Bragg Blvd, Fayetteville, NC 28301",
+        "country": "USA",
+        "website": "http://www.asomf.org/",
+        "description": "Attacking from the sky was never a possibility in warfare until recent human history. This museum is dedicated to the crazy people who jump out of planes, helicopters, and gliders - and all the spec ops in between.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8854347,
+          35.0561341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "510",
+        "name": "Fort Sumter and Fort Moultrie National Monument",
+        "street": "340 Concord St, Charleston, SC 29401",
+        "country": "USA",
+        "website": "https://www.nps.gov/fosu/index.htm",
+        "description": "Stand behind the cannons at Fort Moultrie and try not to say that Fort Sumter looks bombardable. The bombardment of Fort Sumter by the Confederacy started the U.S. Civil War - now you can tour both forts. You will need to get a tour boat to Fort Sumter though.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8747046,
+          32.752342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "511",
+        "name": "Patriots Point",
+        "street": "40 Patriots Point Rd, Mt Pleasant, SC 29464",
+        "country": "USA",
+        "website": "http://www.patriotspoint.org/",
+        "description": "Patriots Point is home of the WW2 Essex-class aircraft carrier USS Yorkton and the WW2 era Allen M. Sumner-class destroyer USS Laffey, THE VIETNAM EXPERIENCE, and the U.S. Medal of Honor Museum. It's a million square feet of state-of-the-art 1940s technology, jets, and history that you can just kind of wander about in.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9082835,
+          32.7901884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "512",
+        "name": "Warren Lasch Conservation Center",
+        "street": "1250 Supply St, North Charleston, SC 29405",
+        "country": "USA",
+        "website": "https://www.hunley.org/",
+        "description": "The CSS Hunley was the first submarine to ever sink another ship - it also sank itself. Come see the actual recovered submarine. Get inside of a replica of the submarine and imagine cranking the submarine forward towards your doom.  Visits are only on the weekends - so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9589781,
+          32.8565795
+        ]
+      }
     }
   ]
 }
