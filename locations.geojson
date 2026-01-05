@@ -4776,7 +4776,7 @@
         "street": "110 Burro Ave, Tonopah, NV 89049",
         "country": "USA",
         "website": "https://www.tonopahminingpark.com/",
-        "description": "You know you want to run around a 1900 delapitated desert silver mine. Look at the terrifyingly claustrophobic shafts propped up with little more than logs doing their best.",
+        "description": "You know you want to run around a 1900 delapitated desert silver mine. Look at the terrifyingly claustrophobic shafts propped up by logs doing their best.",
         "worth stopping": true,
         "museum": true
       },
@@ -9925,7 +9925,7 @@
         "street": "58201 US-97, Bend, OR 97702",
         "country": "USA",
         "website": "https://www.fs.usda.gov/visit/destination/newberry-national-volcanic-monument-0",
-        "description": "walk across a dead volcano at the Lava Butte, through ancient lava tubes at Lava River Cave,  see lava molds of ancient trees at Lava Cast Forest. The grounds remain dead from ancient lava flows - and you can hike among them.",
+        "description": "This place might not look it, but you're standing in the middle of the caldera of the largest volcano in the Cascade Volanic Arc Walk across a dead-volcano at the Lava Butte, through ancient lava tubes at Lava River Cave,  see lava molds of ancient trees at Lava Cast Forest. The grounds remain dead from ancient lava flows - and you can hike among them.",
         "worth stopping": true,
         "park": true
       },
@@ -10776,6 +10776,450 @@
         "coordinates": [
           -122.4258446,
           37.8698512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "540",
+        "name": "Calveras Big Trees State Park",
+        "street": "1170 East, CA-4, Arnold, CA 95223",
+        "country": "USA",
+        "website": "https://www.parks.ca.gov/?page_id=551",
+        "description": "Giant Sequoias are unbelievably massive and live for thousands of years, and only grow in a limited section of the Sierra Nevada mountains in California. These are some of the tallest trees in the world.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3082376,
+          38.278727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "541",
+        "name": "RMS Queen Mary",
+        "street": "1126 Queens Hwy, Long Beach, CA 90802",
+        "country": "USA",
+        "website": "https://www.queenmary.com/",
+        "description": "The RMS Queen Mary is the last surviving transatlantic passenger ship and was the fastest of its time. The interior design itself is lavish Art Deco  - and now you can enjoy it either through a tour or as a hotel. There's also a rotting Soviet Submarine inhabited by raccoons next door.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18979,
+          33.7528761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "542",
+        "name": "Tule Lake National Monument",
+        "street": "99 Co Rd 113, Tulelake, CA 96134",
+        "country": "USA",
+        "website": "https://www.nps.gov/tule/index.htm",
+        "description": "\"What if you took everyone in America of one ethnicity and concentrated them in some kind of camp?\" - President Franklin Delano Roosevelt, probably.\n<br>\n<br>The United States incacerated nearly every American of Japanese Descent during WW2, stole all their property, and then gave zero compensation for their hardship after releasing them. Tule Lake was the largest camp and incarcerated 18,700 at its peak. Now you can walkthrough a portion of the camp and reflect on how many of their own values  Americans will give up to 'win'.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3783203,
+          41.8897441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "543",
+        "name": "Lava Beds National Monument",
+        "street": "1 Indian Well Campground Trail, Tulelake, CA 96134",
+        "country": "USA",
+        "website": "http://www.nps.gov/labe/index.htm",
+        "description": "Don't be fooled by the lack of mountains, you're actually on top of the active Medicine Lake shield Volcano, and 26 lava tubes are now caves available for tour and exploration.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5098915,
+          41.7142273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "544",
+        "name": "Ocean Star Offshore Drilling Rig and Museum",
+        "street": "2002 Wharf Rd, Galveston, TX 77550",
+        "country": "USA",
+        "website": "https://energyeducation.org/oceanstar/",
+        "description": "Tour a 1969 oil rig while being surrounded by other oil rigs waiting for deployment. It's also a museum which explains how offshore drilling works.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7907238,
+          29.311392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "545",
+        "name": "International Petroleum Museum and Exposition",
+        "street": "111 1st St, Morgan City, LA 70380",
+        "country": "USA",
+        "website": "http://www.rigmuseum.com/",
+        "description": "The alligators surrounding this 1954 oil rig make it look like a James Bond villain's lair. This is the oil rig from which all modern oil rigs are descended. The world's first mobile offshore drilling rig Mr. Charlie is now a museum - it's also staggering how massive it is. It's guided tours only - so call ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2098138,
+          29.6911363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "546",
+        "name": "San Jacinto Monument",
+        "street": "1 Monument Cir, La Porte, TX 77571",
+        "country": "USA",
+        "website": "https://www.sanjacinto-museum.org/",
+        "description": "Texas built a 567ft art deco monument to itself to honor the battle in which Texas won its independence from Mexico. The view from the top is just oil refineries as far as the eye can see.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0810358,
+          29.7499585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "547",
+        "name": "Space Center Houston",
+        "street": "1601 E NASA Pkwy, Houston, TX 77058",
+        "country": "USA",
+        "website": "https://www.spacecenter.org/",
+        "description": "This is the \"Houston\" in \"Houston, we have a problem\". NASA's mission control is located far away from the rockets that explode sometimes. The museum features the Space Shuttle replica Independence atop the Shuttle Carrier Aircraft - and you can go inside both. There's also , numerous space capsules such as Apollo 17's Command Module America and rocket boosters such as Falcon 9, and a complete Saturn V.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0979103,
+          29.5516408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "548",
+        "name": "Kemah Boardwalk",
+        "street": "304 Bay Ave, Kemah, TX 77565",
+        "country": "USA",
+        "website": "https://www.kemahboardwalk.com/boardwalk-bullet",
+        "description": "The Boardwalk Bullet rollercoaster has been crammed onto a tight plot of land and goes blazingly fast. The supporting lineup of rides is quite pleasant - including a train that goes through the tourist trap section of the boardwalk and a fake wild west town. There's also stray cats that wander the boardwalk, and they are very cute.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0173689,
+          29.5464232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "549",
+        "name": "Seawolf Park",
+        "street": "100 Seawolf Park Blvd, Galveston, TX 77550",
+        "country": "USA",
+        "website": "https://www.galvestonnavalmuseum.com/",
+        "description": "The WW2 era Gato-class submarine USS Cavalla and the WW2 era Edsall-class destroyer escot USS Stewart both sit on dry land at the mouth of Galveston Bay. The USS Cavalla is historically notable in that it sank the Japanese aircraft carrier Shokaku. Wander around and inside of both ships at the Galveston Naval Museum at Seawolf Park.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7794772,
+          29.3343229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "550",
+        "name": "USS Texas",
+        "street": "2920 Todd Rd, Galveston, TX 77554",
+        "country": "USA",
+        "website": "https://battleshiptexas.org/",
+        "description": "The New York-class battleship USS Texas is the last surviving dreadnought in the world. This is the oldest American battleship afloat and saw service during WW1 and WW2 - including the famous Normandy landings. It's also a great map in the video game series Call of Duty. The ship is currently undergroind major renovations, so you have to call ahead to get a guided tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7976232,
+          29.3141025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "551",
+        "name": "Oklahoma City National Memorial Museum",
+        "street": "620 N Harvey Ave, Oklahoma City, OK 73102",
+        "country": "USA",
+        "website": "http://memorialmuseum.com/",
+        "description": "Before 9/11, the Oklahoma City Bombing was considered THE national tragic terrorist attack. 169 people were killed by a truck bomb which partially collapsed the Alfred P. Murrah Federal Building on April19, 1995. The museum covers the timeline of the attack and followup investigation. Now you can buy T-shirts from the museum store that say \"Oklahoma City National Memorial Museum\".",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5170769,
+          35.473646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "552",
+        "name": "National Cowboy and Western Heritage Museum",
+        "street": "1700 NE 63rd St, Oklahoma City, OK 73111",
+        "country": "USA",
+        "website": "http://nationalcowboymuseum.org/",
+        "description": "It's a museum of everything true and false about cowboys in the Wild West. Featuring stagecoaches, stables, teepees, rodeo history, and a complete re-creation of an old west town and Native American cliff dwelling.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4833307,
+          35.5357126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "553",
+        "name": "Museum of Osteology",
+        "street": "10301 S Sunnylane Rd, Oklahoma City, OK 73160",
+        "country": "USA",
+        "website": "http://www.skeletonmuseum.com/",
+        "description": "Bones! The museum! This museum full of bones is the actual bones of animals still around on this planet - including humans.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4419715,
+          35.3647819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "554",
+        "name": "The Toy and Action Figure Museum",
+        "street": "111 S Chickasaw St, Pauls Valley, OK 73075",
+        "country": "USA",
+        "website": "http://www.actionfiguremuseum.com/",
+        "description": "It's every toy that you ever saw on TV from the 1970s-1990s all in one place.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2195032,
+          34.7402185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "555",
+        "name": "Turner Falls",
+        "street": "I-35 &, US-77, Davis, OK 73030",
+        "country": "USA",
+        "website": "https://www.turnerfallspark.com/",
+        "description": "Turner Falls is a 77ft waterfall emerging from the cliffs of the Arbuckle Mountains. You can swim up to the base. There's also a castle here for some reason.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1482609,
+          34.4255548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "556",
+        "name": "U.S. Army Artillery Museum",
+        "street": "Corral Rd, Lawton, OK 73503",
+        "country": "USA",
+        "website": "https://sill-www.army.mil/famuseum/",
+        "description": "Artillery remains king of the battlefield - causing the most casualties out of any single weapon in modern warfare. Come see the development of American artillery from muzzle loading cannons, to breech loading field guns, to modern self-proppeled artillery and rockets. Also featured in the Artillery Park is the M65 atomic cannon - a gun that shoots nuclear artillery shells. You will need to pass through a military checkpoint to enter this museum - plan accordingly - fill out the visitor pre-registration form at least 24 hours ahead of time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3858303,
+          34.6661778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "557",
+        "name": "Wichita Mountains Wildlife Refuge",
+        "street": "Wichita Mountains Wildlife Refuge Visitor Center, OK-49 #49, Lawton, OK 73507",
+        "country": "USA",
+        "website": "https://www.fws.gov/refuge/wichita-mountains",
+        "description": "Herds of bison roam freely near the slopes of Mount Scott (2,464ft) - the tallest mountain in Oklahoma. Don't worry, you can drive your car to the top of the mountain - this is America. There's a lot of hiking trails if you're interested in clambering over boulders.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5318707,
+          34.744064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "558",
+        "name": "Alabaster Caverns State Park",
+        "street": "217036 State Hwy 50A, Freedom, OK 73842",
+        "country": "USA",
+        "website": "https://stateparks.com/alabaster_caverns_state_park_in_oklahoma.html",
+        "description": "The Alabaster Caverns are the world's largest gypsum caverns, filled with rare Black gypsum only found in Oklahoma.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1484223,
+          36.6979159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "559",
+        "name": "USS Batfish",
+        "street": "3500 Batfish Rd, Muskogee, OK 74403",
+        "country": "USA",
+        "website": "https://www.muskogeeok.gov/visitors/attractions/war_memorial_park_uss_batfish.php",
+        "description": "The WW2 era Balao-class submarine USS Batfish now rests on dry land in Oklahoma. Now you can go inside it and see a bunch of other military artifacts scatted around War Memorial Park",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3109449,
+          35.7943271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "560",
+        "name": "Philbrook Museum of Art",
+        "street": "2727 S Rockford Rd, Tulsa, OK 74114",
+        "country": "USA",
+        "website": "https://www.philbrook.org/",
+        "description": "An oil baron built this Italian Renaissance style mansion and stuffed it full of the best art you could buy in the 1920s.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.97012,
+          36.1239392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "561",
+        "name": "Woolaroc",
+        "street": "1925 Woolaroc Ranch Rd, Bartlesville, OK 74003",
+        "country": "USA",
+        "website": "https://woolaroc.org/",
+        "description": "A 1920s oil baron decided to buy a bunch of fancy art, wildlife, and fund a plane in the 1927 Dole Air Race. Now his scenic ranch is open to tour along with his art collection.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1098387,
+          36.6634373
         ]
       }
     }
