@@ -49,7 +49,7 @@
         "street": "3059 W 12th St, Brooklyn, NY 11224",
         "country": "USA",
         "website": "http://www.denoswonderwheel.com/?utm_source=GMBSocialClimb&utm_medium=Deno'sWonderWheelAmusementPark",
-        "description": "The Wonderwheel is the demented child of a rollercoaster and a ferris wheel, where your car swings freely in tracks. As gusts of seaside wind rock your carriage preciously, you will remember how much you value your life.",
+        "description": "The Wonderwheel is the demented child of a rollercoaster and a ferris wheel, where your car swings freely in tracks. As gusts of seaside wind rock your carriage precariously, you will remember how much you value your life.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -4035,7 +4035,7 @@
         "street": "137 Warren Ave, Plymouth, MA 02360",
         "country": "USA",
         "website": "https://plimoth.org/",
-        "description": "A living history museum portraying the initial Plymouth colony in Massachusetts. The museum gives a good idea of just how insane and precauious it was to move to an entire continent and be the first colonist, and how much of a cultist the Puritans had to be in order for it to be worth it.",
+        "description": "A living history museum portraying the initial Plymouth colony in Massachusetts. The museum gives a good idea of just how insane and precauious it was to move across the ocean to the middle of nowhere and be the first colonist, and how much of a cultist the Puritans had to be in order for it to be worth it.",
         "worth stopping": true,
         "museum": true
       },
@@ -11800,6 +11800,345 @@
         "coordinates": [
           -100.812287,
           30.5549564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "591",
+        "name": "Fun Spot America Atlanta",
+        "street": "1675 GA-85, Fayetteville, GA 30214",
+        "country": "USA",
+        "website": "https://funspotamericaatlanta.com/",
+        "description": "During COVID, this small amusement park got a discount and built the world's #10 ranked steel rollercoaster. There's almost never a line for it due to its capacity, so you can ride it over and over. There's also some great go-kart tracks.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4287781,
+          33.495745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "592",
+        "name": "Rock City (Lookout Mountain)",
+        "street": "1400 Patten Rd, Lookout Mountain, GA 30750",
+        "country": "USA",
+        "website": "http://seerockcity.com/",
+        "description": "Rock City Gardens is a series of gardens and pathways on top of Lookout Mountain. There's chasm-spanning bridges and waterfalls with stunning views.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3500584,
+          34.9732512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "593",
+        "name": "Stone Mountain",
+        "street": "1000 Robert E Lee Blvd, Stone Mountain, GA 30083",
+        "country": "USA",
+        "website": "http://stonemountainpark.com/",
+        "description": "Stone Mountain is Atlanta's version of Ayers Rock - it's a massive isolated igneous dome. Carved into the side of the mountan is the Confederate version of Mount Rushmore - depicting the traitors Jefferson Davis, Robert E. Lee, and Stonewall Jackon. You can hile all around the mountain and to the top - or take an aerial tramway up if you're feeling rich.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1459234,
+          33.8055211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "594",
+        "name": "National Prisoner of War Museum",
+        "street": "5VWF+X6, Andersonville, GA 31711",
+        "country": "USA",
+        "website": "https://www.nps.gov/ande/planyourvisit/natl_pow_museum.htm",
+        "description": "During the U.S. Civil War, the Confederate prisoner-of-war camp of Andersonville held Union soldiers in such deplorable conditions that 13,000 of them died. There was no food, no water, and no sanitation. The conditions were so bad that the U.S. invented the concept of charging individuals with war crimes to charge the commandant. The National Prisoner of War Museum documents the treatment of Americans as prisoners-of-war - including the horrors of Andersonville.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1270582,
+          32.1977229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "595",
+        "name": "Jimmy Carter National Historical Park",
+        "street": "300 N Bond St, Plains, GA 31780",
+        "country": "USA",
+        "website": "http://www.nps.gov/jica/index.htm",
+        "description": "Jimmy Carter turned his small hometown of Plains, Georgia into the center of his political campaigns for state senate, governor, and President. The small rail depot in town acted as campaign headquarters. Jimmy Carter's house, boyhood farm, and high school are all now part of the National Historical Park.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3928725,
+          32.036456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "596",
+        "name": "Providence Canyon State Park",
+        "street": "8930 Canyon Rd, Lumpkin, GA 31815",
+        "country": "USA",
+        "website": "https://gastateparks.org/ProvidenceCanyon",
+        "description": "Erosion from poor farming practices has formed this 150ft colorful canyon with an abandoned homestead and rusting cars at the bottom. You can hike all along the canyon - but it's slippy.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9089384,
+          32.0689126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "597",
+        "name": "National Infantry Museum",
+        "street": "1775 Legacy Way, Columbus, GA 31903",
+        "country": "USA",
+        "website": "http://www.nationalinfantrymuseum.org/",
+        "description": "This is THE U.S. army museum. Located next to a military base supporting 120,000 people, the National Infantry Museum traces the history of the U.S. Infantry with some really cool looking displays. This include re-creations of the battlefields of Yorktown, Antietam, Soissons, Omaha Beach, Corregidor, Korea, Vietnam, and Iraq. It's a really cool museum and the recruiters there would very much like it if you joined the military pretty please.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9554466,
+          32.3885558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "598",
+        "name": "National Civil War Naval Museum",
+        "street": "1002 Victory Dr, Columbus, GA 31901",
+        "country": "USA",
+        "website": "http://www.portcolumbus.org/",
+        "description": "It's a museum of the U.S. Civil War - but only the bits on water. Featuring the wreckage of the Confederate ironclad  CSS Jackson and CSS Chattahoochee, a replica of the Union paddlewheel frigate USS Hartford, a replica of the CSS Albemarle, and a replica of the USS Monitor's turret. Sometimes they fire a cannon into the river.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.979476,
+          32.4468461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "599",
+        "name": "Ocmulgee Mounds National Historical Park",
+        "street": "1207 Emery Hwy, Macon, GA 31217",
+        "country": "USA",
+        "website": "https://www.nps.gov/ocmu/",
+        "description": "Early Mississippian-culture Native Americans built 55ft tall mounds. Now you can walk to the top of and go inside them.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6083113,
+          32.8368223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "600",
+        "name": "Jimmy Carter Library and Museum",
+        "street": "441 John Lewis Freedom Pkwy NE, Atlanta, GA 30307",
+        "country": "USA",
+        "website": "http://www.jimmycarterlibrary.gov/",
+        "description": "Jimmy Carter went from peanut farmer, to U.S. Navy nuclear reactor technician, to state senator, governor, then President. During his presidency gas prices doubled, causing stagflation. Carter's achievements as president include deregulation, pardoning Vietnam draft dodgers, creating the EPA Superfund site program, handing the Panama Canal over to Panama, creating peace between Israel and Egypt, and enabling fracking. Post-presidency Jimmy Carter took on humanitarian causes, including very nearly succeeded in eliminating the guinea worm. Now you can learn why Jimmy Carter did nothing wrong (in their opinion) at his Presidential Libary and Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3563755,
+          33.7664655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "601",
+        "name": "Cumberland Island National Seashore",
+        "street": "Plum Orchard Dr, St Marys, GA 31558",
+        "country": "USA",
+        "website": "http://www.nps.gov/cuis/",
+        "description": "Roam through the ruins of burned down plantations on this sunny tropical island where wild horses roam free.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4710392,
+          30.7485134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "602",
+        "name": "Fort Pulaski National Monument",
+        "street": "101 Fort Pulaski Rd, Savannah, GA",
+        "country": "USA",
+        "website": "http://www.nps.gov/fopu/planyourvisit/hours.htm",
+        "description": "Union troops tested rifled cannons by besieging this fort during the U.S. Civil War. You can still see the damages from the bombardment today - a rarity among forts in the U.S.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8913587,
+          32.0269611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "603",
+        "name": "Tallulah Gorge State Park",
+        "street": "338 Jane Hurt Yarn Rd, Tallulah Falls, GA 30573",
+        "country": "USA",
+        "website": "https://gastateparks.org/TallulahGorge",
+        "description": "Pedestrian bridges span this 1000ft gorge enabling spectacular views of 5 waterfalls. You can hike on the edge of the gorge via the Tallulah Gorge Rim Trail which actually has you walk through some of the waterfalls themselves.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3912566,
+          34.7385313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "604",
+        "name": "Amicalola Falls State Park",
+        "street": "418 Amicalola Falls Road, Dawsonville, GA 30534",
+        "country": "USA",
+        "website": "https://gastateparks.org/AmicalolaFalls",
+        "description": "You can get really close to this 729ft waterfall via the viewing decks and suspension bridge. There's viewing decks at the top, middle, and bottom of this seemingly endless waterfall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2444956,
+          34.5671844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "605",
+        "name": "World of Coca-Cola",
+        "street": "121 Baker St NW, Atlanta, GA 30313",
+        "country": "USA",
+        "website": "https://www.worldofcoca-cola.com/",
+        "description": "If the commercials on TV didn't inform you of Coca-Cola's existence, this museum sure will. This museum traces the history of coca-cola from when it had cocaine in it to the world's largest soft-drink manufacturer. It's the corporate propaganda you know you crave. They even serve the flavors they only sell overseas here, as well as 'New Coke'.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3928181,
+          33.7627972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "606",
+        "name": "Georgia Aquarium",
+        "street": "225 Baker St NW, Atlanta, GA 30313",
+        "country": "USA",
+        "website": "https://www.georgiaaquarium.org/",
+        "description": "This is THE aquarium. Georgia Aquarium has whale sharks - the largest fish in existence. This aquarium is by far the best aquarium in the U.S. and one of the best in the entire world. They have giant manta rays,  hammerhead sharks, dolphins, belugas, carp (the regular boring kind), Giant Pacific Octopus, and hundreds of species of tropical fish.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3955509,
+          33.7633841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "607",
+        "name": "Atlanta History Center",
+        "street": "130 W Paces Ferry Rd NW, Atlanta, GA 30305",
+        "country": "USA",
+        "website": "http://www.atlantahistorycenter.com/",
+        "description": "Learn about the history of the 10th largest city in America -including all those times it burned down. The museum also possesses all the artifacts of the Atlanta Cycolrama and Civil War Museum, making it one of the largest Civil War museums in America. The museum isn't just the main building, it's also a garden and farm complex featuring the historic Smith Farm, the neoclassical Swan House mansion, and the Wood Family cabin.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3866445,
+          33.8417
         ]
       }
     }

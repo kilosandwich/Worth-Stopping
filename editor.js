@@ -598,10 +598,7 @@ Yes.
 However the helper is only used  by admins (meeeeeeeeeeeeee) and as a result does not have to be fast
 Never forget future self: this section of code doesn't need to be optimized, stop wasting your time.
 */
-//helper functions that do what the getCoordinates function does but just returns a single number. WAY easier to use. 
-//helper functions to get the various 
-//things from their various form locations
-//from the index.html editor
+
 function editorGetUID(){
   const UIDInput = document.getElementById("editor-uid");
   if (!UIDInput){

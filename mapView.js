@@ -213,6 +213,7 @@ function clearAllMarkers(map) {
 
 
 //make a function that populates a given map with markers for the given tags (array of tags)
+//This is the workhorse of the application.
 function populateMapMarkers(
   map,
   geoJSONFile,
@@ -436,6 +437,9 @@ function openGoogleImagesSearch(searchTerm) {
   window.open(url, "_blank");
 }
 
+//this is a basic open web address function
+//if no web address is given, it opens a google search
+//for the location name instead.
 function openWebAddress(website="",name=""){
   url = website;
   if (website === ""){
@@ -454,6 +458,9 @@ function openWebAddress(website="",name=""){
 
 }
 
+//this takes the street address of a given location
+//or at the very least the locations name
+//and starts a search in a separate tab in google maps. 
 function openDirections(streetAddress="", name =""){
   let url;
   if (streetAddress ===""){
@@ -466,20 +473,8 @@ function openDirections(streetAddress="", name =""){
   window.open(url, "_blank");
 }
 
-
-//To do: make a function that makes an html out of the various properties of a given geoJSON feature
-//this is for the creation of the popup text that does not require an internet search.
-//The title of the location should be in big letters below the images and should likely exist as a 
-//separate div
-
-//To do: make a 'get tags' feature which returns the properties of the given geoJSON feature
-//and adds all the tags that have 'true' in them. This allows quick tag lookup while other information
-//is not explicitly included. Yay simplification!
-
-//To do: make a populate list view feature: theoretically the list view could be populated at the same time as the map but
-//hidden (this may be slow)
-
-
+//This function centers the map to the given zoom level at the given coordinates
+//this is usually meant to be used by the 'zoom in' button included in popups. 
 function centerMapOnCoordinates(coordinates, zoomLevel =17){
   console.log("Here is the coordinate object passed to us");
   console.log(coordinates);
@@ -601,6 +596,7 @@ async function getMaxUID(geojsonFilePath = "locations.geojson") {
   return maxUID;
 }
 
+//retrieve the geometry from a given UID in the geojson
 async function getGeometryFromUID(uid, geojsonFilePath = "locations.geojson") {
   const response = await fetch(geojsonFilePath);
   const geojson = await response.json();
@@ -626,6 +622,7 @@ async function getGeometryFromUID(uid, geojsonFilePath = "locations.geojson") {
 
 
 //this function generates a random int between 1 and the maximum UID, then 
+//uses that number to center the map on the location with that UID
 async function randomLocation(geojsonFilePath ="locations.geojson"){
   console.log("Let's try to go to a random location!");
   maxUID = Number( await getMaxUID(geojsonFilePath));
@@ -641,6 +638,8 @@ async function randomLocation(geojsonFilePath ="locations.geojson"){
 
 }
 
+//This hides every current overlay and puts it into a new hidden layer on the map
+//this hidden layer will be accessed later when the map is repopulated.
 function hideAllOverlays(map) {
   console.log("Hiding all layers!");
   // Use a Set to avoid duplicates across repeated hides
@@ -655,6 +654,7 @@ function hideAllOverlays(map) {
   });
 }
 
+//this takes every point on the hidden layer and shows it.
 function restoreAllOverlays(map) {
   console.log("Let's add back those hidden layers!");
   const hidden = map._hiddenOverlays;
@@ -670,7 +670,8 @@ function restoreAllOverlays(map) {
   hidden.clear();
 }
 
-
+//this is just a toggle function to be called by a button if you
+//want to turn the overlays on and off
 function toggleAllOverlays(map) {
   const hidden = map._hiddenOverlays;
   if (hidden && hidden.size > 0) restoreAllOverlays(map);
