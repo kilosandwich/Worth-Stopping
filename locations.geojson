@@ -11462,6 +11462,146 @@
           33.1407979
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "574",
+        "name": "Waco Mammoth National Monument",
+        "street": "6220 Steinbeck Bend Dr, Waco, TX 76708",
+        "country": "USA",
+        "website": "https://www.nps.gov/waco/index.htm",
+        "description": "24 Columbian mammoths died suddenly, and their fully intact skeletons are now embedded in the stone outside of Waco Texas for all to see.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1760316,
+          31.6068003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "575",
+        "name": "Dr. Pepper Museum",
+        "street": "300 S 5th St, Waco, TX 76701",
+        "country": "USA",
+        "website": "http://www.drpeppermuseum.com/",
+        "description": "Dr. Pepper was invented in 1884 by Charles Alderton who started mixing carbonated beverages with the fruit syrups in the drug store he worked at. This museum is the site of the first dedicated Dr. Pepper bottling plant. At the Dr. Pepper museum you can mix your own syrups to create your own soda, go on ghost tours, learn about soda making in a laboratory, look at historic vending machines and everything related to soda production, and get a free Dr. Pepper with your admission.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1295932,
+          31.5551173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "576",
+        "name": "Guadalupe Mountains National Park",
+        "street": "V5VH+P6, 400 Pine Canyon Dr, Salt Flat, TX 79847",
+        "country": "USA",
+        "website": "https://www.nps.gov/gumo/",
+        "description": "The Guadalupe Mountains contain the highest point in Texas (8,751ft) which utterly dominates the flat landscape leading up to the mountains themselves. In the shadows of the valley of the mountains lay green hills and rivers that you can hike about. From the mountaintops you can look at the endless flat plain before you, emphasizing just how high up you are. This is not one of those parks you can drive through, everything you want to experience requires a fairly long hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8590969,
+          31.8775213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "577",
+        "name": "Permian Basin Petroleum Museum",
+        "street": "1500 I-20, Midland, TX 79701",
+        "country": "USA",
+        "website": "http://petroleummuseum.org/",
+        "description": "This is THE oil well museum. See the development of the oil well from derrick to pumpjack, with actual examples of each step towards today's oil extraction technology. See how oil is formed from ancient lifeforms, the chemistry behind petroleum's high energy potential, a bunch of sports cars because gasoline engines are awesome, and how the public has viewed the oil industry during its lifespan. Also there's an exhibit where they treat drilling for oil like space exploration and you get in a fake spaceship called the Petroltrekker.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0855897,
+          31.9723443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "578",
+        "name": "Alamo Mission",
+        "street": "300 Alamo Plaza, San Antonio, TX 78205",
+        "country": "USA",
+        "website": "https://www.nps.gov/places/mission-san-antonio-de-valero-3rd-site-the-alamo.htm",
+        "description": "Don't you forget it. During the Texas Revolution defenders fortified the abandoned Alamo Mission and all were executed during their surrender. Today the mission has been preserved to be as it was on the day of the battle. It's also in the middle of downtown San Antonio - literally.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4860806,
+          29.4258052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "579",
+        "name": "USS Lexinton (CV-16)",
+        "street": "2914 N Shoreline Blvd, Corpus Christi, TX 78402",
+        "country": "USA",
+        "website": "https://www.usslexington.com/",
+        "description": "The WW2 era Essex-class aircraft carrier USS Lexington is the oldest aircraft carrier in the world. The ship is massive and contains an entire aerospace museum inside of its hangers. They also have escape rooms if people still do that.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3894892,
+          27.8150496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "580",
+        "name": "Six Flags Fiesta Texas",
+        "street": "17000 W I-10, San Antonio, TX 78257",
+        "country": "USA",
+        "website": "https://www.sixflags.com/fiestatexas",
+        "description": "Six Flags Fiesta Texas is set inside of a quarry, and makes use of it. Rollercoasters dive off the cliff walls, and trains pass through tunnels covered by waterfalls. There are 11 rollercoasters in total, with a strong supporting cast of rides - including the Bugs Bunny Log Flume.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6091849,
+          29.5992088
+        ]
+      }
     }
   ]
 }
