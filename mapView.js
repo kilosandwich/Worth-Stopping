@@ -114,6 +114,7 @@ async function buildPopupImages(searchTerm, numImages) {
         <div style="display:flex; flex-direction:column; align-items:center;">
             ${imagesHtml}
         </div>
+        <a href="https://donate.wikimedia.org/">Support Wikimedia here</a>
     `;
 }
 //Helper function to determine if the given features match the tag

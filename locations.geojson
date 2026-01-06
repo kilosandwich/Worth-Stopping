@@ -11567,7 +11567,7 @@
       "type": "Feature",
       "properties": {
         "uid": "579",
-        "name": "USS Lexinton (CV-16)",
+        "name": "USS Lexington (CV-16)",
         "street": "2914 N Shoreline Blvd, Corpus Christi, TX 78402",
         "country": "USA",
         "website": "https://www.usslexington.com/",
@@ -11600,6 +11600,206 @@
         "coordinates": [
           -98.6091849,
           29.5992088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "581",
+        "name": "National Museum of the Pacific War",
+        "street": "311 E Austin St, Fredericksburg, TX 78624",
+        "country": "USA",
+        "website": "http://www.pacificwarmuseum.org/",
+        "description": "It's World War 2, but only the bit where the USA fought the Japanese. Including a Japanese midget submarine that participated in the attack on Pearl harbor, PT-309, and an outdoor re-creation of a Pacific combat zone where reenactments are held.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8678179,
+          30.2730689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "582",
+        "name": "Lyndon Baines Johnson Library and Museum",
+        "street": "2313 Red River St, Austin, TX 78705",
+        "country": "USA",
+        "website": "http://www.lbjlibrary.org/",
+        "description": "LBJ assumed the presidency after President JFK was assassinated in Dallas. LBJ went on to leverage the nation's desire to honor JFK by ramming through the Great Society programs (Medicare, Medicaid), the Voting Rights Act, the Civil Rights Act, and accelerated the US Space Program. Johnson also escalated the Vietnam war, which the youth of the nation did not appreciate since they could be drafted at age 18 but could not vote until age 21. LBJ declined to run for a second term. The LBJ Presidential Library has the presidential limousine, a terrifying talking animatronic of LBJ, and a re-creation of the oval office.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7293402,
+          30.2858265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "583",
+        "name": "Bullock Texas State History Museum",
+        "street": "1800 Congress Ave., Austin, TX 78701",
+        "country": "USA",
+        "website": "https://www.thestoryoftexas.com/",
+        "description": "Texas wants you to know why Texas is the greatest place ever. Texas has been in a near perpetual economic boom since it joined the USA due to its dominance in the fields of cattle, cotton, lumber, and oil. The museum traces the history of Texas from the Native Americans, to explorers, to settlement, independence, Civil War, to the present. They even have the entire hull of explorer Robert La Salle's ship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7390267,
+          30.2803341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "584",
+        "name": "George H.W. Bush Presidential Library and Museum",
+        "street": "1000 George Bush Dr W, College Station, TX 77845",
+        "country": "USA",
+        "website": "https://www.bush41.org/",
+        "description": "George H.W. Bush went from pilot in WW2 to Director of the CIA, to Reagan's Vice President, to President. Bush successfully oversaw the mostly peaceful dissolution of communism in Eastern Europe, passed the Americans With Disabilities Act, the North American Free Trade Agreement, the Gulf War, and raised taxes. Now you can learn the complete story of the 41st President and why he didn't do anything wrong (in their opinion).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3533726,
+          30.5965296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "585",
+        "name": "Cave Without A Name",
+        "street": "325 Kreutzberg Rd, Boerne, TX 78006",
+        "country": "USA",
+        "website": "https://www.cavewithoutaname.com/",
+        "description": "It's a really big cave with a bunch of wacky formations of stalactites, stalagmites, soda straws, drapery, flowstones, rimstone dams, and concerts in the Throne Room (a really big cavern). Call ahead - you likely need a reservation.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6182433,
+          29.8863194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "586",
+        "name": "Natural Bridge Caverns",
+        "street": "26495 Natural Bridge Caverns Rd, San Antonio, TX 78266",
+        "country": "USA",
+        "website": "https://naturalbridgecaverns.com/",
+        "description": "Natural Bridge Caverns are another one of those impressively large caverns filled with formations. It's so big that you have to take a series of switchbacks just to descend within one of the rooms. There's a lot of cavern to see, that's why there's two separate tours.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3427791,
+          29.6923186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "587",
+        "name": "Longhorn Cavern State Park",
+        "street": "6211 Park Rd 4 W, Marble Falls, TX 78654",
+        "country": "USA",
+        "website": "https://visitlonghorncavern.com/",
+        "description": "Swooshing caverns with arches, it's the \"National Cave of Texas\". There's even a formation that looks exactly like a dog.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3514602,
+          30.6844389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "588",
+        "name": "Enchanted Rock State Natural Area",
+        "street": "16710 Ranch Rd 965, Fredericksburg, TX 78624",
+        "country": "USA",
+        "website": "https://tpwd.texas.gov/state-parks/enchanted-rock",
+        "description": "It's a smooth mountain made of pink granite with a lake nearby that lets you reflect on the height. There's hiking, rock climbing, and boulders galore. Altogther, it's just a very pleasant place to be.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8183283,
+          30.5061642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "589",
+        "name": "Garner State Park",
+        "street": "298 State Park Rd 29, Concan, TX 78838",
+        "country": "USA",
+        "website": "https://tpwd.texas.gov/state-parks/garner",
+        "description": "The gentle Frio River passes by the mountains and cliffs of Mount Old Baldy. The view from the summit is quite impressive and is worth the hike. If going uphill isn't that interesting, the river is also full of interesting rock formations. There's also caves - with no guided tours.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7299977,
+          29.575507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "590",
+        "name": "Caverns of Sonora",
+        "street": "1711 Private Rd 4468, Sonora, TX 76950",
+        "country": "USA",
+        "website": "http://www.cavernsofsonora.com/",
+        "description": "The walls are popcorn and the floor is crystals in the curvy cave walls of the Caverns of Sonora.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.812287,
+          30.5549564
         ]
       }
     }
