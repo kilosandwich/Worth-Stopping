@@ -11222,6 +11222,246 @@
           36.6634373
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "562",
+        "name": "Wonderland Park (Texas)",
+        "street": "2601 Dumas Dr, Amarillo, TX 79107",
+        "country": "USA",
+        "website": "http://www.wonderlandpark.com/",
+        "description": "This remote amusement park is chock full of charm, including: an indoor coaster that is now outdoors, a rollercoaster with no seatbelt, and a steel rollercoaster made by a water ride manufacturer with the trains of a wooden rollercoaster manufacturer.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8322717,
+          35.2426403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "563",
+        "name": "Palo Duro Canyon State Park",
+        "street": "11450 Park Rd 5, Canyon, TX 79015",
+        "country": "USA",
+        "website": "https://tpwd.texas.gov/state-parks/palo-duro-canyon",
+        "description": "This is the second largest canyon in the country after the Grand Canyon. This crisp red canyon features rocky outcroppings, stacks, and hiking just like you'd find further out west. This one might be even better because you can drive to the bottom of it - take that, nature!",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6969251,
+          34.9363434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "564",
+        "name": "Caprock Canyons State Park and Trailway",
+        "street": "850 Caprock Canyon Park Road, Quitaque, TX 79255",
+        "country": "USA",
+        "website": "https://tpwd.texas.gov/state-parks/caprock-canyons",
+        "description": "Rust red buttes and canyons with wild bison herds make for great hiking and sightseeing. There's also caves full of bats if you're feeling bold. Yes you can drive down to the bottom - Texas loves you.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0537454,
+          34.4102042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "565",
+        "name": "American Windmill Museum",
+        "street": "1701 Canyon Lake Dr, Lubbock, TX 79403",
+        "country": "USA",
+        "website": "http://www.windmill.com/",
+        "description": "This is THE windmill museum. It's three buildings and an entire field full of 200+ windmills and millstones. Most of the windmills still spin, so it it's like being in a room full of constantly spinning wheels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8234867,
+          33.5803124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "566",
+        "name": "Fort Worth Water Gardens",
+        "street": "1502 Commerce St, Fort Worth, TX 76102",
+        "country": "USA",
+        "website": "http://www.fortworth.com/things-to-do/attractions/fort-worth-water-gardens/",
+        "description": "Walk down the steps of this artificial cascade of waterfalls in the middle of Fort Worth. The neat thing is that if you fall in, there is no ladder back up.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3261503,
+          32.7478289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "567",
+        "name": "National Vietnam War Museum",
+        "street": "12685 Mineral Wells Hwy, Weatherford, TX 76088",
+        "country": "USA",
+        "website": "https://www.nationalvnwarmuseum.org/",
+        "description": "Get flashbacks to 'Nam at the National Vietnam War Museum. Pop out of rat tunnels and traumatize veterans, hop in the back of an amphibious APC, rethink your life in the contemplation garden where a helicopter roars overhead, admire the traps of the Viet Cong. There's also a re-creation of the Oval Office where you can beg for a pardon.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.039077,
+          32.7999039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "568",
+        "name": "International Bowling Museum",
+        "street": "621 Six Flags Dr, Arlington, TX 76011",
+        "country": "USA",
+        "website": "http://www.bowlingmuseum.com/",
+        "description": "Learn about the history of bowling, see where bowling research is conducted, and bowl at the International Bowling Museum. Did you know bowling began in Ancient Egypt? This is an actually true fact. See medieval bowling pins, learn about lawn bowling, the criminalization of bowling, the establishment of the American Bowling Congress, how pinsetting was a job for humans instead of a machine, the development of the modern bowling alley, and professional bowling in the USA.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0692803,
+          32.7514047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "569",
+        "name": "George W. Bush Presidential Center",
+        "street": "2943 SMU Boulevard, Dallas, TX 75205",
+        "country": "USA",
+        "website": "http://www.bushcenter.org/",
+        "description": "Learn why President George W. Bush did nothing wrong (in their opinion) at the George W. Bush Presidential Museum. Understand why No Child Left Behind had no negative outcomes, the tax cuts were affordable, and why the Iraq and Afghanistan wars were about defending freedom and only had positive ramifications.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7782281,
+          32.8408341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "570",
+        "name": "National Video Game Museum",
+        "street": "8004 Dallas Pkwy, Frisco, TX 75034",
+        "country": "USA",
+        "website": "http://www.nvmusa.org/",
+        "description": "The National Video Game Museum chronicles the history of the development of video gaming. They have every console ever produced and nearly every game. You can check ouyt games from their library to play at the museum. Try to go early in the morning, the nerds are less sweaty then.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8354008,
+          33.1445454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "571",
+        "name": "The Sixth Floor Museum at Dealy Plaza",
+        "street": "411 Elm St, Dallas, TX 75202",
+        "country": "USA",
+        "website": "https://www.jfk.org/",
+        "description": "Look out the window where Lee Harvey Oswald shot President John F. Kennedy from and realize \"Wow that's not so hard\". This museum is everything about the assassination of JFK, from the history of the killer, the events in Dallas, the investigation, and persisting alternative theories. Yes they have an example of the gun that was used to kill JFK.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8093602,
+          32.7798187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "572",
+        "name": "American Airlines C.R. Smith Museum",
+        "street": "4601 Hwy 360 3, Rm. 1C-200, Fort Worth, TX 76155",
+        "country": "USA",
+        "website": "http://www.crsmithmuseum.org/",
+        "description": "Learn about the history of American Airlines and why they are the greatest airline ever. Slide down an inflatable plane escape slide, sit in economy in a DC-3, and learn why it wasn't their fault at all their planes were hijacked on 9/11.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0637342,
+          32.8333263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "573",
+        "name": "Southwest Dairy Museum",
+        "street": "1210 Houston St, Sulphur Springs, TX 75482",
+        "country": "USA",
+        "website": "http://www.southwestdairyfarmers.com/",
+        "description": "This is THE dairy museum. Learn about why milk is the greatest thing ever,  how milk gets from a cow into a bottle, recipes that you can make from dairy products. A talking skeleton riding a bicycle will crack milk jokes and tell you about why calcium is great.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6205324,
+          33.1407979
+        ]
+      }
     }
   ]
 }
