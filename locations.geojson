@@ -12141,6 +12141,286 @@
           33.8417
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "608",
+        "name": "Kennedy Space Center Visitor Complex",
+        "street": "Kennedy Pkwy N, Titusville, FL 32780",
+        "country": "USA",
+        "website": "https://www.kennedyspacecenter.com/",
+        "description": "This is THE space museum. Kennedy Space Center is the epicenter of American rocket launching and development. Depending on the day, you can actually see rockets blasting off into space. The museum features the Space Shuttle Atlantis, a complete Saturn V rocket, and a garden full of every type of rocket and capsule America has ever launched. The Kennedy Space Center Bus Tour will take you between the various sections of the space center so you can see everything - including the alligators.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6819622,
+          28.5234175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "609",
+        "name": "Everglades National Park",
+        "street": "99JQ+VX, Homestead, FL",
+        "country": "USA",
+        "website": "https://www.nps.gov/ever/index.htm",
+        "description": "It's not just a swamp, it's a tropical nice swamp full of the wildlife you want to see. It's endless mangroves, alligators, wading birds, crocodiles, and manatees. There's airboat tours so you can see the really good stuff. You can hike around if you like being bitten by mosquitoes.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6097142,
+          25.3825041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "610",
+        "name": "Castillo de San Marcos",
+        "street": "11 S Castillo Dr, St. Augustine, FL 32084",
+        "country": "USA",
+        "website": "https://www.nps.gov/casa/index.htm",
+        "description": "St. Augustine is the oldest city in the United States, and Castillo de San Marcos is the oldest masonry fort in the United States. The fort saw 251 years of continuous military use between 3 different countries and is best example of spanish fortifications in America.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3116545,
+          29.8977116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "611",
+        "name": "Fort Mantazas National Monument",
+        "street": "8635 A1A S, St. Augustine, FL 32080",
+        "country": "USA",
+        "website": "http://www.nps.gov/foma/index.htm",
+        "description": "This 1740 Spanish Fort protects the rear entrance to St. Augustine and was built at the inlet to the Matanzas river. It is not longer close to the inlet to the river - the inlet has shifted with time. The small fort is only accessible by tour boat from the National Park Visitor Center.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2391938,
+          29.7152859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "612",
+        "name": "USS Orleck",
+        "street": "610 E Bay St, Jacksonville, FL 32202",
+        "country": "USA",
+        "website": "https://www.jaxnavalmuseum.org/",
+        "description": "The WW2 era Gearing-class destroyer USS Orleck saw service in Korea and Vietnam and was transfered to the Turkish Navy, only leaving service in 2000. As a result, the interior of the ship is remarkably modern and in good condition. The ship is available for self-guided tour, so you can just wander around.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6508203,
+          30.3230103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "613",
+        "name": "Motorsports Hall of Fame of America",
+        "street": "1801 W International Speedway Blvd, Daytona Beach, FL 32114",
+        "country": "USA",
+        "website": "http://www.mshf.com/",
+        "description": "The Daytona International Speedway is the perfect place for a racing museum. Learn about the best drivers that ever were, and see their record-setting racecars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0682294,
+          29.1916833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "614",
+        "name": "Dry Tortugas National Park",
+        "street": "901 Caroline St, Key West, FL 33040",
+        "country": "USA",
+        "website": "https://www.nps.gov/drto/index.htm",
+        "description": "This brick fortress is surrounded by pristine coral reefs because it is isolated on the furthest end of the Florida keys. The unfinished Fort Jefferson is the largest masonry structure in the USA. The beaches and fort are nice, but the real draw is the scuba diving and snorkeling to see the sea creatures in an undisturbed environment.  The island is only accessible by boat or seaplane.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8734486,
+          24.6280063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "615",
+        "name": "Fort East Martello Museum",
+        "street": "3501 S Roosevelt Blvd, Key West, FL 33040",
+        "country": "USA",
+        "website": "https://www.kwahs.org/fort-east-martello-museum/",
+        "description": "The operators of this already haunted looking Civil War era masonry fort have deliberately tried to make it as creepy as possible by stuffing it with haunted dolls.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7548476,
+          24.5521937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "616",
+        "name": "USCGC Ingham",
+        "street": "Southard St, Key West, FL 33041",
+        "country": "USA",
+        "website": "http://www.uscgcingham.org/",
+        "description": "American Coast Guard vessels are the size of the largest warships in other countries navies. The Treasury-class United States Coast Guard Cutter USCGC Ingham sunk U-boats during WW2, and is now a museum ship in the Florida Keys.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8077793,
+          24.5522096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "617",
+        "name": "Fort Zachary Taylor",
+        "street": "601 Howard England Way, Key West, FL 33040",
+        "country": "USA",
+        "website": "https://fortzacharytaylor.com/",
+        "description": "It's a decaying Civil War era fort on the tropical beaches of Key West, Florida. There's cannons just idily tossed about and iguanas all around - paradise. It's not just the fort and beach that are beautiful, there's scuba diving and snorkeling so you can see the wildlife beneath the sea.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8102095,
+          24.5475647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "618",
+        "name": "John Pennekamp Coral Reef State Park",
+        "street": "Key Largo, FL 33037",
+        "country": "USA",
+        "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+        "description": "Treal thing worth seeing here is all beneath the sea. Shipwrecks and coral reefs await.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3106917,
+          25.1114802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "619",
+        "name": "Biscayne National Park",
+        "street": "9700 SW 328th St, Homestead, FL 33033",
+        "country": "USA",
+        "website": "https://www.nps.gov/bisc/index.htm",
+        "description": "While the tropical island beaches and beautiful lighthouses are nice - the colorful fish and reefs are nicer. This is your reason to learn to scuba dive or snorkel. The park is mostly underwater or on an island, so you'll need a boat to get there anyway.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1920397,
+          25.4523229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "620",
+        "name": "The Ringling",
+        "street": "5401 Bay Shore Rd, Sarasota, FL 34243",
+        "country": "USA",
+        "website": "https://www.ringling.org/",
+        "description": "This is THE circus museum. The Ringling is a museum complex consisting of the John and Mable Ringling Museum of Art and The Circus Museum. It's 6 buildings packed full of antiquities and Circus history all built on the grounds of a Circus owner's mansions (yes there's more than one mansion).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5604337,
+          27.3836757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "621",
+        "name": "SS American Victory",
+        "street": "705 Channelside Dr, Tampa, FL 33602",
+        "country": "USA",
+        "website": "http://www.americanvictory.org/",
+        "description": "The SS American Victory is one of the last remaining merchant steamships from WW2 in the United States. The ship is still operational and sails occasionally. Now you can tour it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4442084,
+          27.94364
+        ]
+      }
     }
   ]
 }
