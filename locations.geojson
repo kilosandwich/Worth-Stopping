@@ -12742,6 +12742,246 @@
           36.259176
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "638",
+        "name": "Makoshika State Park",
+        "street": "Makoshika State Park, 1301 Snyder St, Glendive, MT 59330",
+        "country": "USA",
+        "website": "http://stateparks.mt.gov/makoshika",
+        "description": "If these 11,538-acres of badlands weren't a state park, this would be a national park - that's how good this place is. Makoshika Park Road is the main attraction here, as it saddles the ridge such that badlands surround you on both sides. There are hiking trails down into the badlands themselves if you are feeling ambitious.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7063809,
+          47.0896502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "639",
+        "name": "Glacier National Park",
+        "street": "Saint Mary Visitor Center, Browning, MT 59417",
+        "country": "USA",
+        "website": "https://www.nps.gov/glac/index.htm",
+        "description": "The prarrie meets the tundra right here where glaciers slide down the rocky mountains into glimmering glacial lakes. There's 700 miles of hiking trails, wildlife, 25 glaciers, and waterfalls. Going-To-The-Sun Road snakes through the park so you can enjoy nearly all of it the way America intended. The park gets busy because it's pretty.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4428333,
+          48.7489778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "640",
+        "name": "Kootenai Falls",
+        "street": "Kootenai Falls Trailhead, Libby, MT 59923",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r01/kootenai/recreation/kootenai-falls-and-swinging-bridge",
+        "description": "This wide waterfall pours through a richly-colored picturesque canyon in the middle of Kootenai National Forest. You also get to cross a terrifying swinging bridge across the fast-flowing Kootenay River just to get to the overlook.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7643856,
+          48.4552273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "641",
+        "name": "Upper Missouri Breaks National Monument",
+        "street": "701 7th St, Fort Benton, MT 59442",
+        "country": "USA",
+        "website": "https://www.blm.gov/programs/national-conservation-lands/montana-dakotas/upper-missouri-river-breaks",
+        "description": "njoy 365,000 acres of plains, cliffs, and rivers where paddle steamers pioneered the frontier. This is one of those 'wander around in the wilderness' type of federal lands with unpaved high-clearance roads such as the missouri Breaks National Back Country Byway.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0556584,
+          47.7995219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "642",
+        "name": "Hill Aerospace Museum",
+        "street": "7961 Cottonwood St Building 1955, Hill AFB, UT 84056",
+        "country": "USA",
+        "website": "https://www.aerospaceutah.org/",
+        "description": "This aerospace museum features 70+ aircraft across 3 hangars. Including a B1B-Lancer, the double decker C-124C Globemaster II, F-22 Raptor, F-117 Nighthawk, and SR-71C Blackbird.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0184604,
+          41.1623215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "643",
+        "name": "Antelope Island State Park",
+        "street": "4528 W 1700 S, Syracuse, UT 84075",
+        "country": "US",
+        "website": "https://stateparks.utah.gov/parks/antelope-island/",
+        "description": "From Antelope island you can get a good view of the mountains, and of the US's largest salt lake. Wild bison herds roam the island, and there are trailheads to the small mountains in the middle of the island.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2305631,
+          41.0336863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "644",
+        "name": "Zion National Park",
+        "street": "Zion National Park, 1 Zion Park Blvd, Springdale, UT 84767",
+        "country": "USA",
+        "website": "https://www.nps.gov/zion/index.htm",
+        "description": "Zion National Park is full of colorful tall vertical walls that close in on either side of you - and you can hike nearly all of it. Highlights include the vertical spine of Angel's Landing, the slot canyons of The Subway and The narrows, the waterfalls of Emerald Pools and Kannara Falls, and Kolob Arch. Make reservations ahead of time - the hikes are popular.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9491707,
+          37.2693505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "645",
+        "name": "Arches National Park",
+        "street": "Arches National Park Visitor Center, Moab, UT 84532",
+        "country": "USA",
+        "website": "https://www.nps.gov/arch/index.htm",
+        "description": "Natural arches are often worth the trip to just see one - this place has 2,000+ set in a fiery red valley. The scenic drive provides good view of some arches - but the most stunning ones you have to hike on trails to get to, such as: Double Arch, Windows, Delicate Arch, Upper Delicate Arch Viewpoint, Sand Dune Arch, Skyline Arch, and Devil's Garden trail. You might need reservations to get onto the road in the park - plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5908133,
+          38.7720515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "646",
+        "name": "Canyonlands national Park",
+        "street": "Island In The Sky Visitor Center, Grand View Point Rd, Moab, UT 84532",
+        "country": "USA",
+        "website": "https://www.nps.gov/cany/index.htm",
+        "description": "The Colorado River has created even more spectacular grand canyons. Canyonlands is divided by the confluence of the Colorado River and its tributaries into 4 districts - each is a park in itself: the dazzling views from the cliffs above the canyons at Island In The Sky district, the trails through the spires of The Needles district, the inaccessible backwoods of The Maze district, and the only accessible outside of the park Rivers District.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8572588,
+          38.3125649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "647",
+        "name": "Capitol Reef National Park",
+        "street": "Capitol Reef National Park Visitor Center, Torrey, UT 84775",
+        "country": "USA",
+        "website": "https://www.nps.gov/care/index.htm",
+        "description": "A 100-mile spine called the Waterpocket Fold stretches through the domes, natural arches, and canyons of this National Park. It's a literal wrinkle in the earth. The park is huge, and is divided into three districts: the Scenic Drive Road in the verdant valley and pink cliffs of the Fruita Historic District, the dirt roads and stunning spires and stacks of Cathedral Valley, and the remote South District.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2982736,
+          38.2985345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "648",
+        "name": "Bryce Canyon National Park",
+        "street": "Bryce Canyon National Park Visitor Center, UT-63, Bryce Canyon City, UT 84764",
+        "country": "USA",
+        "website": "https://www.nps.gov/brca/index.htm",
+        "description": "Imagine if the Grand Canyon was spikey - that's Bryce Canyon. This is the highest concentration of hoodoos anywhere on earth. You can hike down into the canyon if you want, but you can see nearly everything from the viewpoints along Park Road - including the famous Bryce Amphitheater.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1630055,
+          37.6284008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "649",
+        "name": "Cedar Breaks National Monument",
+        "street": "4730 UT-148, Brian Head, UT 84719",
+        "country": "USA",
+        "website": "https://www.nps.gov/cebr/index.htm",
+        "description": "This is Bryce Canyon National Park's smaller and less popular sibling. It's got beautiful hoodoos in an amphitheater just like Bryce Canyon - except more eroded. You can hike down the cliffs if you want to - but the best views are at the top where you started.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.83831,
+          37.6131643
+        ]
+      }
     }
   ]
 }
