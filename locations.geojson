@@ -949,7 +949,7 @@
         "country": "USA",
         "website": "https://themansfieldmuseum.com/",
         "description": "Home of Elektro - one of the first ever robots displayed at the 1939 New Yorks's World Fair. Elektro could walk, talk, smoke a cigarette, blow a balloon, move its arms and fingers, and be enslaved by humanity (something that we will surely never come to regret). This museum isn't the best museum, I just really like Elektro.",
-        "worth stopping": true,
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
@@ -2772,7 +2772,7 @@
         "street": "",
         "country": "USA",
         "website": "https://www.nps.gov/guis/learn/historyculture/fort-massachusetts.htm",
-        "description": "Run around in a mostly abandoned Civil War fort on an island that's part of Gulf Isslands National Seashore. Only accessible by boat.",
+        "description": "Run around in a mostly abandoned Civil War fort on an island that's part of Gulf Islands National Seashore. Only accessible by boat.",
         "worth stopping": true,
         "park": true,
         "museum": true
@@ -5618,7 +5618,7 @@
         "country": "USA",
         "website": "http://nlsd.net/Museum.htm",
         "description": "On May 18. 1937 a natural gas leak destroyed the London School in New London Texas, killing 311 teachers and students while their parents watched helplessly from the PTA meeting held in the adjacent gym. That's why mercaptan is added to gas to make it smell bad. Honor the memory of the third-worst disaster in Texas by eating ice cream at this soda fountain and local history museum.",
-        "worth stopping": true,
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
@@ -11312,7 +11312,7 @@
         "country": "USA",
         "website": "http://www.fortworth.com/things-to-do/attractions/fort-worth-water-gardens/",
         "description": "Walk down the steps of this artificial cascade of waterfalls in the middle of Fort Worth. The neat thing is that if you fall in, there is no ladder back up.",
-        "worth stopping": true,
+        "local attractions": true,
         "park": true
       },
       "geometry": {
@@ -12419,6 +12419,327 @@
         "coordinates": [
           -82.4442084,
           27.94364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "622",
+        "name": "White Sands Missile Range Museum",
+        "street": "Building 200, 1 Wsmr P Rt 1, White Sands Missile Range, NM 88002",
+        "country": "USA",
+        "website": "https://wsmrmuseum.com/",
+        "description": "White Sands is the location of the detonation of the Trinity test - the world's first nuclear bomb. It's also the place where the USA tests out its missiles. At the White Sands Missile Range Museum you can see just about every missile ever made by the United States. You will have to pass through a military checkpoint to access this museum - plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4791059,
+          32.3849921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "623",
+        "name": "White Sands National Park",
+        "street": "19955 US-70, Alamogordo, NM 88310",
+        "country": "USA",
+        "website": "https://www.nps.gov/whsa/index.htm",
+        "description": "It's the world's largest gypsum sand dune field, meaning that the sand here is a waving sea of brilliant snow-like white. You can hike on marked trails on the sand dunes if you want - you can even sled down them. Wear sunglasses - the reflected light can hurt your eyes.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2704049,
+          32.8179318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "624",
+        "name": "Carlsbad Caverns National Park",
+        "street": "727 Carlsbad Cavern Hwy, Carlsbad, NM 88220",
+        "country": "USA",
+        "website": "https://www.nps.gov/cave/index.htm",
+        "description": "This is the other major cave run by the National Park Service - well - 119 caves. Featuring a 750ft descent, the largest cave room by volume in the USA, a mile worth of self guided trails, and a cave that looks stereotypically like you think a cave would look like. Certain areas of the cave require ranger guided tours,the self guided tour is very extensive on its own though. You will need a reservation usually weeks in advance - plan ahead.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4413102,
+          32.1769345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "625",
+        "name": "New Mexico Museum of Space History",
+        "street": "3198 State Rte 2001, Alamogordo, NM 88310",
+        "country": "USA",
+        "website": "http://nmspacemuseum.org/",
+        "description": "Featuring The Daisy Track - an-launched sled for safety testing,a mock-up of the X-37B (the USA's top secret robot space shuttle), the International Space Hall of Fame, a garden full of rockets and rocket debris, space suits from various TV series,  and lots and lots of missiles from the nearby White Sands Missile Test Range.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9208574,
+          32.9210409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "626",
+        "name": "Cliffs Amusement Park",
+        "street": "4800 Osuna Rd NE, Albuquerque, NM 87109",
+        "country": "USA",
+        "website": "http://cliffsamusementpark.com/",
+        "description": "This small family amusement park in New Mexico has a fast wooden rollercoaster that dives underground and weaves around the entire park. It also has a nice log flume.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5882841,
+          35.1431927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "627",
+        "name": "Anderson Abruzzo Albuquerque International Balloon Museum",
+        "street": "9201 Balloon Museum Dr NE, Albuquerque, NM 87113",
+        "country": "USA",
+        "website": "https://balloonmuseum.com/",
+        "description": "This is THE balloon museum. They have everything on the history of balloons: arctic balloons, high altitude balloons, globe circling balloons, colonial balloons, French balloons, and spy balloons. The entrance is even shaped like a balloon, and they do balloon launches from their front lawn.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.598016,
+          35.1897766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "628",
+        "name": "National Museum of Nuclear Science and History",
+        "street": "601 Eubank Blvd SE, Albuquerque, NM 87123",
+        "country": "USA",
+        "website": "https://www.nuclearmuseum.org/",
+        "description": "This is THE nuclear museum. New Mexico is home of Los Alamos National Laboratory which developed the first nuclear bomb. This museum will teach you about uranium enrichment, how nuclear reactors are built, nuclear bomb manufacturing, nuclear accidents (and the actual bombs involved in them), and international nuclear weapons. Out back, there's a bunch of nuclear bomb casings, nuclear missiles, a nuclear cannon, a nuclear submarine's sail, and nuclear bombers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5339124,
+          35.0659134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "629",
+        "name": "New Mexico Bureau of Geology Mineral Museum",
+        "street": "801 Leroy Pl, Socorro, NM 87801",
+        "country": "USA",
+        "website": "https://geoinfo.nmt.edu/museum/#",
+        "description": "Have you ever wanted to see every kind of rock there is? Good news, this museum is just 15,000 rocks on row after row of shelves across multiple levels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9045394,
+          34.0682921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "630",
+        "name": "Petroglyph National Monument",
+        "street": "6510 Western Trail NW, Albuquerque, NM 87120",
+        "country": "USA",
+        "website": "https://www.nps.gov/petr/index.htm",
+        "description": "Hike through the desert to see 24,000+ Native American drawings on volcanic rock. There are no trails at the visitor's center, so feel free to pick a trail and just start hiking. There's also 4 extinct volcanos on the edge of the park - however they are little more than lumps. Make sure to bring lots and lots of water - this is the desert.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7252734,
+          35.1271738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "631",
+        "name": "Bandalier National Monument",
+        "street": "15 Entrance Rd, Los Alamos, NM 87544",
+        "country": "USA",
+        "website": "http://www.nps.gov/band",
+        "description": "The Ancestral Puebloans constructed their homes in the cliffs of a dead volcano. Now you can hike the canyons, badlands, and twisted volcanic rock for yourself.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2709993,
+          35.7790714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "632",
+        "name": "Rio Grande del Norte National Monument",
+        "street": "1120 NM-378, Questa, NM 87556",
+        "country": "USA",
+        "website": "https://www.blm.gov/visit/rgdnnm",
+        "description": "The Rio Grande Gorge is like the grand canyon, except surrounded by dead volcanoes. There's also white water rafting. The Wild Rivers Visitor's center puts you closest to the overlooks and trails you likely want to see.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6862254,
+          36.6569578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "633",
+        "name": "Aztec Ruins National Monument",
+        "street": "725 Ruins Rd, Aztec, NM 87410",
+        "country": "USA",
+        "website": "http://www.nps.gov/azru/index.htm",
+        "description": "These large pre-coloumbian Chacoan ruins structures are some of the best preserved of their kind. At one point this structure had over 400 rooms and was 3 stories high.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9997632,
+          36.8352756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "634",
+        "name": "Chaco Culture National Historical Park",
+        "street": "1808 County Road 7950, Nageezi, NM 87037",
+        "country": "USA",
+        "website": "https://www.nps.gov/chcu/index.htm",
+        "description": "Chaco Canyon is full of pre-cooloumbian Chacoan ruins, including the massive Pueblo Bonito - the site of a Chacoan city. There's a lot of hiking through scenic desert to do, including through narrow canyons. However, the biggest and best stuff is by the side of the road so you won't have to go very far.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9616234,
+          36.0605346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "635",
+        "name": "Ah-Shi-Sle-Pah Wilderness",
+        "street": "Unnamed Road, NM",
+        "country": "USA",
+        "website": "https://www.blm.gov/node/101001",
+        "description": "It's a bunch of alien looking hoodoos in the badlands out in the desert. There is no easy drive to these fancy looking rocks, you'll need to hike for a bit. Bring water, it's the desert.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9721644,
+          36.1340486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "636",
+        "name": "Kasha-Katuwe Tent Rocks National Monument",
+        "street": "1101 NM-22, Cochiti Pueblo, NM 87072",
+        "country": "USA",
+        "website": "https://www.blm.gov/visit/kktr",
+        "description": "Volcanic ash has formed into a series of conical spires up to 90ft high out in the New Mexico desert. There's also good slot canyons for hiking such as the Cave Loop and Slot Canyon Trails.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4081042,
+          35.6669879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "637",
+        "name": "Bisti/De-Na-Zin Wilderness",
+        "street": "Bisti Parking/Access, Farmington, NM 87499",
+        "country": "USA",
+        "website": "https://www.blm.gov/visit/bisti-de-na-zin-wilderness",
+        "description": "Eroded badlands have formed some interesting rock formations. The roads are not paved, the trails are loosely marked, and it is the middle of nowhere in the desert - plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2513205,
+          36.259176
         ]
       }
     }
