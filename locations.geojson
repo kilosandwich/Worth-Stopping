@@ -13062,6 +13062,46 @@
           37.0774102
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "654",
+        "name": "Natural Bridges National Monument",
+        "street": "Natural Bridges Rd, Lake Powell, UT 84533",
+        "country": "USA",
+        "website": "https://www.nps.gov/nabr/index.htm",
+        "description": "Three large natural bridges arch over the canyons of desert landscape. Underneath the overhangs of the canyon lay the ruins of Pueblan cliff dwellings. Just follow Bridge View drive, and you'll see all of the natural bridges.  If you are more ambitious, there are trails that go down into the canyon so you can get close",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0134814,
+          37.5851567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "655",
+        "name": "Timpanogos Cave national Monument",
+        "street": "2038 E Alpine Lp Rd, American Fork, UT 84003",
+        "country": "USA",
+        "website": "http://www.nps.gov/tica/",
+        "description": "Three caves with sealife like calcite formations are connected by man made tunnels. The caves are only accessible by guided tour - which requires hiking a 1.5 mile trail to the entrance of the caves themselves. Get a reservation - plan ahead.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.705173,
+          40.4439385
+        ]
+      }
     }
   ]
 }
