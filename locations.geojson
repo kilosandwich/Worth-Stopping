@@ -12982,6 +12982,86 @@
           37.6131643
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "650",
+        "name": "Kodachrome Basin State Park",
+        "street": "2905 Kodachrome State Park Rd, Canyon Point, UT 84741",
+        "country": "USA",
+        "website": "https://stateparks.utah.gov/parks/kodachrome-basin/",
+        "description": "Kodachrome basin is known for its 67 tall and colorful sand pipes. You can see a lot of this park by driving through it, but the very best can only be seen by hiking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9889111,
+          37.5145531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "651",
+        "name": "Grand Staircase–Escalante National Monument",
+        "street": "755 West Main Street Escalante, Utah 84726",
+        "country": "USA",
+        "website": "https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument",
+        "description": "Different layers of sedimentary rock gradually climb upwards like a staircase over the length of this park. It's a vast landscape of cliffs, canyons, plateaus and badlands reaching between the Grand Canyon and Cedar Breaks. There's lots of canyons to see and hike - the only problem is it's spread out over a large area. For instance, the Burr Trail road is 67 miles long. Highlights include Big Horn Canyon, Escalante River, and Calf Creek trails.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4444734,
+          37.7723801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "652",
+        "name": "Dead Horse Point State Park",
+        "street": "Dead Horse Point State Park, UT-313, Moab, UT 84532",
+        "country": "USA",
+        "website": "https://stateparks.utah.gov/parks/dead-horse/",
+        "description": "Dead Horse Point State Park overlooks a scenic bend in the river. You can think of it as the state park companion to Canyonlands National Park where you can drive to the bottom of the canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7396312,
+          38.4709779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "653",
+        "name": "Rainbow Bridge National Monument",
+        "street": "Forbidding Canyon Lake, Powell, UT 84533",
+        "country": "USA",
+        "website": "http://www.nps.gov/rabr/",
+        "description": "Rainbow Bridge is one of the largest natural bridges in the world - and it looks exactly like a freestanding arch. Unfortunately you can only get to it via boat and hiking from Lake Powell.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9642196,
+          37.0774102
+        ]
+      }
     }
   ]
 }
