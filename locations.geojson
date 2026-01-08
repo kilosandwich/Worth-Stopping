@@ -13863,6 +13863,168 @@
           40.4221748
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "694",
+        "name": "Glenwood Caverns Adventure Park",
+        "street": "51000 Two Rivers Plaza Road, Glenwood Springs, CO 81601",
+        "country": "USA",
+        "website": "https://www.glenwoodcaverns.com/",
+        "description": "It's an amusement park build on top of a mountain with a dramatic view of the valley below. Featuring a swing that swings you over the edge, a drop tower that sends you plummeting down a mineshaft, and an alpine coaster that rides down the mountainside. There's also some pretty caves.",
+        "worth stopping": true,
+        "amusement park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.320329,
+          39.560462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "695",
+        "name": "Hanging Lake Park",
+        "street": "1-70 East of, Glenwood Springs, CO 81601",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/recarea/whiteriver/recarea/?recid=41225",
+        "description": "Waterfalls pour out of a vertical cliffside into a lake on top of a mountain. Part of the White River National Forest. Only accessible by trail.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1918697,
+          39.6014111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "696",
+        "name": "Colorado National Monument",
+        "street": "1750 Rimrock Dr, Fruita, CO 81521",
+        "country": "USA",
+        "website": "https://www.nps.gov/colm/index.htm",
+        "description": "The western section of Colorado looks more like the Grand Canyon than the Rockies. The formations at Monument canyon are the star of this park. Featuring tall spires, hoodoos, and deep canyons. Most of the park can be seen from Rim Rock Drive, however you can hike on trails to descend into the canyon itself.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7343753,
+          39.101353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "697",
+        "name": "Canyon of the Ancients National Monument",
+        "street": "27501 CO-184, Dolores, CO 81323",
+        "country": "USA",
+        "website": "https://www.blm.gov/nlcs_web/sites/co/st/en/BLM_Programs/NLCS/CanyonsNM.html",
+        "description": "Think of this as the companion national monument to Mesa Verde National Park. This national monument preserves pre-columbian Puebloan ruins spread across 176,000acres. This includes the Lowey Puebleo and its 47ft diameter kiva, the Painted Hand pueblo on the edge of a cliff, and the small cliff dwelling of the Sand Canyon pueblo. You are going to have to do a small amount of hiking to get to each of the sites from the roadway.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5459747,
+          37.476228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "698",
+        "name": "Box Canyon (Colorado)",
+        "street": "30 Box Canyon Rd, Ouray, CO 81427",
+        "country": "USA",
+        "website": "https://www.visitouray.com/box-canyon-falls",
+        "description": "A mining camp was threaded through a tight box canyon with a 285ft waterfall. Now you can walk the metal trail that winds through the canyon and stare down the steep and narrow gorge. It's just a short hike from Box Canon Falls park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6774244,
+          38.0180931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "699",
+        "name": "Underground Mining Museum",
+        "street": "9 USFS Rd #503, Creede, CO 81130",
+        "country": "USA",
+        "website": "http://www.undergroundminingmuseum.com/",
+        "description": "The museum itself is completely underground, but you can see the rotting ruins of the abandoned mine high in the cliffs of the shadow valley above you.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9277321,
+          37.8578254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "700",
+        "name": "Last Chance Mine",
+        "street": "504 Last Chance Mine Rd, Creede, CO 81130",
+        "country": "USA",
+        "website": "https://lastchancemine.com/",
+        "description": "This silver mine is terrifying. Everything in your body screams you are about to get lost, dragged into the shadows, or fall down a crevice. Go on a private tour for maximum effect.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9367113,
+          37.8838227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "701",
+        "name": "Dinosaur National Monument",
+        "street": "11625 E 1500 S, Jensen, UT 84035",
+        "country": "USA",
+        "website": "https://www.nps.gov/dino/index.htm",
+        "description": "See actual dinosaur fossils embedded into the rock. Oh and there's also some massive canyons with river rafting. See the fossials at the Quarry Exhibit Hall, the bends of the canyon at Harper's Corner, and the steep spine and riverbend at Echo Park (high-clearance 4-wheel drive vehicles only).",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3071689,
+          40.4381373
+        ]
+      }
     }
   ]
 }
