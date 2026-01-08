@@ -13605,6 +13605,264 @@
           33.8131009
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "681",
+        "name": "Royal Gorge Bridge and Park",
+        "street": "4218 Co Rd 3A, Cañon City, CO 81212",
+        "country": "USA",
+        "website": "https://royalgorgebridge.com/",
+        "description": "The Royal Gorge Bridge was the tallest bridge in the world from 1929-2001 and spans the narrow and deep Royal Gorge. Remarkably, despite the dangerous canyon walls and flooding river, there is a rail line at the bottom of this gorge. You can cross the gorge by pedestrian bridge or gondola, and look out over the side at the numerous viewpoints.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3260395,
+          38.4610326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "682",
+        "name": "Pikes Peak",
+        "street": "101 El Paso Blvd, Manitou Springs, CO 80829",
+        "country": "USA",
+        "website": "https://coloradosprings.gov/drivepikespeak",
+        "description": "Pikes Peach dominates the surrounding mountains with its 14,115ft height - which is exactly why America built a road to the top so you can experience the views without leaving your car. There's also a train that will take you to the top.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0429524,
+          38.8400924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "683",
+        "name": "Garden of the Gods",
+        "street": "1423-1427 Juniper Way Loop, Colorado Springs, CO 80904",
+        "country": "USA",
+        "website": "https://gardenofgods.com/",
+        "description": "Sharp red rock fins jut out of the green landscape at the Garden of the Gods in Colorado. You can walk around most of the formations on the walking trails. You can drive by it on Juniper Way Loop",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8816596,
+          38.8801485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "684",
+        "name": "Manitou Cliff Dwellings",
+        "street": "10 Cliff Rd, Manitou Springs, CO 80829",
+        "country": "USA",
+        "website": "http://www.cliffdwellingsmuseum.com/",
+        "description": "1907 Tourist promoters built a replica of Puebloan Cliff dwellings out of actual historical  cliff dwelling materials from other sites. Unlike the genuine cliff dwellings at Mesa Verde, these you can actually walk around in.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9123669,
+          38.8629147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "685",
+        "name": "Western Museum of Mining and Industry",
+        "street": "225 North Gate Blvd, Colorado Springs, CO 80921",
+        "country": "USA",
+        "website": "http://www.wmmi.org/",
+        "description": "It's 27 acres of antique mining equipment - and most of it still runs. Including a steam shovel, a stamp mill, the Chilean Rescue pod used to rescue miners from a deep underground mine in Chile,",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8288411,
+          39.0255895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "686",
+        "name": "May Natural History Museum",
+        "street": "710 Rock Creek Canyon Rd, Colorado Springs, CO 80926",
+        "country": "USA",
+        "website": "http://www.coloradospringsbugmuseum.com/",
+        "description": "Row after row of 7,000 terrifyingly large insects pinned for display. There's even the world's largest statue of a beetle outside.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8409157,
+          38.7051547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "687",
+        "name": "Castlewood Canyon State Park",
+        "street": "2989 CO-83, Franktown, CO 80116",
+        "country": "USA",
+        "website": "https://cpw.state.co.us/placestogo/Parks/castlewoodcanyon",
+        "description": "Stroll through the corpse of a 1890 masonry dam that collapsed and flooded Denver in 1933. The 2628 acre canyon also features nice looking rock formations that you can hike through.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.75664,
+          39.3410756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "688",
+        "name": "Roxborough State Park",
+        "street": "4751 Roxborough Dr, Littleton, CO 80125",
+        "country": "USA",
+        "website": "https://cpw.state.co.us/placestogo/parks/Roxborough",
+        "description": "Angular red sandstone slabs of rock portrude from the landscape like a slab of arrowheads. You can hike on part of the east side, but the west side is a subdivision, and the north side is a golf course.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0692683,
+          39.4296543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "689",
+        "name": "Mile High Comics - Jason Street Mega Store",
+        "street": "4600 Jason St, Denver, CO 80211",
+        "country": "USA",
+        "website": "http://www.milehighcomics.com/",
+        "description": "It's basically comic book Costco. 45,000sqft of15 million comics books..",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9986745,
+          39.7803935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "690",
+        "name": "Casa Bonita",
+        "street": "6715 W Colfax Ave, Lakewood, CO 80214",
+        "country": "USA",
+        "website": "http://www.casabonitadenver.com/",
+        "description": "\"The Disneyland of Mexican Restaurants\". Featuring indoor cliff divers, a western town with actors, a haunted tunnel, mariachi bands, and magic and puppet shows, . Casa Bonita was featured in an episode of the cartoon series South Park, and is now owned by the creators of South Park. As a result, its popularity has skyrocketed, and reservations are required months in advance.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0706836,
+          39.7417809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "691",
+        "name": "Colorado Railroad Museum",
+        "street": "",
+        "country": "",
+        "website": "",
+        "description": "See how railroading gets done in the mountains. Most of the trains still work. Featuring historical locomotives from the Pikes Peak Railway, Galloping Goose, and various historical mountain trains. There's also a nice model train in the basement that runs on quarters.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1932096,
+          39.7718657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "692",
+        "name": "Eldorado Canyon State Park",
+        "street": "321 Eldorado Springs Dr, Boulder, CO 80303",
+        "country": "USA",
+        "website": "https://cpw.state.co.us/placestogo/parks/EldoradoCanyon",
+        "description": "That's right - it's another gorgeous canyon full of beautiful hiking in Colorado. There's rock climbing, river rapids, the ruins of a hotel, and 11 miles of trails. Hike to the top of the canyon at the Rattlesnake Gulch Trail (featuring actual Rattlesnakes), or take in the views from afar at the Walker Ranch Loop Trail.  On the weekends you will need a reservation - it gets busy, and the parking lot is small - so plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.294451,
+          39.9307429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "693",
+        "name": "Colorado Railroad Railroad Museum",
+        "street": "680 10th St, Greeley, CO 80631",
+        "country": "USA",
+        "website": "http://www.cmrm.org/",
+        "description": "It's a 5500sqft HO layout that takes the HO scale trains an hour to complete. There's multiple train cars inside the building if that's enough not enough for you.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6884163,
+          40.4221748
+        ]
+      }
     }
   ]
 }
