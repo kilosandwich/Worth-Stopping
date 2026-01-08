@@ -13433,7 +13433,7 @@
         "street": "2201 S A St, Perris, CA 92570",
         "country": "USA",
         "website": "https://socalrailway.org/",
-        "description": "Almost all of LA's streetcars have ended up at this museum. See 28 types of streetcars and a couple of trains.",
+        "description": "Almost all of LA's streetcars from its once extensive mass transit system have ended up at this museum. See 28 types of streetcars and a couple of trains.",
         "worth stopping": true,
         "museum": true
       },
@@ -13442,6 +13442,167 @@
         "coordinates": [
           -117.2317254,
           33.7600957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "673",
+        "name": "Kings Canyons National Park",
+        "street": "83918 CA-180, Grant Grove Village, CA 93633",
+        "country": "USA",
+        "website": "https://www.nps.gov/seki/index.htm",
+        "description": "Kings Canyon is a valley full of the world's largest trees, waterfalls, roaring rivers, and scenic mountainside. You can see most of what you want to see from the scenic drive - however there are good hikes at Zumwalt Meadow loop, Roaring River Falls, and Mist Falls. This park is busy - it's right next to Sequoia National Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5845402,
+          36.7960853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "674",
+        "name": "Devils Postpile National Monument",
+        "street": "Devils Postpile, Mammoth Lakes, CA 93546",
+        "country": "USA",
+        "website": "http://www.nps.gov/depo/",
+        "description": "The cliff of hexagonal columns look almost deliberately constructed - but they're just volcanic basaltic formations. If Hexagons aren't enough to excite you, there's also the 101ft Rainbow Falls, a scenic road loop, and hiking everywhere you could want.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0846857,
+          37.6301523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "675",
+        "name": "Hot Creek Geologic Site",
+        "street": "Hot Creek Hatchery Rd, Mammoth Lakes, CA 93546",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r05/inyo/recreation/hot-creek-geologic-site",
+        "description": "Inside of Inyo National Forest, Hot Creek literally boils, and so do the nearby geysers, springs, and fumaroles. You cannot go inside the water - you can see everything from the viewpoints along the road anyway.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8278545,
+          37.6606348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "676",
+        "name": "Hearst Castle",
+        "street": "750 Hearst Castle Rd, San Simeon, CA 93452",
+        "country": "USA",
+        "website": "https://hearstcastle.org/",
+        "description": "William Randolph Hearst was a media tycoon within his time and used his influence to try and influence national politics - something that I'm sure has never happened since. He also built this incredibly lavish mansion stuffed full of antiquities. This mansion is literally built out of pieces of historical architecture shipped in from Europe.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1681883,
+          35.6853921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "677",
+        "name": "Redwood National and State Parks",
+        "street": "Newton B. Drury Scenic Pkwy, Orick, CA 95555",
+        "country": "USA",
+        "website": "https://www.nps.gov/redw/index.htm",
+        "description": "The Federal Government and California have teamed up to the protect the temperate rainforest of the California Redwood - the tallest trees in the world. There's lakes, rivers, and coastline to hike through, popular hikes include: Fern Canyon  - a canyon covered in greenery (you need a reservation), Tall Trees Grove (permit required), Jedidiah Smith Trail, and Lady Bird Johnson Trail.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0232186,
+          41.3637513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "678",
+        "name": "Burney Falls",
+        "street": "24898 CA-89, Burney, CA 96013",
+        "country": "USA",
+        "website": "https://www.parks.ca.gov/?page_id=455",
+        "description": "Burney Falls emerges from a creek and springs and descends a bowl shaped 129ft drop as a series of streams. The trails here at McArthur–Burney Falls Memorial State Park loop to the bottom of the falls and up into the hills.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6505082,
+          41.0129485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "679",
+        "name": "Lassen Volcanic National Park",
+        "street": "21820 Lassen Peak Hwy, Mineral, CA 96063",
+        "country": "USA",
+        "website": "https://www.nps.gov/lavo/index.htm",
+        "description": "Every type of volcano is found here at the southernmost volcanos in the United States. Featuring plug dome volcanoes, shield volcanoes, cinder cone volcanoes, stratovolcanoes, lava beds, boiling mud pots, fumaroles, hotsprings, thermal vents, and waterfalls. Locations you have to see include the bubbling Bumpass Hell, the steaming Sulphur Works, and the lavabeds and painted dunes of Cinder Cone. There's a lot of hiking to do, but there's a lot accessible from the roadway.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.533983,
+          40.4376787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "680",
+        "name": "Palm Springs Aerial Tramway",
+        "street": "1 Tramway Rd, Palm Springs, CA 92262",
+        "country": "USA",
+        "website": "https://pstramway.com/",
+        "description": "The Palm Springs Aerial Tramway is the only realistic way for non-experienced climbers to reach the 10,834ft views of Mount San Jacinto State Park. The tramway is a sight in itself, it travels 2.5 miles up a jagged rocky canyon to a luxury villa at the top. Once you get up there, there's some scenic hikes.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6386097,
+          33.8131009
         ]
       }
     }
