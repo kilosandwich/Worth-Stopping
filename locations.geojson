@@ -12670,7 +12670,7 @@
         "street": "1808 County Road 7950, Nageezi, NM 87037",
         "country": "USA",
         "website": "https://www.nps.gov/chcu/index.htm",
-        "description": "Chaco Canyon is full of pre-cooloumbian Chacoan ruins, including the massive Pueblo Bonito - the site of a Chacoan city. There's a lot of hiking through scenic desert to do, including through narrow canyons. However, the biggest and best stuff is by the side of the road so you won't have to go very far.",
+        "description": "Chaco Canyon is full of pre-coloumbian Chacoan ruins, including the massive Pueblo Bonito - the site of a Chacoan city. There's a lot of hiking through scenic desert to do, including through narrow canyons. However, the biggest and best stuff is by the side of the road so you won't have to go very far.",
         "worth stopping": true,
         "park": true,
         "museum": true
@@ -13100,6 +13100,67 @@
         "coordinates": [
           -111.705173,
           40.4439385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "656",
+        "name": "Black Canyon of the Gunnison National Park",
+        "street": "10346 CO-347, Montrose, CO 81401",
+        "country": "USA",
+        "website": "https://www.nps.gov/blca/index.htm",
+        "description": "This 2722ft deep canyon has near vertical walls along its entire narrow length.  The canyon is so narrow and deep that it is constantly in shadow. There are visitor stations and scenic roads along both sides so you can see everything. The guard rails are only waist-high, so don't be stupid.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7180008,
+          38.5810961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "657",
+        "name": "Mesa Verde National Park",
+        "street": "34840 US-160, Mancos, CO 81328",
+        "country": "USA",
+        "website": "https://www.nps.gov/meve/index.htm",
+        "description": "Mesa Verde preserves 600 pre-coloumbian cliff dwellings and 5000 archaelogical sites. You can see dwelling after dwelling in stop after stop as you follow the roads atop the mesa. You can hike down into the canyons and up to some of the cliff housings when rangers are present.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4737688,
+          37.1669006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "658",
+        "name": "Rocky Mountain National Park",
+        "street": "1000 US-36, Estes Park, CO 80517",
+        "country": "USA",
+        "website": "https://www.nps.gov/romo/index.htm",
+        "description": "12,000ft tall mountains, lakes, glaciers, and waterfalls. Because this is America, you can drive across the mountains via Trail Ridge Road and Old Fall River Road. Or you can hike if you like exercise - remember you are at a high altitude so it's harder than it seems.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.75504,
+          40.4411526
         ]
       }
     }
