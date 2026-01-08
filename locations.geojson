@@ -6388,8 +6388,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.8282727,
-          44.4604136
+          -110.4917887,
+          44.7345959
         ]
       }
     },
@@ -13161,6 +13161,287 @@
         "coordinates": [
           -105.75504,
           40.4411526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "659",
+        "name": "Grand Teton National Park",
+        "street": "1 Teton Park Rd, Moose, WY 83012",
+        "country": "USA",
+        "website": "https://www.nps.gov/grte/index.htm",
+        "description": "It's really big and pretty snowy mountains (13,775ft) next to lakes. There's some lakes you can drive next to, but to actually experience the mountains, waterfalls, and canyons you need to go hiking - and the trails are steep.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7198208,
+          43.6538077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "660",
+        "name": "Pinnacles National Park",
+        "street": "5000 CA-146, Paicines, CA 95043",
+        "country": "USA",
+        "website": "https://www.nps.gov/pinn/index.htm",
+        "description": "Eroded volcanic pinnacles from an exinct volcano and canyons are yours to explore through hiking and climbing.  The park is divided into the popular east side, and the remote hiking oriented west side. Popular hikes include Bear Gulch Reservoir for the canyons, and High Peaks for the pinnacles.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1983581,
+          36.4857994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "661",
+        "name": "Yosemite National Park",
+        "street": "9035 Village Dr, Yosemite Valley, CA 95389",
+        "country": "USA",
+        "website": "https://www.nps.gov/yose/index.htm",
+        "description": "a 3500ft glacial valley with sheer cliffs, 2500ft waterfalls, and 250ft Giant Sequoia. There are too many beautiful parts of this park to list. It's really pretty, really busy, and you can hike all of it. Plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5354356,
+          37.7438668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "662",
+        "name": "Joshua Tree National Park",
+        "street": "6533 Freedom Wy, Twentynine Palms, CA 92277",
+        "country": "USA",
+        "website": "https://www.nps.gov/jotr/index.htm",
+        "description": "This park is full of mountains, wind shaped rocks, and a forest of the wacky desert plant that is the Joshua Tree. It's the desert, so don't attempt any big hikes in the summer. Popular hikes include the crowded Skull Rock and Jumbo Rocks; and the less busy Wonderland of Rocks, Arch Rock, Hidden Valley, and Keyes View. There's abandoned gold mines if you are up for longer treks - and",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1683771,
+          34.0126877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "663",
+        "name": "La Brea Tar Pits and Museum",
+        "street": "5801 Wilshire Blvd, Los Angeles, CA 90036",
+        "country": "USA",
+        "website": "https://tarpits.org/",
+        "description": "There's just lakes of oil in the middle of Los Angeles where prehistoric creatures died. Now you can see their bones!",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3563899,
+          34.0633516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "664",
+        "name": "Academy Museum of Motion Pictures",
+        "street": "LACMA West, 6067 Wilshire Blvd, Los Angeles, CA 90036",
+        "country": "USA",
+        "website": "https://www.academymuseum.org/",
+        "description": "All the costumes and props from your favorite movies tend to end up here. You can also watch movies here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3608594,
+          34.0634394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "665",
+        "name": "Petersen Automotive Museum",
+        "street": "6060 Wilshire Blvd, Los Angeles, CA 90036",
+        "country": "USA",
+        "website": "https://petersen.org/",
+        "description": "It's a car museum, but only the really expensive cars -like Saddam Hussein's mercedes.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.361351,
+          34.062194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "666",
+        "name": "California Science Center",
+        "street": "700 Exposition Park Dr, Los Angeles, CA 90037",
+        "country": "USA",
+        "website": "http://www.californiasciencecenter.org/",
+        "description": "The Space Shuttle Endeavour lives here in full-stack launch position with the booster and fuel tank. There's also some space capsules, space probe replicas, and a few airplanes. To top it off there is a giant animatronic in the middle of a vivisection that talks to you.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2851744,
+          34.0158695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "667",
+        "name": "The Getty Center",
+        "street": "1200 Getty Center Dr, Los Angeles, CA 90049",
+        "country": "USA",
+        "website": "https://www.getty.edu/",
+        "description": "The richest art institution in the world would like you to see how much art they own - for free. It's 120,000 pieces of art spread across six buildings in the complex.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.474244,
+          34.0768708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "668",
+        "name": "American Military Museum",
+        "street": "1918 Rosemead Blvd, South El Monte, CA 91733",
+        "country": "USA",
+        "website": "https://tankland.com/v2/",
+        "description": "180+ Military Vehicles packed together next to a crowdless junkyard in the dry California heat. If you ever just wanted to stare at the equivalent of a used-car lot full of military vehicles in an eerily empty environment - this is the place. Including LVT-4 landing vehicles, and a Vietnam river boat.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0637297,
+          34.0502148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "669",
+        "name": "Sequoia National Park",
+        "street": "47050 Generals Hwy, Three Rivers, CA 93271",
+        "country": "USA",
+        "website": "https://www.nps.gov/seki/index.htm",
+        "description": "America has the biggest and most beautiful trees. Giant Sequoias can grow up to 250ft tall with 20ft diameter trunks - that's larger than most European houses. The trees are so big you can and do literally drive through a tree on the park roads.   Oh the park is also in a stunningly beautiful canyon - make sure to check out the Moro Rock Trail. There's hiking, rock climbing, and a road if you just want to drive through.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7515407,
+          36.5816248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "670",
+        "name": "USS Iowa Museum",
+        "street": "250 S Harbor Blvd, San Pedro, CA 90731",
+        "country": "250 S Harbor Blvd, San Pedro, CA 90731",
+        "website": "http://www.pacificbattleship.com/",
+        "description": "It's the lead ship of the largest class of battleships the United States has ever built. The USS Iowa served in WW2, Korea, and during the Cold War. Now you can wander around this massive ship in sunny LA.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2773611,
+          33.7419152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "671",
+        "name": "SS Lane Victory",
+        "street": "Berth 52, 2400 Miner St, San Pedro, CA 90731",
+        "country": "USA",
+        "website": "https://lanevictory.org/",
+        "description": "Another one of the few afloat survivors of the 1940s merchant marine. SS Lane Victory was a mass produced Victory-ship. The ship  served in WW2, Korea, and Vietnam moving military supplies and civilians. Now the ship's cargo holds are a museum you can roam about in.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2746782,
+          33.7210366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "672",
+        "name": "Southern California Railway Museum",
+        "street": "2201 S A St, Perris, CA 92570",
+        "country": "USA",
+        "website": "https://socalrailway.org/",
+        "description": "Almost all of LA's streetcars have ended up at this museum. See 28 types of streetcars and a couple of trains.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2317254,
+          33.7600957
         ]
       }
     }
