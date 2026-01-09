@@ -636,22 +636,18 @@ async function randomLocation(geojsonFilePath ="locations.geojson", map){
   coordinates = locGeometry.coordinates;
   console.log("We need to go to the random location's coordinates of:");
   console.log(coordinates);
-  if (await openPopupById(rndUID)){
-    //theoretically, the map will already pan to the popup when it is
-    //opened, so we just need to pan down
-    await centerMapOnCoordinates(coordinates, 17);
-    map.once('moveend', () => {
-      map.panBy([0, -100]); // consistent offset after all movement ends
-    });
-    
-  }else{
-    //the popup did not open, so center the map where is should be
-    await centerMapOnCoordinates(coordinates, 17);
-  };
-  
-  
-  
 
+  const moveDone = waitForMoveEnd(map);
+  await centerMapOnCoordinates(coordinates, 17);
+  await moveDone;
+  console.log("Panning!");
+  map.panBy([0, -100]);
+  console.log("Opening popup");
+  openPopupById(rndUID);
+}
+
+function waitForMoveEnd(map) {
+  return new Promise(resolve => map.once("moveend", resolve));
 }
 
 async function openPopupById(uid){
