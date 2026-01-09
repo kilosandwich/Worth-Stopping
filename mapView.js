@@ -51,14 +51,14 @@ async function getPictures(searchTerm, numImages,maxWidth = 600){
             '&iiprop=url'+
             '&iiurlwidth=' + maxWidth;
         //I checked, the url constructed is accurate. 
-        console.log("The url we constructed was: "+url)
+        //console.log("The url we constructed was: "+url)
         // Fetch from Wikimedia
-        console.log("Awaiting response from wikimedia");
+       // console.log("Awaiting response from wikimedia");
         var response = await fetch(url);
         var data = await response.json();
-        console.log("Here is the data we got back from wikimedia:");
+        //console.log("Here is the data we got back from wikimedia:");
         //looks like this bit is working, we are successfully getting the data from wikimedia
-        console.log(data);
+        //console.log(data);
         // Safety check: make sure we have results
         if (!data.query || !data.query.pages) {
             console.log("No results found, sorry boss we fucked something up");
@@ -66,7 +66,7 @@ async function getPictures(searchTerm, numImages,maxWidth = 600){
         }
 
         //This is the section where the data has been returned, and we return an array of images
-        console.log("We are now trying to construct HTML to dislay within the popup");
+        //console.log("We are now trying to construct HTML to dislay within the popup");
         //iterate through the images from the data.query.pages
         const urls = [];  // this will be the array we return
         if (data.query?.pages) {
@@ -77,8 +77,8 @@ async function getPictures(searchTerm, numImages,maxWidth = 600){
             }
         }
         //Checked it, this works. The array of URLs is successfully constructed
-        console.log("Here is our constructed array of image urls:");
-        console.log(urls)
+        //console.log("Here is our constructed array of image urls:");
+        //console.log(urls)
         //congrats, we successfully got as many images as possible to request, now we put them
         //into an easy to use array for other functions to use.
         return urls;
@@ -96,8 +96,8 @@ async function getPictures(searchTerm, numImages,maxWidth = 600){
 async function buildPopupImages(searchTerm, numImages) {
     urls = [];
     urls = await getPictures(searchTerm, numImages, 600);
-    console.log("We ran getPictures using the search term "+ searchTerm+ " and the number of images " + numImages + " here is the url array returned:");
-    console.log(urls)
+    //console.log("We ran getPictures using the search term "+ searchTerm+ " and the number of images " + numImages + " here is the url array returned:");
+    //console.log(urls)
     // Guard if empty array
     if (!Array.isArray(urls) || urls.length === 0) {
         return "<div>No images found.</div>";
@@ -475,8 +475,8 @@ function openDirections(streetAddress="", name =""){
 
 //This function centers the map to the given zoom level at the given coordinates
 //this is usually meant to be used by the 'zoom in' button included in popups. 
-function centerMapOnCoordinates(coordinates, zoomLevel =17){
-  console.log("Here is the coordinate object passed to us");
+async function centerMapOnCoordinates(coordinates, zoomLevel =17){
+  console.log("Center map on coordinates: Here is the coordinate object passed to us");
   console.log(coordinates);
 
     // Normalize string input
@@ -497,7 +497,7 @@ function centerMapOnCoordinates(coordinates, zoomLevel =17){
 
   map.setView([lat, lng], zoomLevel, {
     animate: true
-  });
+  })
 }
 //this locates the user and puts their location on a map. 
 function locateUser({
@@ -623,7 +623,7 @@ async function getGeometryFromUID(uid, geojsonFilePath = "locations.geojson") {
 
 //this function generates a random int between 1 and the maximum UID, then 
 //uses that number to center the map on the location with that UID
-async function randomLocation(geojsonFilePath ="locations.geojson"){
+async function randomLocation(geojsonFilePath ="locations.geojson", map){
   console.log("Let's try to go to a random location!");
   maxUID = Number( await getMaxUID(geojsonFilePath));
   console.log("The random number we want to generate can only be this big");
@@ -631,13 +631,49 @@ async function randomLocation(geojsonFilePath ="locations.geojson"){
   minUID = 1;
   rndUID = Math.floor(Math.random() * (maxUID - minUID + 1)) + minUID;
   console.log("The random location we want to go to has the UID:");
-  console.log(maxUID);
+  console.log(rndUID);
   locGeometry = await getGeometryFromUID(rndUID, geojsonFilePath);
   coordinates = locGeometry.coordinates;
-  centerMapOnCoordinates(coordinates, 17);
+  console.log("We need to go to the random location's coordinates of:");
+  console.log(coordinates);
+  if (await openPopupById(rndUID)){
+    //theoretically, the map will already pan to the popup when it is
+    //opened, so we just need to pan down
+    await centerMapOnCoordinates(coordinates, 17);
+    map.once('moveend', () => {
+      map.panBy([0, -100]); // consistent offset after all movement ends
+    });
+    
+  }else{
+    //the popup did not open, so center the map where is should be
+    await centerMapOnCoordinates(coordinates, 17);
+  };
+  
+  
+  
 
 }
 
+async function openPopupById(uid){
+  const target = String(uid);
+
+  let found = null;
+
+  map.eachLayer(layer => {
+    const layerUid = layer?.feature?.properties?.uid;
+    if (layerUid != null && String(layerUid) === target) {
+      found = layer;
+    }
+  });
+
+  if (!found){
+    console.log("Popup could not be opened");
+    return false;
+  } 
+
+  found.openPopup();
+  return true;
+}
 //This hides every current overlay and puts it into a new hidden layer on the map
 //this hidden layer will be accessed later when the map is repopulated.
 function hideAllOverlays(map) {

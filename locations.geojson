@@ -7162,7 +7162,9 @@
         "street": "11149 US-16 B-12, Custer, SD 57730",
         "country": "USA",
         "website": "https://www.nps.gov/jeca/index.htm",
-        "description": "Calcite crystals line the walls of this 220 mile breathing cave in the Black Hills of South Dakota. You need a reservation to visit this busy cave, so try to book months in advance online."
+        "description": "Calcite crystals line the walls of this 220 mile breathing cave in the Black Hills of South Dakota. You need a reservation to visit this busy cave, so try to book months in advance online.",
+        "worth stopping": true,
+        "cave": true
       },
       "geometry": {
         "type": "Point",
@@ -14023,6 +14025,26 @@
         "coordinates": [
           -109.3071689,
           40.4381373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "702",
+        "name": "National Museum of Military Vehicles",
+        "street": "6419 US-26, Dubois, WY 82513",
+        "country": "USA",
+        "website": "https://nmmv.org/",
+        "description": "This is THE land military vehicle museum. 500+ military vehicles hoarded by Dan Starks are now the centerpiece of this 160,000 sqft attraction. There's also a vault full of guns.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4962496,
+          43.4734283
         ]
       }
     }
