@@ -13850,7 +13850,7 @@
       "type": "Feature",
       "properties": {
         "uid": "693",
-        "name": "Colorado Railroad Railroad Museum",
+        "name": "Colorado Model Railroad Museum",
         "street": "680 10th St, Greeley, CO 80631",
         "country": "USA",
         "website": "http://www.cmrm.org/",
@@ -14045,6 +14045,226 @@
         "coordinates": [
           -109.4962496,
           43.4734283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "703",
+        "name": "Buffalo Bill Dam",
+        "street": "4808 N Fork Hwy, Cody, WY 82414",
+        "country": "USA",
+        "website": "http://www.bbdvc.com/",
+        "description": "The Buffalo Bill dam opened as the highest dam in the world in 1910 at 325ft. The dam spans the near vertical Shoshone Canyon, there's a visitor center, and a trail along Hayden Arch Road that follows the base of the canyon all the way up to the dam. The canyon is really pretty.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.1832691,
+          44.5017197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "704",
+        "name": "Buffalo Bill State Park",
+        "street": "4192 N Fork Hwy, Cody, WY 82414",
+        "country": "USA",
+        "website": "https://wyoparks.wyo.gov/index.php/places-to-go/buffalo-bill",
+        "description": "This reservoir used to be the 350ft deep Shoshone Canyon, and the cliffs rise high above on either side reminding you of what lies below.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2443839,
+          44.5029892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "705",
+        "name": "Buffalo Bill Center of the West",
+        "street": "720 Sheridan Ave, Cody, WY 82414",
+        "country": "USA",
+        "website": "https://centerofthewest.org/?utm_source=google&utm_medium=organic&utm_content=main_button&utm_campaign=gmb",
+        "description": "The Buffalo Bill Center of the west is a museum of everything Old West - guns, Native Americans, wildlife, and Buffalo Bill Cody himself. The museum is actually 5 museums: The Buffalo Bill Museum - about legendary entertainer Buffalo Bill Cody, The Plains Indian Museum - about the tribes of the Great Plains, the Whitney Western Art Museum - displaying artwork of the American West, the Draper Natural History Museum - about the wildlife of the west, and the Cody Firearms Museum - about the really really cool guns of the Old West.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0735808,
+          44.5247241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "706",
+        "name": "Sinks Canyon State Park",
+        "street": "3018 Sinks Canyon Rd, Lander, WY 82520",
+        "country": "USA",
+        "website": "https://wyoparks.wyo.gov/index.php/places-to-go/sinks-canyon",
+        "description": "The Popo Agie River disappears into the endless void of a cave, then reemerges in a trout pond a short walk away. There's also some really awesome waterfalls and rapids in a scenic rocky canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8097214,
+          42.7478201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "707",
+        "name": "Boysen State Park",
+        "street": "120 Boysen Dr, Shoshoni, WY 82649",
+        "country": "USA",
+        "website": "https://wyoparks.wyo.gov/index.php/places-to-go/boysen",
+        "description": "The green plains transition to hills of smooth red rock, to narrow jagged white cliffs, to dark grey mountains in this canyon on the Wind River, and you can hike and drive through all of it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1798149,
+          43.4174236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "708",
+        "name": "Hot Springs State Park",
+        "street": "168 Tepee St, Thermopolis, WY 82443",
+        "country": "USA",
+        "website": "https://wyoparks.wyo.gov/index.php/places-to-go/hot-springs",
+        "description": "Walk on bridges and walkways over the bubbling steaming hot springs of Hot Springs State Park. The bathhouse lets you actually bathe in the waters of one.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1964962,
+          43.6544535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "709",
+        "name": "Medicine Lodge Archaeological Site",
+        "street": "4800 Co Rd 52, Hyattville, WY 82428",
+        "country": "USA",
+        "website": "https://wyoparks.wyo.gov/index.php/places-to-go/medicine-lodge",
+        "description": "10,000 year old petroglyphs line the red cliff walls in this green canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5409231,
+          44.2981875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "710",
+        "name": "Shell Falls",
+        "street": "US-14, Shell, WY 82441",
+        "country": "USA",
+        "website": "http://www.fs.usda.gov/recarea/bighorn/recarea/?recid=30868",
+        "description": "120ft waterfalls pour through a narrow slot canyon while a limestone promontory looms to the North. Part of Bighorn National Forest, feel free to check out the other scenic stops along the Bighorn Scenic Byway.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6148372,
+          44.5867371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "711",
+        "name": "Bighorn Canyon National Recreation Area",
+        "street": "20 Highway 14A East, Lovell, WY 82431",
+        "country": "USA",
+        "website": "http://www.nps.gov/bica/",
+        "description": "Hike down the massive Bighorn Canyon, peer over the ledges from the road along the rim, and zoom through the lake. It's another massive canyon in the American West, and this one has Bighorn Sheep.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.253485,
+          45.0218576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "712",
+        "name": "Flaming Gorge National Recreation Area",
+        "street": "Flaming Gorge Dam, 5995, Dutch John, UT 84023",
+        "country": "USA",
+        "website": "http://www.fs.usda.gov/main/ashley/",
+        "description": "The red sandstone cliffs of Flaming Gorge make it appear as if the hills are aflame. The river and lake are available for camping, boating, fishing, and white water rafting.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4223611,
+          40.914137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "713",
+        "name": "Medicine Bow–Routt National Forest",
+        "street": "Mirror Lake Picnic Area, Saratoga, WY 82331",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r02/mbrtb",
+        "description": "The beauty of the Rocky Mountains continues with even more hiking, snowcapped mountains, reflective lakes, and waterfalls. Think of this as the companion park for Rocky Mountain National Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3229399,
+          41.338034
         ]
       }
     }
