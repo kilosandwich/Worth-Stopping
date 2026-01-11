@@ -14588,6 +14588,86 @@
           42.6631812
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "730",
+        "name": "Pictograph Cave State Park",
+        "street": "3401 Coburn Rd, Billings, MT 59101",
+        "country": "USA",
+        "website": "http://stateparks.mt.gov/pictograph-cave/",
+        "description": "Hike up to to an alcove in scenic sandstone cliffs to see ancient caves full of 2,000 year old Native American pictographs.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4309437,
+          45.7373516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "731",
+        "name": "Lewis and Clark Caverns State Park",
+        "street": "25 Lewis & Clark Caverns Road, Whitehall, MT 59759",
+        "country": "USA",
+        "website": "https://fwp.mt.gov/stateparks/lewis-and-clark-caverns/",
+        "description": "Tour one of the largest caves in the Northwest. There's also some scenic hiking trails surrounding the cave itself since it is set in the mountains.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8675333,
+          45.8387898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "732",
+        "name": "World Museum of Mining",
+        "street": "155 Museum Way, Butte, MT 59701",
+        "country": "USA",
+        "website": "http://www.miningmuseum.org/",
+        "description": "This is THE mining museum. Featuring a replica 1890s mine town with 50 buildings, the actual Orphan Girl Mine Yard, and a tour of the silver mines below the surface.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.564968,
+          46.0091725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "733",
+        "name": "Sluice Boxes State Park",
+        "street": "38 Evans Riceville Rd, Belt, MT 59412",
+        "country": "USA",
+        "website": "http://stateparks.mt.gov/sluice-boxes/",
+        "description": "Hike along the rim and canyon and see the alcove shaved 'sluice box' caves. This park features roaring rapids, abandoned mining houses, and trails through all the levels of the canyon - you'll never have a bad view.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9450387,
+          47.1991638
+        ]
+      }
     }
   ]
 }
