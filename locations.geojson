@@ -14267,6 +14267,327 @@
           41.338034
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "714",
+        "name": "Hells Gate State Park",
+        "street": "5100 Hells Gate Rd, Lewiston, ID 83501",
+        "country": "USA",
+        "website": "https://parksandrecreation.idaho.gov/state-park/hells-gate-state-park/",
+        "description": "Warped columnar basalt forms the cliffs of the Snake River - meaning the cliffs and ground is all inhuman looking Hexagons. There's trails along the base of the cliff and you can boat up and down the river.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0567517,
+          46.3681465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "715",
+        "name": "Silverwood Theme Park",
+        "street": "27843 US-95, Athol, ID 83801",
+        "country": "USA",
+        "website": "https://www.silverwoodthemepark.com/",
+        "description": "The best amusement park in the Pacific Northwest is in Idaho. Featuring rollercoaster that dive underground and twist through the sky, and cowboys that will rob you on the train.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.709704,
+          47.9060013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "716",
+        "name": "Land of the Yankee Fork State Park",
+        "street": "24424 ID-75, Challis, ID 83226",
+        "country": "USA",
+        "website": "https://parksandrecreation.idaho.gov/parks/land-yankee-fork/",
+        "description": "That's right it's three gold mining ghost towns in the beautiful valleys of Idaho. Including Bayhorse, Bonanza, and Custer. There's also an abandoned gold dredge, and hot springs. Most of what you want to see will be found along Bayhorse Creek Road, Yankee Fork Road, and Hot Springs Road.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7225787,
+          44.3775625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "717",
+        "name": "Bruneau Sand Dunes State Park",
+        "street": "Bruneau Sand Dunes Visitors Center, Bruneau, ID 83604",
+        "country": "USA",
+        "website": "https://parksandrecreation.idaho.gov/parks/bruneau-dunes/",
+        "description": "This out of place sand dune is the remains from the ancient Bonneville Flood. It's also the site of the largest single structure sand dune in the USA at 470ft high. There's also a pleasant lake to fish at, sandboard rentals, and an observatory to stare at the stars.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6960567,
+          42.8985266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "718",
+        "name": "Experimental Breeder Reactor I",
+        "street": "GX6V+J9, Arco, ID 83213",
+        "country": "USA",
+        "website": "https://inl.gov/ebr/",
+        "description": "Tour an experimental 1950s nuclear power plant. EBR-1 was the first nuclear power plant to produce electricity instead of fuel for nuclear bombs. It was the world's first breeder reactor, and is now available for tour during the summer at Idaho National Labs.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0057164,
+          43.5116874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "719",
+        "name": "Craters of the Moon National Monument and Preserve",
+        "street": "1266 Craters Loop Road, Arco, ID 83213",
+        "country": "USA",
+        "website": "https://www.nps.gov/crmo/index.htm",
+        "description": "The black lava fields, cinder cones, and lava tubes create an exotic landscape like the craters of the moon. Hike up a dead volcano, explore caves where lava once flowed, and camp under the stars of the remote Idaho wilderness.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5576981,
+          43.4417289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "720",
+        "name": "Shoshone Ice Caves",
+        "street": "1561 ID-75, Shoshone, ID 83352",
+        "country": "USA",
+        "website": "http://www.shoshoneicecaves.com/",
+        "description": "These lava tubes are so cold that there's ice in them year round. There are guided tours over rickety walkways. Make sure to check out the volcanic rocks of nearby Black Magic Canyon of Big Wood River if you are already out this way.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3409971,
+          43.1664537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "721",
+        "name": "Minidoka National Historic Site",
+        "street": "1428 Hunt Rd, Jerome, ID 83338",
+        "country": "USA",
+        "website": "https://www.nps.gov/miin/index.htm",
+        "description": "During WWII the United States built concentration camps and put every American of Japanese descent into them. 13,000 Americans were imprisoned at Minidoka, and the remains of the camp are still preserved.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2433103,
+          42.6788111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "722",
+        "name": "Museum of Clean",
+        "street": "711 S 2nd Ave, Pocatello, ID 83201",
+        "country": "USA",
+        "website": "https://museumofclean.com/",
+        "description": "See the history of the development of cleaning chemicals and machinery. See cleaning equipment you never imagined existed, as well as folk art made of cleaning equipment. Featuring the world's first vacuum cleaner from 1860, the trash compactor from the space shuttle, and the world's largest janitor statue. The gift shop is full of cleaning supplies.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4415955,
+          42.8593444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "723",
+        "name": "City of Rocks National Reserve",
+        "street": "3035 S Highway 77 Spur, E City of Rocks Loop Rd, Almo, ID 83312",
+        "country": "USA",
+        "website": "https://www.nps.gov/ciro/index.htm",
+        "description": "The rocks here jut out of the flat landscapes into steeples and spires. You can hike up and through many of the rocks here. There's also rock climbing if you have a permit.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.714101,
+          42.0731615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "724",
+        "name": "Castle Rocks State Park",
+        "street": "748 E Castle Rock Rd, Almo, ID 83312",
+        "country": "USA",
+        "website": "https://parksandrecreation.idaho.gov/state-park/castle-rocks-state-park/",
+        "description": "The scenic granite rocks here have nearly no roads to see them - but there are plenty of hiking trails and rock climbing opportunities. This is the companion park to the nearby City of Rocks National Monument and Preserve.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6685663,
+          42.1256077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "725",
+        "name": "Shoshone Falls Park",
+        "street": "4155 Shoshone Falls Grade Rd, Twin Falls, ID 83301",
+        "country": "USA",
+        "website": "http://www.tfid.org/index.aspx?NID=309",
+        "description": "Shoshone Falls is 212ft tall and 900ft wide - taller than Niagara Falls. This waterfall is notably set in the 500ft deep Snake River Canyon. However, this waterfall is best seen in the spring, as the rest of the year the river is diverted for irrigation.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4015949,
+          42.5937141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "726",
+        "name": "Twin Falls Visitor Center",
+        "street": "2015 Neilsen Point Pl, Twin Falls, ID 83301",
+        "country": "USA",
+        "website": "https://www.twinfallschamber.com/visit/",
+        "description": "The Twin Falls Visitor Center overlooks Snake River Canyon and the massive arch bridge that spans it. It also provides access to the canyon rim trail which contains even more overlooks into the stunning canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4556763,
+          42.5983308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "727",
+        "name": "Centennial Waterfront Park",
+        "street": "Centennial Waterfront Park, Canyon Springs Rd, Twin Falls, ID 83301",
+        "country": "USA",
+        "website": "https://twinfallscounty.org/parks_w/parks/centennial-waterfront-park/",
+        "description": "See Snake River Canyon and the Perrine Memorial Bridge from the bottom of the Snake River. You can rent kayaks and canoes here as well, and there's even more hiking to do.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4699901,
+          42.6012251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "728",
+        "name": "Auger Falls Heritage Park",
+        "street": "1535 Cyn Spgs Rd, Twin Falls, ID 83301",
+        "country": "USA",
+        "website": "https://www.tfid.org/Facilities/Facility/Details/Auger-Falls-Heritage-Park-8",
+        "description": "Waterfalls pour off the tops of the cliffs of Snake River canyon into the green wildlife below. You can hike up to the base of some of the waterfalls including Auger falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5136147,
+          42.6211292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "729",
+        "name": "Thousand Springs State Park",
+        "street": "2136 Niagara Springs Rd, Wendell, ID 83355",
+        "country": "USA",
+        "website": "https://idfg.idaho.gov/visit/hatchery/niagara-springs",
+        "description": "Spring fed waterfalls pour into the Snake River in Idaho's equivalent of the Grand Canyon. Thousand Springs State Park spans the Snake River canyon, covering the numerous waterfall springs that pour as waterfalls down the sides of the cliff. These include Niagara Springs, Box Canyon Springs, Ritter Island, and Malad Gorge. The units of the park are around 20 minutes apart each, but you can easily reach all of them.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6717156,
+          42.6631812
+        ]
+      }
     }
   ]
 }
