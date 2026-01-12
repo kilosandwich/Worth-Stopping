@@ -465,7 +465,9 @@ file.-->
   //remember, the country is a tag.
   let selectedTags = await getSelectedTags();
   const countryTag = await getCountryInput();
-  selectedTags.push(countryTag); //add the country tag
+  if (countryTag){
+    selectedTags.push(countryTag); //add the country tag only if value is not null
+  }
   console.log('Applying filters with tags:', selectedTags);
   // 2. Get the current value from the name search box
   const nameInput = document.getElementById('search-name');

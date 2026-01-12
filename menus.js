@@ -306,14 +306,24 @@ async function countryToCountryCode(countryString ="", codejson = "countrycodes.
 async function getCountryInput(){
   // step 1: get the input from the country box
   const inputEl = document.getElementById("search-country");
-  if (!inputEl) return null;
+  if (!inputEl){
+    console.log("ERROR: country input element nonexistent")
+     return null;
+
+  }
 
   const countryInput = inputEl.value.trim();
-  if (countryInput === "") return null;
+  if (countryInput === ""){
+    console.log("ERROR: there was no country input");
+    return null;
+  } 
 
   // step 2: convert country input to country code
   const countryCode = await countryToCountryCode(countryInput);
-  if (!countryCode) return null;
+  if (!countryCode){
+    console.log("ERROR: There was no country code, sorry");
+    return null;
+  } 
 
   // step 3: convert to tag string format
   const tag = `country:${countryCode}`;
