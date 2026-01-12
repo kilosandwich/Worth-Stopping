@@ -127,10 +127,11 @@ function featureMatchesTag(props, tag) {
     // Case 1: tag is like "state:michigan"
     //first we need to split the tag into its components
     if (tag.includes(':')) {
+      console.log("tag includes :");
         //split the tag into its key and value
         const [rawKey, rawValue] = tag.split(':');
         const key = rawKey.trim();
-        const expected = toString(rawValue.trim()).toLowerCase();
+        const expected = String(rawValue.trim()).toLowerCase();
 
         //check if the key is even within the properties. 
         const actual = props[key];

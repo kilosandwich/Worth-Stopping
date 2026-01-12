@@ -164,13 +164,24 @@ file.-->
   >
   <!-- This is where JS will inject <option> elements -->
   <datalist id="name-suggestions"></datalist>
+  <h4>Search by Country</h4>
+  <input
+    type="text"
+    id="search-country"
+    list="country-suggestions"
+    placeholder="Type a country"
+  >
+  <!-- This is where JS will inject <option> elements -->
+  <datalist id="country-suggestions"></datalist>
 
 </div>
+  <!--
   <div class="search-section">
     <h4>Add Custom Tag</h4>
     <input type="text" id="custom-tag-input" placeholder="tag or key:value">
     <button id="custom-tag-add">Add</button>
   </div>
+  -->
 
   <button id="apply-filters">Apply Filters</button>
 </div>
@@ -321,8 +332,9 @@ file.-->
     <input type="text" id="editor-street">
   </div>
 
+  <!--Consider using ISO3166 A-2 so save on a digit-->
   <div class="editor-field">
-    <label for="editor-country">Country</label>
+    <label for="editor-country">Country (Use ISO 3166-1 A-3)</label>
     <input type="text" id="editor-country">
   </div>
    <!--
@@ -450,7 +462,10 @@ file.-->
 ==============================================*/
   document.getElementById('apply-filters').addEventListener('click', async () => {
   // 1. Collect selected tag values from the checkboxes
-  const selectedTags = await getSelectedTags();
+  //remember, the country is a tag.
+  let selectedTags = await getSelectedTags();
+  const countryTag = await getCountryInput();
+  selectedTags.push(countryTag); //add the country tag
   console.log('Applying filters with tags:', selectedTags);
   // 2. Get the current value from the name search box
   const nameInput = document.getElementById('search-name');
@@ -477,6 +492,14 @@ if (searchInput) {
   searchInput.addEventListener('focus', () => {
     const app = window.appGlobals || {};
     buildNameAutocompleteList(geojsonFilePath);
+  });
+}
+const countrySearchInput = document.getElementById('search-country');
+
+if (countrySearchInput) {
+  countrySearchInput.addEventListener('focus', () => {
+    const app = window.appGlobals || {};
+    buildCountryAutocompleteList("countrycodes.json");
   });
 }
 

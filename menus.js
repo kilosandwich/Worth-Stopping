@@ -235,6 +235,98 @@ async function buildNameAutocompleteList(geojsonFilePath) {
     console.error('Error building name autocomplete from GeoJSON:', err);
   }
 }
+
+async function buildCountryAutocompleteList(codejson = "countrycodes.json") {
+  try {
+    const response = await fetch(codejson);
+    if (!response.ok) {
+      throw new Error("Failed to load country codes");
+    }
+
+    const countryCodes = await response.json();
+    const datalist = document.getElementById("country-suggestions");
+
+    if (!datalist) {
+      console.warn("Datalist element not found");
+      return;
+    }
+
+    // Clear existing options (if any)
+    datalist.innerHTML = "";
+
+    // Add countries as <option> elements
+    Object.keys(countryCodes)
+      .sort()
+      .forEach(country => {
+        const option = document.createElement("option");
+        option.value = country;
+        datalist.appendChild(option);
+      });
+
+  } catch (error) {
+    console.error("buildCountryAutocompleteList error:", error);
+  }
+}
+
+
+//this list will take the given string for a country and convert it into its country code.
+//for laziness sake I am going to hardcode the paths for these
+async function countryToCountryCode(countryString ="", codejson = "countrycodes.json"){
+  //case: no country to search for? search for everything
+  if (!countryString || typeof countryString !== "string") {
+    return "";
+  }
+
+  try {
+    const response = await fetch(codejson);
+    if (!response.ok) {
+      throw new Error("Failed to load country codes");
+    }
+
+    const countryCodes = await response.json();
+
+    // normalize input
+    const normalizedInput = countryString.trim().toLowerCase();
+
+    // find matching country (case-insensitive)
+    for (const [country, code] of Object.entries(countryCodes)) {
+      if (country.toLowerCase() === normalizedInput) {
+        return code;
+      }
+    }
+
+    // no match found
+    return "";
+  } catch (error) {
+    console.error("countryToCountryCode error:", error);
+    return "";
+  }
+}
+
+async function getCountryInput(){
+  // step 1: get the input from the country box
+  const inputEl = document.getElementById("search-country");
+  if (!inputEl) return null;
+
+  const countryInput = inputEl.value.trim();
+  if (countryInput === "") return null;
+
+  // step 2: convert country input to country code
+  const countryCode = await countryToCountryCode(countryInput);
+  if (!countryCode) return null;
+
+  // step 3: convert to tag string format
+  const tag = `country:${countryCode}`;
+
+
+  // return this tag
+  console.log("Country code retrieved:");
+  console.log(tag);
+  return tag;
+}
+
+//you will also need a function that converts the country code into a tag and adds it to the tag array
+
 //END SEARCH BUTTON SECTION////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 

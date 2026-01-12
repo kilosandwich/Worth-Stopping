@@ -14687,6 +14687,86 @@
           36.6181232
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "735",
+        "name": "L Anse aux Meadows",
+        "street": "436 L'Anse aux Meadows Road, Newfoundland and Labrador A0K 2X0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/lhn-nhs/nl/meadows",
+        "description": "The Norse crossed the Atlantic and arrived in America in ~1000AD - 500 years before Columbus. L'Anse Meadows is the site of where they built a settlement - which has been partially reconstructed.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5331597,
+          51.5963107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "736",
+        "name": "Norstead (Newfoundland)",
+        "street": "263 L'Anse Meadows, Saint Lunaire-Griquet, NL A0K 2X0, Canada",
+        "country": "CAN",
+        "website": "http://www.norstead.ca/",
+        "description": "Were the historians boring you at L'Anse aux Meadows? Let the actors at the Norstead living history village entertain you instead - they have an actual full-scale Viking ship replica. You are already at the tip of Newfoundland, it's not like you can go anywhere else.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5237878,
+          51.6022081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "737",
+        "name": "Gros Morne National Park",
+        "street": "1 Eastlink Road, Rocky Harbour, NL A8A 3L2, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/nl/grosmorne",
+        "description": "The Fjords and mountains of Gros Morne tower over the landscape of Newfoundland. Despite being on the edge of the world, there's still dedicated hiking trails so you can enjoy all the mountains, waterfalls, and lakes. This isn't the United States - you cannot see everything by driving - you will have to hike. Fun fact: this is technically part of the Appalachian mountains.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.874356,
+          49.57232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "738",
+        "name": "Terra Nova National Park",
+        "street": "Terra Nova National Park, Trans - Canada Hwy, Glovertown, NL A0C 1H0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/nl/terranova/activ/cen-cen",
+        "description": "The rocky coastline of Terra Nova National Park is covered in mountains with soaring views of lakes and ocean from the top. There's lots of hiking to do - it's pretty much the Newfoundland equivalent of Acadia National Park in the United States.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9500882,
+          48.5793221
+        ]
+      }
     }
   ]
 }
