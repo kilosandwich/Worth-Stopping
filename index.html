@@ -60,9 +60,8 @@ file.-->
 <!--==============================================-->
 
 <!-- this is the navigation bar,
- on the left is a search button
- in the middle is the name of the website, next to the website icon or whatever
- on the right is the menu button
+ on the left is the buttons that do stuff
+ on the right is the menu button that features information
 
  For functionality sake, this section of the website is meant to be as barebones as possible
  too many buttons confuse users, they should be focused on clicking buttons on the map. 
@@ -404,6 +403,7 @@ file.-->
         //permanently updates the filehandler so it is universally accessible elsewhere without having to be imported. This is smart. 
         locationsFileHandle = handle;
 
+        //update the file handle inside the textbox so we know we picked it
         document.getElementById('current-handle-name').textContent =
           handle?.name || 'none';
 

@@ -252,6 +252,8 @@ function populateMapMarkers(
 
         const upperMode = String(selectANDOR || "AND").toUpperCase();
 
+        /////////////////////////////////////////////////////////////////////
+        //FILTER PRECOMPUTATION
         // ----- TAG FILTER PRECOMPUTE -----
         let hasTagFilter = Array.isArray(tagArray) && tagArray.length > 0;
         let validTags = [];
@@ -280,15 +282,46 @@ function populateMapMarkers(
         if (nameTerms.length === 0) {
             hasNameFilter = false;
         }
-        }
+        //Note to self: this is where the state/province filter is going to go. 
+        //check to see if such a filter exists
 
-        markersLayer = L.geoJSON(geojsonData, {
+        }
+        //END FILTER PRECOMPUTATION
+        //////////////////////////////////////////////////////////////////////
+
+        //note to future self: the way this is defined the markers layer is defined
+        //and the information within it parsed at the same time
+        //this means all the points on the geojson are loaded at once
+        //IF INSTEAD you were to have it such that the markers layer was created FIRST
+        //THEN populated with markers as you iterated it then you could buy time when waiting
+        //for the website to load as you add an increasing number of data points.
+
+        //This is because you use the geojson to layer command, and within it precalculate
+        //which of the geojson data to include
+        //Restructuring advice:
+        ////1.) Define the layer first
+        console.log("Let's define the layer we wish to add everything to and add it to the map!");
+        const markersLayer = L.layerGroup().addTo(map);
+        console.log("Layer added");
+        ////2.) Add the layer to the map
+
+        ////3.) Begin parsing through the geoJson, FILTER AND ADD POPUPS TO THE LAYER AT THE SAME TIME
+
+        //////Potential issues: if the user attempts to populate a map twice with the given markers, the wipe of the layer
+        //////SHOULD remove the layer that an inprogress version of populatemapmarkers is running on - thus preventing duplication.
+
+        
+        L.geoJSON(geojsonData, {
         filter: feature => {
             const props = feature.properties;
             if (!props) return false;
+            ////////////////////////////////////////////////////////////////////////////
+            //BEGIN THE FILTER ZONE////////////////////////////////////////////////////
+            
 
             // ----------------- TAG FILTER (per feature) -----------------
             let tagPass = true; //initialize variable
+            //no point checking for tags if no tags are present. 
             if (hasTagFilter) {
             if (upperMode === "AND") {
                 // ALL tags must match
@@ -300,7 +333,9 @@ function populateMapMarkers(
             }
 
             // ----------------- NAME FILTER (per feature) -----------------
+            //OK, we need to check to make sure the name is there. 
             let namePass = true;
+            //no point running the check if we don't actually need to. 
             if (hasNameFilter) {
             if (upperMode === "AND") {
                 // ALL name terms must match (partial match)
@@ -310,8 +345,20 @@ function populateMapMarkers(
                 namePass = nameTerms.some(term => featureMatchesName(props, term));
             }
             }
+            //this is where the state/province filter goes
+            //first check the precomputer
+            //after the precompute, you will need to define a function that takes the
+            //country
+            //street
+            //from the given feature, converts the street addresses state/province code into the relevant province for that country
+            //then compare if the given street address province code is accurate
 
-            // ----------------- COMBINE TAG + NAME FILTERS -----------------
+            // ----------------- CASE: No Name Filter, No Tag Filter -----------------
+            //Note to self: if you wish to include more tag filters do so here. 
+            //Theoretically, country is just a tag, so you merely have to add country to the tag array
+            //I recommend creating a json file with every country to search for then autopopulate the search bar. 
+            //This won't work at the state level though since state information is contained within the street address. 
+
             // If neither tag nor name filter is active, include everything.
             if (!hasTagFilter && !hasNameFilter) {
             return true;
@@ -329,20 +376,30 @@ function populateMapMarkers(
             const nameRelevant = hasNameFilter ? namePass : false;
             overallPass = tagRelevant || nameRelevant;
             }
-
-            return overallPass;
+            ///END THE FILTER ZONE
+            ///////////////////////////////////////////////////////////////////
+            return overallPass; //if true, include, if false, do not include.
         },
 
+        //////////////////////////////////////////////////////////////////////
+        //START THE MARKER ZONE - This is where your map markers are populated
+        //m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m
 
         // Marker creation
+        //If you wish to change the marker do so here. Including to a locally cached one perhaps?
+        //I mean, you are currently loading the image from the leaflet database - which I guess technically takes no time
+        //also, in the future if you wish to create a variable input that switches this out for a custom icon, do so here.
         pointToLayer: (feature, latlng) => L.marker(latlng,{icon: smallMarkerIcon}),
 
         // Popup handling, remember this can be bound to anything within the layer
         //it doesn't have to be a marker
+        //This is where your markers are actually handled
+
         onEachFeature: (feature, layer) => {
           //we can make this section run faster if we fetch the name once instead of every time from an array.
           const name = feature.properties?.name || "";
           const description = feature.properties?.description || "";
+          //This is the initial popup - it is meant to be minimal to save populating time. 
           layer.bindPopup(
             `<b>${name || 'Unnamed'}</b><br>` +
             `${ description || ''}<br>` +
@@ -350,6 +407,7 @@ function populateMapMarkers(
             { autoPan: false, keepInView: false }
           );
 
+          //create the tooltip (the little name that pops up when you hover over it.)
           layer.bindTooltip(name, {
             direction: "top",
             offset: [0, -10],
@@ -358,70 +416,88 @@ function populateMapMarkers(
             className: "map-hover-tooltip"
           });
 
-
+          //when the popup is open, run a function elsewhere to populate it with more advanced information.
           layer.on("popupopen", async (e) => {
-            const term = name || "";
-            const imageHtml = await buildPopupImages(term, numImages);
-            const uid = feature.properties?.uid || "No uid found";
-            const website = feature.properties?.website || "";
-            const streetAddress = feature.properties?.street|| "";
-            const coordinates = feature.geometry?.coordinates;
-            console.log("The uid for this popup is:");
-            console.log(uid);
-            //define the original HTML
-            //in this section you will want to create an edit button which 
-            //is bound to the 'uid' found in the properties of the geoJSON feature feature so that it can dynamicallly edit the popup by
-            //rewriting the geoJSON file.
-            // Define the original HTML with an inline edit button
-            const originalHtml =
-              `<div class="popup-title-row">
-                <b class="popup-title">${name || 'Unnamed'}</b>
-                <hr>
-                <button
-                  class="popup-google-pictures-btn"
-                  title="Google Images"
-                  onclick="openGoogleImagesSearch('${name}')">
-                  📸
-                </button>
-                <button
-                  class="popup-website-btn"
-                  title="Location Website: ${website}"
-                  onclick="openWebAddress('${website}','${name}')">
-                  🌐
-                </button>
-                <button
-                  class="popup-directionse-btn"
-                  title="Driving Directions"
-                  onclick="openDirections('${streetAddress}','${name}')">
-                  🗺️
-                </button>
-                <button
-                  class="popup-zoom-btn"
-                  title="Zoom to Destination"
-                  onclick="centerMapOnCoordinates('${coordinates}')">
-                  🎯
-                </button>
-                <button
-                  class="popup-edit-btn"
-                  title="Edit location"
-                  onclick="editor('${uid}')">
-                  ✏️
-                </button>
-                <hr>
-              </div>
-              ${description|| ''}<br>
-              
-              <hr>
-              `;
+            //This is really screaming at me to be converted into a function elsewhere
+            //I KNOW it is TECHNICALLY more efficient to build it into the code, but readability is nice. 
+            //Convert features into local variables so you don't expend the effort of fetching them in multiple uses (slow).
+            markerPopUp(feature,e); //haha look at me I made it a function elsewhere
 
-            e.popup.setContent(originalHtml + imageHtml) ;
           });
         }
 
-      }).addTo(map);  // <- markers are inside this GeoJSON layer
+      }).addTo(markersLayer);  // <- markers are inside this GeoJSON layer
+      //Note to future self, because the markers are being added to the LAYER then the LAYER added to the map, the markers all appear at once
+      //only when the layer is finished loading - this might not be ideal for scalability
+      //consider making it so that the markers are loaded one by one...no idea how? create the layer first on the map then update it? Sounds about right. 
+
+      //m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m
+      //END THE MARKER ZONE
+      //////////////////////////////////////////////////////////////////
       return markersLayer;
     })
     .catch(err => console.error("Error loading GeoJSON:", err));
+}
+
+//Function that populates a given map marker with the features of that marker
+async function markerPopUp(feature, popup){
+  const term = feature.properties?.name || "";
+  const name = feature.properties?.name || "";
+  //note to self, you hardcoded numimages as 4 here
+  const imageHtml = await buildPopupImages(term, 4);
+  const uid = feature.properties?.uid || "No uid found";
+  const website = feature.properties?.website || "";
+  const streetAddress = feature.properties?.street|| "";
+  const coordinates = feature.geometry?.coordinates;
+  const description = feature.properties?.description;
+  console.log("The uid for this popup is:");
+  console.log(uid);
+
+  // This is the html before it will be altered later with the images when they load (IF they load)
+  const originalHtml =
+    `<div class="popup-title-row">
+      <b class="popup-title">${name || 'Unnamed'}</b>
+      <hr>
+      <button
+        class="popup-google-pictures-btn"
+        title="Google Images"
+        onclick="openGoogleImagesSearch('${name}')">
+        📸
+      </button>
+      <button
+        class="popup-website-btn"
+        title="Location Website: ${website}"
+        onclick="openWebAddress('${website}','${name}')">
+        🌐
+      </button>
+      <button
+        class="popup-directionse-btn"
+        title="Driving Directions"
+        onclick="openDirections('${streetAddress}','${name}')">
+        🗺️
+      </button>
+      <button
+        class="popup-zoom-btn"
+        title="Zoom to Destination"
+        onclick="centerMapOnCoordinates('${coordinates}')">
+        🎯
+      </button>
+      <button
+        class="popup-edit-btn"
+        title="Edit location"
+        onclick="editor('${uid}')">
+        ✏️
+      </button>
+      <hr>
+    </div>
+    ${description|| ''}<br>
+    
+    <hr>
+    `;
+  
+  //shove the popup full of the imageHtml content
+  //Thought: I could load the image html only once it loads? Make it an await sort of thing?
+  popup.popup.setContent(originalHtml + imageHtml) ;
 }
 
 //Takes a string then opens google images to the search page.
@@ -647,6 +723,8 @@ async function randomLocation(geojsonFilePath ="locations.geojson", map){
 }
 
 function waitForMoveEnd(map) {
+  //The map kept bouncing around, and the pan movement didn't include its own promise
+  //for when it completed. Solution: make your own promise
   return new Promise(resolve => map.once("moveend", resolve));
 }
 
@@ -681,7 +759,7 @@ function hideAllOverlays(map) {
     // Keep base tiles; hide everything else that is currently on the map
     if (!(layer instanceof L.TileLayer)) {
       map._hiddenOverlays.add(layer);//put overlays on a hidden array for the map, we will access this later. 
-      map.removeLayer(layer);
+      map.removeLayer(layer); //remove ALL other layers
     }
   });
 }

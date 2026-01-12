@@ -6559,7 +6559,7 @@
         "uid": "329",
         "name": "Grand Canyon National Park",
         "street": "8 S Entrance Rd, Grand Canyon Village, AZ 86023",
-        "country": "United Staes",
+        "country": "USA",
         "website": "https://www.nps.gov/grca/index.htm",
         "description": "This is THE Canyon. 277 miles of mile deep canyon, and you start at the top looking down. Even if there is snow at the top, the bottom is still a scorching desert. If you plan to hike it, it is way harder to go down than it is to go back up, and NO you can't drive to the bottom despite this being America.",
         "worth stopping": true,
@@ -7682,7 +7682,7 @@
         "uid": "385",
         "name": "Museum of the American Revolution",
         "street": "101 S 3rd St, Philadelphia, PA 19106",
-        "country": "United Staets",
+        "country": "USA",
         "website": "https://www.amrevmuseum.org/",
         "description": "USA! USA! USA! Ok, the chant didn't exist yet because the 13-Colonies hadn't signed the constitution - but come see the greatest collection of American Revolution artifacts and paintings in the same city where independence was declared",
         "worth stopping": true,
@@ -14666,6 +14666,25 @@
         "coordinates": [
           -110.9450387,
           47.1991638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "734",
+        "name": "Monterey Bay Aquarium",
+        "street": "886 Cannery Row, Monterey, CA 93940",
+        "country": "USA",
+        "website": "https://www.montereybayaquarium.org/",
+        "description": "This former cannery is now home to a world class aquarium with unique tanks, including: an actual kelp forest, the sardine roundabout, hammerhead sharks and sunfish, and a rare deep sea exhibit with creatures only found at extreme depths - including a touch pool for GIANT DEEP SEA ISOPODS.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9021485,
+          36.6181232
         ]
       }
     }
