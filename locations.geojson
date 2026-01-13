@@ -14792,11 +14792,11 @@
       "type": "Feature",
       "properties": {
         "uid": "740",
-        "name": "Canada Aviation and Space",
+        "name": "Canada Aviation and Space Museum",
         "street": "11 Aviation Pkwy, Ottawa, ON K1K 2X5, Canada",
         "country": "CAN",
         "website": "https://ingenium.ca/aviation/en/",
-        "description": "Canadian aerospace has followed its own unique course with its own aircraft manufacturers such as Avro Canada, Canadair, de Havilland Canada, . The museum features a replica of Canada's first powered aircraft - the Silver Dart, the Avro Arrow (well, the front of it), Avro Canuck, Canadair Dynavert,Northop Delta,  Fulton Airphibian flying car, and various war prizes and fighting aircraft from WW1 and WW2.",
+        "description": "Canadian aerospace has followed its own unique course with its own aircraft manufacturers such as Avro Canada, Canadair, and de Havilland Canada, . The museum features a replica of Canada's first powered aircraft - the Silver Dart, the Avro Arrow (well, the front of it), Avro Canuck, Canadair Dynavert,Northop Delta,  Fulton Airphibian flying car, and various war prizes and fighting aircraft from WW1 and WW2.",
         "worth stopping": true,
         "museum": true
       },
@@ -14816,7 +14816,7 @@
         "street": "1867 St. Laurent Blvd, Ottawa, ON K1G 5A3, Canada",
         "country": "CAN",
         "website": "https://ingeniumcanada.org/scitech",
-        "description": "Canada has maintained a technological edge in some fields and shows it off at this museum, including: hydrofoils, hydropower, nuclear reactors, building snow resistant railway trains (including a rare streamlined steam locomotive), snowmobiles, sleds, snowshoes, sleighs . If you are wondering what Ingenium is, it's the Crown Corporation equivalent of the Smithsonian.",
+        "description": "Canada has maintained a technological edge in some fields and shows it off at this museum, including: hydrofoils, hydropower, nuclear reactors, building snow resistant railway trains (including a rare streamlined steam locomotive), snowmobiles, sleds, snowshoes, and sleighs. If you are wondering what Ingenium is, it's the Crown Corporation equivalent of the Smithsonian.",
         "worth stopping": true,
         "museum": true
       },
@@ -14865,6 +14865,145 @@
         "coordinates": [
           -75.7211303,
           45.4197759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "744",
+        "name": "Canadas Wonderland",
+        "street": "Vaughan, ON L6A 1S6, Canada",
+        "country": "CAN",
+        "website": "https://www.canadaswonderland.com/",
+        "description": "Canada's wonderland is the most visited seasonal amusement park in North America -it's busy because it's the best amusement park in the country. The 18 rollercoasters at this park surround a massive artificial mountain with a waterfall.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5427823,
+          43.8421686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "745",
+        "name": "Royal Ontario Museum",
+        "street": "100 Queens Park, Toronto, ON M5S 2C6, Canada",
+        "country": "CAN",
+        "website": "https://www.rom.on.ca/",
+        "description": "This is the Canadian equivalent of the Smithsonian - but somehow better. Dinosaurs, overseas definitely not stolen artifacts, and a reconstruction of a building from the Beijing Imperial Palace.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39492,
+          43.6676272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "746",
+        "name": "Little Canada (Attraction)",
+        "street": "10 Dundas St E, Toronto, ON M5B 2G9, Canada",
+        "country": "CAN",
+        "website": "https://little-canada.ca/",
+        "description": "Canada is the second largest country on Earth by area, what if it was much much smaller? Little Canada is Canada but represented in scale model format, including: Toronto, Ottawa, Niagara, Quebec,  the west coast (Vancouver), the east coast, and the North,",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3803899,
+          43.6569445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "747",
+        "name": "Canadian Tank Museum",
+        "street": "1000 Stevenson Rd N, Oshawa, ON L1J 5P5, Canada",
+        "country": "CAN",
+        "website": "https://www.tankmuseum.ca/",
+        "description": "This is THE Canadian tank museum - it's 140 Canadian military vehicles from WW2 to the modern era - and they drive them to show them off.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8956673,
+          43.9167678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "748",
+        "name": "Queen Victoria Park",
+        "street": "6345 Niagara River Pkwy, Niagara Falls, ON L2E 6X8, Canada",
+        "country": "CAN",
+        "website": "https://www.niagaraparks.com/visit/nature-garden/queen-victoria-park/",
+        "description": "Queen Victoria Park contains a trail along Niagara Gorge that gives the best views of Niagara Falls - the biggest waterfall by flowrate in North America. The entirety of the Great Lakes empties through the massive 164ft drop at 168,000 cubic meters per minute into the gorge below. Queen Victoria Park offers better views, but Niagara Falls State Park lets you get closer to the waterfalls and rapids.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0760397,
+          43.0861013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "749",
+        "name": "HMCS Ojibwa",
+        "street": "3 Pitt St, Port Burwell, ON N0J 1T0, Canada",
+        "country": "CAN",
+        "website": "http://www.hmcsojibwa.ca/",
+        "description": "Tour a British submarine nowhere near the ocean, Britain, or any major city! The Cold War era Oberon-class submarine HMCS Ojibwa was built in the United Kingdom then transferred to Canadian service - and now you can tour it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8077978,
+          42.6467137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "750",
+        "name": "HMCS Haida",
+        "street": "658 Catharine St N Pier 9, Hamilton, ON L8L 4V7, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/lhn-nhs/on/haida",
+        "description": "The WW2 era Tribal-class destroyer HMCS Haida was built in Britain for the Canadian navy and saw service in WW2 and the Korean War. Now it sits on the edge of a massive steel refinery available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8550404,
+          43.275099
         ]
       }
     }
