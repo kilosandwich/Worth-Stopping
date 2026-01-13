@@ -14767,6 +14767,106 @@
           48.5793221
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "739",
+        "name": "Diefenbunker",
+        "street": "3929 Carp Rd, Ottawa, ON K0A 1L0, Canada",
+        "country": "CAN",
+        "website": "https://diefenbunker.ca/",
+        "description": "The Diefenbunker is a 1961 continuity of government nuclear fallout shelter intended for the Canadian government.  This bunker is 75ft underground and is designed to withstand a direct hit from a nuke. This is one of the few continuity of government bunkers available for tour anywhere in the world - I mean what kind of person would want to declare war on Canada?",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0479917,
+          45.3514996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "740",
+        "name": "Canada Aviation and Space",
+        "street": "11 Aviation Pkwy, Ottawa, ON K1K 2X5, Canada",
+        "country": "CAN",
+        "website": "https://ingenium.ca/aviation/en/",
+        "description": "Canadian aerospace has followed its own unique course with its own aircraft manufacturers such as Avro Canada, Canadair, de Havilland Canada, . The museum features a replica of Canada's first powered aircraft - the Silver Dart, the Avro Arrow (well, the front of it), Avro Canuck, Canadair Dynavert,Northop Delta,  Fulton Airphibian flying car, and various war prizes and fighting aircraft from WW1 and WW2.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6435313,
+          45.4590035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "741",
+        "name": "Canada Science and Technology Museum",
+        "street": "1867 St. Laurent Blvd, Ottawa, ON K1G 5A3, Canada",
+        "country": "CAN",
+        "website": "https://ingeniumcanada.org/scitech",
+        "description": "Canada has maintained a technological edge in some fields and shows it off at this museum, including: hydrofoils, hydropower, nuclear reactors, building snow resistant railway trains (including a rare streamlined steam locomotive), snowmobiles, sleds, snowshoes, sleighs . If you are wondering what Ingenium is, it's the Crown Corporation equivalent of the Smithsonian.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6194311,
+          45.4036976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "742",
+        "name": "Canadian War Museum",
+        "street": "1 Vimy Pl, Ottawa, ON K1A 0M8, Canada",
+        "country": "CAN",
+        "website": "https://www.warmuseum.ca/",
+        "description": "War forged the Canadian identity from colony into country - notably defending the country against invasion in the War of 1812 and fighting as a unified Confederation during WW1. This museum follows Canadian warfare, from the First Nations to Afghanistan. The museum includes life sized trench dioramas, a re-creation of the Homefront during the world wars, and various tanks and artillery used by Canada as well as by Canada's allies and enemies. This means an eclectic mix British, German, American, and Soviet vehicles from WW1 to the end of the Cold War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7169704,
+          45.4170657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "743",
+        "name": "Chaudière Falls",
+        "street": "Chaudiere Falls Viewing Area Ottawa, ON K1R 6K8, Canada",
+        "country": "CAN",
+        "website": "Ottawa, ON K1R 6K8, Canada",
+        "description": "There's a 50ft waterfall encapsulated by a hydroelectric dam in the middle of downtown Ottawa. The only viewing area is accessible from walkways near the Canadian War Museum.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7211303,
+          45.4197759
+        ]
+      }
     }
   ]
 }
