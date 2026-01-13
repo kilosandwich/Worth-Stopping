@@ -15006,6 +15006,267 @@
           43.275099
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "751",
+        "name": "Bruce Peninsula National Park",
+        "street": "120 Chi sin tib dek Rd, Tobermory, ON N0H 2R0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/on/bruce?utm_source=gmb&utm_medium=bruce",
+        "description": "The cliffs of the Niagara Escarpment meet the impossibly clear blue waters of Lake Huron - one of the largest freshwater lakes in the world - at Bruce Peninsula National Park. There's hiking and shipwrecks. You cannot see most of this park from your car - you will need to get out and hike in order to see the coastline.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6566648,
+          45.2569753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "752",
+        "name": "Agawa Canyon Tour Train",
+        "street": "87 Huron St, Sault Ste. Marie, ON P6A 6W4, Canada",
+        "country": "CAN",
+        "website": "https://agawatrain.com/",
+        "description": "Agawa Canyon is a stunning waterfall filled canyon in remote Northern Ontario - only accessible by a 10 hour tour train. The tallest of the 4 major waterfalls in the canyon is 225ft tall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3499732,
+          46.5165154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "753",
+        "name": "Canadian Bushplane Heritage Centre",
+        "street": "50 Pim St, Sault Ste. Marie, ON P6A 3G4, Canada",
+        "country": "CAN",
+        "website": "http://bushplane.com/",
+        "description": "Most pilots fly sophisticated aircraft between well-paved airfields, Bush Pilots fly the equivalent of beat up used cars held together by duct tape and land them on patches of dirt. See the fastest way to get around in the Great North at the Canadian Bushplane Heritage Center.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3246462,
+          46.5049121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "754",
+        "name": "Lake Superior Provincial Park",
+        "street": "Lake Superior Provincial Park Visitors Centre, Trans-Canada Hwy, Agawa Bay, ON, Canada",
+        "country": "CAN",
+        "website": "https://www.ontarioparks.ca/park/lakesuperior",
+        "description": "There's pictographs and dramatic cliffs on the cold granite shoreline of the largest freshwater lake in the world. There's waterfalls, river valleys, cliffs, beaches, and hiking trails to see it all.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6178443,
+          47.3356565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "755",
+        "name": "Sable Island National Park Reserve",
+        "street": "Sable Island, Halifax, NS B0J 1M0, Canada",
+        "country": "CAN",
+        "website": "https://www.pc.gc.ca/sable?utm_source=gmb&utm_medium=sable",
+        "description": "You know the stories about being shipwrecked on a desert island? This is that island. Sable Island is 20 miles long of nothing but sand dunes where feral horses roam in the cold emptiness of the North Atlantic. 350+ ships have wrecked on its shores. The only way in is by air.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9108219,
+          43.9322988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "756",
+        "name": "Yukon Transportation Museum",
+        "street": "30 Electra Cres, Whitehorse, YT Y1A 0M7, Canada",
+        "country": "CAN",
+        "website": "https://goytm.ca/",
+        "description": "How the heck do you transport anything when there are no roads? The answers are: The Letorouneau Sno-Train - a massive tired land train with 10ft tall wheels; bush planes that can land on water, ice, and snow; and snowmobiles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.0794573,
+          60.7118202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "757",
+        "name": "SS Klondike",
+        "street": "10 Robert Service Way, Whitehorse, YT Y1A 1V8, Canada",
+        "country": "CAN",
+        "website": "https://www.pc.gc.ca/en/lhn-nhs/yt/ssklondike",
+        "description": "Unlike the paddle steamers on the peaceful and populated Mississippi, steamers like the SS Klondike were the only supply line in the cold emptiness of the frontier and ran cargo along the Yukon River until the construction of highways in the 1950s.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.047838,
+          60.7134386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "758",
+        "name": "Frank Slide Interpretive Center",
+        "street": "2325 153 St, Blairmore, AB T0K 0E0, Canada",
+        "country": "CAN",
+        "website": "https://frankslide.ca/",
+        "description": "Coal mining destabilized Turtle Mountain leading to the 1903 landslide which crushed the town of Frank and killed 90+ people. The mountain still looks shattered, the town is still buried, and you can walk amongst the vast field of rocks from the landslide still fills the valley.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3948313,
+          49.6001438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "759",
+        "name": "Royal Tyrrell Museum of Palaeontology",
+        "street": "1500 N Dinosaur Trail, Drumheller, AB T0J 0Y0, Canada",
+        "country": "CAN",
+        "website": "http://www.tyrrellmuseum.com/",
+        "description": "This is THE Canadian dinosaur museum. This fossil museum is set in the middle of the badlands in which the fossils were found.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7902973,
+          51.4791234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "760",
+        "name": "Dinosaur Provincial Park",
+        "street": "Dinosaur Provincial Park Visitor Centre, Iddesleigh, AB T0J 2K0, Canada",
+        "country": "CAN",
+        "website": "http://www.albertaparks.ca/dinosaur.aspx",
+        "description": "The Red Deer valley is full of scenic badlands full of fossils of dinosaurs. Dinosaur Provincial park is 62sqkm of hikeable badlands - it's basically the equivalent of Badlands National Park in the United States.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5190172,
+          50.7595774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "761",
+        "name": "Oil Sands Discovery Centre",
+        "street": "515 MacKenzie Blvd, Fort McMurray, AB T9H 4X3, Canada",
+        "country": "CAN",
+        "website": "https://oilsandsdiscovery.ca/",
+        "description": "Imagine if oil was a rock - that's the Athabasca Oil Sands and the center of the Albertan Petroleum Industry. At the Oil Sands Discovery Centre you can learn why oil is really the greatest thing ever, and see the excavation devices that turn oily rock into oil. The star is the Big Bucketwheel, which looks like an office building sized giant robot arm with a spinning blade at the end.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3465837,
+          56.6709958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "762",
+        "name": "Pukaskwa National Park",
+        "street": "Hattie Cover Visitor Centre, Thunder Bay, Unorganized, ON P0T 1R0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/on/pukaskwa",
+        "description": "In the heart of Canada's boreal forests lay rocky waterfalls and rapids spilling towards the granite shores of Lake Superior. The White River Suspension Bridge Trail will take you right over the gorge where Chigamiwinigum Falls are - but it's an all day 18km hike. This is not a 'drive through' type National Park, you need to hike - does this seem like the part of the world that has roads?",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2927674,
+          48.5927964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "763",
+        "name": "Great Lakes Museum",
+        "street": "55 Ontario St, Kingston, ON K7L 2L1, Canada",
+        "country": "CAN",
+        "website": "http://www.greatlakesmuseum.ca/",
+        "description": "The 1907 Great Lakes Passenger Liner SS Keewatin is the centerpiece of this museum on Canadian Great Lakes history - and is the largest surviving pre-WW1 passenger steamer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4833317,
+          44.225326
+        ]
+      }
     }
   ]
 }
