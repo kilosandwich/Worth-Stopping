@@ -15766,6 +15766,166 @@
           48.4259719
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "789",
+        "name": "Playland (Vancouver)",
+        "street": "2901 E Hastings St, Vancouver, BC V5K 5J1, Canada",
+        "country": "CAN",
+        "website": "https://www.pne.ca/",
+        "description": "Playland is Canada's oldest operating amusement park, operating since 1910. It's like a permanent fair - but with better rides such as the 1958 Wooden Roller Coaster.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0365955,
+          49.2822627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "790",
+        "name": "Okanagan Desert",
+        "street": "14580 146 Ave, Osoyoos, BC V0H 1V5, Canada",
+        "country": "CAN",
+        "website": "https://www.desert.org/",
+        "description": "There is a tiny desert surrounded by verdant green forests in the mountains of British Columbia. This is Canada's only semi-arid shrubland desert - the rest of the country is quite cold. The best way to see the desert is at the Nk'Mip Desert Cultural Centre and Osoyoos Desert Centre",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5197959,
+          49.0539145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "791",
+        "name": "Banff Springs Hotel",
+        "street": "405 Spray Ave, Banff, AB T1L 1J4, Canada",
+        "country": "CAN",
+        "website": "https://www.fairmont.com/en/hotels/banff/fairmont-banff-springs.html?goto=fiche_hotel&code_hotel=A550&merchantid=seo-maps-CA-A550&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTIzNjEzODctNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+        "description": "The Banff Springs Hotel is a historic grand railway hotel perched on a hill overlooking Bow Falls, Tunnel Mountain, Mount Rundle, and a scenic valley between them.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5623034,
+          51.1642798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "792",
+        "name": "Banff National Park",
+        "street": "201 Village Rd, Lake Louise, AB T0L 1E0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/ab/banff",
+        "description": "Glaciers roll off the scenic rocky mountains into incredibly blue lakes, canyons, waterfalls, and rapids. Johnston Canyon, Lake Louise, and Lake Morraine are all fantastic stops with great hikes that show off the beauty of the Canadian Rockies. The park gets crowded - even during off season. Fortunately you can take in most of the beauty of the mountains along the road.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2181393,
+          51.4161633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "793",
+        "name": "Jasper National Park",
+        "street": "500 Connaught Dr, Jasper, AB T0E 0A8, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/ab/jasper",
+        "description": "Even more glaciers, even more Rocky Mountains, even more waterfalls, and even more glacial lakes. Unlike Banff, Jasper is truly remote in the mountains - it's the only major city for 100+ miles. You can hike on glaciers and all throughout the park - but be careful, help is far far away.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0806896,
+          52.8773304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "794",
+        "name": "Yoho National Park",
+        "street": "5764 Trans - Canada Hwy, Field, BC V0A 1L0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/bc/yoho",
+        "description": "Yoho National Park is centered around the western slope of the continental divide. The main road into the park is closed during the winter, but when it is open you can see the wonders of glaciers, 991ft waterfalls, a lake that has emerald green water, and fast river rapids. This place gets just as busy as Banff during the summer, so plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5054473,
+          51.5314795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "795",
+        "name": "Waterton Lakes National Park",
+        "street": "404 Cameron Falls Dr, Waterton Park, AB T0K 0C3, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/ab/waterton/",
+        "description": "The Rockies of Canada never stop being beautiful. What makes this National Park unique though is its clear view of the plains, the rainbow streams and frighteningly red rocks of Red Rock Canyon, red mountains, and the large lake framing all of it. Get in some hiking - this is one of the less popular of the Canadian Rocky parks.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9087843,
+          49.0511754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "796",
+        "name": "Reynolds Museum",
+        "street": "6426 40 Ave, Wetaskiwin, AB T9A 1W8, Canada",
+        "country": "CAN",
+        "website": "https://reynoldsmuseum.ca/",
+        "description": "Successful used-vehicle salesman Stan Reynolds hoarded machinery and vehicles and created the Reynolds Museum. The museum includes staggeringly large power shovels, 350+ agricultural machines, 530+ cars,  135+ aircraft, and 450+ industrial artifacts. There's so many artifacts they don't even all fit in the museum - you need to take a warehouse tour in July and August to see them.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4209705,
+          52.9632691
+        ]
+      }
     }
   ]
 }
