@@ -15606,6 +15606,106 @@
           50.2230805
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "781",
+        "name": "Grasslands National Park",
+        "street": "101 Centre St, Val Marie, SK S0N 2T0, Canada",
+        "country": "CAN",
+        "website": "https://www.pc.gc.ca/grasslands?utm_source=gmb&utm_medium=grasslands_west",
+        "description": "You'd think a name like Grasslands National Park would imply that this park is all flat grasslands - nope- it's all badlands. Stand on top of 70 mile Butte and see for yourself.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6657822,
+          49.2040766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "782",
+        "name": "Western Development Museum Saskatoon",
+        "street": "2610 Lorne Ave, Saskatoon, SK S7J 0S6, Canada",
+        "country": "CAN",
+        "website": "https://wdm.ca/saskatoon/",
+        "description": "The building's outside may look demure, but they fit an entire town inside of it. Complete with trains, a collection of cars, agricultural machinery, and a fun house. During Christmas time they put up an exhibit with terrifying 1940s animatronic dolls. The museum just keeps going, it is seemingly without end.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6730508,
+          52.0953537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "783",
+        "name": "Prince of Wales Fort",
+        "street": "Prince of Wales Fort, Churchill, MB R0B 0E0, Canada",
+        "country": "CAN",
+        "website": "https://pc.gc.ca/princewalesfort?utm_source=gmb&utm_medium=princewalesfort",
+        "description": "It's a fortress on the edge of the world. There was nothing around it when Prince of Wales Fort was built next to Hudson Bay in 1731, there was nothing around it when it destroyed by the French in 1782, and there remains nearly nothing around the ruins to this day. There's a tour boat from nearby Churchill that runs to it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2140062,
+          58.7971172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "784",
+        "name": "Marine Museum of Manitoba",
+        "street": "444 Eveline St, Selkirk, MB R1A 1E6, Canada",
+        "country": "CAN",
+        "website": "http://www.marinemuseum.ca/",
+        "description": "6 ships are now a museum on dry land in the middle of Manitoba. Lake Winnipeg and the Red River drain into Hudson Bay, which means despite being in the middle of the Canadian Prairie, Manitoba relied on ships as its main form of transportation.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8651653,
+          50.1465191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "785",
+        "name": "Manitoba Museum",
+        "street": "190 Rupert Ave, Winnipeg, MB R3B 0N2, Canada",
+        "country": "CAN",
+        "website": "http://www.manitobamuseum.ca/",
+        "description": "Manitoba History, from dinosaurs to the Europeans. There's a full sized replica of the sailing ship that founded the Hudson's Bay Company inside this museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1371276,
+          49.9000631
+        ]
+      }
     }
   ]
 }
