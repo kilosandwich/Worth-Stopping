@@ -15706,6 +15706,66 @@
           49.9000631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "786",
+        "name": "Silver Falls Provincial Park",
+        "street": "c/o Kakabeka Falls Provincial Park Box 252, 4853 Hwy 11/17 Kakabeka Falls, ON P0T 1W0",
+        "country": "CAN",
+        "website": "https://www.ontarioparks.ca/park/silverfalls",
+        "description": "Dog Lake spills towards Lake Superior via a series of waterfalls, including the stepped Dog Falls and the canyon-like Silver Falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.59434,
+          48.659421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "787",
+        "name": "Kakabeka Falls Provincial Park",
+        "street": "4853 ON-11 #17, Kakabeka Falls, ON P0T 1W0, Canada",
+        "country": "CAN",
+        "website": "https://www.ontarioparks.com/park/kakabekafalls",
+        "description": "This is Ontario's second biggest waterfall after Niagara Falls, at 130ft, it too plunges into a gorge - however this one isn't as commercialized.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6254033,
+          48.4025045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "788",
+        "name": "CCGS Alexander Henry",
+        "street": "2446 Marina Park, Sleeping Giant PKWY Thunder Bay, ON, Canada, Ontario P7A 0E7",
+        "country": "CAN",
+        "website": "http://tmtb.ca/",
+        "description": "During the winter, the surface of the Great Lakes freezes - the solution? Icebreakers. The CCGS Alexander Henry supplied lighthouses, provided search and rescue services, and shattered ice so navigation could continue on the inland seas.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2217463,
+          48.4259719
+        ]
+      }
     }
   ]
 }

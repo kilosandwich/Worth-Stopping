@@ -271,6 +271,9 @@ async function buildCountryAutocompleteList(codejson = "countrycodes.json") {
 
 //this list will take the given string for a country and convert it into its country code.
 //for laziness sake I am going to hardcode the paths for these
+//theoretically it is irrelevant what the countrycode json says since it will convert it directly.
+//so if I REALLY wanted to I could make the countrycode json have little flags for the name
+//
 async function countryToCountryCode(countryString ="", codejson = "countrycodes.json"){
   //case: no country to search for? search for everything
   if (!countryString || typeof countryString !== "string") {
