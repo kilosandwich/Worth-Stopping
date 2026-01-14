@@ -15267,6 +15267,345 @@
           44.225326
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "764",
+        "name": "Fortress of Louisbourg",
+        "street": "7495 Main St, Louisbourg, NS B1C 1H6, Canada",
+        "country": "CAN",
+        "website": "https://www.pc.gc.ca/louisbourg",
+        "description": "Louisbourg Fortress protected France's access to its American colonies to the Atlantic - making it the key to its defensive colonial presence in North America. The Fortress was captured by the British - twice. The Fortress has now been rebuilt and acts as a living history museum. This isn't just a fortress, it's an entire fortified town - one of the few of its kind in North America.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9864329,
+          45.8923049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "765",
+        "name": "Alexander Graham Bell National Historic Site",
+        "street": "559 Chebucto St, Baddeck, NS B0E 1B0, Canada",
+        "country": "CAN",
+        "website": "https://www.pc.gc.ca/bell",
+        "description": "Alexander Graham Bell invented the telephone - and used his monopoly on the service to fund his other scientific experiments at his mansion in Nova Scotia: hydrofoils, aircraft, and kites so large they could carry people into the sky. All of those inventions and more are right here at the Alexander Graham Bell National Historic Site.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7457925,
+          46.1034033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "766",
+        "name": "Cape Breton Highlands National Park",
+        "street": "Ingonish Beach, NS B0C 1L0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/ns/cbreton",
+        "description": "The mountains meet the sea at Cape Breton Highlands National Park. While you can hike the highlands themselves, the Cabot Trail Road follows most of the park so you can see it from your car.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5324829,
+          46.7713893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "767",
+        "name": "Site historique maritime de la Pointe-au-Père",
+        "street": "1034 Rue du Phare, Rimouski, QC G5M 1L8, Canada",
+        "country": "CAN",
+        "website": "https://www.shmp.qc.ca/",
+        "description": "It's ships and shipwrecks - French Canada style. The Cold War era Oberon-class submarine HMCS Onondaga is here on display, along with museums dedicated to the nearby 1914 sinking of the RMS Empress of Ireland where 1,012 people died, and the Pointe-au-Pere lighthouse.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4708294,
+          48.5170751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "768",
+        "name": "Musée Maritime du Québec",
+        "street": "63 Chem. des Pionniers E, L'Islet, QC G0R 2B0, Canada",
+        "country": "CAN",
+        "website": "http://mmq.qc.ca/",
+        "description": "This museum possesses the Cold-War era experimental high speed military hydrofoil HMCS Bras d'Or and the icebreaker CCGS Ernest Lapointe.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3721221,
+          47.1291337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "769",
+        "name": "Citadelle of Quebec",
+        "street": "1 Côte de la Citadelle, Québec, QC G1R 3R2, Canada",
+        "country": "CAN",
+        "website": "http://www.lacitadelle.qc.ca/",
+        "description": "The British built a massive fortress atop sheer cliffs at the mouth of the strategically important St. Lawrence River. During its operation, this was thought of as the Gibraltar of North America.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2070721,
+          46.8073677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "770",
+        "name": "Chaudière Falls (Chaudière River)",
+        "street": "3300 Rue du Parc-des-Chutes, Lévis, QC G6X 1K8, Canada",
+        "country": "CAN",
+        "website": "https://www.ville.levis.qc.ca/loisirs/installations-sportives/parcs-et-espaces-verts/",
+        "description": "Near Quebec City lays a 115ft high waterfall that pours into a gorge. You can see the waterfall best from the pedestrian suspension bridge spanning the gorge, there's also some nice trails nearby.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2823176,
+          46.7161291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "771",
+        "name": "Montreal Biodome",
+        "street": "4777 Pierre-de Coubertin Ave, Montreal, Quebec H1V 1B3, Canada",
+        "country": "CAN",
+        "website": "https://espacepourlavie.ca/biodome?utm_source=gbp&utm_medium=organic&utm_campaign=gbp_main_biodome",
+        "description": "The Montreal Biodome is a combine zoo-botanical garden where you can walk through the same habitat the zoo animals live in",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5504246,
+          45.5595704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "772",
+        "name": "Prince Edward Island National Park",
+        "street": "41 Dalvay Crescent, Dalvay by the Sea, PE C0A 1P0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/pe/pei-ipe",
+        "description": "It's soaring sand dunes with red cliffs on the beaches of Prince Edward Island. It's basically Canadian Delaware.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1936759,
+          46.4291722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "773",
+        "name": "Green Gables (Prince Edward Island)",
+        "street": "8779 PE-6, New Glasgow, PE C0A 1N0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/lhn-nhs/pe/greengables/activ/centre",
+        "description": "This is THE Green Gables from the popular book Ann of Green Gables. They also built a replica of the fictional town of Avonlea nearby. If you have no idea why people like Ann of Green Gables, it's because it was one of the few books depicting a quirky female protagonist until contemporary literature. Even if you aren't a fan, you can watch people who act like Ann of Green Gables is a cult which is entertaining in itself.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3822147,
+          46.4890044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "774",
+        "name": "Fundy National Park",
+        "street": "8642 NB-114, Alma, NB E4H 1L1, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/nb/fundy",
+        "description": "The Bay of Fundy features the most dramatic tides in the world - 49ft every day and night. If the trails covering rugged coastline and perilous tides don't impress you, the 25 waterfalls will. The highest waterfall is nearly 52ft high.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9514318,
+          45.5954732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "775",
+        "name": "Hopewell Rocks Provincial Park",
+        "street": "131 Discovery Rd, Hopewell Cape, NB E4H 4Z5, Canada",
+        "country": "CAN",
+        "website": "https://www.thehopewellrocks.ca/",
+        "description": "The 50ft tides of the Bay of Fundy have carved this sandstone into perilous sea stacks. At low tide, you can walk all the way up to the base.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5789809,
+          45.8169484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "776",
+        "name": "Canadian Museum of Immigration at Pier 21",
+        "street": "1055 Marginal Rd, Halifax, NS B3H 4P7, Canada",
+        "country": "CAN",
+        "website": "http://www.pier21.ca/",
+        "description": "If you are Canadian, there's a good chance your ancestors showed up at this immigration pier in Halifax - you can even look up your family's immigration information and take it home. See how the people of the world become Canadian, or get sent back.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5653503,
+          44.6382664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "777",
+        "name": "Maritime Museum of the Atlantic",
+        "street": "1675 Lower Water St, Halifax, NS B3J 1S3, Canada",
+        "country": "CAN",
+        "website": "https://maritimemuseum.novascotia.ca/",
+        "description": "One ship such as the ocean surveying ship CSS Acadia is usually enough to justify a maritime museum. The Maritime Museum of the Atlantic has 70+ additional small craft and is right next to the WW2 era Flower-class corvette HMCS Sackville. There's also a Titanic exhibit with artifacts.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5709677,
+          44.6475594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "778",
+        "name": "Forillon National Park",
+        "street": "1238 Boul de Forillon, Gaspé, QC G4X 6T9, Canada",
+        "country": "CAN",
+        "website": "https://parcs.canada.ca/pn-np/qc/forillon",
+        "description": "The vertical white cliffs of the Appalachians meets the Atlantic Ocean at land's end. There's waterfalls and mountains and trails to hike all of it. A lot of the park is driveable, but the best views await those who hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4132895,
+          48.8563049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "779",
+        "name": "Anticosti National Park",
+        "street": "25 Chem. des Forestiers, Port-Menier, QC G0G 2Y0, Canada",
+        "country": "CAN",
+        "website": "https://www.sepaq.com/pq/pan/",
+        "description": "The remote island of Anticosti is home to deep canyons and massive waterfalls - the only problem is the ferry only runs once a week, and the car rentals are almost always reserved. Chute Vaureal is the largest and most photographed waterfall on the island.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6967568,
+          49.5595826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "780",
+        "name": "Mingan Archipelago National Park Reserve",
+        "street": "1010 Promenade Des Anciens, Havre-Saint-Pierre, QC G0G 1P0, Canada",
+        "country": "CAN",
+        "website": "https://www.pc.gc.ca/fr/pn-np/qc/mingan",
+        "description": "The coast of the Mingan archipelago has been carved into fossil covered monoliths. You'll need to book a sea excursion to see any of it though.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6252415,
+          50.2230805
+        ]
+      }
     }
   ]
 }
