@@ -41,6 +41,11 @@ let locationsFileHandle = null; //this is the file handle, the user will fill it
 let userLocationMarker = null; //this is the user location marker
 let markersLayer = null;
 
+//These are declared globally as they will later be accessed during persist. 
+let countryTag = null;
+let selectedTags = null;
+let nameToSearchFor = null;
+
 
 </script>
 <!--Leaflets javascript is loaded from an external source,
@@ -453,6 +458,33 @@ file.-->
 <script src="menus.js"></script>
 <script src="editor.js"></script>
 <script>
+
+//auto update the selectedTags variable so you can create persistence of checkboxes. 
+//creating this variable is critical in the event that you wish to create clusters for countries
+document.addEventListener('change', function (event) {
+  if (event.target && event.target.classList.contains('tag-checkbox')) {
+    console.log("Checkbox changed");
+    selectedTags = getSelectedTags();
+
+  }
+});
+//when the search button is pushed, autopopulate the checkboxes.
+const searchButton = document.getElementById("nav-search");
+const searchPanel  = document.getElementById("search-dropdown");
+searchButton.addEventListener("click", () => {
+    // Toggle visibility
+    console.log("The search button has been clicked!")
+    const shouldShow = searchPanel.style.display !== "block";
+    searchPanel.style.display = shouldShow ? "block" : "none";
+
+    // If showing, load categories
+    if (shouldShow) {
+        console.log("I am attempting to build the checkboxes!")
+        buildCheckboxes("tags.json", selectedTags);
+    }
+});
+
+
 /*============================================
        Apply Filters Button Section
 
@@ -463,8 +495,8 @@ file.-->
   document.getElementById('apply-filters').addEventListener('click', async () => {
   // 1. Collect selected tag values from the checkboxes
   //remember, the country is a tag.
-  let selectedTags = await getSelectedTags();
-  const countryTag = await getCountryInput();
+  selectedTags = await getSelectedTags();
+  countryTag = await getCountryInput();
   if (countryTag){
     selectedTags.push(countryTag); //add the country tag only if value is not null
   }
@@ -474,6 +506,7 @@ file.-->
   const nameToSearchFor = nameInput ? nameInput.value : "";
   console.log("I have retrieved the name from search-name!:");
   console.log(nameToSearchFor);
+
   //add the populate tags function from mapview.js here. 
   populateMapMarkers(
   map,

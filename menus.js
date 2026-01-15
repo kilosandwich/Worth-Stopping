@@ -66,21 +66,14 @@ faqLink.addEventListener('click', e => {
 //SEARCH BUTTON SECTION/////////////////////////////////////////////////
 //the buildCheckboxes function references a json file which has the category 'categories' that points to the categories
 //within the json file you want to build checkboxes for the search menu. 
-const searchButton = document.getElementById("nav-search");
-const searchPanel  = document.getElementById("search-dropdown");
-searchButton.addEventListener("click", () => {
-    // Toggle visibility
-    console.log("The search button has been clicked!")
-    const shouldShow = searchPanel.style.display !== "block";
-    searchPanel.style.display = shouldShow ? "block" : "none";
 
-    // If showing, load categories
-    if (shouldShow) {
-        console.log("I am attempting to build the checkboxes!")
-        buildCheckboxes("tags.json");
-    }
-});
-async function buildCheckboxes(jsonTagsFilePath) {
+async function buildCheckboxes(jsonTagsFilePath, selectedTags) {
+  if (selectedTags instanceof Promise){
+    selectedTags= await selectedTags;
+    console.log("Selected tags passed to buildCheckboxes function");
+    console.log(selectedTags);
+  }
+
   try {
     console.log("buildCheckboxes is running!");
 
@@ -132,7 +125,6 @@ async function buildCheckboxes(jsonTagsFilePath) {
         container.appendChild(categorySection);
         return; // continues to next category in forEach
       }
-
       // For each tag inside this category, create a checkbox + label
       tagsForCategory.forEach(tagValue => {
         const normalizedTag = String(tagValue).trim();
@@ -149,6 +141,13 @@ async function buildCheckboxes(jsonTagsFilePath) {
         // e.g. "park:national", "museum:history", etc.
         checkbox.value = normalizedTag;
         checkbox.dataset.category = normalizedCategory;
+        //if selected tags has what we need, use it
+        if (selectedTags !== null){
+          if (Array.isArray(selectedTags) && selectedTags.includes(normalizedTag)){
+            console.log("Tag found in selected tags, checking checkbox");
+            checkbox.checked = true;
+          }
+        }
 
         label.appendChild(checkbox);
         label.appendChild(document.createTextNode(' ' + normalizedTag));
@@ -178,6 +177,23 @@ async function getSelectedTags() {
 
   return tags;
 }
+
+/*==Event Listener for When A Checkbox is Checked to Update Global Selected Tags Variables for Persist==*/
+
+
+
+
+
+/////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
 
 // menus.js
 

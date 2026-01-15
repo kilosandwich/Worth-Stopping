@@ -12813,7 +12813,7 @@
         "street": "701 7th St, Fort Benton, MT 59442",
         "country": "USA",
         "website": "https://www.blm.gov/programs/national-conservation-lands/montana-dakotas/upper-missouri-river-breaks",
-        "description": "njoy 365,000 acres of plains, cliffs, and rivers where paddle steamers pioneered the frontier. This is one of those 'wander around in the wilderness' type of federal lands with unpaved high-clearance roads such as the missouri Breaks National Back Country Byway.",
+        "description": "Enjoy 365,000 acres of plains, cliffs, and rivers where paddle steamers pioneered the frontier. This is one of those 'wander around in the wilderness' type of federal lands with unpaved high-clearance roads such as the missouri Breaks National Back Country Byway.",
         "worth stopping": true,
         "park": true
       },
@@ -16102,7 +16102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
--125.6739769, 49.0133994
+          -125.6739769,
+          49.0133994
         ]
       }
     }
