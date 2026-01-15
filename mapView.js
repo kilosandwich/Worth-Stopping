@@ -213,6 +213,26 @@ function clearAllMarkers(map) {
 }
 
 
+//OK, so what I am thinking is creating a separate geojson file with country outlines
+//that when clicked run the populateMapMakers function with the search terms from the search
+//HOWEVER this requires each marker when created to register for an external event that will be fired
+//off BY the search button such that the marker runs the populate MapMarker on the level of the search searched for
+//if that makes...any sense.
+/* the chain of events will be:
+1.) Map renders country outlines as buttons with names on them
+2.) When the country is clicked, it fires off the populateMapMakers using the search terms preloaded into the checkbox
+it also registers that marker and function for an event for searching
+3.) When the event fires off, all markers that exist for that country are erased (create a function that does that)
+a.) the populate map markers runs again, collecting the new search terms, and only running for that country
+
+THE END RESULT:
+When users want to search for something they simply have to click on the country, the countries clicked will automatically update to their search terms
+
+
+*/
+
+
+
 //make a function that populates a given map with markers for the given tags (array of tags)
 //This is the workhorse of the application.
 function populateMapMarkers(

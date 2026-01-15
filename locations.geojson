@@ -16106,6 +16106,106 @@
           49.0133994
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "806",
+        "name": "Kananaskis Country",
+        "street": "1 AB-40, Kananaskis, AB T0L 1N0, Canada",
+        "country": "CAN",
+        "website": "https://www.albertaparks.ca/parks/kananaskis/",
+        "description": "Hiking through the waterfalls, glaciers, mountains, valleys, and rapids of the Canadian Rockies continue at the K-country park system. Kananaskis Country is Alberta's Provincial Park System for the Canadian Rockies, and consists of 9 parks accessible by road: Peter Lougheed Provincial Park, Bow Valley Provincial Park, Sheep River Provincial Park, Spray Valley Provincial Park, Bluerock Wildland Provincial Park, Bow Valley Wildland Provincial Park, Don Getty Wildland Provincial Park, Elbow-Sheep Wildland Provincial Park, and the ski courses of Canmore Nordic Centre Provincial Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1405511,
+          50.692552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "807",
+        "name": "Mount Robson Provincial Park",
+        "street": "BC-16, Mount Robson, BC V0E 2Z0, Canada",
+        "country": "CAN",
+        "website": "https://bcparks.ca/mount-robson-park/",
+        "description": "Mount Robson Provincial Park is Jasper National Park's sibling, it's best known for the Berg Lake Trail which takes you to the Valley of a Thousand Falls - a rocky canyon with towering glacier capped mountains on every side.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2280717,
+          53.0352507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "808",
+        "name": "Wells Gray Provincial Park",
+        "street": "416 Eden Rd, Clearwater, BC V0E 1N1, Canada",
+        "country": "CAN",
+        "website": "https://bcparks.ca/wells-gray-park/",
+        "description": "It's even more waterfalls, rapids, glaciers, mountains, and river valleys in the Canadian Rockies. Wells Gray Provincial Park is accessed via Clearwater Valley Road, which follows the river and the 42 beautiful waterfalls along it. Some waterfalls are over 600ft tall, with Helmcken and Spahats Falls being particularly picturesque.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0091578,
+          51.7358879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "809",
+        "name": "Writing-on-Stone Provincial Park",
+        "street": "NW 36 TW1 range 13, Milk River, AB T0K 1M0, Canada",
+        "country": "CAN",
+        "website": "https://www.albertaparks.ca/parks/south/writing-on-stone-pp/",
+        "description": "The winding path through the hoodoos here is carved with petroglyphs.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6163618,
+          49.084944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "810",
+        "name": "Sandbanks Provincial Park",
+        "street": "3004 County Rd 12, Picton, ON K0K 2T0, Canada",
+        "country": "CAN",
+        "website": "http://www.ontarioparks.com/park/sandbanks",
+        "description": "Lake Michigan isn't the only Great Lake with sand dunes. At Sandbanks Provincial Park, sand dunes act as barriers to bays on the shore of Lake Ontario. What makes these sand dunes different is that they extend as a long spit out into the lake, instead of just hugging the lakeshore.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.238885,
+          43.906658
+        ]
+      }
     }
   ]
 }
