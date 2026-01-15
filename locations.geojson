@@ -12769,7 +12769,7 @@
       "type": "Feature",
       "properties": {
         "uid": "639",
-        "name": "Glacier National Park",
+        "name": "Glacier National Park (Montana)",
         "street": "Saint Mary Visitor Center, Browning, MT 59417",
         "country": "USA",
         "website": "https://www.nps.gov/glac/index.htm",
@@ -15835,7 +15835,7 @@
         "street": "201 Village Rd, Lake Louise, AB T0L 1E0, Canada",
         "country": "CAN",
         "website": "https://parks.canada.ca/pn-np/ab/banff",
-        "description": "Glaciers roll off the scenic rocky mountains into incredibly blue lakes, canyons, waterfalls, and rapids. Johnston Canyon, Lake Louise, and Lake Morraine are all fantastic stops with great hikes that show off the beauty of the Canadian Rockies. The park gets crowded - even during off season. Fortunately you can take in most of the beauty of the mountains along the road.",
+        "description": "Glaciers roll off the scenic rocky mountains into incredibly blue lakes, canyons, waterfalls, and rapids. Johnston Canyon, Lake Louise, and Lake Morraine are all fantastic stops with great hikes that show off the beauty of the Canadian Rockies. The park gets crowded - even during off season. Fortunately you can take in most of the beauty of the mountains along the road. Icefields Parkway is one of the most beautiful drives in existence.",
         "worth stopping": true,
         "park": true
       },
@@ -15924,6 +15924,185 @@
         "coordinates": [
           -113.4209705,
           52.9632691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "797",
+        "name": "Kootenay National Park",
+        "street": "7556 Main St E, Radium Hot Springs, BC V0A 1M0, Canada",
+        "country": "CAN",
+        "website": "https://www.pc.gc.ca/en/pn-np/bc/kootenay/",
+        "description": "Kootenay National Park stands out among the Canadian Rockies due to its hot springs at Radium Springs. The park follows the waterfalls, lakes, and valleys of the Kootenay River and Vermillion River. The hikes at Kootenay are a bit less accessible than nearby Banff, you can see most of the beauty from the Kootenay Highway.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0693173,
+          50.6195437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "798",
+        "name": "SS Moyie",
+        "street": "324 Front St, Kaslo, BC V0G 1M0, Canada",
+        "country": "CAN",
+        "website": "https://www.klhs.bc.ca/",
+        "description": "This is the oldest paddle steamer in the world. Large paddlewheel steamers used to be the only way to move goods up and down the remote waters of the Canadian Rockies. The SS Moyie plied Kootenay Lake from 1898-1957, and is now available to tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9023306,
+          49.9117118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "799",
+        "name": "Glacier National Park (Canada)",
+        "street": "9520 Trans - Canada Hwy, Rogers Pass, BC V0E 2S0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/bc/glacier",
+        "description": "Like the other National Parks in the Canadian Rockies, Glacier National Park offers stunning glaciers, waterfalls, and mountains. However, this park is less accessible than Banff or Jasper. Most of the hiking available in Glacier National Park is in the Rogers Pass and Illecillewaet Valley Area - where you can hike up to the crest of the Glaciers.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5219278,
+          51.301205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "800",
+        "name": "Mount Revelstoke National Park",
+        "street": "Meadows in the Sky Pkwy, Revelstoke, BC V0E 2S0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/bc/revelstoke",
+        "description": "Mount Revelstoke National Park's claim to fame in the Canadian Rocky National Park system is that the mountain itself is easily climbable because they built a road to the top. From the top of Mt Revelstoke you can embark on hikes to the lakes, rivers, and waterfalls of the rest of the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1481283,
+          51.0410536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "801",
+        "name": "SS Sicamous",
+        "street": "1099 Lakeshore Dr W, Penticton, BC V2A 1B7, Canada",
+        "country": "CAN",
+        "website": "http://www.sssicamous.ca/",
+        "description": "The 1914 Paddle Steamer SS Sicamous was a luxury passenger vessel on Okanagan Lake. Think of it as the Titanic of the Rockies but still afloat - the interior is all Mahogany and Teak. The ship is parked next to the tugboat SS Naramata, Canadian National No.6 Tug Boat, and the stern saloon of the SS Okanagan.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6114511,
+          49.5020811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "802",
+        "name": "Vancouver Maritime Museum",
+        "street": "1905 Ogden Ave, Vancouver, BC V6J 1A3, Canada",
+        "country": "CAN",
+        "website": "https://vanmaritime.com/",
+        "description": "The Vancouver Maritime Museum possesses the St. Roch, the first ship to complete the Northwest Passage from west to east in 1940. It's like the Canadian version of the Fram Museum. There's also a submarine here, a model ship made out of bones, so so many scale models, and you can try on an old timey diver's helmet.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.147317,
+          49.2775222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "803",
+        "name": "Royal British Columbia Museum",
+        "street": "675 Belleville St., Victoria, BC V8W 9W2, Canada",
+        "country": "CAN",
+        "website": "https://www.royalbcmuseum.bc.ca/",
+        "description": "Featuring a partial full scale model of the HMS Discovery - the ship that discovered British Columbia, a re-creation of what Victoria was like during the 1900s and a First Nations Big House complete with Totem Poles, and a natural history museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3675703,
+          48.4199388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "804",
+        "name": "Strathcona Provincial Park",
+        "street": "Strathcona Park Wilderness Centre Nordic Dr, Comox-Strathcona C, BC V9H 1B4, Canada",
+        "country": "CAN",
+        "website": "https://bcparks.ca/strathcona-park/",
+        "description": "Strathcona Provincial Park covers the snowcapped mountains of Vancouver Island. The park is actually a temperate rainforest full of hiking trails to glaciers, waterfalls - including the 1,440ft tall Della Falls, and lakes. This is also home of the critically endangered and very cute Vancouver Island Marmot.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.6223939,
+          49.8411542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "805",
+        "name": "Pacific Rim National Park Reserve",
+        "street": "485 Wick Rd, Ucluelet, BC V0R 3A0, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/pn-np/bc/pacificrim",
+        "description": "Temperate rainforests and mountains line the beaches of Vancouver Island. It's a hiking and kayaking paradise. The park is broken down into three units: the easily accessible by car Long Beach Unit, and the only accessible by boat Broken Group Islands Unit, and the only accessible by hiking West Coast Trail Unit.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+-125.6739769, 49.0133994
         ]
       }
     }
