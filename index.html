@@ -337,9 +337,18 @@ file.-->
     <input type="text" id="editor-street">
   </div>
 
-  <!--Consider using ISO3166 A-2 so save on a digit-->
+  <!--Consider using ISO3166 A-2 so save on a digit
+  additionally, A-2 has subdivision codes
+  -->
+  
   <div class="editor-field">
-    <label for="editor-country">Country (Use ISO 3166-1 A-3)</label>
+    <label for="editor-country"> 
+      <a 
+      href="https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes"
+      target="_blank"
+      rel="noopener noreferrer"
+      >
+      Country (Use ISO 3166-1 A-3)</a></label>
     <input type="text" id="editor-country">
   </div>
    <!--

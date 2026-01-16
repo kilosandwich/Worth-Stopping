@@ -16486,6 +16486,206 @@
           63.0739713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "825",
+        "name": "Blackpool Pleasure Beach",
+        "street": "525 Ocean Blvd, Blackpool FY4 1EZ, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.blackpoolpleasurebeach.com/",
+        "description": "Blackpool Pleasure Beach is home to historic rollercoasters that are some of the oldest in the United Kingdom, including the 1923 Big Dipper, the 1933 Rollercoaster, the 1934 Blue Flyer, and the dueling coaster Grand National from 1935. Also features is the one of a kind Steeplechase where you race upon horse shaped cars with very few restraints. The park itself is a marvel of engineering, with the rides being aggressively stacked on top of each other.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0569084,
+          53.7906989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "826",
+        "name": "Great Yarmouth Pleasure Beach",
+        "street": "The Pleasure Beach, S Beach Parade, Great Yarmouth NR30 3EH, United Kingdom",
+        "country": "GBR",
+        "website": "https://pleasure-beach.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=google_maps",
+        "description": "Great Yarmouth Pleasure Beach is home to the 1932 Roller Coaster - one of the few remaining scenic railway type rollercoasters.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7359793,
+          52.592953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "827",
+        "name": "RRS Discovery",
+        "street": "Discovery Point, Riverside Dr, Dundee DD1 4XA, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.rrsdiscovery.co.uk/",
+        "description": "The 1901 Discovery Expedition jumpstarted modern exploration and development of Antarctica. The RRS Discovery was built specifically to get to and operate in Antarctic waters. You can now tour the drydocked museum ship at Discovery Point and learn about the Heroic Age of Antarctic Exploration.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9686482,
+          56.4568031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "828",
+        "name": "National Museum of Flight",
+        "street": "East Fortune Airfield, B1347, East Fortune, North Berwick EH39 5LF, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.nms.ac.uk/flight",
+        "description": "A WW2 RAF air base has been preserved and stuffed full of historic aircraft, including: Avro Blue Steel Standoff and Blue Streak nuclear missiles, a Concorde (you can go inside it!), a de Havilland Comet, and Avro Vulcan.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7180794,
+          55.9957262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "829",
+        "name": "Discovery Museum",
+        "street": "Discovery Museum, Blandford Square, Newcastle upon Tyne NE1 4JA, United Kingdom",
+        "country": "GBR",
+        "website": "https://discoverymuseum.org.uk/",
+        "description": "It's a local history museum, but it includes the Turbinia - the first modern steam turbine vessel.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.624567,
+          54.9691481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "830",
+        "name": "National Museum of the Royal Navy, Hartlepool",
+        "street": "Jackson Dock, Maritime Ave, Hartlepool TS24 0XZ, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.nmrn.org.uk/visit-us/hartlepool",
+        "description": "The Hartlepool branch of the National Museum of the Royal Navy has been built to resemble a re-creation of a 18th century seaport, and it has the 1812 sailing frigate HMS Trincomalee to match. The 1934 paddlesteamer PS Wingfield Castle is also available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2074696,
+          54.6903214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "831",
+        "name": "Lake District National Park",
+        "street": "Lake District National Park, UK",
+        "country": "GBR",
+        "website": "https://www.lakedistrict.gov.uk/",
+        "description": "England's largest national park is full of hiking trails over mountains with lakes, waterfalls, and castles in between them.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0717307,
+          54.4686684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "832",
+        "name": "National Railway Museum (York)",
+        "street": "National Railway Museum, Leeman Rd, York YO26 4XJ, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.railwaymuseum.org.uk/",
+        "description": "This is THE Railway museum in the United Kingdom - well half of it, the other half is at Locomotion in Shildon. The modern steam engine and railroading were invented in the United Kingdom, and as a result the National Railway Museum captures that development in its collection. There are 100 trains here, including: The Flying Scotsman, the streamlined Duchess of Hamilton, the A4 Mallard, Stephenson's Rocket, a Shinkansen, and an APT. The collection here shuffles between museums, so check ahead if you want to see something in particular.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0963003,
+          53.9603547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "833",
+        "name": "Locomotion Museum",
+        "street": "Dale Road Industrial Estate, Shildon DL4 2RE, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.locomotion.org.uk/",
+        "description": "This is the other half of the National Railway Museum - THE museum for railroading in the United Kingdom. The museum features historical locomotives such as the 1825 Locomotion, the Battle of Britain-Class Winston Churchill, the prototype High Speed Train, and the fastest diesel locomotive ever built - the British Rail Class 43. Check in advance if you are going here, they shuffle trains between museums and workshops.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6309484,
+          54.6238973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "834",
+        "name": "Blackpool Tower",
+        "street": "The Blackpool Tower, Promenade, Blackpool FY1 4BJ, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.theblackpooltower.com/",
+        "description": "Following the construction of the Eiffel Tower, other countries wanted their own very tall tower. The Blackpool Tower is an 1894 knockoff of the Eiffel Tower, but it features an old dance hall in fairly good condition.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0556265,
+          53.8159729
+        ]
+      }
     }
   ]
 }
