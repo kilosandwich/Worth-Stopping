@@ -25,6 +25,8 @@ Worth Stopping makes traveling fun and easy - click the location marker and simp
 
 7.) Whenever you see some cool place in any media, immediately look it up. 
 
+8.) Nearly every nation has a: National Railway Museum, National Air Force Museum/Aerospace Museum, National Navy/Maritime Museum, Automobile Museum...etc
+
 *Wow wouldn't that take thousands of hours?*
 
 Yup, and that's why it's good - one central curated vision. 

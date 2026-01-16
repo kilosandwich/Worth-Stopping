@@ -16286,6 +16286,66 @@
           50.7646377
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "815",
+        "name": "Pinawa Dam Provincial Heritage Park",
+        "street": "MB-520, Pinawa, MB R0E 1L0, Canada",
+        "country": "CAN",
+        "website": "https://www.gov.mb.ca/sd/parks/park-maps-and-locations/eastern/pinawa.html",
+        "description": "Manitoba's first hydro-electric dam from 1906 is now abandoned in a park where you can crawl all over it as well as the rocky rapids in the river around it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9261044,
+          50.2154732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "816",
+        "name": "Royal Canadian Artillery Museum",
+        "street": "118 Patricia Rd Building N, Shilo, MB R0K 2A0, Canada",
+        "country": "CAN",
+        "website": "https://en.rcamuseum.com/",
+        "description": "Canadian Artillery has had to switch tactics from mobility in defending the wide plains of Canada to supporting trench warfare. Canadian artillery more closely follows British development compared to the United States - and this museum shows it from Confederation to Present. Accessing this museum requires entering a Canadian military base - so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6379325,
+          49.8011711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "817",
+        "name": "Canadian Railway Museum",
+        "street": "110 Rue St Pierre, Saint-Constant, QC J5A 1G7, Canada",
+        "country": "CAN",
+        "website": "http://www.exporail.org/",
+        "description": "This is THE Canadian Railway museum - and the largest railway museum in Canada period. The first railway in Canada was started nearby this site in 1836, and this museum chronicles railway development in Canada since then. The collection includes a replica of the 1848 locomotive John Molson, an A4 high speed steam locomotive, and 140 other pieces of rolling stock. There are historical train and streetcar demonstrations daily during the summer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5646686,
+          45.375071
+        ]
+      }
     }
   ]
 }
