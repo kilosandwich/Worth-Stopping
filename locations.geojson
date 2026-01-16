@@ -16346,6 +16346,146 @@
           45.375071
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "818",
+        "name": "Chute Montmorency",
+        "street": "5300 Bd Sainte-Anne, Québec, QC G1C 0M3, Canada",
+        "country": "CAN",
+        "website": "https://www.sepaq.com/destinations/parc-chute-montmorency",
+        "description": "This 272 ft tall waterfall is taller than Niagara Falls, and has a pedestrian suspension bridge that takes you right near the edge of it, a promenade that will take you right to the base, and trails that will take you around the rim.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1479116,
+          46.8907413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "819",
+        "name": "SS Keno",
+        "street": "1025 Front St, Dawson City, YT Y0B 0A3, Canada",
+        "country": "CAN",
+        "website": "https://parks.canada.ca/lhn-nhs/yt/klondike/activ/sskeno",
+        "description": "This 1922 paddle steamer transported ore along the treacherous shifting waters of the Yukon river until the highways arrived. Now it is still here in the remote Yukon as a museum ship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.435238,
+          64.06314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "820",
+        "name": "Pioneer Park (Fairbanks)",
+        "street": "2300 Airport Way, Fairbanks, AK 99701",
+        "country": "USA",
+        "website": "http://www.pioneerpark.us/",
+        "description": "The remains of the Alaska 67 Centennial Exposition have been repurposed into a museum complex showing off Alaskan history. This includes the 1933 sternwheeler SS Nenana (the second longest wooden boat in existence), A narrow gauge railroad museum that encircles the park, a replica native village, air museum, an actual Gold Rush Boomtown, and mini golf.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7734251,
+          64.8384201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "821",
+        "name": "Chugach State Park",
+        "street": "18620 Seward Hwy, Anchorage, AK 99516",
+        "country": "USA",
+        "website": "https://dnr.alaska.gov/parks/aspunits/chugach/chugachindex.htm",
+        "description": "495,204 acres of mountains, glaciers, ice fields, and beautiful flowing rivers of the Alaskan frontier that you can actually access via trail and car.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2742871,
+          61.2339221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "822",
+        "name": "Kenai Fjords National Park",
+        "street": "24620 Herman Leirer Rd, Seward, AK 99664",
+        "country": "USA",
+        "website": "https://www.nps.gov/kefj/index.htm",
+        "description": "Massive glaciers have carved the mountains into scenic fjords. You can only see the fjords from the ocean from a tour boat (there are tours from nearby Seward), but you can see a glacier at the Exit Glacier Nature Center via car.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6486582,
+          60.1913707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "823",
+        "name": "Wrangell–St. Elias National Park and Preserve",
+        "street": "Kennecot Visitor Center, McCarthy Rd, Chitina, AK 99566",
+        "country": "USA",
+        "website": "https://www.nps.gov/wrst/index.htm",
+        "description": "This is America's largest national park, covering the mountains and glaciers of the second tallest mountains in the United States. The glaciers and mountains are littered with the remains of abandoned mines which are accessible by trail. You can actually get to most of the park along the McCarthy Road which will take you to abandoned mines at the base of a glacier. Nabesna road provides access to valleys on the north end of the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.8886273,
+          61.485331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "824",
+        "name": "Denali National Park",
+        "street": "Park Rd, Denali National Park and Preserve, AK 99755",
+        "country": "USA",
+        "website": "https://www.nps.gov/dena/index.htm",
+        "description": "Mount McKinley (AKA Denali) is America's tallest mountain at 20,310ft tall. The glacier covered mountain dwarfs all other mountains surrounding it. Access to the park's main road and trails along it requires boarding a bus at the Denali Visitor Center, no private vehicles are allowed, it's a 5 hour round trip minimum. Cars can only go as far as the Savage River trailhead during the summer - so plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.9670895,
+          63.0739713
+        ]
+      }
     }
   ]
 }

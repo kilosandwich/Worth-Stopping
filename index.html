@@ -575,6 +575,9 @@ map.setView([39.8283, -98.5795], 4);
 a locally cached map that could be gigabytes large. Instead we use 
 the rasters from openstreetmap - thought again, any tile server could
 be used.*/
+
+//Note to future self: the default rasters are NOT in english, if you want to generate
+//rasters in english, you can do so, but you will have to serve them yourself from your own server
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
   attribution: '© OpenStreetMap contributors'
