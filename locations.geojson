@@ -16206,6 +16206,86 @@
           43.906658
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "811",
+        "name": "Shannon Falls Provincial Park",
+        "street": "British Columbia 97, Squamish-Lillooet D, BC V0N 1T0, Canada",
+        "country": "CAN",
+        "website": "https://bcparks.ca/shannon-falls-park/",
+        "description": "Shannon Falls is a 1,099ft waterfall sliding off the mountainside into the temperate rainforest. You can hike up to get a good look at the falls, it is so big that it is hard to miss from afar though.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1567426,
+          49.6694979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "812",
+        "name": "Garibaldi Provincial Park",
+        "street": "British Columbia 99, Brackendale, BC V0N 1H0, Canada",
+        "country": "CAN",
+        "website": "Garibaldi Provincial Park",
+        "description": "Hike to the top of a mountain to find a bright blue glacial lake, and even more mountains covered in glaciers rising above you. There are multiple trailheads into the park, however, Rubble Creek Trailhead takes you to Garibaldi Lake and is the most accessible trailhead to the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0532759,
+          49.9455385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "813",
+        "name": "Joffre Lakes Provincial Park",
+        "street": "Joffre Lake Trail Parking, Lytton, BC V0K 1Z0, Canada",
+        "country": "CAN",
+        "website": "https://bcparks.ca/joffre-lakes-park/",
+        "description": "Hike up a mountainside to see a turquoise glacial lake with glaciers directly feeding it. This park is easy to hike to, and is close to Vancouver, so it gets busy in the summer.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4984382,
+          50.3683624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "814",
+        "name": "Bugaboo Provincial Park",
+        "street": "Bugaboo Provincial Park Highway 95, Parson, BC V0A 1L0, Canada",
+        "country": "CAN",
+        "website": "https://bcparks.ca/bugaboo-park/",
+        "description": "The Glaciers on the mountains of Bugaboo Provincial Park are accessible from trails reached from Bugaboo Creek Road. You will need a high-clearance vehicle to use the roads though. Otherwise it's a less busy park with hikes straight to the glaciers and their glacial lakes. .",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7044241,
+          50.7646377
+        ]
+      }
     }
   ]
 }
