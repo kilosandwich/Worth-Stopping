@@ -17146,6 +17146,268 @@
           54.6082373
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "858",
+        "name": "Tokyo Imperial Palace",
+        "street": "1-1 Chiyoda, Chiyoda City, Tokyo 100-8111, Japan",
+        "country": "JPN",
+        "website": "https://sankan.kunaicho.go.jp/index.html",
+        "description": "The Imperial Palace is a massive palace and garden complex located in the heart of Tokyo and has been the seat of power for the Emperor since the Meiji Restoration in 1867",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7512705,
+          35.6851847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "859",
+        "name": "Meiji-mura",
+        "street": "1 Uchiyama, Inuyama, Aichi 484-0000, Japan",
+        "country": "JPN",
+        "website": "http://www.meijimura.com/",
+        "description": "Meiji-Mura is a architectural museum where 67 significant buildings have been moved or reconstructed. The general idea is to replicate the Meiji period when Japan opened itself to the outside world after centuries of isolation. The centerpiece is a re-creation of Frank Lloyd Wright's Imperial Hotel",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9887705,
+          35.3469667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "860",
+        "name": "Japanese battleship Mikasa",
+        "street": "82-19 Inaokacho, Yokosuka, Kanagawa 238-0003, Japan",
+        "country": "JPN",
+        "website": "http://www.kinenkan-mikasa.or.jp/",
+        "description": "The pre-dreadnought Mikasa is the last surviving pre WW1 battleship, and was the flagship of Admiral Togo during the Battle of Tsushima - the most decisive battleship to battleship engagement of all time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6739517,
+          35.2851768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "861",
+        "name": "Tokyo Dome City Attractions",
+        "street": "1 Chome-3-61 Koraku, Bunkyo City, Tokyo 112-8575, Japan",
+        "country": "JPN",
+        "website": "https://at-raku.com/",
+        "description": "It's an amusement park located on top of a city block in the heart of the most populous urban area in the world. Featuring a 260ft rollercoaster that dives through a Ferris wheel and encircles the complex.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7528674,
+          35.7067048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "862",
+        "name": "Nagashima Spa Land",
+        "street": "333 Nagashimacho Urayasu, Kuwana, Mie 511-1192, Japan",
+        "country": "JPN",
+        "website": "https://www.nagashima-onsen.co.jp/spaland/index.html/",
+        "description": "Nagashima Spa Land has always aimed to build unique rollercoasters, including: Steel Dragon 2000 - which opened as the tallest rollercoaster in the world at 318ft, and Hakugei renowned as one of the greatest rollercoasters of all time. There are 13 rollercoasters in total here.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7261588,
+          35.0287967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "863",
+        "name": "Hikawa Maru",
+        "street": "Japan, 〒231-0023 Kanagawa, Yokohama, Naka Ward, Yamashitacho, 山下公園地先",
+        "country": "JPN",
+        "website": "https://hikawamaru.nyk.com/",
+        "description": "Come walk aboard a 1930s art deco Japanese luxury ocean liner.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6511932,
+          35.4467354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "864",
+        "name": "Ghibli Museum",
+        "street": "1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan",
+        "country": "JPN",
+        "website": "https://www.ghibli-museum.jp/",
+        "description": "Come see the works of famed Japanese animation Studio Ghibli come to life in 3 dimensions at the Ghibli Museum. It's all the whimsical architecture and design from the films but in real life and in higher detail. You need to buy tickets a month ahead of time - so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5703982,
+          35.6961865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "865",
+        "name": "Railway Museum (Saitama)",
+        "street": "Japan, 〒330-0852 Saitama, Omiya Ward, Onaricho, 3 Chome−４７",
+        "country": "JPN",
+        "website": "https://www.railway-museum.jp/",
+        "description": "This is East Japan Railway Company's museum. Learn about the development of Japanese railways from the first steam locomotive in Japan in 1871 to the modern day bullet trains. There's 30+ trains here with an example of a train from every era. There's also miniature train you can drive yourself, and elaborate model railroads.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6185664,
+          35.9211368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "866",
+        "name": "SCMaglev and Railway Park",
+        "street": "3 Chome-2-2 Kinjofuto, Minato Ward, Nagoya, Aichi 455-0848, Japan",
+        "country": "JPN",
+        "website": "http://museum.jr-central.co.jp/",
+        "description": "This is Japanese Railway Corporation Central Japan Railway Company's museum, and they like to show off their highest speed trains: including one that levitates on magnets, 12 Shinkansen high speed trains, and a series of electric railcars and steam locomotives.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.850962,
+          35.0490351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "867",
+        "name": "Kyoto Railway Museum",
+        "street": "Kyoto Railway Museum, Kankijicho, Shimogyo Ward, Kyoto, 600-8835, Japan",
+        "country": "JPN",
+        "website": "https://www.kyotorailwaymuseum.jp/",
+        "description": "This is West Japan Railway Company's museum, and it's the biggest of all of the major railway museums in Japan. Featuring a former train station, roundhouse; display hall; and 53+ pieces of rolling stock from 1880s steam locomotives to modern Shinkansen, and everything in between.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7424069,
+          34.9867009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "868",
+        "name": "Fuji-Q Highland",
+        "street": "5 Chome-6-1 Shinnishihara, Fujiyoshida, Yamanashi 403-0017, Japan",
+        "country": "JPN",
+        "website": "https://www.fujiq.jp/ja",
+        "description": "An amusement park with stunning views of Mount Fuji, featuring two hypercoasters (including a 4th dimensional one), and 6 rollercoasters in total.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7791262,
+          35.4869469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "869",
+        "name": "Fuji-Hakone-Izu National Park",
+        "street": "Mount Fuji Kitayama, Fujinomiya, Shizuoka 418-0112, Japan",
+        "country": "JPN",
+        "website": "http://www.env.go.jp/park/fujihakone/",
+        "description": "The active stratovolcano Mount Fuji rises 12,389ft above the plains surrounding it. You can hike to the top of this especially prominent mountain, and there are hotels and roadways that will help you get halfway to the blackened rim of the caldera.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.729965,
+          35.3619259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "870",
+        "name": "Hiroshima Peace Memorial Museum",
+        "street": "1-2 Nakajimacho, Naka Ward, Hiroshima, 730-0811, Japan",
+        "country": "JPN",
+        "website": "https://hpmmuseum.jp/",
+        "description": "On August 6, 1945 Hiroshima became the first city to be bathed in nuclear fire. See artifacts (including the carbon shadows of humans vaporized by the blast), reconstructions, the still standing remains of the Industrial Promotion Hall, and documentation of what nuclear armageddon has in store for us all.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4526742,
+          34.3915066
+        ]
+      }
     }
   ]
 }

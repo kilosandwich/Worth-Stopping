@@ -594,6 +594,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 //OK, now that the map is created, prevent the map from focusing itself
 //and thus removing the navigation tab
+//I am going to temporarily remove this to see what happens
+/*
 map.whenReady(() => {
   document
     .querySelectorAll('.leaflet-control-zoom a')
@@ -602,6 +604,7 @@ map.whenReady(() => {
       a.addEventListener('focus', e => e.target.blur());
     });
 });
+*/
 
 
 /*You want to do something to the map? It can only be done after the leaflet map object
