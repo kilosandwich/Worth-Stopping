@@ -16686,6 +16686,226 @@
           53.8159729
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "835",
+        "name": "Portsmouth Historic Dockyard",
+        "street": "Victory Gate, HM Naval Base, Portsea, Portsmouth PO1 3LJ, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.historicdockyard.co.uk/",
+        "description": "This is THE English naval history museum complex telling the story of the Navy that once ruled the mightiest empire in human history. Featuring: The salvaged wreckage of the 1510 carrack Mary Rose, the 1758 Ship of the Line HMS Victory - Admiral Nelson's flagship at the battle of Trafalgar in 1805, HMS Warrior - the world's first iron-hulled warship from 1860; the National Museum of the Royal Navy; the Royal Navy Submarine Museum featuring the Royal Navy's first submarine Holland 1, the submarine killer HMS Alliance, and German and English midget submarine; and the Museum of Naval Firepower.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1102228,
+          50.8016138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "836",
+        "name": "Stonehenge",
+        "street": "Stonehenge, Salisbury SP4 7DE, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+        "description": "In prehistory local peoples built a megalith of standing stones from 2600BC to 2400BC",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8263384,
+          51.1788169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "837",
+        "name": "Royal Navy Fleet Air Arm Museum",
+        "street": "Royal Navy Fleet Air Arm Museum, RNAS Yeovilton, Ilchester BA22 8HT, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.nmrn.org.uk/visit-us/fleet-air-arm-museum",
+        "description": "The Royal Navy has been launching aircraft off of boats since 1912, and used them to devastating advantage in WW1, WW2, and the Falklands War. One of the hangars here has even been converted into a mockup of a fleet carrier. Trace the history of British naval aviation from the very beginning. Notable aircraft include: a de Haviland Sea Vixen, BAC 221, and the BAC Concorde.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6367254,
+          51.0152124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "838",
+        "name": "SS Great Britain",
+        "street": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.ssgreatbritain.org/",
+        "description": "The SS Great Britain was the world's largest passenger ship when it was launched in 1845, and paved the way for all modern iron hull steam powered vessels to follow - thus beginning the age of transatlantic steamship travel. Now you can tour it as it was.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6085249,
+          51.4491559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "839",
+        "name": "Aerospace Bristol",
+        "street": "Aerospace Bristol Hayes Way, Patchway, Bristol BS34 5BZ, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.aerospacebristol.org/",
+        "description": "Aerospace Bristol mostly covers the history of aircraft from local aircraft manufacturer Bristol Aeroplane Company, which later became part of BAE Systems. The museum also features a BAC Concorde - which has roughly the same cultural relevance to the British as the Space Shuttle does to the United States.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5784787,
+          51.5230718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "840",
+        "name": "Big Pit National Coal Museum",
+        "street": "Big Pit National Coal Museum, Pontypool NP4 9XP, United Kingdom",
+        "country": "GBR",
+        "website": "https://museum.wales/bigpit/",
+        "description": "This is the Welsh coal mining museum. Britain got a head start on the industrial revolution thanks to its generous coal deposits in mines just like this one. Tour an 1860 coal mine that operated until the end of coal mining in Britain and see machinery from all eras. You can't go into the mine itself here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1052688,
+          51.7725401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "841",
+        "name": "National Coal Mining Museum for England",
+        "street": "Caphouse Colliery, New Rd, Overton, Wakefield WF4 4RH, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.ncm.org.uk/",
+        "description": "This is THE British coal mining museum. Learn about English coal mining at this pit which operated from 1770s-1985. The museum is old and extensively covers the history of mining in England, has a bunch of coal mining railway locomotives, and more importantly they let you go into the mine on tours (reserved ahead of time).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6189853,
+          53.6440255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "842",
+        "name": "Hack Green Secret Nuclear Bunker",
+        "street": "Hack Green Secret Nuclear Bunker, Hack House, Lane CW5 8BL, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.hackgreen.co.uk/",
+        "description": "The United Kingdom built bunkers to allow continuity of government in the event of nuclear armageddon. Now you can tour this bunker and learn about what the British expected of a nuclear war.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.530706,
+          53.0270687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "843",
+        "name": "National Motor Museum, Beaulieu",
+        "street": "John Montagu Building, Beaulieu, Brockenhurst SO42 7ZN, United Kingdom",
+        "country": "GBR",
+        "website": "https://nationalmotormuseum.org.uk",
+        "description": "This is THE British car museum. Featuring 250+ cars from all of British history, including the vehicles from British media such a James Bond, Chitty Chitty Bang Bang, and Mr. Bean; a monorail, and vehicles from historical British automotive manufacturers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4533945,
+          50.8232059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "844",
+        "name": "The Tank Museum",
+        "street": "R A C Tank Museum, Linsay Rd, Bovington, Wareham BH20 6JG, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.tankmuseum.org/",
+        "description": "This is THE British tank museum. 300+ tanks and armored vehicles from every war that the British have used tanks in. This includes some rarity tanks such as the the first ever British tank Little Willie, Vickers A1E1 Independent; the Mark I, IV, V, VIII, and IX; Tog II, Char B1, and so so many more from WW1 to Afghanistan.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2433116,
+          50.6949346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "845",
+        "name": "Alton Towers",
+        "street": "Alton Towers Farley Ln, Alton, Stoke-on-Trent ST10 4DB, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.altontowers.com/",
+        "description": "Alton Towers contains a collection of some of the most unique rollercoasters in the world. Including an inverted rollercoaster built into trenches in the ground, the rollercoaster with 14 inversions - the most ever built, a rollercoaster that dives 50ft underground, and a wooden rollercoaster with flame effects.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89327,
+          52.9910226
+        ]
+      }
     }
   ]
 }
