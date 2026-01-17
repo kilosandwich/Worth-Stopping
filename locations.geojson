@@ -16906,6 +16906,246 @@
           52.9910226
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "846",
+        "name": "Imperial War Museum Duxford",
+        "street": "Imperial War Museum Duxford, IWM Duxford Airfield, Cambridge CB22 4QR, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.iwm.org.uk/visits/iwm-duxford",
+        "description": "This is THE British Aviation museum - spanning 4 hangars with over 200+ aircraft spanning all of British military history. Notable aircraft include: the BAC TSR.2, BAC Concorde, Handley Page Victor, Avro Shackleton, SR-71 Blackbird, and a bunch of British passenger aircraft when the British still had an industry that did that.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1329582,
+          52.0961453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "847",
+        "name": "Royal Air Force Museum Midlands",
+        "street": "Royal Air Force Museum Midlands, Lysander Ave, Cosford, Shifnal TF11 8UP, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.rafmuseum.org.uk/midlands",
+        "description": "This is the other half of the Royal Air Force Museum. Featuring: a lot of nuclear missiles -including the Polaris and Thor, a BAC TSR-2, an Avro Vulcan, and the Vickers Valiant that dropped Britain's first hydrogen bomb, and 70+ other aircraft.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3160274,
+          52.6452778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "848",
+        "name": "Brooklands Museum",
+        "street": "Brooklands Museum, Brooklands Dr, Weybridge KT13 0SL, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.brooklandsmuseum.com/",
+        "description": "This is THE British bus museum. Brooklands was home to a many early British aviation and automotive manufacturers - which is why it this location contains the London Bus museum, various racecars, as well as some notable aircraft such as: the BAC Concorde, and Vickers Vimy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4648559,
+          51.3551416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "849",
+        "name": "Royal Air Force Museum London",
+        "street": "Royal Air Force Museum London, Grahame Park Way, London NW9 5LL, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.rafmuseum.org.uk/london/",
+        "description": "This is THE Royal Air Force Museum. 6 hangars full of Royal Air Force History with 90+ aircraft covering just about every aircraft ever used in the RAF. Featuring rare aircraft such as the F-35, Short Sunderland flying boat, Avro Vulcan, and various rare flying boats. If you want to see a full history of British aviation, go to Imperial War Museum Duxford.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2384566,
+          51.598213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "850",
+        "name": "The British Museum",
+        "street": "The British Museum Great Russell St, London WC1B 3DG, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.britishmuseum.org/",
+        "description": "This is one of the best history and art museums on the planet. The British Empire at its height controlled 24% of the world and 23% of the global population - the largest empire in human history - which means they pilfered a lot of really cool artifacts. Including, the Rosetta Stone, a bunch of Ancient Egyptian statues, entire Greek temples, the carvings from the Parthenon, various roman tombs, everything nice from Assyrian palaces, Easter Island Rapa Nui Statues, and paintings and artifacts from the entire planet.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1270743,
+          51.5195593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "851",
+        "name": "Imperial War Museum London",
+        "street": "Imperial War Museum, Lambeth Rd, London SE1 6HZ, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.iwm.org.uk/",
+        "description": "Existing in the European thunderdome and having a globe spanning empire means the British have been at war a lot. This museum however focuses on WW1 to present. If you want to see more military equipment, go to Imperial War Museum Duxford.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1090516,
+          51.4958167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "852",
+        "name": "Tower of London",
+        "street": "Tower of London, London EC3N 4AB, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.hrp.org.uk/tower-of-london/",
+        "description": "When the Normans conquered England in 1066, they built the Tower of London in 1078 in the heart of the largest city as a fortress and prison to enforce their rule on the conquered peoples. The Tower of London was the center of British power until the English Civil War shifted power to parliament in 1651. The crown jewels are stored here, and are available for viewing.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0772146,
+          51.5080262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "853",
+        "name": "HMS Belfast",
+        "street": "HMS Belfast, The Queen's Walk, London SE1 2JH, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.iwm.org.uk/visits/hms-belfast",
+        "description": "The WW2 era Town-class cruiser HMS Belfast is the largest British warship that remains from the time when Britain's navy was the largest in the world. The ship saw service in WW2 and Korea.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0815652,
+          51.5064614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "854",
+        "name": "Kelvedon Hatch Secret Nuclear Bunker",
+        "street": "Kelvedon Hatch, Brentwood CM15 0LA, United Kingdom",
+        "country": "GBR",
+        "website": "http://www.secretnuclearbunker.com/",
+        "description": "Located beneath a bungalow is a bunker designed to resist nuclear attack for the purpose of continuity of government in the event of a nuclear holocaust. Preparing for the end of the world will always be cool until the world actually ends.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2562596,
+          51.671997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "855",
+        "name": "Edinburgh Castle",
+        "street": "Edinburgh Castle Castlehill, Edinburgh EH1 2NG, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.edinburghcastle.scot/",
+        "description": "This fortress built on top of an extinct volcano has been the center of power in Scotland for 1,100 years. Not only is it a fortress, but also a palace, National War Museum, and National War Memorial.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2012381,
+          55.9486148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "856",
+        "name": "HMY Britannia",
+        "street": "HMY Britannia Ocean Dr, Leith, Edinburgh EH6 6JJ, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.royalyachtbritannia.co.uk/?utm_source=google&utm_medium=local&utm_campaign=hotel-royalyachtbritannia",
+        "description": "This royal yacht is one of the only palaces on water, and served from 1954 to 1997.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1778264,
+          55.9822114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "857",
+        "name": "Titanic Belfast",
+        "street": "1 Olympic Wy, Belfast BT3 9EP, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.titanicbelfast.com/",
+        "description": "The White Star Line ship RMS Titanic was built in Belfast and was the largest ocean liner in the world when is struck an iceberg and killed a bunch of rich people onboard. The museum features the last surviving White Star Line vessel SS Nomadic as well as history about the ill-fated passenger liner.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9099011,
+          54.6082373
+        ]
+      }
     }
   ]
 }
