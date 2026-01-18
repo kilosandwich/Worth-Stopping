@@ -17408,6 +17408,146 @@
           34.3915066
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "871",
+        "name": "Vasa Museum",
+        "street": "Galärvarvsvägen 14, 115 21 Stockholm, Sweden",
+        "country": "SWE",
+        "website": "https://www.vasamuseet.se/",
+        "description": "See a nearly fully intact shipwreck. The 17th century warship Vasa sunk on its maiden voyage in the cold waters of Stockholm harbor, and was raised nearly entirely intact in 1961, and restored so that you can tour it. It is the only intact 17th century sailing vessel in existence. The museum also features 4 other museum ships: the ice breaker Sankt Erik, the lightvessel Finngrundet, the torpedo boat Spica, and the rescue boat Bernhard Ingelsson.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0912224,
+          59.3280837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "872",
+        "name": "Gröna Lund",
+        "street": "Lilla Allmänna Gränd 9, 115 21 Stockholm, Sweden",
+        "country": "SWE",
+        "website": "http://www.gronalund.com/",
+        "description": "Gröna Lund has been operating since 1883 in the middle of Stockholm. Forced with a space shortage, the park has had to engineer their rides to be stacked on top of each other - leading to unique designs for their 7 rollercoasters.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.095292,
+          59.3232861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "873",
+        "name": "Maritiman",
+        "street": "Packhusplatsen 12, 411 13 Göteborg, Sweden",
+        "country": "SWE",
+        "website": "http://www.maritiman.se/",
+        "description": "Sweden has always built its own ships for its historical policy of armed neutrality. The Maritiman museum features 10 of them, including the world's only coastal defense monitor, a Halland-class destroyer, and a Draken-class submarine. There's also a tugboat, ferry, fireboat, repair ship, and patrol boat.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.959807,
+          57.7093611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "874",
+        "name": "Marinmuseum",
+        "street": "Bastionsgatan, 371 32 Karlskrona, Sweden",
+        "country": "SWE",
+        "website": "https://www.marinmuseum.se/",
+        "description": "This is THE Swedish naval museum. The Marinmuseum is the National Museum of the Swedish Navy, and features 7 ships, including Sweden's first submarine - the 1902 HMS Hajen, and the more modern Cold War era HSwMS Neptun, a tunnel that runs underwater to see the shipwreck of the 1684 warship Pins Carl, a reproduction of the gun deck of the frigate Dristigheten, a sailing ship, sloops, torpedo boat, minesweeper, and missile ship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5978236,
+          56.1610614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "875",
+        "name": "Arsenalen",
+        "street": "Arsenalen Näsbyholm, 645 91 Strängnäs, Sweden",
+        "country": "SWE",
+        "website": "http://arsenalen.se/",
+        "description": "This is THE Swedish tank museum. Sweden has always had its own independent tank manufacturing, and 75 such vehicles are shown off here (there are another 275+ kept off site). The vehicles cover Sweden's armored heritage from WW1 to present.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9303099,
+          59.3674525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "876",
+        "name": "Flygvapenmuseum",
+        "street": "Carl Cederströms gata 2, 586 63 Linköping, Sweden",
+        "country": "SWE",
+        "website": "http://www.flygvapenmuseum.se/",
+        "description": "The Flygvapenmuseum is the museum of the Swedish Air Force - and largely traces the history of SAAB as Sweden's principal aircraft manufacturer. Notable aircraft include the last Junkers Ju 86, as well as most Saab military aircraft up to the modern JAS 39 Gripen.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5227321,
+          58.4101425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "877",
+        "name": "Järnvägsmuseet",
+        "street": "Rälsgatan 1, 802 91 Gävle, Sweden",
+        "country": "SWE",
+        "website": "http://www.jarnvagsmuseet.se/",
+        "description": "The Järnvägsmuseet is Sweden's national railway museum - with over 100 locomotives adding up to 300+ vehicles total from the history of Swedish railroading. The trains are stored between the main museum and the nearby Tåghallen - transportation is provided between the two during the summer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.170889,
+          60.6620382
+        ]
+      }
     }
   ]
 }
