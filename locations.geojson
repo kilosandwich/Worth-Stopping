@@ -17548,6 +17548,407 @@
           60.6620382
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "878",
+        "name": "Tivoli Gardens",
+        "street": "Vesterbrogade 3, 1630 København V, Denmark",
+        "country": "DNK",
+        "website": "https://www.tivoli.dk/?&utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=website_button",
+        "description": "Tivoli is the second oldest amusement park in the world and features the 1914 Rutschebanen scenic railway style rollercoaster. There are 4 rollercoasters here in total in a mix of eclectic historic architecture in a sculptured garden setting.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5679032,
+          55.6737185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "879",
+        "name": "Dyrehavsbakken",
+        "street": "Dyrehavsbakken 207, 2930 Klampenborg, Denmark",
+        "country": "DNK",
+        "website": "https://www.bakken.dk/",
+        "description": "Bakken is the oldest amusement park in the world (est. 1583). However, the rides here are newer compared to nearby Tivoli Gardens, with the oldest rollercoaster having opened in 1932.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5745004,
+          55.7756946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "880",
+        "name": "Skibene på Holmen",
+        "street": "Nyholm, Bradbænken 1, 1439 København, Denmark",
+        "country": "DNK",
+        "website": "https://www.skibenepaaholmen.dk/",
+        "description": "The historic ships at Holmen are 3 decommissioned Cold War era Danish naval ships located at a military base in the middle of Copenhagen. This includes the frigate FDMS Peder Skram, the coastal defense submarine HDMS Sælen, and a Williemose-class missile boat Sehested. These ships can only be visited during the summer during certain hours, so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6053496,
+          55.6884963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "881",
+        "name": "Regan Vest",
+        "street": "Røde Møllevej 26, 9520 Skørping, Denmark",
+        "country": "DNK",
+        "website": "https://nordjyskemuseer.dk/regan-vest/",
+        "description": "Regan Vest was Denmark's continuity of government bunker in the event of nuclear war. See how Denmark prepared for the apocalypse at this base 60 meters underground. You will have to buy a tour ahead of time - so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8008015,
+          56.82381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "882",
+        "name": "Technik-Museum Speyer",
+        "street": "Am Technik Museum 1, 67346 Speyer, Germany",
+        "country": "DEU",
+        "website": "https://speyer.technik-museum.de/",
+        "description": "Tecknik-Museum Speyer is a sprawling complex showing off European vehicle manufacturing of trains, planes, boats, automobiles, and spacecraft. Notable features include Buran - the Soviet Union's version of the Space Shuttle, the Cold War Era German Submarine U-9, and the WW2 German midget submarines Biber and Seal, and the Museum Wilhelmsbau of weapons and mechanical musical instruments.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4463905,
+          49.3118748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "883",
+        "name": "Technik-Museum Sinsheim",
+        "street": "Eberhard-Layher-Straße 1, 74889 Sinsheim, Germany",
+        "country": "DEU",
+        "website": "https://sinsheim.technik-museum.de/",
+        "description": "This is THE German vehicle museum. Technik-Museum Sinsheim is another sprawling museum complex displaying European vehicle manufacturing. Notably the museum has the BAC Concorde as well as the Tupolev Tu-144 (the Soviet Union's version of the Concorde), a DC-3 and the Illyushin Il-14 (the Soviet Union's Version of the DC-3), the Cold War Era German Submarine U-117, 300+ vintage cars, 40+ racecars, 200+ motorcycles, 27 locomotives, 60+ aircraft, 150+ tractors, some tanks, and a rollercoaster.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8968227,
+          49.2390459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "884",
+        "name": "Europa Park",
+        "street": "Europa-Park-Straße 2, 77977 Rust, Germany",
+        "country": "DEU",
+        "website": "https://www.europapark.de/",
+        "description": "This is THE European amusement park. Europa Park has won the Golden Ticket Award's award for Best Theme Park in The World for 8 years in a row.  Featuring over 14 rollercoasters manufactured by the park's parent company Mack Rides, including the highly regarded Voltron - considered one of the best rollercoasters in the world.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7193785,
+          48.2658511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "885",
+        "name": "Zeppelin Museum Friedrichshafen",
+        "street": "Seestraße 22, 88045 Friedrichshafen, Germany",
+        "country": "DEU",
+        "website": "http://www.zeppelin-museum.de/",
+        "description": "The rigid airship was invented in Germany at the site of this museum. This museum features a reconstruction of the interiors of the largest zeppelin ever built - the LZ 129 Hindenburg, and actual wreckage from the airship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4827985,
+          47.6508069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "886",
+        "name": "Neuschwanstein Castle",
+        "street": "Neuschwansteinstraße 20, 87645 Schwangau, Germany",
+        "country": "DEU",
+        "website": "https://www.neuschwanstein.de/",
+        "description": "King Ludwig of Bavaria deliberately built this castle to look like a fantasy painting in 1886. You need to buy your tickets online the day you wish to visit.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74919,
+          47.5575061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "887",
+        "name": "Walhalla (memorial)",
+        "street": "Walhallastraße 48, 93093 Donaustauf, Germany",
+        "country": "DEU",
+        "website": "https://www.schloesser.bayern.de/deutsch/schloss/objekte/walhalla.htm",
+        "description": "Germany built its own version of the Parthenon in 1842 overlooking the Danube river as a hall of fame to great Germans.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2238767,
+          49.0313695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "888",
+        "name": "Völkerschlachtdenkmal",
+        "street": "Str. des 18. Oktober 100, 04299 Leipzig, Germany",
+        "country": "DEU",
+        "website": "https://www.stiftung-voelkerschlachtdenkmal-leipzig.de/",
+        "description": "Emperor Napoleon was defeated by the combined forces of Europe at the Battle of Leipzig in 1813, ending French domination of the European continent that had started under his reign. Half a million soldiers fought in the battle in total, and 92,000 of them became casualties. The monument to this battle was finished in 1913 and was intended to double as a crypt.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4130328,
+          51.3123882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "889",
+        "name": "Pergamonmuseum",
+        "street": "Bodestraße 1-3, 10178 Berlin, Germany",
+        "country": "DEU",
+        "website": "https://www.smb.museum/museen-einrichtungen/pergamonmuseum/home/",
+        "description": "The Pergamonmuseum is a museum of antiquities, including reconstructions of the ancient Greek Pergamon Altar, the Roman Gatehouse of Miletus, the Babylonian Ishtar Gate, and the Jordanian Mshatta facade.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3967392,
+          52.5210741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "890",
+        "name": "Stasi Museum",
+        "street": "Normannenstraße 20/Haus 1, 10365 Berlin, Germany",
+        "country": "DEU",
+        "website": "http://www.stasimuseum.de/",
+        "description": "The East German Secret Police known as the Ministry for State Security had one informant for every six citizens of East Germany. Come learn about how the communists kept the former capitalist and nazi country repressed and aligned with the Eastern Bloc through psychological coercion and torture.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4873951,
+          52.5144139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "891",
+        "name": "Flugwerft Schleißheim",
+        "street": "Effnerstraße 18, 85764 Oberschleißheim, Germany",
+        "country": "DEU",
+        "website": "https://www.deutsches-museum.de/flugwerft-schleissheim",
+        "description": "Flugwerft Schleißheim is the aviation branch of the Deutsches Museum, featuring 60+ aircraft and gliders. This includes the Dornier Do 24 flying boat, the Horten HIV flying wing glider, the VTOL cargo aircraft Dornier Do 31, the VTOL EWR VJ 101 experimental aircraft, the VFW VAK 191B - the German attempt at building the  Harrier, and an Ariane 5 rocket booster.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5556338,
+          48.2452117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "892",
+        "name": "Deutsches Museum",
+        "street": "Museumsinsel 1, 80538 München, Germany",
+        "country": "DEU",
+        "website": "https://www.deutsches-museum.de/",
+        "description": "The Deutsches Museum is a science and technology museum, that notably has the U-1, the first submarine of the Imperial German Navy. There's also the first Benz Patent Motor Car, the first diesel engine, the first public television, and some planes and rockets.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5832689,
+          48.1298024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "893",
+        "name": "Militärhistorisches Museum der Bundeswehr",
+        "street": "Olbrichtpl. 2, 01099 Dresden, Germany",
+        "country": "DEU",
+        "website": "https://www.mhmbw.de/",
+        "description": "The Bundeswehr Military History museum tells the story of German military history with a notable lack of emphasis of exhibits for the time period of 1914-1945. The German government's official stance is that they are very sorry and it won't happen again.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7596333,
+          51.0786521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "894",
+        "name": "Deutsches Panzermuseum Munster",
+        "street": "Hans-Krüger-Straße 33, 29633 Munster, Germany",
+        "country": "DEU",
+        "website": "http://www.daspanzermuseum.de/",
+        "description": "Unlike the Militärhistorisches Museum der Bundeswehr, the German Tank Museum is much more excited about their 80+ tanks from the period of 1917-1945 and think that armored vehicles from that time are really cool. Notable vehicles include a replica of the A7V, a Tiger II and just about every German tank from WW2 and the Cold War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1092898,
+          52.9865527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "895",
+        "name": "Miniatur Wunderland",
+        "street": "Kehrwieder 2/Block D, 20457 Hamburg, Germany",
+        "country": "DEU",
+        "website": "https://www.miniatur-wunderland.de/",
+        "description": "This is the greatest scale model in the world. Do you like model trains? How about 1200+ of them? Even the planes, boats, and cars move too. There are 10 sections spanning the world and new ones are added every year. See tiny Germany, America, Scandinavia, Switzerland, Italy, Rio de Janeiro, Patagonia, Monaco, and France.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9887745,
+          53.5437134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "896",
+        "name": "Phantasialand",
+        "street": "Berggeiststraße 31 - 41, 50321 Brühl, Germany",
+        "country": "DEU",
+        "website": "https://www.phantasialand.de/",
+        "description": "Phantasialand is one of the best amusement parks worldwide. Known for its exceptional theming and 8 high quality rollercoasters, you will often need to reserve tickets in advance due to the popularity of the park.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8806546,
+          50.7991284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "897",
+        "name": "Verkehrsmuseum Nürnberg",
+        "street": "Lessingstraße 6, 90443 Nürnberg, Germany",
+        "country": "DEU",
+        "website": "http://www.dbmuseum.de/",
+        "description": "Verkehrsmuseum Nürnberg is the Nuremburg Branch of the DB Museum spread across two buildings. The museum features the luxury railcars of German royalty and Otto von Bismarck, the 1853 Nordgau - the oldest preserved locomotive in Germany, and the streamlined locomotive DR-Baureihe 05.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.073844,
+          49.4455865
+        ]
+      }
     }
   ]
 }
