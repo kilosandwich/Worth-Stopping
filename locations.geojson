@@ -18150,6 +18150,26 @@
           47.4402286
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "908",
+        "name": "Schweizerisches Militärmuseum Full",
+        "street": "General-Guisanstrasse 1, 5324 Full, Switzerland",
+        "country": "CHE",
+        "website": "http://www.festungsmuseum.ch/",
+        "description": "The Swiss Military Museum features 60+ Swiss, American, Soviet, and German armored vehicles as well as \"Bunker Safari\" tours of 100+ nearby military bunkers - including the Rein Fortress, Wallbach Command Post, and Reuenthal Fortresses, and a scale model tank driving simulator (reservations required weeks in advance).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.193379,
+          47.6094192
+        ]
+      }
     }
   ]
 }
