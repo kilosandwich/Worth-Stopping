@@ -18090,6 +18090,66 @@
           48.2056453
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "905",
+        "name": "H.R. Giger Museum",
+        "street": "Rue du Château 2, Château St-Germain, 1663 Gruyères, Switzerland",
+        "country": "CHE",
+        "website": "https://www.hrgigermuseum.com/en/",
+        "description": "Swiss artist H.R. Giger drew and sculpted sensual biomechanical art that is best known as the basis for the Alien movie franchise. You can see all the art here, including life sized sculptures of the Alien.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0820364,
+          46.5841979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "906",
+        "name": "Verkehrshaus der Schweiz",
+        "street": "Haldenstrasse 44, 6006 Luzern, Switzerland",
+        "country": "CHE",
+        "website": "https://www.verkehrshaus.ch/",
+        "description": "The Swiss Museum of Transport shows off everything transportation related that has ever passed through Switzerland, and receives the most visitors out of any museum in the country. Notable exhibits include: the tourist submersible Auguste Piccard, the 1909 Dufaux 4 - the oldest aircraft in Switzerland,  the only remaining Lockheed Orion, Convair 990 Coronado, tunnel boring machine, the 1848 side-wheel steamer Rigi, an exhibit where you can crash a car at 10km/h, cars arranged in a vending machine like Car Theater, and so so much more!",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3356897,
+          47.053276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "907",
+        "name": "Museum für Musikautomaten",
+        "street": "Bollhübel 1, 4206 Seewen, Switzerland",
+        "country": "CHE",
+        "website": "http://www.musikautomaten.ch/",
+        "description": "The punched tape for musical machines later formed the basis for punch cards in the formation of modern computing. It's a museum full of musical automatons - music boxes, juke boxes, orchestrions, gramophones, musical clocks, and the Organ intended for the RMS Britannic (sister ship of the RMS Titanic).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6618777,
+          47.4402286
+        ]
+      }
     }
   ]
 }
