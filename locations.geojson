@@ -17949,6 +17949,147 @@
           49.4455865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "898",
+        "name": "KZ Buchenwald",
+        "street": "Buchenwald 7, 99427 Weimar, Germany",
+        "country": "DEU",
+        "website": "https://www.buchenwald.de/",
+        "description": "Buchenwald has the dishonorable mention of being used as a concentration camp by the Nazis where 56,545 people died, being liberated by the Americans, then being used as a concentration camp by the Soviet Union where 7,113 people died. Gaze upon the empty fields but intact ovens and realize the horrors humanity is capable of. If you are feeling too happy, this place will change that.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2478327,
+          51.0211844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "899",
+        "name": "Wurstelprater",
+        "street": "Prater, 1020 Vienna, Austria",
+        "country": "AUT",
+        "website": "https://www.praterwien.com/startseite/",
+        "description": "Vienna's Prater has been operating as a permanent fairgrounds since 1895, and the rides reflect that. The Ferris Wheel Wiener Riesenrad has been operating since 1897, and the Hochschaubahn scenic railway has been operating since 1950. There's 14 rollercoasters in total - keep in mind that you have to pay separately for every ride at this park.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3998896,
+          48.2157443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "900",
+        "name": "Schloss Schönbrunn",
+        "street": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "country": "AUT",
+        "website": "https://www.schoenbrunn.at/",
+        "description": "The Schönbrunn Palace is the Austria-Hungarian version of Versailles. The 400 acres of the grounds are home to the the Kaiserliche Wagenburg (Imperial Carriage Museum) consisting of the vehicles of Holy Roman Empire, Austrian Empire, and Austria-Hungary; the Tiergarten Schönbrunn zoo (est. 1752); and gardens.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3106714,
+          48.1848126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "901",
+        "name": "KZ Mauthausen",
+        "street": "Erinnerungsstraße 1, 4310 Mauthausen, Austria",
+        "country": "AUT",
+        "website": "https://www.mauthausen-memorial.org/",
+        "description": "KZ Mauthausen was a Nazi concentration camp where through forced labor and extermination 90,000+ people were killed. Much of the facility is still intact, making for a haunting memorial.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5008282,
+          48.2570963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "902",
+        "name": "Heeresgeschichtliches Museum",
+        "street": "Arsenal 1, 1030 Wien, Austria",
+        "country": "AUT",
+        "website": "http://www.hgm.at/",
+        "description": "The Vienna Museum of Military History features the car and clothing and weapons that Archduke Franz Ferdinand was assassinated with in 1914 - sparking WW1. There's also the armor and equipment used by Austria from the periods of the Holy Roman Empire, Austrian Empire, Austria-Hungarian Empire, and finally as Austria. There's some nice paintings, artillery, airplanes, and armored vehicles in here as well.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3887308,
+          48.184228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "903",
+        "name": "Kunsthistorisches Museum",
+        "street": "Maria-Theresien-Platz, 1010 Wien, Austria",
+        "country": "AUT",
+        "website": "https://www.khm.at/",
+        "description": "At the Vienna Museum of Art History the pilfered artifacts are fancy, the armor is lavish, and the paintings here are even fancier. They got the one where they're building the Tower of Babel.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3617131,
+          48.2038715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "904",
+        "name": "Hofburg",
+        "street": "1010 Vienna, Austria",
+        "country": "AUT",
+        "website": "https://www.wien.info/de/kunst-kultur/imperiales/hofburg-wien",
+        "description": "The Hofburg palace was the seat of power for the Hapsburg dynasty since 1279, now the sprawling palace is: the residence and workplace of the President of Austria, Austrian National Library (and Papyrus museum), Imperial Treasury - featuring the Austrian crown jewels, Albertina painting museum, Sisi Museum of art and imperial Apartments, Imperial Silver and Tableware Collection, Hofjagd- und Rüstkammer armor museum(part of the KHM group), Ephesos Museum of antiquities (KHM), Weltmuseum Wien ethnological museum (KHM), House of Austrian history museum, Collection of Ancient Musical Instruments (KHM), Austrian Film Museum, and Spanish Riding School where they teach horses to dance.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3649978,
+          48.2056453
+        ]
+      }
     }
   ]
 }
