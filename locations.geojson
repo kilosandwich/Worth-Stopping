@@ -18270,6 +18270,387 @@
           48.6681361
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "914",
+        "name": "Železniční muzeum Lužná u Rakovníka",
+        "street": "9. května 255, 270 51 Lužná v Čechách, Czechia",
+        "country": "CZE",
+        "website": "",
+        "description": "The Railway Museum is owned by Czech railways and covers the history of railways in Czechia from their foundation in the Austria-Hungarian Empire, to independence, to communist domination, to present. As a result the museum is a mixture of Austrian Railways, Czech, and Czech Communist locomotives.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7764148,
+          50.1460445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "915",
+        "name": "Vojenské technické muzeum Lešany",
+        "street": "Lešany 41, 257 41 Lešany, Czechia",
+        "country": "CZE",
+        "website": "http://www.vhu.cz/muzea/zakladni-informace-o-vtm-lesany/",
+        "description": "This is THE Czech tank museum. The Military Technical Museum Lešany has 350+ tanks and other vehicles representing Czech tank manufacturing, as well as Western and Eastern Bloc tanks. The museum is only open in the summer, but it's free.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5432313,
+          49.8547915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "916",
+        "name": "Vojenské muzeum na demarkační linii",
+        "street": "Šťáhlavská 1284, 337 01 Rokycany 1, Czechia",
+        "country": "CZE",
+        "website": "https://vojenskemuzeumrokycany.cz/",
+        "description": "This is the second largest tank museum in Czechia, featuring 190+ tanks and other vehicles. There's also a nature trail of Cold War and WW2 fortifications. This museum places a heavier emphasis on WW2 compared to the Military Technical Museum Lešany.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5858876,
+          49.7269924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "917",
+        "name": "Letecké muzeum Kbely",
+        "street": "Mladoboleslavská 425/9, 197 00 Kbely, Czechia",
+        "country": "CZE",
+        "website": "http://www.vhu.cz/muzea/zakladni-informace-o-lm-kbely/",
+        "description": "The Kbely Aviation Museum is the largest aviation museum in Czechia is located on the first air base established in the country. The collection mostly focuses on Czech aircraft during independence and Communist rule. There are 275+ aircraft here in 4 hangars, including a Tupolev Tu-104, Yak-24, and Soyuz space capsule",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5352869,
+          50.1248336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "918",
+        "name": "Muzeum městské hromadné dopravy",
+        "street": "Patočkova 132/2, 162 00 Praha 6-Střešovice, Czechia",
+        "country": "CZE",
+        "website": "http://muzeum.dpp.cz/",
+        "description": "The Museum of Public Transport in Prague hosts a fine collection of 50+ Communist trams and buses in the Střešovice depot.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3885291,
+          50.0941443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "919",
+        "name": "Dolní oblast Vítkovice",
+        "street": "Ruská 2993, 703 00 Ostrava 3, Czechia",
+        "country": "CZE",
+        "website": "http://www.dolnivitkovice.cz/",
+        "description": "The Vítkovice ironworks and mine have been the center of Czech steel production since the 19th century. The former site is now an open air-museum cultural complex, including: the National Agricultural Museum, The Science and Technology Centrum, a theater located in a gas tank, and the the Futureum art museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2799166,
+          49.8199309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "920",
+        "name": "Muzeum kočárů",
+        "street": "nám. Svobody 377, 798 58 Čechy pod Kosířem, Czechia",
+        "country": "CZE",
+        "website": "http://www.historickekocary.cz/",
+        "description": "The 70+ carriages at this museum are particularly ornate and capture Central European woodworking talent. The museum is only open in the summer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0339391,
+          49.5510864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "921",
+        "name": "Bouda (dělostřelecká tvrz)",
+        "street": "Těchonín 204, 561 66 Těchonín, Czechia",
+        "country": "CZE",
+        "website": "https://www.tvrzbouda.cz/",
+        "description": "Czechoslovakia built massive underground bunker complexes to protect themselves from German attack - only for these fortresses to be turned over without a fight after the Munich Betrayal in 1938. The Bouda Artillery Fortress is one of the most intact facilities remaining - despite the notable evidence of shelling.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6763453,
+          50.0690684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "922",
+        "name": "Hanička (dělostřelecká tvrz)",
+        "street": "Rokytnice v Orlických horách 70, 517 61 Rokytnice v Orlických horách, Czechia",
+        "country": "CZE",
+        "website": "http://www.hanicka.cz/",
+        "description": "The Hanička artillery fortress of the 1930s Czecoslovak fortifications was converted into a nuclear fallout shelter. The underground tour will take you between three separate interlinked artillery fortresses in the forest - but there are many more bunkers just off the main road.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5093812,
+          50.1963811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "923",
+        "name": "Chráněná krajinná oblast Broumovsko",
+        "street": "549 57 Adršpach-Teplice nad Metují, Czechia",
+        "country": "CZE",
+        "website": "http://broumovsko.ochranaprirody.cz/",
+        "description": "Sandstone spires form a city of pinnacles in the Broumovsko Protected Landscape Area, including the Adršpach-Teplice Rocks, Broumovské stěny, and Teplické skály.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1153992,
+          50.6098876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "924",
+        "name": "Stachelberg (dělostřelecká tvrz)",
+        "street": "Babí u, 541 01 Trutnov 1, Czechia",
+        "country": "CZE",
+        "website": "http://www.stachelberg.cz/",
+        "description": "The interconnected bunkers of the Stachelburg Artillery Fort was part of the Czechoslovakia Border Fortifications intended to defend against Nazi invasion -  only for it to be handed over to the Nazis without a fight following the Munich Betrayal. This is the largest fortress in Czechia, and features hiking trails between even more bunkers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9116256,
+          50.6306586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "925",
+        "name": "Čertovy hlavy",
+        "street": "http://www.obeczelizy.cz/index.php?nid=5962&lid=cs&oid=883836",
+        "country": "CZE",
+        "website": "http://www.obeczelizy.cz/index.php?nid=5962&lid=cs&oid=883836",
+        "description": "It's Mt. Rushmore, except haunted and Czech. In the 1840s a Czech artist carved terrifying massive faces into the stone. The weathering has made the carvings appear even more discomforting.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4644089,
+          50.4203425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "926",
+        "name": "Chráněná krajinná oblast Český ráj",
+        "street": "Blata 15, 506 01 Jičín 1, Czechia",
+        "country": "CZE",
+        "website": "http://www.prachovskeskaly.cz/",
+        "description": "Czech Paradise Protected Landscape Area is teeming with sandstone pinnacles and historical castles. This includes the Prachov Rocks, Příhrazské rocks, Hruboskalsko, and the Trosky castle ruins located on top of an extinct volcano.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2839896,
+          50.4681218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "927",
+        "name": "Chráněná krajinná oblast Labské pískovce",
+        "street": "Tisá 248, 403 36 Tisá, Czechia",
+        "country": "CZE",
+        "website": "",
+        "description": "That's right it's even more beautiful Czech mountains located in the Protected landscape area of Labská pískovec. This is the companion park to the much more popular Bohemian Switzerland National Park. The protected area notably includes the sandstone pillars of Tiské stěny, and the canyons of Kaňon Labe.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0285741,
+          50.7877791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "928",
+        "name": "Muzeum starých strojů a technologií",
+        "street": "Betlém 506, 564 01 Žamberk, Czechia",
+        "country": "CZE",
+        "website": "http://www.starestroje.eu/",
+        "description": "The Museum of Old Machines and Technology is a former Czech textile mill stuffed with 40+ antique cars, 20+ motorcycles, tractors, and locomotives,",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4580793,
+          50.0958168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "929",
+        "name": "Národní technické muzeum",
+        "street": "Kostelní 1320/42, 170 00 Praha 7-Letná, Czechia",
+        "country": "CZE",
+        "website": "http://www.ntm.cz/",
+        "description": "The Czech National Technical Museum is a sampler of all technologies the Czech have created. In this museum there are cars, trains, and airplanes manufactured in Czechia. Notable exhibits include Austria-Hungarian Emperor Franz Joseph's railcar, and antique vehicles by Tatra and Skoda. For more in depth museums for each of these technologies, consider the Lužná u Rakovníka Railway Museum (trains), Aircraft museum Kbely (planes), and Muzeum starých strojů a technologií (industrial equipment and cars).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4245525,
+          50.0973127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "930",
+        "name": "Armádní muzeum Žižkov",
+        "street": "U Památníku 1600/2, 130 00 Praha 3-Žižkov, Czechia",
+        "country": "CZE",
+        "website": "http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/",
+        "description": "Czechia historically was conquered a lot due to being a small nation stuck between the great powers of Europe - so they've done a lot of fighting. The  Žižkov army museum tells the story of the Czech armed forces from the independent Kingdoms of Bohemia and Moravia, to subjugation under the Hapsburg monarchy (and uprising against it during the Bohemian revolt) , to the fight for the Czechoslovak Republic following the collapse of Austria-Hungary, subjugation by the Nazis and Communists (and the revolt of the Prague Spring against communism), and finally modern independence.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4446883,
+          50.0873292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "931",
+        "name": "Národní park České Švýcarsko",
+        "street": "Hřensko 82, 407 17 Hřensko, Czechia",
+        "country": "CZE",
+        "website": "http://www.npcs.cz/",
+        "description": "Czech Switerland National Park is an area full of sandstone arches, gorges, and pillars that line the cliffs of the Elbe mountains.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3505876,
+          50.8713549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "932",
+        "name": "Nationalpark Sächsische Schweiz",
+        "street": "Basteiweg, 01824 Lohmen, Germany",
+        "country": "DEU",
+        "website": "https://www.nationalpark-saechsische-schweiz.de/",
+        "description": "Saxon Switzerland National Park is composed of rock pillars sticking out of the Elbe mountains. Notably, the Germans built the Bastei bridge through the pillars so you can admire them from the sky.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.072154,
+          50.961942
+        ]
+      }
     }
   ]
 }
