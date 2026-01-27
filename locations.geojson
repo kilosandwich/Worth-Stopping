@@ -18651,6 +18651,148 @@
           50.961942
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "933",
+        "name": "Park vojaške zgodovine Pivka",
+        "street": "Kolodvorska cesta 51, 6257 Pivka, Slovenia",
+        "country": "SVN",
+        "website": "http://www.parkvojaskezgodovine.si/",
+        "description": "The Pivka Park of Military History is the largest military museum in Slovenia. The museum features a strange mix of United States, Soviet Union, and Yugoslavian military vehicles and airplanes. A unique feature is the Yugoslavian Navy Una-class special operations submarine Zeta on display in the middle of the museum. There's also a 40 minute hike to the WW2 era Italian Alpine Wall Fortifications.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1884989,
+          45.6681544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "934",
+        "name": "Železniški muzej Slovenskih železnic",
+        "street": "Parmova ul., 351000 Ljubljana, Slovenia",
+        "country": "SVN",
+        "website": "https://www.zelezniskimuzej.si/",
+        "description": "Come see rusty Yugoslavian locomotives and some that are in good condition! The Slovenian Railway Museum features locomotives and equipment from Slovenian History. This includes 60+ locomotives and 50+ vehicles from the Austro-Hungarian Empire, to Yugoslavia, to independence.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5026743,
+          46.0625832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "935",
+        "name": "Regijski park Škocjanske jame",
+        "street": "Matavun 12, 6215 Divača, Slovenia",
+        "country": "SVN",
+        "website": "http://www.park-skocjanske-jame.si/",
+        "description": "The Škocjan Caves Regional Park features a massive underground canyon running through the middle, as well as a near vertical gorge on the exterior. There's also all the stalactites and stalagmites one would expect.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9889801,
+          45.6630052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "936",
+        "name": "Dimnice (jama)",
+        "street": "Markovščina, 6242 Materija, Slovenia",
+        "country": "SVN",
+        "website": "https://www.visitkras.info/en/the-dimnice-cave",
+        "description": "Dimnice Cave features a spiral staircase down the vertical mouth of the cave that feels as if you are descending into Hades.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0396451,
+          45.5637346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "937",
+        "name": "Postojnska jama",
+        "street": "Jamska cesta 30, 6230 Postojna, Slovenia",
+        "country": "SVN",
+        "website": "https://www.postojnska-jama.eu/sl/postojnska-jama/",
+        "description": "This is THE European cave. The Postojna Cave system is 15 miles of caves full of massive rooms that are so big they feel fake. There are rooms in the cave with space for 10,000+ people that are used as concert halls, towering pillars of stalactites and stalagmites, an underground post office, and electric trains haul tourists through the caverns so they can see all of it.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2037842,
+          45.7828407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "938",
+        "name": "Grad Predjama",
+        "street": "Predjama 1, 6230 Predjama, Slovenia",
+        "country": "SVN",
+        "website": "https://www.postojnska-jama.eu/sl/predjamski-grad/",
+        "description": "It's a renaissance castle built into a cave in a cliff.",
+        "worth stopping": true,
+        "museum": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1262919,
+          45.8157535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "939",
+        "name": "Triglavski narodni park",
+        "street": "Na logu v Trenti, 5232 Soča, Slovenia",
+        "country": "SVN",
+        "website": "https://www.tnp.si/sl/",
+        "description": "Triglav National park is Slovenia's only national park, and is centered around Mount Triglav in the Alps. Notable hikes include the Vintgar gorge, which features a series of wooden walkways to a waterfall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7897559,
+          46.3450127
+        ]
+      }
     }
   ]
 }
