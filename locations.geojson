@@ -18993,6 +18993,67 @@
           47.4863744
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "950",
+        "name": "Chráněná krajinná oblast Moravský kras",
+        "street": "678 25 Blansko-Jedovnice, Czechia",
+        "country": "CZE",
+        "website": "",
+        "description": "The Moravian Karst Protected Landscape Area covers the gorges and caves of the Moravian Karst - including the famous Macocha Abyss.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7281539,
+          49.3730559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "951",
+        "name": "Dobrošov (dělostřelecká tvrz)",
+        "street": "547 01 Náchod 1, Czechia",
+        "country": "CZE",
+        "website": "https://www.pevnost-dobrosov.cz/",
+        "description": "Dobrošov Artillery Fortress was part of the Czechoslovak border fortifications designed to protect the country from invasion against Nazi Germany. However, despite promises to defend democratic Czechoslovakia, the United Kingdom and France instead decided to hand over all of the fortifications to the Nazis following the Munich Betrayal. The fortifications of N-D-S 72 Můstek and N-D-S 72 Můstek are kept in great condition, and there are many more bunkers along trails if you want a nice stroll through the Czech countryside. .",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2016229,
+          50.4024693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "952",
+        "name": "N-S 82 Březinka",
+        "street": "Březinka, 547 01 Náchod 1, Czechia",
+        "country": "CZE",
+        "website": "https://www.brezinka.cz/",
+        "description": "N-S 82 Březinka was an infantry blockhouse part of the Czechoslovakian Border Fortifications that were meant to defend the country from Nazi invasion - and they would have if the British and French didn't instead decide to hand the country over to the Nazis. Březinka has been nearly entirely restored - and is in near pristine condition. Because it's part of a continuous line of fortifications, there are trails to even more bunkers and fortresses nearby.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1978105,
+          50.4151996
+        ]
+      }
     }
   ]
 }
