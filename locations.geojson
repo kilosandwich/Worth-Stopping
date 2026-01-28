@@ -12352,7 +12352,7 @@
         "street": "Key Largo, FL 33037",
         "country": "USA",
         "website": "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
-        "description": "Treal thing worth seeing here is all beneath the sea. Shipwrecks and coral reefs await.",
+        "description": "The real thing worth seeing here is all beneath the sea. Shipwrecks and coral reefs await.",
         "worth stopping": true,
         "park": true
       },
@@ -18791,6 +18791,206 @@
         "coordinates": [
           13.7897559,
           46.3450127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "940",
+        "name": "Eigiau Dam",
+        "street": "",
+        "country": "GBR",
+        "website": "https://www.snowdoniaguide.com/llyn_eigiau.html",
+        "description": "The Eigiau Dam failed in 1925, killing 16 people downstream. The dam now sits in ruins near Llyn Eigaiau.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9111,
+          53.1659687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "941",
+        "name": "Trianon Múzeum",
+        "street": "Várpalota, Gróf Apponyi Albert liget 1, 8100 Hungary",
+        "country": "HUN",
+        "website": "http://www.trianonmuzeum.hu/",
+        "description": "Hungary took the blame at the end of WW1 and was cut down to 1/3 of its pre-war area, with 31% of all Hungarians living outside of the new borders. The treaty has left such lasting resentment that the Trianon museum was opened to showcase the downsides of the treaty.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1373858,
+          47.1991808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "942",
+        "name": "Atomenergetikai Múzeum",
+        "street": "Paks, Gesztenyés u. 6/B, 7030 Hungary",
+        "country": "HUN",
+        "website": "http://muzeum.atomeromu.hu/",
+        "description": "Come learn about the Hungarian nuclear industry - which is really just a Soviet built reactor. You can see a replica of the the reactor at this museum - but the real thing is just down the road at a secured facility.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8370537,
+          46.619899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "943",
+        "name": "RepTár Szolnoki Repülőmúzeum",
+        "street": "Szolnok, Indóház u. 4-6, 5000 Hungary",
+        "country": "HUN",
+        "website": "http://reptar.hu/",
+        "description": "This is the Hungarian Aviation Museum. Unfortunately, Hungary doesn't particularly have an aerospace industry, so all the aircraft here are Soviet made.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1792294,
+          47.1675358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "944",
+        "name": "Magyar Vasúttörténeti Park",
+        "street": "Budapest, Tatai u. 95, 1142 Hungary",
+        "country": "HUN",
+        "website": "http://www.vasuttortenetipark.hu/",
+        "description": "The Hungarian Railway History Park is the main railway museum in Hungary, featuring 100+ railway vehicles from 1870s Austria-Hungary, to Communist domination, to the present. Including the streamlined MAV 242, streamlined Arpad diesel railcar which looks like it inspired the tabletop game Warhammer, and a miniature garden railway which you can ride around on.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0976794,
+          47.5421149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "945",
+        "name": "Hungarian Parliament Building",
+        "street": "Budapest, Kossuth Lajos tér 1-3, 1055 Hungary",
+        "country": "HUN",
+        "website": "https://www.parlament.hu/",
+        "description": "The Hungarian Parliament Building is the defining piece of Gothic Architecture - inside and outside. You will need to reserve a tour in advance.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0458849,
+          47.5071877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "946",
+        "name": "SMS Leitha (1871)",
+        "street": "Budapest, Id. Antall József rkp., 1055 Hungary",
+        "country": "HUN",
+        "website": "https://lajtamonitor.hu/",
+        "description": "The 1871 SMS Leitha was the first river monitor in Europe, it's also the last one afloat.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0447639,
+          47.5087003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "947",
+        "name": "Terror Háza Múzeum",
+        "street": "Budapest, Andrássy út 60, 1062 Hungary",
+        "country": "HUN",
+        "website": "https://www.terrorhaza.hu/hu/",
+        "description": "During communist rule, Hungary was brutally repressed by the State Protection Authority (ÁVH), attempts at reform were put down by military force during the Hungarian Revolution of 1956. The House of Terror is a memorial to fascist and communist rule and features ÁVH torture cells that tourists can go inside of.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0650946,
+          47.5068672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "948",
+        "name": "Halászbástya",
+        "street": "Budapest, 1014 Hungary",
+        "country": "HUN",
+        "website": "https://budavar.hu/halaszbastya/",
+        "description": "The Fisherman's Bastion fortress overlooks the city of Budapest from the west bank of the Danube. The Fortress was rebuilt as a Neo-Romanesque style castle in 1895.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0346011,
+          7.5027463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "949",
+        "name": "Közlekedési Múzeum",
+        "street": "Budapest, Kőbányai út 24-28, 1101 Hungary",
+        "country": "HUN",
+        "website": "http://www.azeszaki.hu/",
+        "description": "The Hungarian Technical and Transportation museum shows off Hungarian transportation from carriages to railroads to cars to airplanes. Yes they have the cool streamlined Arpad trains that look straight out of Warhammer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1109377,
+          47.4863744
         ]
       }
     }
