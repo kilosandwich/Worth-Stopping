@@ -19154,6 +19154,26 @@
           54.1416127
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "958",
+        "name": "Deutsches Technikmuseum",
+        "street": "Trebbiner Str. 9, 10963 Berlin, Germany",
+        "country": "DEU",
+        "website": "https://technikmuseum.berlin/",
+        "description": "Come see overly complex German technology at the German Museum of Technology. Featuring two railway roundhouses full of 40+ locomotives, 270+ cars, a railcar hall with 50+ municipal transport vehicles, and some planes.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3777866,
+          52.4985852
+        ]
+      }
     }
   ]
 }
