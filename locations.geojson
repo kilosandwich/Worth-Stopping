@@ -19054,6 +19054,106 @@
           50.4151996
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "953",
+        "name": "Deutsches Marinemuseum",
+        "street": "Südstrand 125, 26382 Wilhelmshaven, Germany",
+        "country": "DEU",
+        "website": "http://www.marinemuseum.de/",
+        "description": "The German Naval Museum focuses on the history of the German Navy, and features 5 prominent warships: an East German Libelle class torpedo boat, the Cold War era Type 205 submarine U-10, a Lindau-class minehunter, a Gepard-class fast attack craft, and the Lütjens-class missile destroyer Mölders.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1401393,
+          53.5132524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "954",
+        "name": "Deutsches Schifffahrtsmuseum",
+        "street": "Hans-Scharoun-Platz 1, 27568 Bremerhaven, Germany",
+        "country": "DEU",
+        "website": "https://www.dsm.museum/",
+        "description": "The German Maritime Museum tells the story of German maritime history - including the bits from 1914-1945. The museum features the WW2 era Type XXI submarine Wilhelm Bauer, the 1924 ocean tug Seefalke, the 1940 whaling ship Rau IX, the 1908 lightship Bürgermeister Abendroth, and some other submarines and hydrofoils inside the museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5768633,
+          53.5401589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "955",
+        "name": "Soviet submarine B-515",
+        "street": "St. Pauli Fischmarkt 10, 20359 Hamburg, Germany",
+        "country": "DEU",
+        "website": "http://www.u-434.de/",
+        "description": "Tour the 1976 Soviet Tango-class submarine B-515, recently renamed U-434. This is the nicest Soviet Submarine in Germany - the other one is much rustier.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9551689,
+          53.5450256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "956",
+        "name": "Historisch-Technisches Museum Peenemünde",
+        "street": "Im Kraftwerk, 17449 Peenemünde, Germany",
+        "country": "DEU",
+        "website": "http://www.museum-peenemuende.de/",
+        "description": "The Peenemünde Historical Technical Museum is set in an old power station and features the history of the development of modern ballistic rockets. For some reason there's also the Soviet 1963 Juliett-class nuclear ballistic missile submarine U-461 docked nearby, and the Tarantul-class corvette Hans Beilmer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7682564,
+          54.1369256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "957",
+        "name": "Rostock Schifffahrtsmuseum",
+        "street": "Schmarl Dorf 40, 18106 Rostock, Germany",
+        "country": "DEU",
+        "website": "http://www.schifffahrtsmuseum-rostock.de/",
+        "description": "The Rostock Shipbuilding and Shipping Museum possesses the 1958 East German cargo ship Dresden. See the might of East German shipping.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0861623,
+          54.1416127
+        ]
+      }
     }
   ]
 }
