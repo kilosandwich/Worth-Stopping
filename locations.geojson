@@ -19174,6 +19174,626 @@
           52.4985852
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "959",
+        "name": "Cap San Diego",
+        "street": "Überseebrücke, 20459 Hamburg, Germany",
+        "country": "DEU",
+        "website": "https://www.capsandiego.de/",
+        "description": "Come see the 1961 museum ship MS Cap San Diego - the pinnacle of West German Shipbuilding before containerization took over the industry.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9753575,
+          53.5432232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "960",
+        "name": "KZ Neuengamme",
+        "street": "Jean-Dolidier-Weg 75, 21039 Hamburg, Germany",
+        "country": "DEU",
+        "website": "http://www.kz-gedenkstaette-neuengamme.de/",
+        "description": "42,000+ people were killed by the Nazis at Neuengamme Concentration Camp between 1938-and 1945. Those that did survive were put on death marches, or loaded into empty passenger ships that were later sunk. The victorious allies later used the concentration camp as a prison for Nazis, and later as a state prison, then juvenile detention center until 2003.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2265962,
+          53.4275445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "961",
+        "name": "Deutsches Erdölmuseum Wietze",
+        "street": "Schwarzer Weg 7-9, 29323 Wietze, Germany",
+        "country": "DEU",
+        "website": "http://www.erdoelmuseum.de/",
+        "description": "The Germans love overly complicated machinery, and overly complicated machinery needs oil to run. Come see how Germany extracted oil at the German Oil Museum. 80% of all German oil production came from the surroundings of this museum. The museum features a lot of really tall oil rigs from 1899-present.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8334303,
+          52.6598731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "962",
+        "name": "Hubschraubermuseum Bückeburg",
+        "street": "Hubschraubermuseum, Sable-Platz 6, 31675 Bückeburg, Germany",
+        "country": "DEU",
+        "website": "http://www.hubschraubermuseum.de/",
+        "description": "Germany developed the first practical helicopter in 1936, come see the FW 61 and 53+ other helicopters at the Bückeburg Helicopter Museum. The museum also features the first British production helicopter (Bristol 171-Mk. 52), the experimental helicopters of Gerard Georges de Vastey, and the replica of the first helicopter to ever achieve flight in 1907.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.04638,
+          52.2613271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "963",
+        "name": "Externsteine",
+        "street": "Infozentrum Externsteine, 32805 Horn-Bad Meinberg, Germany",
+        "country": "DEU",
+        "website": "http://www.externsteine-info.de/",
+        "description": "40-metre sandstone rock pillars carved with religious imagery rise out of the Teutoberg Forest. There's staircases so you can climb to the very top of the spires.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9173727,
+          51.8688546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "964",
+        "name": "LVR-Archäologischer Park Xanten",
+        "street": "Am Rheintor, 46509 Xanten, Germany",
+        "country": "DEU",
+        "website": "https://apx.lvr.de/",
+        "description": "The Roman Empire made it all the way up to Germany, and this archaeological park delves into the remains of the Roman colony of Colonia Ulpia Traiana. The ruins feature a mini version of the Colosseum, a temple, and gatehouse. There's also replicas of Roman ships.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4510748,
+          51.6665852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "965",
+        "name": "Eisenbahnmuseum Bochum",
+        "street": "Dr.-C.-Otto-Straße 191, 44879 Bochum, Germany",
+        "country": "DEU",
+        "website": "http://www.eisenbahnmuseum-bochum.de/",
+        "description": "The Bochum Railway museum features 120+ rail vehicles from 1853-1976 . Unique exhibits include a maglev, and a railbus - it's literally just a bus with train wheels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1261048,
+          51.4325893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "966",
+        "name": "Deutsches Bergbau-Museum Bochum",
+        "street": "Am Bergbaumuseum 28, 44791 Bochum, Germany",
+        "country": "DEU",
+        "website": "https://www.bergbaumuseum.de/",
+        "description": "The German Mining Museum Bochum is a mine - in the middle of a city. You can learn about German mining, and actually go into the mine itself - which was built explicitly for tourism.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2167461,
+          51.4887358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "967",
+        "name": "Flugausstellung Peter Junior",
+        "street": "Habersberg 1, 54411 Hermeskeil, Germany",
+        "country": "DEU",
+        "website": "http://www.flugausstellung.de/",
+        "description": "The Peter Junior Air Show is a private air museum with 100+ aircraft, including a replica of the Concorde which has been made into a café. There's also various Soviet and British airliners. The aircraft have very little fencing protecting them, so you can go right up to most of them.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.960221,
+          49.6850785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "968",
+        "name": "Museum für Antike Schifffahrt",
+        "street": "Neutorstraße 2b, 55116 Mainz, Germany",
+        "country": "DEU",
+        "website": "https://www.leiza.de/museen/museum-fuer-antike-schifffahrt",
+        "description": "Come see actual Roman ships! Five Roman ships were discovered near Mainz on the Rhine in 1981, the remains were put inside the Museum of Ancient Seafaring, and full sized replicas were built of each of the ships.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2802029,
+          49.9940482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "969",
+        "name": "Eisenbahnmuseum Darmstadt-Kranichstein",
+        "street": "Steinstraße 7, 64291 Darmstadt, Germany",
+        "country": "DEU",
+        "website": "https://www.bahnwelt.de/",
+        "description": "The Darmstadt-Kranichstein Railway Museum features 200+ vehicles. It's not the most specialized Railway museum in Germany, but it is one of the biggest.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6790566,
+          49.9077474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "970",
+        "name": "Schloss Bruchsal",
+        "street": "Schloßraum 4, 76646 Bruchsal, Germany",
+        "country": "DEU",
+        "website": "http://www.schloss-bruchsal.de/",
+        "description": "Sure Castle Bruschal is the really pretty palace of the Prince-Bishopric of the Imperial City of Speyer, but it's also home of the Deutsches Musikautomaten-Museum (German Music Machine Museum) - featuring a replica of the RMS Titanic's organ, and the Municipal History Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5978218,
+          49.1287932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "971",
+        "name": "Dornier Museum Friedrichshafen",
+        "street": "Claude-Dornier-Platz 1, 88046 Friedrichshafen, Germany",
+        "country": "DEU",
+        "website": "Claude-Dornier-Platz 1, 88046 Friedrichshafen, Germany",
+        "description": "Dornier was a German aircraft manufacturer from 1914-1996, during their operation Dornier produced massive flying boats, and experimental aircraft. The vertical takeoff cargo aircraft the Do 31, and the flying boats Do24, N25, and some satellites are here at the museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5175472,
+          47.670511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "972",
+        "name": "Schloss Nymphenburg",
+        "street": "80638 Munich, Germany",
+        "country": "DEU",
+        "website": "https://www.schloss-nymphenburg.de/",
+        "description": "It's Bavarian Versailles. The Nymphenburg Palace was the summer Palace of the King of Bavaria from 1663 until the dissolution of German nobility in 1918. As Bavaria was one of the largest and wealthiest German states, the palace is one of the largest and most opulent. The massive palace complex is filled with museums, including the Museum of Man and Nature, and the Marstallmuseum (carriage museum) featuring 40+ preposterously ornate carriages.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5034177,
+          48.1579912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "973",
+        "name": "KZ Dachau",
+        "street": "Pater-Roth-Straße 2A, 85221 Dachau, Germany",
+        "country": "DEU",
+        "website": "http://www.kz-gedenkstaette-dachau.de/",
+        "description": "Dachau Concentration Camp was one of the first Nazi concentration camps, and 41,500+ people were killed here either through murder, neglect, or in experiments. After the war the camp was used to hold Nazi war criminals for trial.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4687632,
+          48.2681892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "974",
+        "name": "Kehlsteinhaus",
+        "street": "Kehlsteinhaus, 83471 Berchtesgaden, Germany",
+        "country": "DEU",
+        "website": "https://www.kehlsteinhaus.de/",
+        "description": "The Eagle's Next has a restaurant at the top of a mountain, beautiful trails and a striking view of the mountains and valleys surrounding it. There's a bus from the Dokumentationszentrum that will take you to the elevator if you don't want to do the 4-hour round trip hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0420185,
+          47.611417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "975",
+        "name": "Dokumentationszentrum Reichsparteitagsgelände",
+        "street": "Bayernstraße 110, 90478 Nürnberg, Germany",
+        "country": "DEU",
+        "website": "https://museen.nuernberg.de/dokuzentrum/",
+        "description": "The Nazi Party Rally Grounds in Nuremburg now lay in ruins like their failed ideology. The Documentation Center on the grounds tells the story of the showmanship and consequences of National Socialism, as well as the Nuremburg Trials where those that committed crimes against humanity met their deserved end.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1119494,
+          49.4324722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "976",
+        "name": "KZ Flossenbürg",
+        "street": "Gedächtnisallee 5, 92696 Flossenbürg, Germany",
+        "country": "DEU",
+        "website": "http://www.gedenkstaette-flossenbuerg.de/",
+        "description": "The Flossenbürg concentration camp killed 30,000 people during the forced labor in the granite quarries and Messerschmitt factories. This is not a happy place.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3540212,
+          49.7368567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "977",
+        "name": "KZ Mittelbau-Dora",
+        "street": "Kohnsteinweg 20, 99734 Nordhausen, Germany",
+        "country": "DEU",
+        "website": "https://www.dora.de/",
+        "description": "Mittelbau-Dora concentration camp is where 20,000+ people were killed. The slaves at the camp were forced to dig tunnels for the production of V-1 flying bombs and V-2 rockets. The tunnels still stand so that the horror can be toured.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7494897,
+          51.5350824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "978",
+        "name": "Stasi-Bunker Lübschützer Teiche",
+        "street": "Lübschützer Teiche, 04827 Machern, Germany",
+        "country": "DEU",
+        "website": "http://www.runde-ecke-leipzig.de/index.php?id=253&L=608",
+        "description": "The oppressive Stasi (Ministry of State Security) built bunkers to continue their stranglehold over East German freedom in the event of nuclear war. See how the secret police intended to survive the apocalypse at the Stasi-bunker.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.644559,
+          51.3789237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "979",
+        "name": "Sächsisches Eisenbahnmuseum",
+        "street": "An d. Dresdner Bahnlinie 130c, 09131 Chemnitz, Germany",
+        "country": "DEU",
+        "website": "https://www.sem-chemnitz.de/",
+        "description": "The Saxon Railway Museum is two railway roundhouses filled with 77+ railway vehicles, including the aerodynamic VT 18.16.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9661592,
+          50.861678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "980",
+        "name": "KZ Sachsenhausen",
+        "street": "Str. d. Nationen 22, 16515 Oranienburg, Germany",
+        "country": "DEU",
+        "website": "https://www.sachsenhausen-sbg.de/",
+        "description": "Sachsenhausen Concentration Camp killed 10,000+ people just outside of Berlin. After the war, the Soviets NKVD used it as a gulag for 60,000+ people.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2630761,
+          52.7659098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "981",
+        "name": "KZ Ravensbrück",
+        "street": "Str. d. Nationen 1, 16798 Fürstenberg/Havel, Germany",
+        "country": "DEU",
+        "website": "https://www.ravensbrueck-sbg.de/",
+        "description": "Ravensbrück Concentration Camp was primarily for women, and 90,000+ of them were killed here in gas chambers, forced labor, death marches, murder, human experimentation, and deliberate neglect.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1632584,
+          53.1913792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "982",
+        "name": "U 995",
+        "street": "Strandstraße 92, 24235 Laboe, Germany",
+        "country": "DEU",
+        "website": "https://deutscher-marinebund.de/marine-ehrenmal-u-995/technisches-museum-u-995/",
+        "description": "The only place in the world you can go to the beach and go on a U-boat. The WW2 era Type VIIC/41 submarine U-995 is now a museum on the beach in Laboe.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2286818,
+          54.412293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "983",
+        "name": "U 11 (U-Boot, 1968)",
+        "street": "Burgstaaken 87, 23769 Fehmarn, Germany",
+        "country": "DEU",
+        "website": "https://www.ostsee-u-boot.de/",
+        "description": "The U-Boo-Museum Fehmarn has the Cold War era Type 205 Submarine U-11 available for tour. This is the most modern submarine available for tour in Northern Germany.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1922377,
+          54.4195317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "984",
+        "name": "Internationales Feuerwehrmuseum Schwerin",
+        "street": "Hamburger Allee 68, 19063 Schwerin, Germany",
+        "country": "DEU",
+        "website": "http://ifm-schwerin.com/",
+        "description": "Ever wanted to know how Communist East Germany fought fires? The International Fire Department Museum Schwerin has 112+ mostly East German firefighting vehicles. There's also little fire department displays for various countries to show off their firefighting history - including England, Poland, Switzerland, Czechia, France, The Netherlands, Denmark, the Soviet Union, and Austria.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4556128,
+          53.5939734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "985",
+        "name": "Technik-Museum Pütnitz",
+        "street": "Flugplatzallee 5, 18311 Ribnitz-Damgarten, Germany",
+        "country": "DEU",
+        "website": "https://technikmuseum-puetnitz.de/",
+        "description": "This is THE East German vehicle museum. You can drive Soviet vehicles here - including the big ones. The Pütnitz Technology Museum is stuffed into three former Soviet Air Force Hangars. It features East German vehicles in three separate halls:  a hall dedicated to Military Wheeled Vehicles, a hall of  Civil Vehicles, and a hall full of tracked military vehicles and aircraft.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.414625,
+          54.2661384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "986",
+        "name": "Otto-Lilienthal-Museum",
+        "street": "Ellbogenstraße 1, 17389 Anklam, Germany",
+        "country": "DEU",
+        "website": "http://lilienthal-museum.de/olma/home.htm",
+        "description": "Inventing flight is really hard. Otto Lilienthal was the first person to make repeated documented glider flights that would inspire the Wright Brother's development of the first aircraft. The Otto Lilienthal Museum features replicas of all of Lilienthal's known designs.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7042575,
+          53.8536335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "987",
+        "name": "Nautineum Dänholm",
+        "street": "Zum Kleinen Dänholm, 18439 Stralsund, Germany",
+        "country": "DEU",
+        "website": "https://www.deutsches-meeresmuseum.de/nautineum",
+        "description": "This maritime museum features underwater laboratories and research submarines, including the underwater laboratory Heligoland and the underwater station BAH1. They're basically underwater houses. The museum has been closed to the public since 2022 - but it will reopen eventually.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1186839,
+          54.3052543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "988",
+        "name": "Otus (U-Boot, 1963)",
+        "street": "Hafenstraße 18, 18546 Sassnitz, Germany",
+        "country": "DEU",
+        "website": "https://www.hms-otus.com/",
+        "description": "The Cold War era Oberon-class submarine HMS Otus served in the Falklands and Gulf War, and is now a museum ship in Germany after being privately purchased.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6413792,
+          54.5122081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "989",
+        "name": "Oldtimer Museum Rügen",
+        "street": "Proraer Allee 119, 18609 Binz, Germany",
+        "country": "DEU",
+        "website": "http://oldtimer-museum-ruegen.de/",
+        "description": "The Oldtimer Museum is a few massive falls filled with trains, planes, and 80+ automobiles. Notably the museum features the streamlined Soviet locomotive SDC class P36, East German cars and their West German counterparts displayed side by side,and a museum dedicated to the National People's Army of East Germany .",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5673925,
+          54.4439902
+        ]
+      }
     }
   ]
 }
