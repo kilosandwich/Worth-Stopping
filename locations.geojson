@@ -18000,6 +18000,7 @@
         "website": "https://www.schoenbrunn.at/",
         "description": "The Schönbrunn Palace is the Austria-Hungarian version of Versailles. The 400 acres of the grounds are home to the the Kaiserliche Wagenburg (Imperial Carriage Museum) consisting of the vehicles of Holy Roman Empire, Austrian Empire, and Austria-Hungary; the Tiergarten Schönbrunn zoo (est. 1752); and gardens.",
         "worth stopping": true,
+        "park": true,
         "museum": true,
         "architecture": true
       },
@@ -19913,6 +19914,168 @@
         "coordinates": [
           14.9956672,
           37.7532564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "996",
+        "name": "Paestum",
+        "street": "Via Magna Graecia, 919, 84047 Capaccio Paestum SA, Italy",
+        "country": "ITA",
+        "website": "https://museopaestum.cultura.gov.it/",
+        "description": "The ruins of the ancient Greek city of Paestum contain three fairly intact temples, an amphitheater, swimming pool, and council chamber. The ancient Greeks here were later assimilated by the nearby Romans - but the architecture remains distinctly Greek.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.005028,
+          40.4197162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "997",
+        "name": "Pompeii",
+        "street": "80045 Pompei, Metropolitan City of Naples, Italy",
+        "country": "ITA",
+        "website": "https://pompeiisites.org/",
+        "description": "The Roman city of Pompei was buried in scorching ash clouds by the 79AD volcanic eruption of Mount Vesuvius. As a result, the city was largely preserved, and gaps in the ash allowed for the creation of plaster casts of the inhabitants as they were when they died.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4884797,
+          40.7509524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "998",
+        "name": "Parco nazionale del Vesuvio",
+        "street": "Sentiero del Gran Cono, 80056 Ercolano NA, Italy",
+        "country": "ITA",
+        "website": "https://www.parconazionaledelvesuvio.it/",
+        "description": "Mount Vesuvius National Park is centered on the 4,203ft tall active stratovolcano Vesuvius. Historically, Vesuvius has erupted and destroyed the cities surrounding it -but that hasn't stopped 600,000 people from living right next to it. At the national park, you can hike around and up to the rim of the volcano and see the smoldering crater.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4263518,
+          40.8216848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "999",
+        "name": "Herculaneum",
+        "street": "Corso Resina, 187, 80056 Ercolano NA, Italy",
+        "country": "ITA",
+        "website": "https://ercolano.cultura.gov.it/",
+        "description": "The Roman luxury seaside resort of Herculaneum was buried under the pyroclastic flow of the eruption of Mount Vesuvius in 79AD. Due to being buried by pyroclastic materials, the ruins of the city are better preserved than at nearby Pompei - there's still paint on the buildings. However, unlike Pompei there's no horrifying plaster casts of the dead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3472279,
+          40.805956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1000",
+        "name": "Museo nazionale ferroviario di Pietrarsa",
+        "street": "Via Pietrarsa, 80146 Napoli NA, Italy",
+        "country": "ITA",
+        "website": "http://www.fondazionefs.it/",
+        "description": "This is THE Italian train museum - and it's one of the few railway museums on oceanfront property. The museum is located inside a former locomotive factory and features 50+ locomotives including: a replica of the first Italian locomotive (Bayard Locomotive), a cube shaped steam locomotive, some streamlined diesel railcars, and the carriage of the Italian King.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3213583,
+          40.8218798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1001",
+        "name": "Galleria Borbonica",
+        "street": "Vico del Grottone, 3, 80132 Napoli NA, Italy",
+        "country": "ITA",
+        "website": "http://www.galleriaborbonica.com/",
+        "description": "The Bourbon Tunnel is an escape tunnel from the Royal Palace of Naples to nearby military barracks. The tunnel was later used as a bomb shelter during WW2 and contains wreckage of cars from Fascist Italy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2462028,
+          40.8354775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1002",
+        "name": "Reggia di Caserta",
+        "street": "Piazza Carlo di Borbone, 81100 Caserta CE, Italy",
+        "country": "ITA",
+        "website": "https://reggiadicaserta.cultura.gov.it/",
+        "description": "It's Neapolitan Versailles. The Royal Palace of Caserta was built as the main residence for the Kingdom of Naples (later the Kingdom of the Two Sicilies) in 1774, and is a sprawling palace and garden complex complete with massive artificial waterfall.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3263875,
+          41.0728591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1003",
+        "name": "Grotte di Castellana",
+        "street": "Piazza Franco Anelli, 70013 Castellana Grotte BA, Italy",
+        "country": "ITA",
+        "website": "https://www.grottedicastellana.it/",
+        "description": "The Castellana Caves are characterized by a dramatic opening in the roof of the cave shining bright light upon the green stalagmites in a massive alcove.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1479581,
+          40.8758782
         ]
       }
     }
