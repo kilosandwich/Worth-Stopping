@@ -20078,6 +20078,390 @@
           40.8758782
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1004",
+        "name": "Soratte Bunker",
+        "street": "00060 Sant Oreste, Metropolitan City of Rome Capital, Italy",
+        "country": "ITA",
+        "website": "http://www.bunkersoratte.it/",
+        "description": "See how the Italians prepared for nuclear Armageddon at Bunker Soratte. Bunker Soratte was built in 1937 as a way to house the Italian Government and Military Command in case of wartime. During the Cold War, it transitioned to a continuity-of-government bunker in the event of nuclear war. There's 2.4km of tunnels to explore - reservations are required in advance.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5114693,
+          42.2369384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1005",
+        "name": "Cascata delle Marmore",
+        "street": "Via Strada Statale Valnerina, 05100 Terni TR, Italy",
+        "country": "ITA",
+        "website": "",
+        "description": "In 271BC the Romans diverted the Velino river during land reclamation efforts, and as a result created the tallest artificial waterfall in the world at 541ft tall.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7148899,
+          42.5511829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1006",
+        "name": "Museo storico dell Aeronautica Militare",
+        "street": "Via Circumlacuale, 00062 Vigna di Valle RM, Italy",
+        "country": "ITA",
+        "website": "https://www.aeronautica.difesa.it/home/storia-e-tradizione/museo-storico/",
+        "description": "This is THE Italian aircraft museum. The Italian Air Force Museum is located at the first Italian airport and features 80+ aircraft, including: the double-decker Savoia-Marchetti SM82, S.56 flying boat, Macchi MC202 fighter, seaplane speed record holder Macchi-Castoldi MC72, the WW1 bomber Caproni Ca.36, and the CANT Z.506 trimotor seaplane,",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2147687,
+          42.0859803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1007",
+        "name": "Villa Adriana",
+        "street": "Largo Marguerite Yourcenar, 1, 00010 Tivoli RM, Italy",
+        "country": "ITA",
+        "website": "https://villae.cultura.gov.it/i-luoghi/villa-adriana/",
+        "description": "Hadrian's Villa is the ruins of the palace built by Roman Emperor Hadrian in 120AD. The massive complex of 30+ buildings contains theaters, bathhouses, temples, and sculpture gardens. the entire complex is a couple square kilometers, so set aside a lot of time if you want to see everything.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7755727,
+          41.9417274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1008",
+        "name": "Terme di Diocleziano",
+        "street": "Viale Enrico de Nicola, 78, 00185 Roma RM, Italy",
+        "country": "ITA",
+        "website": "https://museonazionaleromano.beniculturali.it/",
+        "description": "The Baths of Diocletian are the largest imperial Roman bathhouses and were built in 306AD. Unlike most Roman bathhouses, the structure and roof remain intact due to being converted into two separate churches and a section of the National Roman Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4980975,
+          41.903327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1009",
+        "name": "Colosseo",
+        "street": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "country": "ITA",
+        "website": "https://colosseo.it/",
+        "description": "The Colosseum is the largest ancient amphitheater ever built - capable of holding 80,000 spectators across its three tiers. The Colosseum was built in 80AD and was used for gladiator fights, animal hunts, public executions, and simulated sea battles.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4919724,
+          41.8903603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1010",
+        "name": "Circo Massimo",
+        "street": "00186 Rome, Metropolitan City of Rome Capital, Italy",
+        "country": "ITA",
+        "website": "https://sovraintendenzaroma.it/content/circo-massimo-2",
+        "description": "Humanity has thought that racing has been awesome forever - which is why the Romans built a racetrack where 150,000+ spectators could watch chariot-racing. This is the largest stadium in all of ancient Rome, and is now just a public park.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4857015,
+          41.8860925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1011",
+        "name": "Pantheon (Roma)",
+        "street": "Piazza della Rotonda, 00186 Roma RM, Italy",
+        "country": "ITA",
+        "website": "https://direzionemuseiroma.cultura.gov.it/pantheon/",
+        "description": "The Pantheon was built in 126AD with the largest unreinforced concrete dome ever built. The building looks great and is in a central locations - which means that it has been preserved through being in continuous use.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4768439,
+          41.8986266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1012",
+        "name": "Vittoriano",
+        "street": "Piazza Venezia, 00186 Roma RM, Italy",
+        "country": "ITA",
+        "website": "https://vive.cultura.gov.it/it/",
+        "description": "The Victor Emmanuel II monument to Italian unification is also home to the Museo centrale del Risorgimento al Vittoriano (Central Museum of Italian Unification). and Sacrario delle Bandiere (Shrine of the Flags). The shrine of the flags includes flags from Italian military units, as well as the torpedo boat MAS 15 which sunk the battleship SMS Szent Istvan.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4829041,
+          41.8945583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1013",
+        "name": "Parco Naturale Regionale dell Antichissima Città di Sutri",
+        "street": "SS2, 01015 Sutri VT, Italy",
+        "country": "ITA",
+        "website": "https://www.archeoares.it/anfiteatro-e-parco-archeologico-di-sutri/",
+        "description": "The ancient city of Sutri includes a necropolis built into the cliffside, an amphiteater, and an underground church which was once used to worship the god Mitra.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2280909,
+          42.2389969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1014",
+        "name": "Forte Montecchio Nord",
+        "street": "Via alle Torri, 8, 23823 Colico LC, Italy",
+        "country": "ITA",
+        "website": "https://www.fortemontecchionord.it/",
+        "description": "Italy built Fort Montecchio North in 1914 to defend against possible Austria-Hungary invasion through Switzerland - which never ended up happening. As a result, the fortress is the best preserved of any of the Italian border fortifications and still has its original artillery cupolas. The fort itself is located at a highpoint with a commanding view of the valley and Lake Como, so it's well worth a visit for the scenic panoramas alone.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38231,
+          46.1440984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1015",
+        "name": "Diga del Vajont",
+        "street": "Strada Regionale, 251, 33080 Pordenone PN, Italy",
+        "country": "ITA",
+        "website": "http://www.turismofvg.it/Monumenti-e-siti-storici/Diga-del-Vajont",
+        "description": "The 860ft Vajont Dam was built by the Italian government, who also concealed reports that a mountain on the lake was geologically unstable. On October 9, 1963 during the process of filling the reservoir, the side of the mountain collapsed into the lake, creating a 820ft tall wave that destroyed the towns in the valley below - killing 2,056 people. The dam and the dry reservoir below are now available for guided tours.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3278096,
+          46.2674275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1016",
+        "name": "Mirabilandia",
+        "street": "SS16, 48125 Savio RA, Italy",
+        "country": "ITA",
+        "website": "https://www.mirabilandia.it/",
+        "description": "Mirabilandia is the largest theme park in Italy, featuring 10 rollercoasters, including one resembling a speeding Italian sports car, a pair of dueling motorcycle coasters, a mobius loop dueling coaster, and the tallest water coaster in the world (164ft).",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2640942,
+          44.3368677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1017",
+        "name": "Museo della civiltà romana",
+        "street": "Piazza Giovanni Agnelli, 10, 00144 Roma RM, Italy",
+        "country": "ITA",
+        "website": "http://www.museociviltaromana.it/",
+        "description": "Ever wondered what Ancient Rome looked like at its peak? The Museum of Roman Civilization has a scale model of the entire city depicting just that. There's also a bunch of sculptures and historical artifacts.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4782287,
+          41.8313813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1018",
+        "name": "Museo delle carrozze d epoca",
+        "street": "Via Andrea Millevoi, 693, 00178 Roma RM, Italy",
+        "country": "ITA",
+        "website": "https://www.lecarrozzedepoca.it/",
+        "description": "The Museum of Vintage Carriages contains 300+ carriages and chariots from movies filmed in Italy - which means there's a lot of Wild West carriages here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5193996,
+          41.8184452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1019",
+        "name": "Museo storico della motorizzazione militare",
+        "street": "V.le dell Esercito, 170, 00100 Roma RM, Italy",
+        "country": "ITA",
+        "website": "https://www.esercito.difesa.it/",
+        "description": "The Museum of Military Motorization is the only museum dedicated to military vehicles, and has 300+ trucks, cars, armored vehicles, motorcycles, and tanks. You will have to cross a military checkpoint to tour the museum - so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978699,
+          41.8051649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1020",
+        "name": "Parco archeologico di Ostia antica",
+        "street": "Viale dei Romagnoli, 717, 00119 Roma RM, Italy",
+        "country": "ITA",
+        "website": "https://www.ostiaantica.beniculturali.it/",
+        "description": "The ancient Roman port city of Ostia is 150 hectares of ruins on the River Tiber. The park isn't just confined to the city of Ostia, but also includes the Castle of Julius II, the Imperial Ports of Claudius and Trajan, the Museo Dell Navi Romane, and the Necropolois of Porto Isola Sacra. All the sites are located off the same road within a 3 mile stretch.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2912242,
+          41.7558209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1021",
+        "name": "Castel Sant Angelo",
+        "street": "Lungotevere Castello, 50, 00193 Roma RM, Italy",
+        "country": "ITA",
+        "website": "http://castelsantangelo.beniculturali.it/",
+        "description": "Wow, what a cool looking castle, I bet it's from the Renaissance era - nope - it's from 139AD. This Roman mausoleum was later turned into a fortress and prison.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4661377,
+          41.9033812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1022",
+        "name": "Musei Vaticani",
+        "street": "00120 Vatican City",
+        "country": "VAT",
+        "website": "https://www.museivaticani.va/content/museivaticani/it.html",
+        "description": "The Catholic Church in the Vatican City has collected around 10% of the income of 1.272 billion of its members during its existence. This means the museums here are really really nice, including the Sistine Chapel, Pinacoteca Vaticana art museum, Collection of Modern Religious Arts, Museo Pio-Clementino and Museo Chiaramonti sculpture museums, Museo Gregoriano Etrusco and Museo Gregorizano Egiziano museum of Etruscan and Egyptian artifacts, and the Vatican Historical Museum.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4532352,
+          41.9058821
+        ]
+      }
     }
   ]
 }
