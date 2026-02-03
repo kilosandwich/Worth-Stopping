@@ -19794,6 +19794,127 @@
           54.4439902
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "990",
+        "name": "Miniera di Serbariu",
+        "street": "Grande, Miniera di Serbariu, 09013 Carbonia SU, Italy",
+        "country": "ITA",
+        "website": "http://www.museodelcarbone.it/",
+        "description": "The 1937 Serbariu Coal Mine on Sardinia is now a museum that offers tours of the mine (reservations required). The surface of the mine is reflects design patterns of the 1930s, so the whole facility has an oddly art deco feel to it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5113773,
+          39.1593419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "991",
+        "name": "Segesta",
+        "street": "Contrada Barbaro, SR, 22, 91013 Calatafimi TP, Italy",
+        "country": "ITA",
+        "website": "https://parchiarcheologici.regione.sicilia.it/segesta/",
+        "description": "Legends are that the city of Segesta was founded by Trojan refugees. The ruins of the city now lay on top of a mountain, with a well preserved ancient Greek temple and theater situated on the edge of the mountainside.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.835054,
+          37.9415821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "992",
+        "name": "Selinunte",
+        "street": "Piazzale Bovio Marconi, 91022 Marinella TP, Italy",
+        "country": "ITA",
+        "website": "https://parchiarcheologici.regione.sicilia.it/selinunte-cave-cusa-pantelleria/",
+        "description": "The ancient city of Selinute has the ruins of an entire ancient Greek city and eight temples - and one of them has been reconstructed. It's kind of like running around 8 mini Parthenons with a beach view.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8364667,
+          37.5846721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "993",
+        "name": "Valle dei Templi",
+        "street": "92100 Agrigento, Free municipal consortium of Agrigento, Italy",
+        "country": "ITA",
+        "website": "https://www.parcovalledeitempli.it/",
+        "description": "A series of 7 ancient Greek temples lines the ridge of Agrigento. The mostly intact Temple of Concordia and the Temple of Hera are the standout attractions",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5919699,
+          37.2897025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "994",
+        "name": "Parco archeologico della Neapolis",
+        "street": "Via Luigi Bernabò Brea, 14, 96100 Siracusa SR, Italy",
+        "country": "ITA",
+        "website": "https://parchiarcheologici.regione.sicilia.it/siracusa-eloro-villa-tellaro-akrai/",
+        "description": "Neapolis Archaelogical Park lays in the ruins of the Corinthian city of Syracuse - the primary rival of ancient Carthage. The ruins contain a massive Greek Theater and the remains of a city crisscrossed with caves - including the famous Ear of Dionysius.",
+        "worth stopping": true,
+        "museum": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2786082,
+          37.0744342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "995",
+        "name": "Parco dell'Etna",
+        "street": "Stazione Partenza Piazzale Funivia Etna Sud, 95030 Nicolosi CT, Italy",
+        "country": "ITA",
+        "website": "http://www.unescoparcoetna.it/",
+        "description": "Mount Etna is a 11,165ft snow covered active stratovolcano on the warm Mediterranean island of Sicily. By active - they mean active - this volcano erupts nearly every year. You can hike to the top of the ash covered volcanic hellscape or hit the ski slopes.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9956672,
+          37.7532564
+        ]
+      }
     }
   ]
 }
