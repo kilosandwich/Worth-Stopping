@@ -20462,6 +20462,209 @@
           41.9058821
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1023",
+        "name": "Piazza dei Miracoli",
+        "street": "Piazza del Duomo, 56126 Pisa PI, Italy",
+        "country": "ITA",
+        "website": "https://www.opapisa.it/",
+        "description": "The Piazza del Duomo (now known as Piazza dei Miracoli) is home to the famous Leaning Tower of Pisa. After you get your obligatory photograph of you holding up the leaning tower, check out the architecture and art of the Pisa Cathedral, Pisa Baptistery, Camposanto Monumentale, Museo dell'Opea del Duomo, and Museo dell Sinopie located adjacent.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3949459,
+          43.7231592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1024",
+        "name": "Museo delle navi antiche di Pisa",
+        "street": "Lungarno Ranieri Simonelli, 16, 56126 Pisa PI, Italy",
+        "country": "ITA",
+        "website": "https://www.navidipisa.it/",
+        "description": "The Museum of Ancient Ships contains the wreckage and reproductions of Roman ships that once sailed the Arno river. If you are expecting massive rowing vessels, this isn't it - the Romans had modest sailing ships for river based trade.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3922617,
+          43.7146936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1025",
+        "name": "Galata Museo del Mare",
+        "street": "Calata Ansaldo De Mari, 1, 16126 Genova GE, Italy",
+        "country": "ITA",
+        "website": "https://www.galatamuseodelmare.it/",
+        "description": "The Museum of the Sea in Genoa contains the Cold War era Sauro-class submarine Nazrio Sauro, a reproduction of the brigatine Anna, and various exhibits about Italian maritime history.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9234543,
+          44.4143017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1026",
+        "name": "Museo per la Memoria di Ustica",
+        "street": "Via di Saliceto, 3/22, 40128 Bologna BO, Italy",
+        "country": "ITA",
+        "website": "http://www.museomemoriaustica.it/",
+        "description": "On June 27, 1980 Itavia Flight 870 crashed into the ocean killing all onboard - with the cause of the crash still uncertain. The museum displays the wreckage of the aircraft meticulously put back together.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3501854,
+          44.5133154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1027",
+        "name": "Museo Ferruccio Lamborghini",
+        "street": "SP4, 40050 Casette di Funo BO, Italy",
+        "country": "ITA",
+        "website": "https://www.museolamborghini.com/",
+        "description": "Successful tractor manufacturer Ferrucio Lamborghini complained to Enzo Ferrari about Ferrari's quality and aftermarket service - which led to Ferrari refusing to sell Lamborghini any other cars. Lamborghini decided to make his own sports car company out of spite. The Ferrucio Lamborghibi Museum contains every production vehicle made by Lamborghini - including the tractors, sports cars, helicopter, and boats.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3677665,
+          44.6079254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1028",
+        "name": "Cattedrale di Santa Maria del Fiore",
+        "street": "Piazza del Duomo, 50122 Firenze FI, Italy",
+        "country": "ITA",
+        "website": "https://duomo.firenze.it/it/scopri/cattedrale-di-santa-maria-del-fiore",
+        "description": "It's a really pretty green, white, and pink marble building. The dome of Cattedrale di Santa Maria del Fiore is the largest masonry dome ever constructed, and the lavish gothic decorations are a triumph of Italian renaissance paintings, sculpture, and architecture.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2559795,
+          43.7730785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1029",
+        "name": "Palazzo Pitti",
+        "street": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "country": "ITA",
+        "website": "https://www.uffizi.it/palazzo-pitti",
+        "description": "Pitti Palace was the principal palace of the ruling Medici family of the Grand Duchy of Tuscany from 1589-1860, and is now a museum complex featuring: the Palatine Gallery, Carriages museum, Russian Icons Museum, Porceilain Museum, Gallery of Modern Art, Treasury of the Grand Dukes, and Royal Apartments, and Boboli Gardens.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2498797,
+          43.7650048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1030",
+        "name": "Galleria degli Uffizi",
+        "street": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+        "country": "ITA",
+        "website": "https://www.uffizi.it/gli-uffizi",
+        "description": "The Uffizi art gallery contains the Renaissance art collection of the House of Medici - the family that commissioned all the really cool Renaissance art. Botticelli's The Birth of Venus is located here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2554309,
+          43.7678937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1031",
+        "name": "Galleria dell Accademia",
+        "street": "Via Ricasoli, 58/60, 50129 Firenze FI, Italy",
+        "country": "ITA",
+        "website": "https://www.galleriaaccademiafirenze.it/",
+        "description": "The Gallery of Academy of Florence has a large number of sculptures by Michelangelo - including the David featuring its freakishly large hands. There's also a lot of paintings and sculptures by other artists. You will need to book your ticket ahead of time - plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2587434,
+          43.776861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1032",
+        "name": "Museo Stibbert",
+        "street": "Via Federico Stibbert, 26, 50134 Firenze FI, Italy",
+        "country": "ITA",
+        "website": "http://www.museostibbert.it/",
+        "description": "This is THE armor museum. Frederick Stibbert hoarded 16,000 pieces of antique armor from Europe, Asia, the Middle East, and gifted his collection to the city of Florence in 1906.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2548177,
+          43.7929948
+        ]
+      }
     }
   ]
 }
