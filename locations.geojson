@@ -20665,6 +20665,126 @@
           43.7929948
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1033",
+        "name": "Diga del Gleno",
+        "street": "Lago del Gleno, 24020 Vilminore di Scalve BG, Italy",
+        "country": "ITA",
+        "website": "",
+        "description": "Hike in the scenic corpse of the Gleno Dam in the Alps, and see the much smaller newer dam built in the middle of the wreckage. The Gleno Dam failed on October 22, 1923 1923 due to faulty construction, killing 356 people - but now it's a beautiful hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0749184,
+          46.0166088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1034",
+        "name": "Cascate del Serio",
+        "street": "24020 Valbondione Province of Bergamo, Italy",
+        "country": "ITA",
+        "website": "https://www.turismovalbondione.it/le-cascate-del-serio/",
+        "description": "The 1000ft tall Serio Falls are the second tallest waterfalls in Italy, and pour out of a reservoir down a mountainside into the river valley below. Like most European parks, you'll have to hike to see anything good.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0383772,
+          46.0633608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1035",
+        "name": "Museo Fisogni",
+        "street": "Via Giacomo Bianchi, 25b, 21049 Tradate VA, Italy",
+        "country": "ITA",
+        "website": "http://www.museo-fisogni.org/",
+        "description": "The Fisogni Museum of the Service Station features 8,000 gas pumps, signs, and other gas station memorabilia. It's just room after room of gas pumps. If electric cars ever come to dominate the market this museum will become even more nostalgic.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9011015,
+          45.7128723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1036",
+        "name": "Volandia",
+        "street": "Via per Tornavento, 15, 21019 Somma Lombardo VA, Italy",
+        "country": "ITA",
+        "website": "http://www.volandia.it/",
+        "description": "Volandia is the largest aeronautical museum in Italy featuring 100+ aircraft including the Italian equivalent of Airforce One. There's also 76+ cars here and some trains.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7059958,
+          45.6308714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1037",
+        "name": "Museo nazionale della scienza e della tecnologia Leonardo da Vinci",
+        "street": "Via San Vittore, 21, 20123 Milano MI, Italy",
+        "country": "ITA",
+        "website": "https://www.museoscienza.org/",
+        "description": "The Leonardo da Vinci Science and Technology museum is a massive museum of Italian technology, including: the Cold War era Toti-class submarine Enrico Toti, the training ship Ebe, the deck of the transatlantic passenger ship SS Conte Biancamano, a replica of the ESA rocket Vega, the inventions of Leonardo da Vinci, 18 locomotives, the Red Tent used by the survivors of the airship Italia crash in the arctic, and multiple aircraft.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1704528,
+          45.4627528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1038",
+        "name": "Castello Sforzesco",
+        "street": "Piazza Castello, 20121 Milano MI, Italy",
+        "country": "ITA",
+        "website": "https://www.milanocastello.it/",
+        "description": "Sforza Castle was the primary fortification for the city of Milan, and is now a museum complex featuring: the Art Gallery of Sfroza Castle, Museum of Prehistory, Egyptian Museum, Museum of Ancient Art, Museum of Musical Instruments, Museum of Furniture and Wood Sculptures, Civic Collections of Applied Art, Extra-European Collection, etc. It's a big castle.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1789212,
+          45.4702683
+        ]
+      }
     }
   ]
 }
