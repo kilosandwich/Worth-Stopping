@@ -20785,6 +20785,106 @@
           45.4702683
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1039",
+        "name": "Forte di Bard",
+        "street": "Via Vittorio Emanuele II, 11020 Bard AO, Italy",
+        "country": "ITA",
+        "website": "http://www.fortedibard.it/",
+        "description": "Fort Bard stands resolute on a hill in the middle of Aosta Valley where it holds the Museum of the Alps. The fort is in an extremely strong defensive position, 400 soldiers were able to hold back 40,000 French troops for two weeks in 1800. Napoleon was so annoyed by the fort's ability to halt his army that he razed it - the modern fort is an 1830s reconstruction.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7445044,
+          45.6082886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1040",
+        "name": "Museo Nazionale dell'Automobile",
+        "street": "Corso Unità d'Italia, 40, 10126 Torino TO, Italy",
+        "country": "ITA",
+        "website": "https://www.museoauto.com/",
+        "description": "Turin is the center of the Italian automotive industry, so the National Automobile Museum and its 200+ cars are located here. The museum follows the history of car development in Italy from 1769-present, including: Cugnot's 1769 self propelled steam vehicle, and far too many Italian sports cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6733757,
+          45.0318343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1041",
+        "name": "Reggia di Venaria Reale",
+        "street": "Piazza della Repubblica, 4, 10078 Venaria Reale TO, Italy",
+        "country": "ITA",
+        "website": "http://www.lavenaria.it/",
+        "description": "The Palace of Venaria was intended to be a luxury palace for the House of Savoy - the dynasty that took the tiny county of Savoy into uniting Italy. The palace and gardens are home to an art museum, carriage collection, and royal barge.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6232891,
+          45.1354815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1042",
+        "name": "Palazzo Reale (Torino)",
+        "street": "Piazzetta Reale, 1, 10122 Torino TO, Italy",
+        "country": "ITA",
+        "website": "https://www.museireali.beniculturali.it/palazzo-reale/",
+        "description": "The Royal Palace of Turin was the sat of power for the House of Savoy as it consolidated its power from the county of Savoy into unified Italy. The palace in the middle of Turin is now a museum complex: including: the Musei Reali, Royal Armory, and Museo di Antichita di Torino.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.685834,
+          45.0727722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1043",
+        "name": "Stellantis Heritage",
+        "street": "Ingresso 31, Via Plava, 80, 10135 Torino TO, Italy",
+        "country": "ITA",
+        "website": "https://www.stellantisheritage.com/it-it/heritage/luoghi/heritage-hub",
+        "description": "This is THE Fiat museum. Stellantis (totally not Fiat wearing the skin of Citroen, Peugeot, Opel, and Chrysler) has a heritage hub where they keep 300+ of only the Italian vehicles they are proud to have made.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6105678,
+          45.0232901
+        ]
+      }
     }
   ]
 }
