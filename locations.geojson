@@ -20885,6 +20885,127 @@
           45.0232901
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1044",
+        "name": "Museo storico navale",
+        "street": "Riva S. Biasio, 2148, 30122 Venezia VE, Italy",
+        "country": "ITA",
+        "website": "https://munav.it/",
+        "description": "The Republic of Venice was a historical naval power located on an impregnable island in the Venetian lagoon. The Naval Historical Museum of Venice follows Venetian naval history and also possesses gondolas, luxury barges, steamboats in its Ship Pavillion. Located a short distance away is the Cold War era Toti-class submarine Enrico Dandolo in the middle of the Venice arsenal. Reserve tickets ahead of time - tourists love Venice.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3498983,
+          45.432708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1045",
+        "name": "Piazza San Marco",
+        "street": "P.za San Marco, 30100 Venezia VE, Italy",
+        "country": "ITA",
+        "website": "https://palazzoducale.visitmuve.it/",
+        "description": "Piazza San Marco is the architectural center of Venice, featuring the renaissance architecture of the Doge's Palace, the Campanile di San Marco tower, and Basilica di San Marco cathedral. Reserve tickets ahead of time, Venice is popular.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3383394,
+          45.4341772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1046",
+        "name": "Museo delle forze armate 1914-1945",
+        "street": "Via del Lavoro, 66, 36075 Montecchio Maggiore VI, Italy",
+        "country": "ITA",
+        "website": "http://www.museostorico.com/",
+        "description": "This Italian Military History museum and its 30+ vehicles is dedicated to the period 1914-1945. More importantly, the museum built a reconstruction of the Fiat 2000 - the first Italian tank.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4139688,
+          45.487887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1047",
+        "name": "Museo Nicolis",
+        "street": "V.le Postumia, 71, 37069 Villafranca di Verona VR, Italy",
+        "country": "ITA",
+        "website": "http://www.museonicolis.com/",
+        "description": "Entrepreneur Luciano Nicholis began hoarding 135+ cars, 114+ motorcycles, 108+ bicycles, 3 airplanes, 39+ musical instruments, 500+ cameras, 80+ typewriters, and other odds and ends until he had his own museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8669158,
+          45.3682125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1048",
+        "name": "Grotta Gigante",
+        "street": "Borgo Grotta Gigante, 42 / A, 34010 Sgonico TS, Italy",
+        "country": "ITA",
+        "website": "http://www.grottagigante.it/",
+        "description": "Grotta Gigante is unique among caves in that it's just one really giant hall - at 351ft high and 430ft wide. The walls are covered in stalagmites and stalactites, so it's pretty to look at too.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7643349,
+          45.7095802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1049",
+        "name": "Parco naturale Paneveggio - Pale di San Martino",
+        "street": "Località Castelpietra, 2, 38054 Primiero San Martino di Castrozza TN, Italy",
+        "country": "ITA",
+        "website": "http://www.parcopan.org/",
+        "description": "Paneveggio-Pale di San Martino Natural Park encompasses the Dolomites, and unlike some of the other Italian parks there's a road that passes straight through the prettiest parts: Strada Statale 50 which goes over the mountain from San Martinto to Paneveggio. There's also hiking and skiing.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7843577,
+          46.2908381
+        ]
+      }
     }
   ]
 }
