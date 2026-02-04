@@ -21006,6 +21006,106 @@
           46.2908381
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1050",
+        "name": "Ġgantija",
+        "street": "Triq John Otto Bayer, Ix-Xagħra, Malta",
+        "country": "MLT",
+        "website": "https://heritagemalta.mt/explore/ggantija-archaeological-park/",
+        "description": "This megalithic temple complex was built five millennium ago around 3600BC. If some of the oldest sites known to mankind don't impress you, I don't know what will.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2688093,
+          36.0472224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1051",
+        "name": "Popeye Village",
+        "street": "Triq Tal-Prajjet, Il-Mellieħa, Malta",
+        "country": "MLT",
+        "website": "https://popeyemalta.com/",
+        "description": "The film set from the 1980 live action adaptation of Popeye has been turned into a local attraction - it's like a 1930s cartoon came to life.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.340997,
+          35.9608743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1052",
+        "name": "Ħaġar Qim",
+        "street": "Triq Ħaġar Qim Qrendi QRD, Malta",
+        "country": "MLT",
+        "website": "https://heritagemalta.mt/explore/hagar-qim-mnajdra-temples/",
+        "description": "The Ħaġar Qim and Mnajdra megalithic complexes were constructed sometime around 3400BC, making them some of the oldest known architecture. The ruins are literally prehistoric - there is no written history of why and when they were built.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4431105,
+          35.8273044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1053",
+        "name": "Lascaris War Rooms",
+        "street": "Lascaris Ditch, Valletta VLT 2000, Malta",
+        "country": "MLT",
+        "website": "http://www.lascariswarrooms.com/",
+        "description": "Malta occupies a strategic chokepoint in the Mediterranean, which meant during WW2 it got bombed a lot. The Lascaris War Rooms were built as bunkers to maintain operations during the frequent bombing of Malta, later being transformed into command centers during the Cold War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5125158,
+          35.8949881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1054",
+        "name": "Grandmaster's Palace, Valletta",
+        "street": "Grand Master's Palace, Valletta, Malta",
+        "country": "MLT",
+        "website": "https://heritagemalta.mt/explore/grand-masters-palace/",
+        "description": "The Knights Hospitaller of Saint John of Jerusalem were Crusaders who ruled over Malta from 1530-1798. The Palace Armoury and the Palace State Rooms are now museums available for tour where you can see the art and armor of the Knights Hospitaller.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5137384,
+          35.8984702
+        ]
+      }
     }
   ]
 }
