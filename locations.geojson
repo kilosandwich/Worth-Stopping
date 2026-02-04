@@ -21106,6 +21106,47 @@
           35.8984702
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1055",
+        "name": "Cheddar Gorge",
+        "street": "The Cliffs, Cheddar BS27 3QF, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.cheddargorge.co.uk/",
+        "description": "The 450ft tall Cheddar Gorge is rife with caves and hiking. There's a road that winds through the narrow gorge itself, and Gough's Cave and Cox's Cave to see the underground where 9,000+ year old human remains were found. The gorge is only a mile long, so it's a pretty doable hike for even amateurs.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7657414,
+          51.2826177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1056",
+        "name": "Haynes International Motor Museum",
+        "street": "Sparkford, Yeovil BA22 7LH, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.haynesmuseum.org/",
+        "description": "The Haynes International Motor Museum has 328+ cars and 49+ motorcycles from British automotive history, including a strong selection Austin, Morris, and Triumph vehicles. Notably there is a room filled entirely with red sports cars",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5587041,
+          51.04124
+        ]
+      }
     }
   ]
 }
