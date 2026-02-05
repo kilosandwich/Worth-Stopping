@@ -21307,6 +21307,227 @@
           51.4373567
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1065",
+        "name": "Fort Eben-Emael",
+        "street": "Rue du Fort 40, 4690 Liège, Belgium",
+        "country": "BEL",
+        "website": "https://www.fort-eben-emael.be/",
+        "description": "After their fortifications were overwhelmed by the invading Germans in WW1, the Belgians decided to build bigger fortifications to stop another German invasion - it didn't work. Fort Eben-Emael was where the Nazis broke through the Belgian defensive lines by surprise paratrooper attack. Now you can tour the mostly underground fortress and maybe learn a lesson about the futility of fixed defenses in modern warfare.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6742383,
+          50.7963658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1066",
+        "name": "Bastogne Barracks",
+        "street": "Rue de La-Roche 40, 6600 Bastogne, Belgium",
+        "country": "BEL",
+        "website": "https://bastognebarracks.be/",
+        "description": "During WW2 a surprise German offensive tried and failed to capture the strategic logistics town of Bastogne despite a 6-day siege and outnumbering American forces 5:1. The Bastogne Barracks possesses mechanized warfare vehicles from both sides of WW2. This isn't the biggest museum of the Battle of Bastogne, but it's the one with more vehicles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7171043,
+          50.0108921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1067",
+        "name": "Bois du Cazier",
+        "street": "Rue du Cazier 80, 6001 Charleroi, Belgium",
+        "country": "BEL",
+        "website": "http://www.leboisducazier.be/",
+        "description": "Usually when there's a mining disaster that kills 262 people, that coal mine isn't turned into a museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4439222,
+          50.3812387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1068",
+        "name": "Champ de bataille de Waterloo",
+        "street": "Rte du Lion 1815, 1420 Braine-l'Alleud, Belgium",
+        "country": "BEL",
+        "website": "https://www.waterloo1815.be/",
+        "description": "Somehow, Napoleon returned - and the nations of Europe scrambled to send armies to defeat him again. At Waterloo, the French army very nearly overwhelmed combined British and German forces, but was ultimately defeated in the second largest battle of the Napoleonic Wars. The battlefield is fairly unchanged - it's still some farmer's fields where 51,000 people became casualties.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4048679,
+          50.6793467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1069",
+        "name": "Walibi Belgium",
+        "street": "Bd de l'Europe 100, 1300 Wavre, Belgium",
+        "country": "BEL",
+        "website": "https://www.walibi.be/",
+        "description": "Walibi Belgium is one of the largest amusement parks in Belgium, and has some inspired ride design choices - such as putting a Schwarzkopf shuttle loop indoors, a Belgian version of Big Thunder Mountain Railroad, and an edgy punk rock kangaroo as a mascot.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5928354,
+          50.7015604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1070",
+        "name": "Mahymobiles",
+        "street": "Rue Erna 3, 7900 Leuze-en-Hainaut, Belgium",
+        "country": "BEL",
+        "website": "http://www.mahymobiles.be/",
+        "description": "Garage owner Ghislain Mahy hoarded so many cars his massive collection is split between Mahymobiles and Autoworld. There are 300+ vehicles alone at Mahymobiles, it's row after row of cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6050578,
+          50.5976314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1071",
+        "name": "Passchendaele Museum",
+        "street": "Berten Pilstraat 5a, 8980 Zonnebeke, Belgium",
+        "country": "BEL",
+        "website": "http://www.passchendaele.be/",
+        "description": "WW1 British military command decided that charging the machine guns head on would end the war this time for sure - 700,000 casualties disagreed. Record rainfall turned the battlefield into a muddy morass where if you found yourself stuck - you simply disappeared into the bottom of the muck with the rest of the corpses. Now you can see what that would have been like at the Passchendaele Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9884297,
+          50.870692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1072",
+        "name": "Commandobunker van Kemmel",
+        "street": "Lettingstraat 64, 8950 Heuvelland, Belgium",
+        "country": "BEL",
+        "website": "https://commandobunker.be/",
+        "description": "During the Cold War Belgium built a bunker to continue command of the military in the event of nuclear attack or Soviet invasion. What's nice about this bunker is it really looked like the stereotype of what you'd expect a secret military bunker to look like.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.815886,
+          50.776526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1073",
+        "name": "Parc du Cinquantenaire",
+        "street": "1000 Brussels, Belgium",
+        "country": "BEL",
+        "website": "https://gardens.brussels/nl/groene-ruimten/jubelpark",
+        "description": "This is THE Belgian museum center. Parc du Cinquantenaire was developed as an exposition for the 50th anniversary of Belgian independence, then developed further for the Brussels International Exposition of 1897. As a result the park is now a massive museum complex featuring: the Royal Museum of Art and History; the 300+ vehicles of Autoworld; and the tanks, boats, artillery pieces, and 100+ aircraft of the Royal Museum of the Armed Forces and Military History.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3924558,
+          50.840544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1074",
+        "name": "Train World",
+        "street": "Pl. Princesse Elisabeth 5, 1030 Schaerbeek, Belgium",
+        "country": "BEL",
+        "website": "http://www.trainworld.be/",
+        "description": "The Schaerbeek railway station is now a railway museum, and yeah there's only 22 trains here, but they're really cool looking trains. When you see the streamlined SNCB Type 12 you'll understand.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3787211,
+          50.8780048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1075",
+        "name": "Koninklijk Domein van Laken",
+        "street": "Av. du Parc Royal 61, 1020 Bruxelles, Belgium",
+        "country": "BEL",
+        "website": "https://www.monarchie.be/nl/patrimonium/koninklijke-serres-van-laken",
+        "description": "The Royal Domain of Laeken is a large public park featuring the Palace of Laeken where Belgian royalty still reside, Royal Greenhouses of Laeken, English gardens, Japanese gardens, and the Museums of the Far East (which will reopen someday).",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3590808,
+          50.8907557
+        ]
+      }
     }
   ]
 }
