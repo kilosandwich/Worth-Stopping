@@ -21147,6 +21147,166 @@
           51.04124
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1057",
+        "name": "VerhalenArk",
+        "street": "Paradijsweg 1, 7942 HB Meppel, Netherlands",
+        "country": "NLD",
+        "website": "https://arkmuseum.eu/",
+        "description": "Johan Huibers built a replica of the Biblical Noah's Ark on top of a steel barge. The ark is now full of unnerving wooden puppets depicting biblical scenes.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.185234,
+          52.7028479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1058",
+        "name": "Marinemuseum (Den Helder)",
+        "street": "Hoofdgracht 3, 1781 AA Den Helder, Netherlands",
+        "country": "NLD",
+        "website": "http://www.marinemuseum.nl/",
+        "description": "The Netherlands has always had a strong maritime tradition - leading to the formation of a global trade empire and sparring with other European naval powers. The Navy Museum follows the history of the Dutch Royal Navy, and includes the 1868 ramship Schorpioen, the 1937 minesweeper Abraham Crijnssen which survived WW2 in the Pacific by disguising itself as an island,  the Cold War era Dolfijn-class submarine Tonijn, the bridge of the frigate De Ruyter. Docked nearby is the Hr.Ms. Bonaire (1877) - it's not part of the museum, but it's right next to it.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7713605,
+          52.9636884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1059",
+        "name": "Nationaal Militair Museum",
+        "street": "Verlengde Paltzerweg 1, 3768 MX Soest, Netherlands",
+        "country": "NLD",
+        "website": "https://www.nmm.nl/",
+        "description": "The National Military Museum is the museum for the Dutch Army and Air Force. It's not the largest museum for vehicles, but it is for the Dutch military. You can ride around in a jeep or half-track here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2755399,
+          52.131521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1060",
+        "name": "Museum Speelklok",
+        "street": "Steenweg 6, 3511 JP Utrecht, Netherlands",
+        "country": "NLD",
+        "website": "https://www.museumspeelklok.nl/",
+        "description": "It's a museum full of delightful tiny little Dutch automated music machines and automatons. These machines are the ones that aren't trying to take your job.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1195819,
+          52.0907603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1061",
+        "name": "Louwman Museum",
+        "street": "Leidsestraatweg 57, 2594 BB Den Haag, Netherlands",
+        "country": "NLD",
+        "website": "http://www.louwmanmuseum.nl/",
+        "description": "The Louwman family has been hoarding historic vehicles since 1934 and now have 275+ cars; with a wide selection from defunct Dutch car manufacturers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3505517,
+          52.099666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1062",
+        "name": "Hr.Ms. Buffel (1868)",
+        "street": "Koningskade 2, 3221 CC Hellevoetsluis, Netherlands",
+        "country": "NLD",
+        "website": "http://debuffel.nl/",
+        "description": "Hellevoetsluis in the Netherlands is where the Dutch send the museum ships they don't love enough to wait out their days until the Dutch people smile upon them again. The 1868 Ram ship Buffel is one of the oldest ships afloat globally, and is also docked next to the Lightship 12 Noord Hinder and the minesweeper AMS 60 Bernisse.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1301988,
+          51.8282255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1063",
+        "name": "Luchtvaartmuseum Aviodrome",
+        "street": "Pelikaanweg 50, 8218 PG Lelystad, Netherlands",
+        "country": "NLD",
+        "website": "https://www.aviodrome.nl/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "description": "In the famous words of KLM captain Jacob Velhuzen van Zanten \"We're Going\". The Netherlands used to have an aviation industry until Fokker went bankrupt. See 83+ aircraft, including a KLM 747 like the one that crashed into another 747 at Tenerife in 1977.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5296836,
+          52.4576089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1064",
+        "name": "DAF Museum",
+        "street": "Tongelresestraat 27, 5613 DA Eindhoven, Netherlands",
+        "country": "NLD",
+        "website": "http://www.dafmuseum.nl/",
+        "description": "The Netherlands used to have its own automotive and truck manufacturer DAF until it was bought by Volvo and Paccar. Come and see a long history of funny looking Dutch car and truck prototypes and production models.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4902401,
+          51.4373567
+        ]
+      }
     }
   ]
 }
