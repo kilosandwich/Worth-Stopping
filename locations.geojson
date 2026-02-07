@@ -21678,7 +21678,7 @@
         "street": "9 Bd de la Légion d'Honneur, 44600 Saint-Nazaire, France",
         "country": "FRA",
         "website": "https://www.saint-nazaire-tourisme.com/decouvrir/decouvrir-le-port/la-base-sous-marine-de-saint-nazaire/",
-        "description": "During WW2 the Nazis built a massive concrete bunker for their submarines in St. Nazaire. Now you can tour the submarine pens, or go to the Escal'Atlantic museum which features a replica of a French transatlantic passenger ship.",
+        "description": "During WW2 the Nazis built a massive concrete bunker for their submarines in St. Nazaire. Now you can tour the submarine pens,the Cold War era Narval-class submarine Espadon, or go to the Escal'Atlantic museum which features a replica of a French transatlantic passenger ship.",
         "worth stopping": true,
         "museum": true
       },
@@ -21827,6 +21827,186 @@
         "coordinates": [
           2.8308228,
           49.4191214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1091",
+        "name": "Maillé-Brézé (D627)",
+        "street": "Quai de la Fosse, 44000 Nantes, France",
+        "country": "FRA",
+        "website": "https://www.maillebreze.com/fr",
+        "description": "The Cold War era T 47-class destroyer Maillé-Brézé is now a museum ship in Nantes. This is one of the few French naval surface vessels available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5718237,
+          47.2069553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1092",
+        "name": "Musée des 24 Heures du Mans",
+        "street": "9 Pl. Luigi Chinetti, 72100 Le Mans, France",
+        "country": "FRA",
+        "website": "https://www.lemans-musee24h.com/",
+        "description": "The 24 Hours of Le Mans is the oldest endurance motorsport race in the world, and this museum of 100+ cars is located right on the racing circuit.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2080606,
+          47.956648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1093",
+        "name": "Musée automobile de Vendée",
+        "street": "D949 Avenue des Sables, 85440 Talmont-Saint-Hilaire, France",
+        "country": "FRA",
+        "website": "http://www.musee-auto-vendee.com/",
+        "description": "160+ automobiles are kept in a building with a giant tire archway. Notably there are a number of concept cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6677227,
+          46.4771621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1094",
+        "name": "Fort du Portalet",
+        "street": "Fort du Portalet 64490 Etsaut, France",
+        "country": "FRA",
+        "website": "https://www.pyrenees-bearnaises.com/offres/le-fort-du-portalet-urdos-fr-2227842/",
+        "description": "Fort du Portalet overlooks a dramatic valley in the Pyrenees, and was built in 1842 to guard against incursions from Spain. The scenic fort was later used  by the Nazis to intern important French officials, and again by the 4th Republic as a prison for Nazi collaborators like Pétain. Tours by reservation only, so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5623656,
+          42.8865562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1095",
+        "name": "Grotte de La Verna",
+        "street": "8250 Rte de Sainte-Engrâce, 64560 Sainte-Engrâce, France",
+        "country": "FRA",
+        "website": "http://www.laverna.fr/",
+        "description": "This cave is like standing inside of a stadium. La Verna cave is the largest showcave cave in the world, with an 820ft diameter and 636ft height. There's also a few waterfalls inside the cave itself. Make sure to book tours ahead of time.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.821434,
+          42.9961851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1096",
+        "name": "Centre de la mémoire d'Oradour",
+        "street": "L'auze, 87520 Oradour-sur-Glane, France",
+        "country": "FRA",
+        "website": "http://www.oradour.org/",
+        "description": "The Nazis slaughtered every civilian in Ouradour-sur-Glane as a punitive measure for resistance in the area. The ruins of the village have been left as they were on the day that 642 people were killed there.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0349825,
+          45.9290925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1097",
+        "name": "Tumulus de Bougon",
+        "street": "La Chapelle de, 79800 Bougon, France",
+        "country": "FRA",
+        "website": "http://www.tumulus-de-bougon.fr/",
+        "description": "In 4800 BC the neolithic people of France built this necropolis. You can enter the tumulus here - or at least their reconstructions.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0675109,
+          46.3780931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1098",
+        "name": "Musée maritime de La Rochelle",
+        "street": "Pl. Bernard Moitessier, 17000 La Rochelle, France",
+        "country": "FRA",
+        "website": "https://museemaritime.larochelle.fr/",
+        "description": "Before weather satellites, meteorological ships were moored in the ocean to collect weather information. At the La Rochelle maritime museum you can tour the meteorological ship France I, the fishing trawler Angoumois, and the tugboat Saint-Gilles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1518565,
+          46.1504103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1099",
+        "name": "Musée des Blindés",
+        "street": "1043 Rte de Fontevraud, 49400 Saumur, France",
+        "country": "FRA",
+        "website": "http://www.museedesblindes.fr/",
+        "description": "This is THE French tank museum. Featuring 250+ armored vehicles - many of which still run. There's just about every French tank ever made here, including the ARL 44, B1 BIS, Saint-Chamond, Schneider CA-1, and AMX-30 equipped with a nuclear missile. There's also German, British, American, and Soviet tanks here as well.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0718748,
+          47.2439042
         ]
       }
     }
