@@ -2752,7 +2752,7 @@
         "street": "2244 Beach Blvd, Biloxi, MS 39531",
         "country": "USA",
         "website": "http://www.visitbeauvoir.org/",
-        "description": "It's like the evil universe version of a United State Presidential Library where President of the Confederate States of America Jefferson Davis is honored at this museum run by the state of Mississippi. Their favorite words to use there are \"Heritage\", \"Resilience\", and \"Greatness\" - find out what they are reffering to at Jefferson Davis's retirement home on a former plantation.",
+        "description": "It's like the evil universe version of a United States Presidential Library where President of the Confederate States of America Jefferson Davis is honored at this museum run by the state of Mississippi. Their favorite words to use there are \"Heritage\", \"Resilience\", and \"Greatness\" - find out what they are referring to at Jefferson Davis's retirement home on a former plantation.",
         "worth stopping": true,
         "museum": true
       },
@@ -10208,7 +10208,7 @@
         "street": "40 Patriots Point Rd, Mt Pleasant, SC 29464",
         "country": "USA",
         "website": "http://www.patriotspoint.org/",
-        "description": "Patriots Point is home of the WW2 Essex-class aircraft carrier USS Yorkton and the WW2 era Allen M. Sumner-class destroyer USS Laffey, THE VIETNAM EXPERIENCE, and the U.S. Medal of Honor Museum. It's a million square feet of state-of-the-art 1940s technology, jets, and history that you can just kind of wander about in.",
+        "description": "Patriots Point is home of the WW2 Essex-class aircraft carrier USS Yorktown and the WW2 era Allen M. Sumner-class destroyer USS Laffey, THE VIETNAM EXPERIENCE, and the U.S. Medal of Honor Museum. It's a million square feet of state-of-the-art 1940s technology, jets, and history that you can just kind of wander about in.",
         "worth stopping": true,
         "museum": true
       },
@@ -12212,7 +12212,7 @@
         "street": "8635 A1A S, St. Augustine, FL 32080",
         "country": "USA",
         "website": "http://www.nps.gov/foma/index.htm",
-        "description": "This 1740 Spanish Fort protects the rear entrance to St. Augustine and was built at the inlet to the Matanzas river. It is not longer close to the inlet to the river - the inlet has shifted with time. The small fort is only accessible by tour boat from the National Park Visitor Center.",
+        "description": "This 1740 Spanish Fort protects the rear entrance to St. Augustine and was built at the inlet to the Matanzas river. It is no longer close to the inlet to the river - the inlet has shifted with time. The small fort is only accessible by tour boat from the National Park Visitor Center.",
         "worth stopping": true,
         "museum": true
       },
@@ -21526,6 +21526,167 @@
         "coordinates": [
           4.3590808,
           50.8907557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1076",
+        "name": "Bayeux Tapestry",
+        "street": "13B Rue de Nesmond, 14400 Bayeux, France",
+        "country": "FRA",
+        "website": "https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/",
+        "description": "William the Conqueror conquered England in 1066, and admirers made a 70ft long blanket about how cool he was.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7004344,
+          49.2743605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1077",
+        "name": "Musée du débarquement",
+        "street": "Place du 6 Juin, 14 Pl. du Six Juin 1944, 14117 Arromanches-les-Bains, France",
+        "country": "FRA",
+        "website": "http://www.musee-arromanches.fr/",
+        "description": "Operation Overlord during WW2 was the largest naval invasion ever, storming beachheads and landing literally millions of soldiers onto floating artificial harbors. The Landing Museum at Arromanches sits directly on Gold Beach and preserves the ruins of the artificial Mulberry Harbors.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6210122,
+          49.3402271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1078",
+        "name": "La Cité de la Mer",
+        "street": "All. du Président Menut, 50100 Cherbourg-en-Cotentin, France",
+        "country": "FRA",
+        "website": "https://www.citedelamer.com/",
+        "description": "This is THE French submarine museum. The Art Deco transatlantic ferry terminal at Cherbourg has been transformed into a maritime museum which is now full of submarines, including: the first French nuclear ballistic missile submarine Redoutable; the bathyscaphe Archimedes, five Submarines made by Comex; and replicas of the exploration submarines Alvin, Mir Nautilus, and Bathysphere.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6178034,
+          49.6458309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1079",
+        "name": "Le Mont-Saint-Michel",
+        "street": "L'Abbaye, 50170 Le Mont-Saint-Michel, France",
+        "country": "FRA",
+        "website": "",
+        "description": "The island Mont-Saint-Michel is only accessible from the mainland at low tide, making it an ideal defensive position for an abbey. More importantly, it looks really pretty.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5115249,
+          48.6359141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1080",
+        "name": "Cité des télécoms",
+        "street": "Parc du Radôme, 22560 Pleumeur-Bodou, France",
+        "country": "FRA",
+        "website": "http://www.cite-telecoms.com/",
+        "description": "Before satellite communication, this massive antenna was built to transmit television signals across the Atlantic. There's also a nice telecommunications museums accompanying it with a semaphore tower.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5248644,
+          48.7860317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1081",
+        "name": "Base sous-marine de Lorient",
+        "street": "Tour Davis - Base de Sous Marins de Keroman, 56100 Lorient, France",
+        "country": "FRA",
+        "website": "http://www.musee-sous-marin.com/",
+        "description": "During WW2 the Nazis built nearly indestructible concrete submarine pens, which the French took over. Now the concrete bunker houses the Cold War era Daphné-class submarine Flore for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3718351,
+          47.7293753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1082",
+        "name": "Manoir de l automobile",
+        "street": "4 Rue de la Cour Neuve, 35550 Lohéac, France",
+        "country": "FRA",
+        "website": "http://www.manoir-automobile.fr/",
+        "description": "French magazine publisher Michel Hommel began collecting 400+ vehicles then put them in his 17th century manor and racing circuit.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8956492,
+          47.8607286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1083",
+        "name": "Base sous-marine de Saint-Nazaire",
+        "street": "9 Bd de la Légion d'Honneur, 44600 Saint-Nazaire, France",
+        "country": "FRA",
+        "website": "https://www.saint-nazaire-tourisme.com/decouvrir/decouvrir-le-port/la-base-sous-marine-de-saint-nazaire/",
+        "description": "During WW2 the Nazis built a massive concrete bunker for their submarines in St. Nazaire. Now you can tour the submarine pens, or go to the Escal'Atlantic museum which features a replica of a French transatlantic passenger ship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.203566,
+          47.2748129
         ]
       }
     }
