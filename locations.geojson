@@ -21689,6 +21689,146 @@
           47.2748129
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1084",
+        "name": "Batterie Todt",
+        "street": "Batterie Todt, hameau de Haringzelle, 566 route du musée, 62179 Audinghen, France",
+        "country": "FRA",
+        "website": "http://www.batterietodt.com/",
+        "description": "After defeating the French in WW2, the Nazis embarked on building a line of fortifications to prevent naval invasions called the Atlantic Wall. The artillery Batterie Todt was intended to dominate the Strait of Dover to enable an invasion of Britain. The artillery battery and a rail gun are now available at the Museum of the Atlantic Wall at Batterie Todt.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5997292,
+          50.8441115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1085",
+        "name": "La Coupole (France)",
+        "street": "Rue André Clabaux, 62570 Wizernes, France",
+        "country": "FRA",
+        "website": "https://www.lacoupole-france.com/",
+        "description": "During WW2 the Nazis built the world's first underground missile silo to launch V-2 rockets at England on an industrial scale. The allies bombed it before it could ever become operational.  Now you can tour what is pretty much a real life James Bond villain lair.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2414338,
+          50.7059271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1086",
+        "name": "Mémorial de Vimy",
+        "street": "Route départementale 55, Chem. des Canadiens, 62580 Givenchy-en-Gohelle, France",
+        "country": "FRA",
+        "website": "https://www.veterans.gc.ca/fr/remembrance/memorials/vimy",
+        "description": "During WW1 all four divisions of the Canadian expeditionary force captured Vimy Ridge during the Battle of Arras at the cost of 10,000+ casualties. The ridge is the site of the memorial, and the Vimy Ridge Visitor Educate Centre is located in the woods where trenches and craters still lay. Stay on the footpaths, the ground is still full of exploded shells.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7734425,
+          50.3795536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1087",
+        "name": "Musée Somme 1916",
+        "street": "Rue Anicet Godin, 80300 Albert, France",
+        "country": "FRA",
+        "website": "http://www.musee-somme-1916.eu/",
+        "description": "During the Battle of the Somme in 1916, 1+ million men were turned into casualties in just 4 months - all to move the front line 10km towards Berlin. Now, WW2 air raid shelters have been turned into replicas of the battlefield at the Somme Museum 1916. The battlefield lays to the east of the town, which is now farmer's fields with the occasional crater and cemetery.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.648093,
+          50.0039609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1088",
+        "name": "Centre historique minier de Lewarde",
+        "street": "Fosse Delloye, Rue d'Erchin, 59287 Lewarde, France",
+        "country": "FRA",
+        "website": "https://www.chm-lewarde.com/",
+        "description": "Unlike most European coal mines, they actually let you go into the tunnels at the 1927 Delloye pit of the Lewarde Mining Historic Center.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.172232,
+          50.3312238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1089",
+        "name": "Clairière de l Armistice",
+        "street": "Route de Soissons, 60200 Compiègne, France",
+        "country": "FRA",
+        "website": "http://www.musee-armistice-14-18.fr/",
+        "description": "World War I ended here in this train car. By the end of 1918 Germany was starving due to the Entente blockade. Additionally the German military was retreating, socialists had overthrown the monarchy, Communist revolutionaries were attempting a coup back in Berlin, and German ally Austria-Hungary had disintegrated. The French were predictably angry about being invaded and having 1.73 million of their countrymen dead, and 4.26 million wounded - and demanded and received the total dismantling of the German military in exchange for the idea that the blockade might be lifted after a final peace treaty in Paris.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9051604,
+          49.4268333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1090",
+        "name": "Musée national de la Voiture et du Tourisme",
+        "street": "Pl. du Général de Gaulle, 60200 Compiègne, France",
+        "country": "FRA",
+        "website": "https://chateaudecompiegne.fr/le-musee-national-de-la-voiture",
+        "description": "Louis XV commissioned his own royal residence in Compiègne in 1751,  it was finished in 1788, seized during the French revolution in 1789, and restored by Napoleon in 1807. Now it's home to the 100+ carriages and 30+ vehicles of the National Car and Tourism Museum - including the record setting La Jamais Contente - the fastest car in the world in 1899.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8308228,
+          49.4191214
+        ]
+      }
     }
   ]
 }
