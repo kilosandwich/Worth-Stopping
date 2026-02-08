@@ -22369,6 +22369,106 @@
           48.6314145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1118",
+        "name": "Parc naturel régional du Doubs Horloger",
+        "street": "",
+        "country": "FRA",
+        "website": "https://www.parcdoubshorloger.fr/",
+        "description": "The vertical cliffs of the Doubs River Gorge divides Switzerland from France. The gorge features waterfalls such as Saut du Doubs and Consolation.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.606874,
+          47.1583666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1119",
+        "name": "Citadelle de Besançon",
+        "street": "99 Rue des Fusillés de la Résistance, 25000 Besançon, France",
+        "country": "FRA",
+        "website": "https://www.citadelle.com/",
+        "description": "Would it be cool to go to a zoo inside of a 1683 Fortress on top of a mountain? Yes, yes it would. The Citadelle of Bescanson is a museum complex which features the Museum of Resistance and Deportation, the Comtois Museum, and the Zoological Gardens. The views from the top are quite nice.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0343116,
+          47.2294896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1120",
+        "name": "Château de Savigny-lès-Beaune",
+        "street": "Chateau de Savigny, Rue Général Leclerc, 21420 Savigny-lès-Beaune, France",
+        "country": "FRA",
+        "website": "https://chateau-savigny.com/",
+        "description": "Winemaker and Abarth rally car driver Michel Pont began hoarding wine presses, 25+ tractors, 100+ aircraft, 35+ racecars, 20+ firetrucks,  250+ motorcycles, and 8,000 scale models in a 14th century castle. There's also a hovercraft here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8181914,
+          47.0616785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1121",
+        "name": "Musée de la mine de La Machine",
+        "street": "1 Av. de la République, 58260 La Machine, France",
+        "country": "FRA",
+        "website": "https://www.musee-mine-lamachine.fr/",
+        "description": "The La Machine Mining Museum lets you tour the coal mining galleries of the 1863 Glénons Pit. There's no lights in this mine except for the ones you bring, so stay on the path.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4673373,
+          46.8867631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1122",
+        "name": "Musée de la mine de Blanzy",
+        "street": "34 Rue du Bois Clair, 71450 Blanzy, France",
+        "country": "FRA",
+        "website": "http://www.musee-mine-blanzy.fr/",
+        "description": "The Blanzy Mining Museum has a variety of historical coal mining equipment within the mine itself since the mine ran from 1761-1979. The mining tunnels here are illuminated - which is safer, but slightly less awesome.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3822334,
+          46.7013001
+        ]
+      }
     }
   ]
 }
