@@ -22589,6 +22589,126 @@
           45.0755451
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1129",
+        "name": "Le Compa, le musée de l'agriculture",
+        "street": "Pont de Mainvilliers 28000 Chartres, 1 Rue de la République, 28300 Mainvilliers, France",
+        "country": "FRA",
+        "website": "https://lecompa.fr/",
+        "description": "This is THE French tractor museum featuring 60+ tractors. Learn how French agriculture went from people in fields to fancy machinery - they even have a life sized tractor made out of legos.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4759086,
+          48.4468535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1130",
+        "name": "Musée Maurice Dufresne",
+        "street": "17 Rte de Marnay, 37190 Azay-le-Rideau, France",
+        "country": "FRA",
+        "website": "https://www.musee-dufresne.com/",
+        "description": "Scrap dealer Maurice Dufresne started saving things he thought ought to be in a museum - then made his own museum filled with 3,000 machines - including a portable guillotine.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3929743,
+          47.2795042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1131",
+        "name": "Musée de automobile Henri-Malartre",
+        "street": "645 Rue du Musée, 69270 Rochetaillée-sur-Saône, France",
+        "country": "FRA",
+        "website": "http://www.musee-malartre.com/",
+        "description": "Automobile wrecker Henri Malartre refused to scrap models he found to be historically interesting - and began amassing a collection in a barn, and later transitioned the collection into a hilltop Chateau overlooking Lyon.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8369479,
+          45.8451573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1132",
+        "name": "Musée Baster - Musée de la moto",
+        "street": "101 Rue de l'Ambène, 63200 Riom, France",
+        "country": "FRA",
+        "website": "http://museebaster.fr/",
+        "description": "The Baster Motorcycle Museum has 400+ two wheeled vehicles, they're all just kinda piled together in one room.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1341337,
+          45.8885342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1133",
+        "name": "Parc naturel régional des Volcans d'Auvergne",
+        "street": "Château de Montlosier, 63970 Aydat, France",
+        "country": "FRA",
+        "website": "http://www.parcdesvolcans.fr/",
+        "description": "Southern France used to be an active volcanic area including the extinct Cantal stratovolcano. Now you can roam atop and through volcanic cinders and jagged peaks like those at Puy de Sancy. There's even a roman temple on top of Puy de Dome.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9640043,
+          45.771755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1134",
+        "name": "Grottes de Jonas",
+        "street": "Jonas, 63610 Saint-Pierre-Colamine, France",
+        "country": "FRA",
+        "website": "http://www.jonastroglo.fr/",
+        "description": "Celts dug a fortress into the cliffs of the Jonas volcano. On some days there are character actors filling the caves. Tours by reservation only - plan ahead.",
+        "museum": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.993076,
+          45.5416622
+        ]
+      }
     }
   ]
 }
