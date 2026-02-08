@@ -22469,6 +22469,126 @@
           46.7013001
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1123",
+        "name": "Barrage de Malpasset",
+        "street": "Parking départ excursion du barrage de Malpasset 83600 Fréjus, France",
+        "country": "FRA",
+        "website": "",
+        "description": "Walk through and climb over the wreckage of a French dam and the flood scoured valley downstream. The 1952 Malpasset Dam failed on December 2, 1959, killing 423 people - so now it's a hiking trail.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7564993,
+          43.5119377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1124",
+        "name": "Musée de l Artillerie",
+        "street": "1580 Av. de la Grande Armée, 83300 Draguignan, France",
+        "country": "FRA",
+        "website": "https://www.artillerie.asso.fr/musee/",
+        "description": "Draguignan is the location of the French Artillery School where the French military trains its artillery operators. The Artillery Museum has 50+ historical artillery pieces - it's not the biggest artillery museum, but it is the most French.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4980448,
+          43.5274355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1125",
+        "name": "Parc naturel régional du Verdon",
+        "street": "Domaine de Valx, 04360 Moustiers-Sainte-Marie, France",
+        "country": "FRA",
+        "website": "https://www.parcduverdon.fr/",
+        "description": "The 700 meter (~2300ft) deep Verdon Gorge is the star of Verdon Regional Park. You can hike, kayak, or drive through the gorge along D952, or along the rim on D71.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.251352,
+          43.8015712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1126",
+        "name": "Parc national des Calanques",
+        "street": "",
+        "country": "FRA",
+        "website": "http://www.calanques-parcnational.fr/fr",
+        "description": "Calanques National Park is where the jagged white rocks form scenic coves and beaches on the Mediterranean. Yes you can hike most of it, even the spines of Rocher des Goudes.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4467715,
+          43.2143316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1127",
+        "name": "Colorado provençal",
+        "street": "84400 Rustrel, France",
+        "country": "FRA",
+        "website": "https://coloradoprovencal.fr/",
+        "description": "The ref buttes and fairy chimneys in Provencal Colorado looks like the badlands of the American Southwest, but is instead in the green forests of Southern France.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4958727,
+          43.9134579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1128",
+        "name": "Musée de la Révolution française",
+        "street": "Pl. du Château, 38220 Vizille, France",
+        "country": "FRA",
+        "website": "https://musees.isere.fr/musee/domaine-de-vizille-musee-de-la-revolution-francaise",
+        "description": "The 1789 French Revolution ended feudalism and the power of the church over state in Western Europe - achieving what the British had already figured out in 1651. The Château de Vizille was where the Assembly of Vizille demanded the convocation of the Estates-General with the Third Estate being granted double the vote of the Clergy and Nobility - meaning that the people would finally have domination over the nobility instead of the other way around.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7727024,
+          45.0755451
+        ]
+      }
     }
   ]
 }
