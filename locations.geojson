@@ -22249,6 +22249,126 @@
           49.3252221
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1112",
+        "name": "Musée militaire Park France",
+        "street": "4 Rue Gutenberg, 67610 La Wantzenau, France",
+        "country": "FRA",
+        "website": "https://www.mmpark.fr/",
+        "description": "This is the #2 military museum in France, but the 120+ vehicles here are focused on WW2 only - and they're all kinda just in a row in one big room.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8088813,
+          48.6655751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1113",
+        "name": "KZ Natzweiler-Struthof",
+        "street": "Mémorial du camp de concentration de Natzweiler-Struthof D130, 67130 Natzwiller, France",
+        "country": "FRA",
+        "website": "http://www.natzweiler-struthof.fr/",
+        "description": "The Nazis put resisters in its occupied territories into Natzweiler-Struthof concentration camp, where they killed 22,000 of them in death marches, forced labor, executions, and human experimentation.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2530326,
+          48.4546254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1114",
+        "name": "Tellure (musée)",
+        "street": "Lieu-Dit Tellure, 68160 Sainte-Marie-aux-Mines, France",
+        "country": "FRA",
+        "website": "http://www.tellure.fr/",
+        "description": "This silver mine was started in 1520, and the unsafe looking tunnels you can tour reflect that.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1365055,
+          48.213587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1115",
+        "name": "Cité de l Automobile",
+        "street": "17 Rue de la Mertzau, 68100 Mulhouse, France",
+        "country": "FRA",
+        "website": "http://www.musee-automobile.fr/",
+        "description": "This is THE French automobile museum. The National Museum of the Automobile has 400+ vehicles, with a notably large selection of Bugattis.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3298078,
+          47.7611509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1116",
+        "name": "Cité du Train",
+        "street": "2 Rue Alfred de Glehn, 68200 Mulhouse, France",
+        "country": "FRA",
+        "website": "https://www.citedutrain.com/",
+        "description": "This is THE French train museum. Train City follows French railway development and features 110+ trains and 70+ railcars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.294036,
+          47.7502409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1117",
+        "name": "Mine de Maron Val-de-Fer",
+        "street": "Rue du Val de Fer, 54230 Neuves-Maisons, France",
+        "country": "FRA",
+        "website": "http://www.minedeneuvesmaisons.org/",
+        "description": "This 1874 French iron mine also served as a military headquarters during WW1. Yes you can tour the mine here and it's just as unnerving as mines are supposed to look.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1073368,
+          48.6314145
+        ]
+      }
     }
   ]
 }

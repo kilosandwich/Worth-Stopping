@@ -809,3 +809,5 @@ function toggleAllOverlays(map) {
   else hideAllOverlays(map);
 }
 
+//Feature idea: add the ability to plot a route like google maps does (or import a route from google maps), from that point onwards you could detect the distance from the nodes
+//within the route to create alternative routes based upon how much travel time a person is willing to alot.
