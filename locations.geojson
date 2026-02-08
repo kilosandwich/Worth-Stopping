@@ -22009,6 +22009,246 @@
           47.2439042
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1100",
+        "name": "Musée Automobile Reims-Champagne",
+        "street": "84 Av. Georges Clemenceau, 51100 Reims, France",
+        "country": "FRA",
+        "website": "http://www.musee-automobile-reims-champagne.com/",
+        "description": "This car museum stands out due to its 120+ pedal car collection. There's also 160+ cars, 90+ motorcycles, and 7,000+ miniature cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0503312,
+          49.2506603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1101",
+        "name": "Fort de la Pompelle",
+        "street": "RD 944, , route de Châlons-en-Champagne, 51500 Puisieulx, France",
+        "country": "FRA",
+        "website": "https://musees-reims.fr/fr/musees/musee-du-fort-de-la-pompelle/",
+        "description": "Fort de la Pompelle was a consistent part of the front lines of WW1 and was vigorously bombarded from the beginning of the war until its end.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1287779,
+          49.216083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1102",
+        "name": "Musée Guerre et Paix en Ardennes",
+        "street": "Imp. du Musée, 08270 Novion-Porcien, France",
+        "country": "FRA",
+        "website": "https://www.guerreetpaix.fr/",
+        "description": "It wouldn't be a German invasion of France without the occupation of the Ardennes. The Museum of War and Peace in the Ardennes documents the Franco-Prussian War, WW1, and WW2.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4158298,
+          49.6004373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1103",
+        "name": "Fort de Douaumont",
+        "street": "55100 Douaumont-Vaux, France",
+        "country": "FRA",
+        "website": "https://memorial-verdun.fr/museecollections/la-visite/decouvrez-champ-de-bataille-de-verdun",
+        "description": "Fort Douaumont looks pockmarked and lumpy because 10 million artillery shells were fired around it during the Battle of Verdun in WW1, leaving the landscape around it permanently uninhabitable due to the amount of unexploded ordinance. There were 750,000 casualties during the 9 month Battle of Verdun, and now you can tour the fort where a lot of them happened. You will need to reserve your ticket to the fort online.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4383669,
+          49.2168567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1104",
+        "name": "MuséoParc Alésia",
+        "street": "1 Route des trois Ormeaux, 21150 Alise-Sainte-Reine, France",
+        "country": "FRA",
+        "website": "http://www.alesia.com/",
+        "description": "In 52BC Julius Caesar and his 75,000 strong Roman legions surrounded and besieged a 170,000 strong Gallic army, only to be surrounded themselves by a 300,000 strong Gallic army. Caesar built fortifications to guard against the armies outside and inside and defeated both forces - leading to complete Roman annexation of Gaul. Now you can see reconstructions of the fortifications and learn about how France became Roman.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4687519,
+          47.5357789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1105",
+        "name": "Ouvrage de Schœnenbourg",
+        "street": "Rue Commandant Martial Reynier, 67250 Hunspach, France",
+        "country": "FRA",
+        "website": "http://www.lignemaginot.com/",
+        "description": "After WW1, France built a series of impervious underground interconnected fortifications on its border with Germany, forcing the Germans to attack through areas that the French could quickly react to. During WW2, the Nazis attacked through the Ardennes, and allied forces did not react quickly enough. Now you can tour one of the fortresses of the Maginot line at Schœnenbourg and see the retractable turrets and bunkers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9121823,
+          48.9661341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1106",
+        "name": "Ouvrage du Four-à-Chaux",
+        "street": "D65 GPS lat.48.993304 long, 7.793876, 67510 Lembach, France",
+        "country": "FRA",
+        "website": "http://www.lignemaginot.fr/",
+        "description": "Ouvrage Four-à-Chaux is another impressive fort of the Maginot line which saw battle during WW2 and continued service during the Cold War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7960154,
+          48.993787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1107",
+        "name": "Ouvrage du Simserhof",
+        "street": "Rue André Maginot, 57410 Siersthal, France",
+        "country": "FRA",
+        "website": "https://simserhof.net/",
+        "description": "Simserhof is another large fortress in the Maginot Line, this is one of the better cared for fortresses. You will likely need a ticket ahead of time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3711998,
+          49.058905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1108",
+        "name": "Ouvrage Michelsberg",
+        "street": "Lorraine, Rte de Dalstein, 57320 Ébersviller, France",
+        "country": "FRA",
+        "website": "https://www.maginot-michelsberg.fr/",
+        "description": "Ouvrage Michelsberg is another large work in the Maginot Line of fortresses designed to protect against German invasion. The tunnels here are nearly 1km long.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4123125,
+          49.2995875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1109",
+        "name": "Ouvrage du Hackenberg",
+        "street": "Rte Militaire, 57920 Veckring, France",
+        "country": "FRA",
+        "website": "http://www.maginot-hackenberg.com/",
+        "description": "Yeah, it's another gros ourvrage in the Maginot Line designed to protect France from Germany, but this one still has a working underground train you can ride on. Hackenberg saw fighting during 1940 and 1944, and was used as a factory by the Nazis. Hackenberg escape deterioration due to quickly being preserved following abandonment in 1970.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3651969,
+          49.341332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1110",
+        "name": "Ouvrage de Fermont",
+        "street": "CD 174, 54620 Beuveille, France",
+        "country": "FRA",
+        "website": "https://www.fort-de-fermont.fr/",
+        "description": "Ouvrage de Fermont is an underground fortress in the Maginot Line designed to protect France from Germany during the interwar period. This fortress still has their underground train running and has a hiking trail for the above ground section of the fortress. You will need to reserve a tour online ahead of time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6675691,
+          49.4489407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1111",
+        "name": "Écomusée des mines de fer de Lorraine",
+        "street": "2 Rue du Musée, 57700 Neufchef, France",
+        "country": "FRA",
+        "website": "http://www.musee-minesdefer-lorraine.com/",
+        "description": "The iron mines at Neufchef have been active since 1820, but the mining museum here is themed to the work done during the 1950s, giving the location a retro-futuristic aesthetic. Yes you can go underground to the mining tunnels here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0270098,
+          49.3252221
+        ]
+      }
     }
   ]
 }
