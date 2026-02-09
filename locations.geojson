@@ -22699,6 +22699,7 @@
         "country": "FRA",
         "website": "http://www.jonastroglo.fr/",
         "description": "Celts dug a fortress into the cliffs of the Jonas volcano. On some days there are character actors filling the caves. Tours by reservation only - plan ahead.",
+        "worth stopping": true,
         "museum": true,
         "cave": true
       },
@@ -22707,6 +22708,252 @@
         "coordinates": [
           2.993076,
           45.5416622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1135",
+        "name": "Musée de la Grande Guerre du pays de Meaux",
+        "street": "Rue Lazare Ponticelli, 77100 Meaux, France",
+        "country": "FRA",
+        "website": "https://www.museedelagrandeguerre.com/",
+        "description": "The 1914 German offensive through Belgium reached the outskirts of Paris - but was halted by the French army at the Battle of the Marne near this museum in Meaux. The Museum of the Great War is the biggest WW1 museum in Europe, and includes little trenches where you can run around and watch character actors pretend they're having a terrible time in WW1.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9035066,
+          48.9713907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1136",
+        "name": "Château de Versailles",
+        "street": "Place d'Armes, 78000 Versailles, France",
+        "country": "FRA",
+        "website": "https://www.chateauversailles.fr/",
+        "description": "Until the industrial revolution, France was the strongest and richest nation in Europe- and Versailles was the palace where all the money and power went.  After nearly being overthrown by the nobility as a child, French King Louis XIV built a gilded cage for the nobility to distract them with continuous pageantry - and keep them away from their bases of power. Versailles is also where the Third Estate seized power from the nobility and the clergy during the French Revolution in 1789, where the German states created the German Empire in 1871, and where the German Empire was destroyed by the Treaty of Versailles in 1919. Versailles is massive- the grounds are nearly 2 miles across with multiple palaces, and a fake village where the nobility could pretend to be poor in a controlled environment.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1207643,
+          48.804227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1137",
+        "name": "Musée de l'air et de l'espace",
+        "street": "Aéroport de Paris-Le Bourget, 93352 Le Bourget, France",
+        "country": "FRA",
+        "website": "https://www.museeairespace.fr/",
+        "description": "This is THE French air museum, featuring 150+ airplanes from France's development of flight located inside the 1930s Art Deco terminal of Le Bourget Airport. This is the museum where all of France's experimental aircraft and rockets end up. Featuring 1880s gliders, the first airships to ever complete a circuit, a Caudron G.4, experimental ramjet aircraft, two Concordes, an A380, and various French rockets.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4342533,
+          48.9482348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1138",
+        "name": "Cité des sciences et de l'industrie",
+        "street": "30 Av. Corentin Cariou, 75019 Paris, France",
+        "country": "FRA",
+        "website": "https://www.cite-sciences.fr/fr/accueil/",
+        "description": "The City of Science and Industry is more of a science museum for kids than an industry museum, it's also home to the Cold War era Aréthuse-class submarine Argonaute.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3877396,
+          48.8953807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1139",
+        "name": "Musée des Arts et Métiers",
+        "street": "60 Rue Réaumur, 75003 Paris, France",
+        "country": "FRA",
+        "website": "https://www.arts-et-metiers.net/",
+        "description": "The 710AD Priory of Saint-Martin-des-Champs has been turned into the Museum of Arts and Crafts, featuring demonstrations of famous French inventions such as: the Foucault pendulum which proved Earth's rotation, the 1897 steam powered aircraft Avion III (which didn't fly, but it looks cool), Pascal's mechanical calculator, the Fardier de Cugnot (the first steam powered vehicle ever built from 1771), and the first aircraft to cross the English channel.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3554515,
+          48.8661194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1140",
+        "name": "Musée du Louvre",
+        "street": "Musée du Louvre 75001 Paris, France",
+        "country": "FRA",
+        "website": "https://www.louvre.fr/",
+        "description": "This is THE French art museum. The Louvre Museum is best known for being home of the Mona Lisa, but it's also a former Royal Palace for the French Monarchy stuffed with the very best art money could buy and an Empire could loot. This includes Egyptian antiquities such as the Great Sphinx of Tanis, Assyrian Lamasu, Renaissance paintings, and Greek sculptures.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3366863,
+          48.8608323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1141",
+        "name": "Hôtel des Invalides",
+        "street": "Hôtel des Invalides 75007 Paris, France",
+        "country": "FRA",
+        "website": "https://www.musee-armee.fr/votre-visite/les-espaces-du-musee/lhotel-national-des-invalides.html",
+        "description": "Hôtel des Invalides was created as a home for injured soldiers in 1670, but is now a museum complex including: the Tomb of Napoleon, the museum of the French Army (Musée de l'Armée) , Museum of Military Models (Musée des Plans-reliefs), Charles de Gaulle Museum (Historial Charles de Gaulle), and Museum of the Liberation (Musée de l'ordre de la Libération).",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3123619,
+          48.8558271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1142",
+        "name": "Tour Eiffel",
+        "street": "Av. Gustave Eiffel, 75007 Paris, France",
+        "country": "FRA",
+        "website": "https://www.toureiffel.paris/fr",
+        "description": "The Eiffel Tower was built as the tallest human-made structure in history in 1889 at 1,083ft high, and acted as the centerpiece for the centennial of the French Revolution at the 1889 Exposition Universelle World's Fair. This iconic structure has been imitated across the world in Tokyo, Nagoya, New Brighton, Macau, Las Vegas, Hangzhou, Blackpool, and two amusement parks in the United States.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2943717,
+          48.8582261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1143",
+        "name": "Palais de Chaillot",
+        "street": "1 Pl. du Trocadéro et du 11 Novembre, 75016 Paris, France",
+        "country": "FRA",
+        "website": "https://www.parisinfo.com/musee-monument-paris/118358/Palais-de-Chaillot",
+        "description": "The Palais de Chaillot was built for the 1937 Exposition Internationale World's Fair as an architectural compliment to the Eiffel Tower and today is a museum complex featuring: Musée de l'Homme (Anthropology museum), Musée national de la Marine (National Navy Museum), and Cité de l’architecture et du patrimoine (Museum of French Architecture and National Monuments).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2881429,
+          48.8623741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1144",
+        "name": "Musée des Arts Forains",
+        "street": "53 Av. des Terroirs de France, 75012 Paris, France",
+        "country": "FRA",
+        "website": "http://arts-forains.com/",
+        "description": "The Museum of Fairground Arts is a museum dedicated to historical fairs, including carnivals, world's fairs. The museum itself features French historical fairground games and rides - including a 1920s mirror maze.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3890873,
+          48.8326468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1145",
+        "name": "Musée des transports urbains, interurbains et ruraux",
+        "street": "1 Rue Gabriel de Mortillet, 77500 Chelles, France",
+        "country": "FRA",
+        "website": "1 Rue Gabriel de Mortillet, 77500 Chelles, France",
+        "description": "This is THE French public transportation museum, featuring 4 omnibuses, 13 trams, and 48+ buses from the development of Parisian urban transport.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.602621,
+          48.8771489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1146",
+        "name": "Château de Fontainebleau",
+        "street": "77300 Fontainebleau, France",
+        "country": "FRA",
+        "website": "https://www.chateaudefontainebleau.fr/",
+        "description": "The Château was THE Summer Palace for French royalty until the construction of Versailles, now the gardens and palace are a museum.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6996432,
+          48.4021306
         ]
       }
     }

@@ -464,8 +464,9 @@ function populateMapMarkers(
 async function markerPopUp(feature, popup){
   const term = feature.properties?.name || "";
   const name = feature.properties?.name || "";
+  nameSanitized = name.replace(/['’]/g, ' ')
   //note to self, you hardcoded numimages as 4 here
-  const imageHtml = await buildPopupImages(term, 4);
+  const imageHtml = await buildPopupImages(nameSanitized, 4);
   const uid = feature.properties?.uid || "No uid found";
   const website = feature.properties?.website || "";
   const streetAddress = feature.properties?.street|| "";
@@ -473,28 +474,30 @@ async function markerPopUp(feature, popup){
   const description = feature.properties?.description;
   console.log("The uid for this popup is:");
   console.log(uid);
+  
+
 
   // This is the html before it will be altered later with the images when they load (IF they load)
   const originalHtml =
     `<div class="popup-title-row">
-      <b class="popup-title">${name || 'Unnamed'}</b>
+      <b class="popup-title">${name|| 'Unnamed'}</b>
       <hr>
       <button
         class="popup-google-pictures-btn"
         title="Google Images"
-        onclick="openGoogleImagesSearch('${name}')">
+        onclick="openGoogleImagesSearch('${nameSanitized}')">
         📸
       </button>
       <button
         class="popup-website-btn"
         title="Location Website: ${website}"
-        onclick="openWebAddress('${website}','${name}')">
+        onclick="openWebAddress('${website}','${nameSanitized}')">
         🌐
       </button>
       <button
         class="popup-directionse-btn"
         title="Driving Directions"
-        onclick="openDirections('${streetAddress}','${name}')">
+        onclick="openDirections('${streetAddress}','${nameSanitized}')">
         🗺️
       </button>
       <button
