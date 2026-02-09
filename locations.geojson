@@ -22956,6 +22956,186 @@
           48.4021306
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1147",
+        "name": "Musée du bonbon Haribo",
+        "street": "Pont des Charrettes, Chem. du Moulin de Bargeton, 30700 Uzès, France",
+        "country": "FRA",
+        "website": "https://museeharibo.tickeasy.com/fr-FR/accueil",
+        "description": "Haribo is one of the dominant gummy candy manufacturers in Europe, known for their production of gummy bears - at Uzes you can tour the factory and see how the candy is made.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4227446,
+          43.9933211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1148",
+        "name": "Grotte de Niaux",
+        "street": "Grotte de Niaux, 09400 Niaux, France",
+        "country": "FRA",
+        "website": "https://www.sites-touristiques-ariege.fr/grotte-de-niaux/",
+        "description": "Turns out the French have always been good at painting since there's 13,000+ year old cave art in Niaux Cave. Reservations required - plan ahead.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.593715,
+          42.8199289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1149",
+        "name": "Cité de l'espace",
+        "street": "Av. Jean Gonord, 31500 Toulouse, France",
+        "country": "FRA",
+        "website": "https://www.cite-espace.com/",
+        "description": "This is THE French space museum. However, unlike Cape Canaveral the rockets here are just mockups, but it's the only chance you'll have to go inside of a full sized mockup of the now deorbited MIR space station.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.492737,
+          43.5861632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1150",
+        "name": "Aeroscopia",
+        "street": "1 All. André Turcat, 31700 Blagnac, France",
+        "country": "FRA",
+        "website": "https://www.aeroscopia.fr/",
+        "description": "In the 1970s uncompetitive European aircraft manufacturers merged into Airbus to stand against American competition - Aeroscopia is Airbus's museum. The museum features every single Airbus product every made like the A380, but also has a Concord and Super Guppy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3600516,
+          43.6602914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1151",
+        "name": "Grotte de Trabuc",
+        "street": "Route des grottes de Trabuc, 30140 Mialet, France",
+        "country": "FRA",
+        "website": "https://grotte-de-trabuc.com/",
+        "description": "The floor of Trabuc cave is covered in naturally formed miniature spikes as if someone had stood millions of stakes on end.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9591126,
+          44.1078846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1152",
+        "name": "Gouffre de Padirac",
+        "street": "Le Gouffre, 46500 Padirac, France",
+        "country": "FRA",
+        "website": "https://www.gouffre-de-padirac.com/",
+        "description": "The Padirac chasm is a 300ft circular hole in the ground leading to an underground river.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7501604,
+          44.8582173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1153",
+        "name": "Grotte des Demoiselles",
+        "street": "34190 Saint-Bauzille-de-Putois, France",
+        "country": "FRA",
+        "website": "https://www.demoiselles.com/",
+        "description": "Unlike most caves which are winding, Demoiselles Cave is one giant fairy-tale like room deep in a mountainside.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7442334,
+          43.9074866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1154",
+        "name": "Gouffre de Cabrespine",
+        "street": "La Cresto, 11160 Cabrespine, France",
+        "country": "FRA",
+        "website": "https://www.gouffre-de-cabrespine.com/",
+        "description": "Cabrespine Cave is massive to begin with, and in the middle there is a frighteningly deep circular chasm that stretches past where the eye can see - which is why they built a bridge over it so you can look straight down into the void.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4570554,
+          43.3592945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1155",
+        "name": "Parc Astérix",
+        "street": "Les Arènes Romaines, Parc Astérix, 60128 Plailly, France",
+        "country": "FRA",
+        "website": "https://www.parcasterix.fr/",
+        "description": "Parc Astérix is the largest amusement park in France featuring 10 rollercoasters, including the well renowned Toutatis and OzIris. It's also themed after the popular comic book series Astérix, which I'm sure means more to Europeans than it does to me.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5701896,
+          49.1346726
+        ]
+      }
     }
   ]
 }
