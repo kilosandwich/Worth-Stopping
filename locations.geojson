@@ -23257,6 +23257,126 @@
           41.592451
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1162",
+        "name": "Parque nacional de los Picos de Europa",
+        "street": "33004 Oviedo, Asturias, Spain",
+        "country": "ESP",
+        "website": "https://parquenacionalpicoseuropa.es/",
+        "description": "Pics de Europa features sheer vertical limestone cliffs such as Naranjo de Bulnes, with hiking trails passing through perilous gorges and abandoned mines. The hiking trail of La Ruta del Cares is carved into the cliffs as it passes through some particularly scenic gorges with natural arches. Mina de Bufferrera features limestone pinnacles and centuries old limestone mines. Like most European national parks, you can't get a good view of anything here unless you get out and hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9002626,
+          43.2188287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1163",
+        "name": "Parque de Atracciones Monte Igueldo",
+        "street": "De Igeldo Ibilbidea, 183, 20008 Donostia / San Sebastián, Gipuzkoa, Spain",
+        "country": "ESP",
+        "website": "http://www.monteigueldo.es/atracciones",
+        "description": "The top of this mountain is home to an antique amusement park overlooking the ocean, featuring a concrete rollercoaster from 1928 surrounding a lighthouse.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0099567,
+          43.3212408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1164",
+        "name": "Museo Histórico Militar de Asturias",
+        "street": "33429 Colloto, Asturias, Spain",
+        "country": "ESP",
+        "website": "https://www.facebook.com/share/LQoirNUSKxEot3Mw/",
+        "description": "During the Great Depression of the 1930s, Spain was caught between worker's revolutionary uprisings, and a coalition of conservative parties that sought to remove democracy. After a coalition of worker's parties defeated the conservatives in the 1936 elections , the military launched a coup to overthrow the government - which failed and plunged the country into the Spanish Civil War. The museum of military history of the Asturias is the most comprehensive museum of the Spanish Civil War. The museum is located in a fortified command post filled with weapons and makeshift armored vehicles constructed during the Civil War.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8054075,
+          43.3964723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1165",
+        "name": "Torre de Hércules",
+        "street": "Av. Navarra, s/n, 15002 A Coruña, Spain",
+        "country": "ESP",
+        "website": "",
+        "description": "The Lighthouse of Alexandria's plans were used to construct the Tower of Hercules in the first century. This Roman lighthouse is over 2,000+ years old and is where the Romans figuratively believed the world ended since all that lays beyond is the emptiness of the Atlantic.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4071957,
+          43.3860625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1166",
+        "name": "Las Médulas",
+        "street": "Las Médulas El Bierzo, León, Spain",
+        "country": "ESP",
+        "website": "https://www.turismodelbierzo.es/medulas/",
+        "description": "Roman gold mining tore this mountain apart by splitting it at its gold veins using water pressure. What remains is a shattered red landscape carved by water - which makes for really cool hiking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7611922,
+          42.4590025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1167",
+        "name": "Embalse de Vega de Tera",
+        "street": "",
+        "country": "ESP",
+        "website": "",
+        "description": "The Vega de Tera dam was built poorly, and collapsed on January 9, 1959 killing 144 people. The remains of the dam are now an area you can hike through, though a smaller dam has been built between the ruins.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7800407,
+          42.1786564
+        ]
+      }
     }
   ]
 }
