@@ -23136,6 +23136,127 @@
           49.1346726
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1156",
+        "name": "Sagrada Família",
+        "street": "Carrer de Mallorca, 401, Eixample, 08013 Barcelona, Spain",
+        "country": "ESP",
+        "website": "https://sagradafamilia.org/en/home",
+        "description": "This Art Nouveau church was designed in 1882 and has been under construction ever since. Oh and it also looks like a work of alien architecture and is the tallest church in the world.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1739972,
+          41.4036412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1157",
+        "name": "Museo Marítimo de Barcelona",
+        "street": "Av. de les Drassanes, s/n, Ciutat Vella, 08001 Barcelona, Spain",
+        "country": "ESP",
+        "website": "http://www.mmb.cat/",
+        "description": "The Kingdom of Spain took all of its money from looting the Americas and spent it on becoming a major naval power. The museum includes a replica of the Galley Real - flagship of the victorious Spanish fleet at the Battle of Lepanto in 1571.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1761883,
+          41.3752968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1158",
+        "name": "Museo del Ferrocarril de Cataluña",
+        "street": "Plaça d'Eduard Maristany, s/n, 08800 Vilanova i la Geltrú, Barcelona, Spain",
+        "country": "ESP",
+        "website": "https://museudelferrocarril.org/index_en.asp",
+        "description": "The Railway Museum of Catalonia has 1854 Mataro, the oldest locomotive in Spain, as well as 30+ other locomotives.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7310463,
+          41.2214497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1159",
+        "name": "PortAventura World",
+        "street": "Avinguda de l'Alcade Pere Molas, s/n, 43480 Vila-seca, Tarragona, Spain",
+        "country": "ESP",
+        "website": "https://www.portaventuraworld.com/",
+        "description": "PortAventura World is the largest amusement park in Spain, and has an entire section devoted entirely to Ferrari. Port Aventura has 10 rollercoasters, including: Red Force - the tallest (367ft) and fastest (112mph) rollercoaster in Europe, a rollercoaster themed after barrels of wine, and the official Uncharted (the video game series) rollercoaster.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1571949,
+          41.0877795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1160",
+        "name": "Montaña de sal de Cardona",
+        "street": "Carr. de la Mina, 6, 08261 Cardona, Barcelona, Spain",
+        "country": "ESP",
+        "website": "https://www.cardonaturisme.cat/visita-cardona/muntanya-de-sal/",
+        "description": "Salt Mountain is a naturally occurring mountain made entirely out of salt, and so are the ledges of the surrounding valley. Historically, this place has been a salt mine, which is why you can go inside of the artificial salt caverns - which are also filled with salt.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6749448,
+          41.90641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1161",
+        "name": "Parque natural de Montserrat",
+        "street": "Abadia de Montserrat Monestir, 08199 Montserrat, Barcelona, Spain",
+        "country": "ESP",
+        "website": "https://muntanyamontserrat.gencat.cat/ca/inici",
+        "description": "Montserrat Mountain looks like a child playing with clay tried their hardest to make a mountain - meaning it's a bunch of lumpy and bulbous cones and funny looking rock formations.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8356244,
+          41.592451
+        ]
+      }
     }
   ]
 }
