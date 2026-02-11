@@ -23377,6 +23377,146 @@
           42.1786564
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1168",
+        "name": "Muelle de las Carabelas",
+        "street": "Paraje de La Rábida, s/n, 21819 Palos de la Frontera, Huelva, Spain",
+        "country": "ESP",
+        "website": "https://www.diphuelva.es/Rabida/contenidos/Muelle-de-las-Carabelas/",
+        "description": "Christopher Columbus's voyages began the European colonization of the Americas, and Spain built exact replicas of the ships for the 500th anniversary of the voyage.  There's also a museum here dedicated to Columbus's first voyage.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9280932,
+          37.2113128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1169",
+        "name": "Parque Natural de Arribes del Duero",
+        "street": "37175 Pereña de la Ribera, Salamanca, Spain",
+        "country": "ESP",
+        "website": "http://www.patrimonionatural.org/espacios-naturales/parque-natural/parque-natural-arribes-del-duero",
+        "description": "Sure the 400 meter deep canyon in Arribes del Duero Natural Park is cool, but the waterfall at Pozo de los Humos is even cooler",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5704471,
+          41.2177204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1170",
+        "name": "Delfín (S-61)",
+        "street": "Av. del Puerto, 03181 Torrevieja, Alicante, Spain",
+        "country": "ESP",
+        "website": "https://torrevieja.com/en/s-61-delfin-submarine-floating-museum/",
+        "description": "The French designed Cold War era Daphné-class submarine Delfín is the only Spanish submarine you can go inside of.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6812142,
+          37.9725144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1171",
+        "name": "Barrancos de Gebas",
+        "street": "30848 Alhama de Murcia, Murcia, Spain",
+        "country": "ESP",
+        "website": "",
+        "description": "Spain turned the Badlands of Barrancos de Gebas into a reservoir, which means that this piece of geography ordinarily known for being dry is instead awash in sharp blue water.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4241599,
+          37.8967304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1172",
+        "name": "Museo Histórico Militar de Cartagena",
+        "street": "Pl. Puerta de la Serreta, s/n, 30201 Cartagena, Murcia, Spain",
+        "country": "ESP",
+        "website": "https://ejercito.defensa.gob.es/unidades/Madrid/ihycm/Museos/cartagena.html",
+        "description": "This is THE Spanish artillery museum. The Military History Museum of Cartagena has 40+ artillery pieces and a few tanks.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9853916,
+          37.604679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1173",
+        "name": "Museo Naval de Cartagena",
+        "street": "P.º Alfonso XII, s/n, 30201 Cartagena, Murcia, Spain",
+        "country": "ESP",
+        "website": "https://www.fundacionmuseonaval.com/museonavalcartagena.html",
+        "description": "The Naval Museum of Cartagena has the 1889 submarine Peral - the first military capable submarine ever built.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9874425,
+          37.5981114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1174",
+        "name": "Parque nacional de Ordesa y Monte Perdido",
+        "street": "C. Felipe Coscolla, 11, 22004 Huesca, Spain",
+        "country": "ESP",
+        "website": "http://www.aragon.es/ordesa",
+        "description": "Ordesa y Monte Perdido National Park covers distinct waterfall filled canyons within the Pyrenees mountains such as the Gargantas de Escuaín,Cañón de Añisclo, and Cañón del Vellos . There's a lot of hiking to do, but the roads A-138, and A-135 let you get some pretty good views. Unfortunately the best views of the narrow gorges requires hiking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0307287,
+          42.6493513
+        ]
+      }
     }
   ]
 }
