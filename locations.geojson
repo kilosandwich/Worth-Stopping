@@ -23517,6 +23517,310 @@
           42.6493513
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1175",
+        "name": "Desierto de Tabernas",
+        "street": "",
+        "country": "ESP",
+        "website": "https://en.andalucia.org/listing/desierto-de-tabernas/15460101/",
+        "description": "The Tabernas Desert is the only actual desert in Europe - and it looks so much like the American Southwest that it's littered in Hollywood movie sets so studios could avoid paying American wages.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.43153,
+          37.0199699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1176",
+        "name": "Alhambra",
+        "street": "C. Real de la Alhambra, s/n, Centro, 18009 Granada, Spain",
+        "country": "ESP",
+        "website": "https://www.alhambra-patronato.es/",
+        "description": "Part of the Iberian peninsula was once ruled by the Muslim state of the Emirate of Grenada - which built a decadent palace on a hilltop fortress in Grenada in 1238AD. Following the Reconquista, the Alhambra became the Royal Court for Spain - and a European palace was later built atop the Islamic architecture.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5903517,
+          37.1768346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1177",
+        "name": "El Torcal de Antequera",
+        "street": "Paraje Natural Torcal de Antequera, Ctra. de Acceso Al Torcal Alto Km 3,5, Antequera, Málaga, Spain",
+        "country": "ESP",
+        "website": "http://www.torcaldeantequera.com/",
+        "description": "The tops of the cliffs of the El Torcal Massif de are a rugged Karst landscape where towers of rocks have formed a jumbled maze of narrow canyons and spires. There's well established hiking trails to get the best views, however the road to the visitor center captures the unique landscape fairly well.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5456142,
+          36.9526852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1178",
+        "name": "Tajo de Ronda",
+        "street": "C. Armiñán, 3, 29400 Ronda, Málaga, Spain",
+        "country": "ESP",
+        "website": "",
+        "description": "La Ronda is split in two by a 100 meter deep gorge, which remarkably has a masonry bridge spanning it from 1794",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1657919,
+          36.7406741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1179",
+        "name": "Bardenas Reales",
+        "street": "Castildetierra 31500, Navarre, Spain",
+        "country": "ESP",
+        "website": "",
+        "description": "Northern Spain is covered in the semi-arid badlands of the Bardenas Reales, which features colorful eroded landscape and tumbleweeds like you would see at Badlands National Park in the United States.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5155967,
+          42.210226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1180",
+        "name": "Parque natural del Cañón del Río Lobos",
+        "street": "Casa del Parque Cañón de Río lobos, Carretera SO-920, Km. 16, 42317 El Burgo de Osma, Soria, Spain",
+        "country": "ESP",
+        "website": "https://patrimonionatural.org/espacios-naturales/parque-natural/parque-natural-canon-del-rio-lobos",
+        "description": "The ordinary Rio Lobos Canyon turns into colorful carved karst cliffs at its heart near the Hermitage of San Bartolomé",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0682392,
+          41.7517484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1181",
+        "name": "Monasterio de Piedra",
+        "street": "Monasterio de Piedra C. Afueras, s/n, 50210 Nuévalos, Zaragoza, Spain",
+        "country": "ESP",
+        "website": "https://monasteriopiedra.com/",
+        "description": "The ruins of the Stone Monastery are surrounded by cliffs, caves, lakes, and waterfalls that look like a lush green oasis in the surrounding orange landscape.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7834207,
+          41.1927723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1182",
+        "name": "Ciudad Encantada",
+        "street": "Carretera CM-2104, Km 19, 16146 Valdecabras, Cuenca, Spain",
+        "country": "ESP",
+        "website": "http://www.ciudadencantada.es/",
+        "description": "The limestone rocks of the Enchanted City have been carved down to dolomite, leaving a maze of mushroom shaped rocks, arches, and overhangs.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0117713,
+          40.2064228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1183",
+        "name": "Parque natural del Alto Tajo",
+        "street": "Ermita de la Virgen de la Hoz 19392 Corduente, Guadalajara, Spain",
+        "country": "ESP",
+        "website": "http://areasprotegidas.castillalamancha.es/rap/espacios-naturales-protegidos/enp-parque-natural/parque-natural-del-alto-tajo",
+        "description": "The Tagus river carved the red and gray limestone of Alto Tajo Natural Park into the twisted gorges and stacks of Barranco de la Hoz and Hundido de Armallones. The hiking trails have bridges hammered into the sides of the cliffs so you'll be near the river through any hike you choose.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0004846,
+          40.8293914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1184",
+        "name": "Museo del Ferrocarril de Madrid",
+        "street": "Paseo de las Delicias, 61, Arganzuela, 28045 Madrid, Spain",
+        "country": "ESP",
+        "website": "https://www.museodelferrocarril.org/index.asp",
+        "description": "This is THE Spanish railway museum. Located in a former 1880s train station the Railway Museum of Madrid features 25+ locomotives, including: the streamlined and futuristic Talgo II, and some of the first locomotives to ever operate in Spain.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917402,
+          40.3988907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1185",
+        "name": "Templo de Debod",
+        "street": "C. de Ferraz, 1, Moncloa - Aravaca, 28008 Madrid, Spain",
+        "country": "ESP",
+        "website": "",
+        "description": "Why travel to Egypt to see an ancient Egyptian temple when instead you can go to Madrid where they've conveniently relocated one for you. The 200 BC Temple of Debod would have been flooded by the Aswan High Dam, but was instead moved to Spain in 1968.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7174738,
+          40.4240006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1186",
+        "name": "Museo del Aire y del Espacio",
+        "street": "Autovía del Suroeste, km 10, Latina, 28024 Madrid, Spain",
+        "country": "ESP",
+        "website": "https://ejercitodelaire.defensa.gob.es/EA/museodelaire/index.html",
+        "description": "This is THE Spanish aviation museum, featuring 114+ aircraft. Historically, most of Spain's aviation has been licensed construction and NATO handouts. However, the autogyro was invented in Spain meaning there are a notable number of helicopters at the Air and Space Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.803088,
+          40.3654983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1187",
+        "name": "Valle de los Caídos",
+        "street": "Carretera de Guadarrama/El Escorial, 28209 San Lorenzo de El Escorial, Madrid, Spain",
+        "country": "ESP",
+        "website": "https://www.patrimonionacional.es/visita/valle-de-cuelgamuros-0",
+        "description": "Most National Cemeteries are in pointy shaped buildings or spread across fields of graves - Spain's is on top of a mountain with the largest cross in the world.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1516563,
+          40.6418931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1188",
+        "name": "Parque Warner Madrid",
+        "street": "A-4, salida 22, 28330 San Martín de la Vega, Madrid, Spain",
+        "country": "ESP",
+        "website": "https://www.parquewarner.com/",
+        "description": "Warner Bros. has their own amusement parks just like Universal Studios, but with only 7 rollercoasters.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5945199,
+          40.2316813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1189",
+        "name": "Museo de Falúas Reales",
+        "street": "Jardín Del Príncipe, s/n, 28300 Aranjuez, Madrid, Spain",
+        "country": "ESP",
+        "website": "https://www.patrimonionacional.es/colecciones-reales/faluas",
+        "description": "The Royal Barge Museum is full of 6 of the most elaborate rowing boats you'll ever see - because a King has to be moved in style.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6020307,
+          40.0427423
+        ]
+      }
     }
   ]
 }
