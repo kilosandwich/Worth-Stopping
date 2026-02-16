@@ -23821,6 +23821,230 @@
           40.0427423
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1190",
+        "name": "Museo del Prado",
+        "street": "Museo Nacional del Prado, Retiro, 28014 Madrid, Spain",
+        "country": "ESP",
+        "website": "https://www.museodelprado.es/",
+        "description": "Spain got really rich from looting the Americas, and used the money to purchase lots of paintings and sculptures - including a understudy's of Leonardo Da Vinci's contemporary version of the Mona Lisa.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.692556,
+          40.4138019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1191",
+        "name": "Gil Eannes (navio-hospital)",
+        "street": "Navio Gil Eannes - Doca Comercial, 4900-321 Viana do Castelo, Portugal",
+        "country": "PRT",
+        "website": "http://www.fundacaogileannes.pt/",
+        "description": "The 1955 Hospital Ship Gilles Eannes later became a tug, icebreaker, mailboat, supply ship, passenger liner, and refrigerated cargo ship - which means that touring it is a chaotic whirlwind of maritime history.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8306214,
+          41.6899496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1192",
+        "name": "Museu Nacional Ferroviário",
+        "street": "Rua Engenheiro, R. Ferreira de Mesquita 1 A, 2330-152 Entroncamento, Portugal",
+        "country": "PRT",
+        "website": "http://www.fmnf.pt/",
+        "description": "Portuguese railroading is an offshoot of British locomotives design - as most of the original locomotives at the National Railway Museum are British built. The National Railway Museum includes the 1862 Portuguese Royal Train, the Portuguese Presidential Train used by dictator Antonio Salazar, and 17+ other locomotives.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.474398,
+          39.4639577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1193",
+        "name": "Praça-forte de Peniche",
+        "street": "Campo da República 609, 2520-607 Peniche, Portugal",
+        "country": "PRT",
+        "website": "http://www.museunacionalresistencialiberdade-peniche.gov.pt/pt/",
+        "description": "The 1558 Peniche Fortress acted as the political prison of the Estado Novo regime (1933-1974) during Portugal's dictatorship under Antonio Salazar. The prison is now home to the National Museum of Resistance and Liberty dedicated to preserving the memory of the fight against the dictatorship that culminated in the success of the Carnation Revolution and return to democracy in 1974.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3804516,
+          39.3539414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1194",
+        "name": "Minas de Aljustel",
+        "street": "Minas de Aljustel, Aljustrel, Portugal",
+        "country": "PRT",
+        "website": "https://www.mun-aljustrel.pt/menu/879/parque-mineiro",
+        "description": "The Aljustrel lead and zinc mine is filled with exciting colors and possible lead poisoning - but the tunnels are electric blue!",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1634788,
+          37.8677197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1195",
+        "name": "Dom Fernando II e Glória (UAM203)",
+        "street": "LG Alfredo Dinis, Cacilhas, 2800-252 Almada, Portugal",
+        "country": "PRT",
+        "website": "https://ccm.marinha.pt/pt/dfernando",
+        "description": "The 1845 sailing frigate Dom Fernando II e Glória is the oldest Portuguese ship still afloat - and one of the few purely sailing frigates left in the world. The frigate is  also available for tour, along with the Cold War era Albacore-class submarine NRP Barracuda.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1465395,
+          38.6867242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1196",
+        "name": "Museu Nacional dos Coches",
+        "street": "Av. da Índia 136, 1300-300 Lisboa, Portugal",
+        "country": "PRT",
+        "website": "http://museudoscoches.gov.pt/pt/",
+        "description": "When you're the royalty of Portugal, you can afford to have the most expensive and ornate carriages imaginable - and 45+ were collected at the National Coach Museum in Lisbon.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1978383,
+          38.6967059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1197",
+        "name": "Museu de Marinha",
+        "street": "Praça do Império, Santa Maria de Belém, 1400-206 Lisboa, Portugal",
+        "country": "PRT",
+        "website": "https://cultura.marinha.pt/en/espacoeventos/pavilhaogaleotas",
+        "description": "The barge pavilion of the Portuguese National Maritime Museum has 6+ elaborate royal barges that the Royalty of Portugal used to move around the Tagus River in Lisbon. There's also the first seaplane to cross the South Atlantic.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2091716,
+          38.697133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1198",
+        "name": "Museu do Ar",
+        "street": "Granja do Marquês, 2715-021 Pêro Pinheiro, Portugal",
+        "country": "PRT",
+        "website": "http://www.museudoar.pt/",
+        "description": "The Portuguese Air Museum isn't the largest air museum as there's only 48+ aircraft, but it does have a replica of Santos Dumont's 14-bis - one of the first European aircraft to fly.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3417818,
+          38.8370862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1199",
+        "name": "Palácio Nacional da Pena",
+        "street": "Estrada da Pena, 2710-609 Sintra, Portugal",
+        "country": "PRT",
+        "website": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
+        "description": "Most European palaces are painted some shade of opulent white - the 1854 Pena National Palace is bright red, yellow, and purple.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3905487,
+          38.7875137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1200",
+        "name": "Quinta da Regaleira",
+        "street": "Quinta da Regaleira 2710-567 Sintra, Portugal",
+        "country": "PRT",
+        "website": "https://www.regaleira.pt/pt/",
+        "description": "A bunch of Rich Portuguese people built this mansion over time, and built an extensive system of gardens, caves, tunnels, inverted towers, and waterfalls.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "cave": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3961465,
+          38.7962977
+        ]
+      }
     }
   ]
 }
