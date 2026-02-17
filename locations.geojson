@@ -12813,7 +12813,7 @@
         "street": "701 7th St, Fort Benton, MT 59442",
         "country": "USA",
         "website": "https://www.blm.gov/programs/national-conservation-lands/montana-dakotas/upper-missouri-river-breaks",
-        "description": "Enjoy 365,000 acres of plains, cliffs, and rivers where paddle steamers pioneered the frontier. This is one of those 'wander around in the wilderness' type of federal lands with unpaved high-clearance roads such as the missouri Breaks National Back Country Byway.",
+        "description": "Enjoy 365,000 acres of plains, cliffs, and rivers where paddle steamers pioneered the frontier. This is one of those 'wander around in the wilderness' type of federal lands with unpaved high-clearance roads such as the Missouri Breaks National Back Country Byway.",
         "worth stopping": true,
         "park": true
       },
@@ -23830,7 +23830,7 @@
         "street": "Museo Nacional del Prado, Retiro, 28014 Madrid, Spain",
         "country": "ESP",
         "website": "https://www.museodelprado.es/",
-        "description": "Spain got really rich from looting the Americas, and used the money to purchase lots of paintings and sculptures - including a understudy's of Leonardo Da Vinci's contemporary version of the Mona Lisa.",
+        "description": "Spain got really rich from looting the Americas, and used the money to purchase lots of paintings and sculptures - including a understudy of Leonardo Da Vinci's contemporary version of the Mona Lisa.",
         "worth stopping": true,
         "museum": true
       },
@@ -24043,6 +24043,206 @@
         "coordinates": [
           -9.3961465,
           38.7962977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1201",
+        "name": "Marinemuseet",
+        "street": "Karljohansvern, Kommandørkaptein Klincks vei 9, 3183 Horten, Norway",
+        "country": "NOR",
+        "website": "https://www.forsvarshistoriskmuseum.no/marinemuseet",
+        "description": "Norway has historically been a naval power - Vikings got around by using boats after all. The Norwegian Naval Museum tracks the history of the Norwegian Navy, and is notably home to the Cold War era Kobben-class submarine KNM Utstein, the Cold War era Oslo-class frigate KNM Narvik, the Storm-class patrol boat KBM Blink, and Norway's first torpedo boat from 1873.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4870017,
+          59.4257385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1202",
+        "name": "Oscarsborg festning",
+        "street": "MJF5+C3, Husvikveien, 1443 Oscarsborg, Norway",
+        "country": "NOR",
+        "website": "https://www.forsvarsbygg.no/festningene/finn-din-festning/oscarsborg-festning/",
+        "description": "This is one of the few naval fortresses still in existence that can claim to have sunk an enemy vessel. The 1855 Oscarsborg Fortress guards the entrance to Oslo by sea, and notoriously sunk a Nazi heavy cruiser during WW2 using the fortress's outdated equipment - significantly delaying the Nazi invasion of Norway.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6064742,
+          59.6737148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1203",
+        "name": "Frammuseet",
+        "street": "Bygdøynesveien 39, 0286 Oslo, Norway",
+        "country": "NOR",
+        "website": "https://frammuseum.no/",
+        "description": "This is THE arctic exploration museum. The Fram was custom built as an arctic exploration ship in 1893, and survived 3 years in the ice during Nansen's Fram Expedition, mapped the arctic islands near western Greenland, and successfully carried out the first expedition to reach the South Pole. The museum also has the Gjøa - the first ship to compete the Northwest Passage. Both ships are displayed fully intact - and are available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6993691,
+          59.9033638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1204",
+        "name": "Kon-Tiki Museet",
+        "street": "Bygdøynesveien 36, 0286 Oslo, Norway",
+        "country": "NOR",
+        "website": "https://www.kon-tiki.no/",
+        "description": "Thor Heyerdahl proved that ancient trans-pacific travel was possible when he sailed the primitive raft Kon-Tiki from South America to the Tuamotu Islands in 1947. He also showed that ancient transatlantic travel was possible with primitive reed boats when he sailed the Ra II from Africa to Barbados. Both ships are on display at the Kon-Tiki museum along with some of the artifacts Heyerdahl collected in his travels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6977925,
+          59.9034778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1205",
+        "name": "Vikingskipshuset",
+        "street": "Huk Aveny 35, 0287 Oslo, Norway",
+        "country": "NOR",
+        "website": "https://www.vikingtidsmuseet.no/",
+        "description": "The shallow-draft longships used to navigate the Fjords of Norway turned out to be very well suited for Vikings pillaging all of Europe. The 9th century Gokstad longship was buried underground - meaning that it's nearly perfectly intact. Learn all about the Vikings and see other artifacts at the Viking Ship Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6842414,
+          59.9048004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1206",
+        "name": "Sporveismuseet Vognhall 5",
+        "street": "Gardeveien 15, 0363 Oslo, Norway",
+        "country": "NOR",
+        "website": "https://sporveismuseet.no/",
+        "description": "Because Europeans are allergic to cars, they have a lot of nice public transit museums - and the Oslo Transport Museum has 25+ trams and 10+ buses on display at Depot 5.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7163314,
+          59.9311428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1207",
+        "name": "Forsvarets Flysamling Gardermoen",
+        "street": "Museumsvegen 35, 2060 Gardermoen, Norway",
+        "country": "NOR",
+        "website": "https://www.flysamlingen.no/",
+        "description": "Unlike it's neighbor Sweden, Norway does not produce its own aircraft - meaning their airforce is composed of aircraft from other countries that could be bought. Notable aircraft include the Rumpler Taube which was the first aircraft ever flown in Norway in 1912, and a C-130.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0696411,
+          60.1891968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1208",
+        "name": "Norsk jernbanemuseum",
+        "street": "Strandvegen 161, 2316 Hamar, Norway",
+        "country": "NOR",
+        "website": "https://jernbanemuseet.no/",
+        "description": "The Norwegian Railway Museum includes the Norwegian Royal Train and the largest steam locomotive ever operated in Norway. There's only 10+ trains here - but the museum offers a better curated experience than most, as narrow gauge and miniature trains operate during the summer.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0271587,
+          60.8003382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1209",
+        "name": "Norsk vegmuseum",
+        "street": "Hunderfossvegen 757, 2625 Fåberg, Norway",
+        "country": "NOR",
+        "website": "http://www.vegmuseum.no/",
+        "description": "The deceptively named Norwegian Road Museum is actually the museum complex of: The Norwegian Road Museum, the 100+ vehicles of the Norwegian Vehicle History Museum, and the tunnels and mining equipment of the Norwegian Mountain Exploration Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4305762,
+          61.2268268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1210",
+        "name": "Blaafarveværket",
+        "street": "Koboltveien 11, 3340 Åmot, Norway",
+        "country": "NOR",
+        "website": "http://www.blaa.no/",
+        "description": "Blue dye used to be made out of the toxic heavy metal Cobalt - and now you can explore the waterfalls and 1850s Cobalt mining tunnels at this open-air industrial site.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8873982,
+          59.911475
         ]
       }
     }
