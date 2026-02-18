@@ -24245,6 +24245,206 @@
           59.911475
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1211",
+        "name": "Norsk luftfartsmuseum",
+        "street": "Børtindgata 35B, 8004 Bodø, Norway",
+        "country": "NOR",
+        "website": "http://www.luftfartsmuseum.no/",
+        "description": "The Norwegian Aviation Museum is Norway's primary aviation museum - and houses 40+ aircraft - which isn't a lot. However, they do have a crashed Junkers Ju 88 which is displayed as it was when it crashed, and a U2 spyplane which was stationed in Bodo to spy on the USSR.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4130485,
+          67.2764568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1212",
+        "name": "Lofotr Vikingmuseum",
+        "street": "Vikingveien 539, 8360 Bøstad, Norway",
+        "country": "NOR",
+        "website": "http://www.lofotr.no/",
+        "description": "This place has a replica Viking longhouse and Viking longship. The longhouse is based on the largest Viking structure ever found - which was discovered nearby in 1983.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7571495,
+          68.2446093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1213",
+        "name": "Hurtigrutemuseet",
+        "street": "Richard Withs gate 1, 8450 Stokmarknes, Norway",
+        "country": "NOR",
+        "website": "https://hurtigrutemuseet.no/",
+        "description": "Before the construction of roads in the 1940s, Northern Norway communities were only accessible by sea. The Coastal Express passenger ship service was chartered by Norway to make connection possible. The Coastal Express Museum houses the 1956 coastal express ship MS Finnmarken enclosed in a glass building.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9122352,
+          68.5694715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1214",
+        "name": "Reisa nasjonalpark",
+        "street": "Hovedvegen 2, 9151 Storslett, Norway",
+        "country": "NOR",
+        "website": "https://reisanasjonalpark.no/en/",
+        "description": "Despite being so far north, the Reisa river valley is lush and full of waterfalls and reindeer - the only problem is that accessing requires hiking through the wilderness from a remote road.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5414835,
+          69.4489036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1215",
+        "name": "Frafjordheiene",
+        "street": "Lysevegen 475, 4127 Lysebotn, Norway",
+        "country": "NOR",
+        "website": "",
+        "description": "The Frafjordheiene Landscape Protection Area has tall vertical fjords with waterfalls - and lakes on top of the mountains themselves. The park is well known for Kjerag (the mountain with a boulder wedged between its cliffs), Eikeskofossen waterfall, Kalleliklimpen waterfall, and Fossjuvet waterfall and gorge. The hiking trails are fairly well defined, but it's a mountain - so it's not an easy hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5763214,
+          59.0350034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1216",
+        "name": "Folgefonna nasjonalpark",
+        "street": "Skålafjæro 17, 5470 Rosendal, Norway",
+        "country": "NOR",
+        "website": "http://www.folgefonna.info/",
+        "description": "Hike up to glacial lakes on top of mountains to see the remnants of glaciers that once covered most of Europe during the ice age. It's a mountain of ice on top of a mountain with waterfalls streaming down the valleys.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4219334,
+          60.0423265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1217",
+        "name": "Trolltunga",
+        "street": "Mågelitopp, Ullensvang, Norway",
+        "country": "NOR",
+        "website": "http://www.trolltunganorway.com/",
+        "description": "Troll Tongue rock juts off of a 2300ft tall cliff above a lake among snow covered mountaintops. It's a 17 miles hike that takes 10 hours minimum - and it is busy.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7531496,
+          60.1333552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1218",
+        "name": "Vøringsfossen",
+        "street": "Fosslivegen 249, 5785 Vøringsfoss, Norway",
+        "country": "NOR",
+        "website": "https://www.visitnorway.com/listings/voringsfossen/158686/",
+        "description": "Two 500ft+ waterfalls converge in a gorge spanned by a pedestrian bridge offering the best views.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2516123,
+          60.4264001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1219",
+        "name": "Sagastad",
+        "street": "Sjøgata 41, 6770 Nordfjordeid, Norway",
+        "country": "NOR",
+        "website": "http://sagastad.no/",
+        "description": "Sagastad has a replica of the Myklebust Ship, the largest Viking ship ever found -and you can walk on the deck of it. The rest of the museum isn't that interesting.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9813324,
+          61.9099066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1220",
+        "name": "Jostedalsbreen nasjonalpark",
+        "street": "Jostedalsbreen National Park Center Sandvik, 6799 Oppstryn, Norway",
+        "country": "NOR",
+        "website": "https://jostedalsbreen.no/en/",
+        "description": "Jostedalsbreen is the largest glacier in Europe - the ice cap stretched from 300-2000meters and the river valleys created my the streams are full of waterfalls and rushing water. This isn't America, you have to hike a few miles to get anywhere close to the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.16934,
+          61.6444938
+        ]
+      }
     }
   ]
 }
