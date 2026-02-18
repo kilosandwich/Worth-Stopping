@@ -24614,7 +24614,7 @@
         "street": "Iso Mustasaari c 77, 00190 Helsinki, Finland",
         "country": "FIN",
         "website": "http://www.sotamuseo.fi/",
-        "description": "The Manage Military Museum features the Finnish interwar submarine Vesikko on the fortress island of Manage guarding Helsinki's harbor.",
+        "description": "The Manage Military Museum features the Finnish interwar submarine Vesikko on the fortress island of Suomenlinna guarding Helsinki's harbor.",
         "worth stopping": true,
         "museum": true
       },
@@ -24623,6 +24623,106 @@
         "coordinates": [
           24.9889747,
           60.1455923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1230",
+        "name": "Vanatknika Varjupaik",
+        "street": "Lai tn 1, Järva-Jaani, 73301 Järva maakond, Estonia",
+        "country": "EST",
+        "website": "https://varjupaik.jjts.ee/",
+        "description": "This is THE Estonian vehicle museum. It's called OldTech Park because it's 500+ Soviet vehicles rusting in a field - buses, trams, trucks, cars, tanks, tractors, cranes, firetrucks, newspaper stands, tollbooths, and harvesters - this place has everything in authentic dilapidated Soviet condition.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8861314,
+          59.0439031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1231",
+        "name": "Eesti Kaevandusmuuseum",
+        "street": "Jaama tn 100, Kohtla-Nõmme, 30503 Ida-Viru maakond, Estonia",
+        "country": "EST",
+        "website": "http://kaevandusmuuseum.ee/",
+        "description": "The Estonian Mining museum is an abandoned Soviet shale quarry where you can now roam through the rust covered tunnels and hope that it's still safe.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.171264,
+          59.3520503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1232",
+        "name": "Eesti Põllumajandusmuuseum",
+        "street": "Muuseumi, Ülenurme, 61714 Tartu maakond, Estonia",
+        "country": "EST",
+        "website": "https://maaelumuuseumid.ee/eesti-pollumajandusmuuseum/",
+        "description": "OldTech Park doesn't have a lot of tractors, but the Estonian Agricultural Museum does - with 25+ ancient tractors and informative history about farming in Estonia.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7228375,
+          58.3176506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1233",
+        "name": "Eesti Meremuuseum",
+        "street": "Vesilennuki tn 6, 10145 Tallinn, Estonia",
+        "country": "EST",
+        "website": "https://meremuuseum.ee/lennusadam/",
+        "description": "This is THE Baltic maritime museum. The Estonian Maritime Museum is located in a 1930s concrete seaplane hangar and features 17 ships, including: the Estonian WW2 era Kalev-class minelaying submarine EML Lembit, the Russian Empire's 1912 icebreaker Suur Tõll, 4 patrol boats, and an assortment of fishing trawlers and coast guard vessels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7390726,
+          59.4519728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1234",
+        "name": "Eesti Sõjamuuseum - Kindral Laidoneri Muuseum",
+        "street": "Mõisa tee 1, Viimsi, 74001 Harju maakond, Estonia",
+        "country": "EST",
+        "website": "http://esm.ee/",
+        "description": "Estonia is located between the major powers of Europe, and therefore was conquered by the Teutonic Order, Denmark, Poland, Sweden, and the Russian Empire. After briefly gaining independence from 1918-1940, Estonia was conquered by the Soviet Union, conquered by the Nazis in 1941, conquered AGAIN by the Soviet Union in 1945 before ultimately gaining independence (again) in 1991. The Estonian War Museum features an armored train, 24 artillery pieces, and a variety of tanks and armored vehicles from Estonia's long history of war.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8342719,
+          59.5015258
         ]
       }
     }
