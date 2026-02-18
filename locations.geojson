@@ -24445,6 +24445,186 @@
           61.6444938
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1221",
+        "name": "Suomen ilmavoimamuseo",
+        "street": "Tikkakoskentie 125, 41160 Tikkakoski, Finland",
+        "country": "FIN",
+        "website": "http://ilmavoimamuseo.fi/",
+        "description": "The Finnish Air Force remained a persistent menace to the Soviet Union during the Winter War and Continuation War, and the Finnish Air Force Museum is mainly dedicated to the ragtag set of aircraft Finland used to defend itself from Communist oppression. There's also the aircraft that the Soviet Union used to try to oppress the Finnish during the Cold War for a total of 40+ aircraft.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6814937,
+          62.3872915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1222",
+        "name": "Suomen merimuseo",
+        "street": "Tornatorintie 99, 48100 Kotka, Finland",
+        "country": "FIN",
+        "website": "http://www.kansallismuseo.fi/fi/suomen-merimuseo",
+        "description": "The Finnish Maritime Museum is home to the 1907 icebreaker Tarmo (seized by the Finnish from the Soviets during the Finnish Civil War), and the 1900 lightship Kemi. There's also a few examples of Finnish watercraft and a patrol boat in the main hall.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9447415,
+          60.4727373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1223",
+        "name": "Forum Marinum",
+        "street": "Linnankatu 72, 20100 Turku, Finland",
+        "country": "FIN",
+        "website": "http://www.forum-marinum.fi/fi/",
+        "description": "This is THE Finnish maritime museum. Featuring 13+ ships including the 1960 cruise ship MS Bore, Cold War era minelayer Keihässalmi, Cold War era Turunmaa-class gunboat Karjala, the 1887 barque Sigyn, sailing cargo ship Suomen Joutsen, and 6 other ships such as torpedo boats and tugboats.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2353294,
+          60.4368468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1224",
+        "name": "Tytyrin kaivos",
+        "street": "Kuilukatu 42, 08100 Lohja, Finland",
+        "country": "FIN",
+        "website": "https://www.tytyrielamyskaivos.fi/",
+        "description": "The Tytyrin calcium mine has been operating for so long that the calcium has begun dripping everywhere, forming haunting stalactites that you can see as you tour through the tunnels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0679068,
+          60.263961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1225",
+        "name": "Linnanmäki",
+        "street": "Tivolikuja 1, 00510 Helsinki, Finland",
+        "country": "FIN",
+        "website": "https://www.linnanmaki.fi/",
+        "description": "Linnanmäki is the oldest and largest amusement park in Finland - featuring 8 rollercoasters including one of the last remaining side-friction rollercoasters in the world.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9397804,
+          60.1881561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1226",
+        "name": "Suomen Rautatiemuseo",
+        "street": "Hyvinkäänkatu 9, 05800 Hyvinkää, Finland",
+        "country": "FIN",
+        "website": "https://rautatiemuseo.fi/",
+        "description": "Finnish railroading started off as an extension of the Russian Empire's railway system- later supplemented by American, English, Austrian, Swiss, and German locomotives. As a result the Finnish Railway Museum has an eclectic mix of 25+ European and American locomotives.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8489284,
+          60.625733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1227",
+        "name": "Panssarimuseo",
+        "street": "Hattulantie 334, 13700 Parola, Finland",
+        "country": "FIN",
+        "website": "https://www.panssarimuseo.fi/",
+        "description": "The Parola Tank Museum has an armored train and 40+ tanks. Featuring one of the most extensive collection of Soviet armored vehicles outside of Russia.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3445578,
+          61.0422872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1228",
+        "name": "Museo Militaria",
+        "street": "Vanhankaupunginkatu 19, 13100 Hämeenlinna, Finland",
+        "country": "FIN",
+        "website": "https://www.museomilitaria.fi/",
+        "description": "Finland combined the Artillery Museum of Finland with the Military Engineer, and Military Signals Museum to create the Military Museum of Finland. Featuring 90+ guns with a strong collection of Russian Empire and Soviet Union equipment.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4559366,
+          61.0053449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1229",
+        "name": "Sotamuseon Maneesi",
+        "street": "Iso Mustasaari c 77, 00190 Helsinki, Finland",
+        "country": "FIN",
+        "website": "http://www.sotamuseo.fi/",
+        "description": "The Manage Military Museum features the Finnish interwar submarine Vesikko on the fortress island of Manage guarding Helsinki's harbor.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9889747,
+          60.1455923
+        ]
+      }
     }
   ]
 }
