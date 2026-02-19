@@ -24725,6 +24725,106 @@
           59.5015258
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1235",
+        "name": "Rīgas Motormuzejs",
+        "street": "Bruno, Sergeja Eizenšteina iela 8, Vidzemes priekšpilsēta, Rīga, LV-1079, Latvia",
+        "country": "LVA",
+        "website": "http://www.motormuzejs.lv/",
+        "description": "The Riga Motormuseum is focused on the telling the story of the development of the European automotive industry - including the Soviet Union's attempts at making a reliable car.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2274294,
+          56.9703104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1236",
+        "name": "Latvijas dzelzceļa vēstures muzejs",
+        "street": "Uzvaras bulvāris 2A, Zemgales priekšpilsēta, Rīga, LV-1048, Latvia",
+        "country": "LVA",
+        "website": "http://www.railwaymuseum.lv/",
+        "description": "The Latvian Railway Museum has 15+ trains from when the Soviet Union conquered the country - unlike most Soviet Trains in museums, these ones are in good condition and you can go inside of them.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0946105,
+          56.9407948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1237",
+        "name": "Rīgas Aviācijas muzejs",
+        "street": "Skultes iela 35, Skulte, Mārupes pagasts, Mārupes novads, LV-2108, Latvia",
+        "country": "LVA",
+        "website": "http://en.airmuseum.lv/home/",
+        "description": "Like most aviation museums in Eastern Europe, the Riga Aviation Museum is a bunch (37+) of Eastern Bloc planes rusting in a field. Including the MiG-23, MiG-25, MiG-27, MiG-29, Sukhoi Su-7,  Yak-28, Tu-22, and large transport helicopter Mil Mi-6.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9595738,
+          56.9191881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1238",
+        "name": "Līgatnes Padomju slepenais bunkurs",
+        "street": "Skaļupes, Līgatne, Cēsu nov, LV-4108, Latvia",
+        "country": "LVA",
+        "website": "http://www.bunkurs.lv/",
+        "description": "The people of the Latvian SSR could sleep soundly knowing that their leaders had generously insulated themselves from the threat of nuclear war by constructing a secret bunker from which they would continue to rule over them. Tour the continuation-of-government facility for Latvia's communist government and see how communism planned to outlive capitalism at the end of the world.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0684602,
+          57.2554302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1239",
+        "name": "Liepājas Karostas cietums",
+        "street": "Invalīdu iela 4, Liepāja, LV-3402, Latvia",
+        "country": "LVA",
+        "website": "http://karosta.lv/",
+        "description": "At the Karosta Prison Museum the museum guards will  abuse you in historically accurate to communism ways by putting you in a prison uniform, locking you in a cell, and interrogating you.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0212355,
+          56.5460055
+        ]
+      }
     }
   ]
 }
