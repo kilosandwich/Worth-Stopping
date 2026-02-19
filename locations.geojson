@@ -24825,6 +24825,167 @@
           56.5460055
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1240",
+        "name": "Plokštinės raketų bazė",
+        "street": "Šilinės gatvė 4, Plokščių k, 90419 Plungės r. sav., Lithuania",
+        "country": "LTU",
+        "website": "http://zemaitijosnp.lt/ekspozicijos/",
+        "description": "Cold War Museum is a gentle name for \"This is a Soviet Nuclear Missile Base\". The museum is located inside Žemaitijos National Park and also includes tours of an abandoned Soviet military town. You need to reserve a ticket ahead of time.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9063454,
+          56.0320927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1241",
+        "name": "Lietuvos jūrų muziejus",
+        "street": "Smiltynės g. 3, Klaipėda, 93100 Klaipėdos m. sav., Lithuania",
+        "country": "LTU",
+        "website": "http://muziejus.lt/",
+        "description": "The Lithuanian Sea Museum is an aquarium located inside of the Prussian Kopgalio Fortress. The museum includes the aquarium, fortress, and an assortment of fishing vessels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0996154,
+          55.7172408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1242",
+        "name": "Grūto parkas",
+        "street": "Grūto k., 66441 Druskininkų r., Lithuania",
+        "country": "LTU",
+        "website": "http://www.grutoparkas.lt/",
+        "description": "Lithuanians love sculpture parks, and during decommunization moved all of the torn-down Soviet monuments into a single park - which also features a museum of Soviet propaganda, and a zoo.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0791185,
+          54.024154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1243",
+        "name": "Kauno tvirtovės IX fortas",
+        "street": "Žemaičių pl. 73, Kaunas, 47435 Kauno m. sav., Lithuania",
+        "country": "LTU",
+        "website": "http://www.9fortomuziejus.lt/",
+        "description": "Russia built this fortress to guard Lithuania from German aggression in 1914. After independence, the Lithuanians used it as a prison. The fortress was then used by the invading Soviets to kill political prisoners during the Soviet invasion in 1940, and then used by the Nazis to kill 50,000+ people during the Holocaust. The fortress was then again used by a prison by the Soviet Union . The fortress is now a memorial to the victims killed at the IX Fortress.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.873323,
+          54.9442954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1244",
+        "name": "Siauruko muziejus",
+        "street": "Stoties g. 4 A, Anykščiai, 29107 Anykščių r. sav., Lithuania",
+        "country": "LTU",
+        "website": "https://siaurukas.eu/",
+        "description": "It's Soviet Trains - but tiny. The Narrow Gauge Railroad Museum contains a collection of Soviet narrow gauge locomotives, as well as a section devoted to Eastern Bloc automobiles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1088413,
+          55.5321173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1245",
+        "name": "Automuziejus Vilnius",
+        "street": "Dariaus ir Girėno g. 2, Vilnius, 02158 Vilniaus m. sav., Lithuania",
+        "country": "LTU",
+        "website": "https://www.automuziejus.lt/",
+        "description": "The Vilnius Automobile Museum is has 100+ vehicles, including several Lithuanian Presidential vehicles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2741079,
+          54.6652307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1246",
+        "name": "Lietuvos nacionalinis muziejus",
+        "street": "Arsenalo g. 1, Vilnius, 01143 Vilniaus m. sav., Lithuania",
+        "country": "LTU",
+        "website": "http://lnm.lt/muziejai/naujasis-arsenalas/",
+        "description": "The Lithuanian National Museum is located on the grounds of the former Vilnius Castle Complex, and includes the recently rebuilt Palace of the Grand Dukes of Lithuania. The museum covers Lithuanian history - which involved being conquered by the Teutonic Knights, forming an independent Grand Duchy of Lithuania, joining with Poland to form the powerful Polish-Lithuanian Commonwealth, being conquered by Russia, successfully fighting for independence, then being conquered by the Soviet Union.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288992,
+          54.6870114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1247",
+        "name": "Okupacijų ir laisvės kovų muziejus",
+        "street": "Aukų g. 2A, Vilnius, 01400 Vilniaus m. sav., Lithuania",
+        "country": "LTU",
+        "website": "https://olkm.lt/",
+        "description": "The Museum of Occupation and Freedom March is located in the former KGB headquarters in Lithuania - where the communist secret police maintained their iron grip over the freedom of Lithuanians. The building features a reconstruction of the KGB prison that was once there, and extensive history on the forced deportations carried out by the Soviet Union in an attempt to destroy the Lithuanian people.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.270356,
+          54.6879686
+        ]
+      }
     }
   ]
 }
