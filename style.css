@@ -142,7 +142,7 @@ SEARCH BAR SECTION
   background: #ffffff;
   border-bottom: 1px solid #ccc;
   padding: 12px;
-  z-index: 1500;
+  z-index: 5000;
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
@@ -282,7 +282,7 @@ LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL*/
   max-width: 800px;    /* controls how wide the item can get, make sure to convert to rem later */
   padding: 16px;       /* inner padding inside the template */
   margin: 0 auto;      /* centers the template inside parent */
-  margin-bottom: 16px;
+  margin-top: 16px;
   background-color: #f5f5f5; /* just an example background */
   border-radius: 8px;  /* optional rounded corners */
   box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* subtle shadow */
