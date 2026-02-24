@@ -105,6 +105,10 @@ NAVIGATION BAR SECTION
   align-items: flex-end;
 }
 
+#shuffle-btn{
+  display: none;
+}
+
 .nav-btn {
   width: 2.75rem;
   height: 2.75rem;
@@ -121,6 +125,10 @@ NAVIGATION BAR SECTION
 
   cursor: pointer;
   transition: background-color 120ms ease, border-color 120ms ease;
+}
+
+.nav-btn.active {
+  background-color: #d3d3d3;  /* grey background when active */
 }
 
 

@@ -46,7 +46,13 @@ let markersLayer = null;
 let countryTag = null;
 let selectedTags = null;
 let nameToSearchFor = null;
+
+//ListView Variables
 let uidArr = [];
+let uidArrRnd = [];
+let shuffleMode = 0;
+let listViewIterator = 0;
+let listViewIteratorRnd = 0;
 
 
 </script>
@@ -116,6 +122,38 @@ file.-->
       🎲
     </button>
 
+    <button id="shuffle-btn" 
+      class = "nav-btn";
+      title= "List View Locations in Shuffled Order"
+      onclick="
+        //toggle the button from being active or not, and toggle shuffle mode accordingly
+        shuffleBtn = document.getElementById('shuffle-btn');
+        shuffleMode = shuffleMode === 0 ? 1 : 0; // toggle 0 <-> 1
+        shuffleBtn.classList.toggle('active', shuffleMode === 1)
+        console.log('Shuffle Mode is:');
+        console.log(shuffleMode);
+
+        document.getElementById('list-view-content').innerHTML = '';
+        listViewIterator = 0;
+        listViewIteratorRnd = 0;
+
+        //At this point, you should copy the uidList and use it to make a new 'shuffled' version
+        //this shuffled version will then be used to load locations depending if shuffle mode is on or not
+        //it should only require a simple change of where the UID is loaded from and which iterator is advanced
+
+        uidArrRnd = [...uidArr];//make a copy of the UID array so we can shuffle it
+
+        //Fisher-Yates Shuffle
+        for (let i = uidArrRnd.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1)); // generate random index from 0 to i
+          [uidArrRnd[i], uidArrRnd[j]] = [uidArrRnd[j], uidArrRnd[i]];           // swap current element with element of random index
+        }
+
+      "
+      >
+      🔀
+    </button>
+
 
 
     </div>
@@ -183,13 +221,6 @@ file.-->
   <datalist id="country-suggestions"></datalist>
 
 </div>
-  <!--
-  <div class="search-section">
-    <h4>Add Custom Tag</h4>
-    <input type="text" id="custom-tag-input" placeholder="tag or key:value">
-    <button id="custom-tag-add">Add</button>
-  </div>
-  -->
 
   <button id="apply-filters">Apply Filters</button>
 </div>
@@ -298,19 +329,6 @@ file.-->
  tags: (this should be a big series of checkboxes concerning all currently existing tags from tags.json
  all existing tags should be added that are NOT based on the boxes that need to be filled.
 ===============
-
-------------------------
- the required buttons are:
- reset (clear all fields)
- close (hides the div, clears all fields)
- fill address fields (fills the address fields)
- getCoordinates (gets the coordinates based on street address inputted)
- checkCoordinates (takes the coordinates, pops them into google maps and opens it in a separate tab)
- yes this is constructable as an html).
- submitChanges (pushes the changes to the temporary geoJSON file, then replaces or appends the geoJSON file)
- >>this needs to be followed with a popup saying changes submitted successfully
- ------------------------
-
  -->
 <div id="edit-dropdown">
   <div class="editor-header">
@@ -354,23 +372,7 @@ file.-->
       Country (Use ISO 3166-1 A-3)</a></label>
     <input type="text" id="editor-country">
   </div>
-   <!--
-  <div class="editor-field">
-    <label for="editor-state">State</label>
-    <input type="text" id="editor-state">
-  </div>
 
-  <div class="editor-field">
-    <label for="editor-county">County</label>
-    <input type="text" id="editor-county">
-  </div>
-
- 
-  <div class="editor-field">
-    <label for="editor-city">City</label>
-    <input type="text" id="editor-city">
-  </div>
-  -->
   <div class="editor-field">
     <label for="editor-website">Website</label>
     <input type="url" id="editor-website" placeholder="https://">
@@ -524,6 +526,8 @@ searchButton.addEventListener("click", () => {
 )
   //Delete the content within the lazy scroll list view section, otherwise it won't load. 
   document.getElementById("list-view-content").innerHTML = "";
+  listViewIterator = 0;
+  listViewIteratorRnd = 0;
 });
 
 /*
@@ -572,11 +576,21 @@ if (countrySearchInput) {
       const div = document.getElementById('div-list-view');
       const currentDisplay = window.getComputedStyle(div).display;
       const btn = document.getElementById('listview-toggle-btn');
+      const rndBtn = document.getElementById('random-location-btn');
+      const shuffleBtn = document.getElementById('shuffle-btn');
       uidArr = []; //reset UIDset to append to
+      uidArrRnd =[];
+
+      
+      //Case: display the list view because it is hidden
       if (currentDisplay === 'none') {
         div.style.display = 'block';
         btn.innerText = '↑';
         btn.title = 'Collapse List View';
+
+        //Hide the rnd button, show the shuffle btn
+        rndBtn.style.display = 'none';
+        shuffleBtn.style.display = 'block';
         
         //iterate through every layer rendered on the map, then display it in the div-list-view 
         //then add each item in the map into a set, the set will then be iterated through as the user scrolls 
@@ -595,12 +609,17 @@ if (countrySearchInput) {
 
             }
           })
+          //add randomized versionof uidArr here, then you can iterate through it cleanly
         }
-
+      
+      //Case: hide the list view because it is open.
       } else {
         div.style.display = 'none';
         btn.innerText = '↓';
         btn.title = 'Expand List View';
+
+        rndBtn.style.display = 'block';
+        shuffleBtn.style.display = 'none';
       }
     "
     >
@@ -627,7 +646,7 @@ if (countrySearchInput) {
  remember: you can always move it later.-->
 
 <script>
-  let listViewIterator = 0;
+
 
   document.addEventListener("DOMContentLoaded", function () {
     const contentContainer = document.getElementById("list-view-content");
@@ -644,13 +663,23 @@ if (countrySearchInput) {
           //Get the feature information by iterating through UID array
           console.log("The UID we are going to retrieve for list view is from this iterator");
           console.log(listViewIterator);
-          uidToRetrieve = uidArr[listViewIterator];
+          //depending on whether shuffle mode is on or not, determine uid
+          if (shuffleMode === 1){
+            //retrieve uid from the shuffled array because shuffle mode is on
+            uidToRetrieve = uidArrRnd[listViewIteratorRnd];
+          }else{
+            //retrieve uid from the ordered array because shuffle mode is off
+            uidToRetrieve = uidArr[listViewIterator];
+          }
+          
+
           console.log("The UID we are going to retrieve for list view is:");
           console.log(uidToRetrieve);
           
 
-
+          //increase iterator
           listViewIterator += 1;
+          listViewIteratorRnd += 1;
           feature = await getFeatureFromUID(uidToRetrieve);
           console.log("The feature we are going to use for Listview is:");
           console.log(feature);
