@@ -359,7 +359,16 @@ async function getCountryInput(){
 //END SEARCH BUTTON SECTION////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 
+function randomizeArrayReturnCopy(arr){
+  arrRnd = [...arr];//make a copy of the UID array so we can shuffle it
 
+  //Fisher-Yates Shuffle
+  for (let i = arrRnd.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1)); // generate random index from 0 to i
+    [arrRnd[i], arrRnd[j]] = [arrRnd[j], arrRnd[i]];           // swap current element with element of random index
+  }
+  return arrRnd;
+}
 
 
 

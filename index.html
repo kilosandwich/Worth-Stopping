@@ -141,13 +141,7 @@ file.-->
         //this shuffled version will then be used to load locations depending if shuffle mode is on or not
         //it should only require a simple change of where the UID is loaded from and which iterator is advanced
 
-        uidArrRnd = [...uidArr];//make a copy of the UID array so we can shuffle it
-
-        //Fisher-Yates Shuffle
-        for (let i = uidArrRnd.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1)); // generate random index from 0 to i
-          [uidArrRnd[i], uidArrRnd[j]] = [uidArrRnd[j], uidArrRnd[i]];           // swap current element with element of random index
-        }
+        uidArrRnd = randomizeArrayReturnCopy(uidArr);
 
       "
       >
@@ -528,6 +522,7 @@ searchButton.addEventListener("click", () => {
   document.getElementById("list-view-content").innerHTML = "";
   listViewIterator = 0;
   listViewIteratorRnd = 0;
+  uidArrRnd = []; //reset the shuffle mode array since the map is now different
 });
 
 /*
@@ -579,7 +574,7 @@ if (countrySearchInput) {
       const rndBtn = document.getElementById('random-location-btn');
       const shuffleBtn = document.getElementById('shuffle-btn');
       uidArr = []; //reset UIDset to append to
-      uidArrRnd =[];
+      //uidArrRnd =[];//you DO NOT need to reset the UID array, the UID array only needs to be reset on clear and shuffle mode click
 
       
       //Case: display the list view because it is hidden
@@ -611,13 +606,11 @@ if (countrySearchInput) {
           })
 
           //Button to create array is pushed, so make its randomized twin.
-          uidArrRnd = [...uidArr];//make a copy of the UID array so we can shuffle it
-
-          //Fisher-Yates Shuffle
-          for (let i = uidArrRnd.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1)); // generate random index from 0 to i
-            [uidArrRnd[i], uidArrRnd[j]] = [uidArrRnd[j], uidArrRnd[i]];           // swap current element with element of random index
-          }//add randomized versionof uidArr here, then you can iterate through it cleanly
+          
+          //if the shuffle mode button has been left on but the array has been reset, generate a new one
+          if (!uidArrRnd.length){
+            uidArrRnd = randomizeArrayReturnCopy(uidArr);
+          }
         }
       
       //Case: hide the list view because it is open.
@@ -675,6 +668,11 @@ if (countrySearchInput) {
           if (shuffleMode === 1){
             //retrieve uid from the shuffled array because shuffle mode is on
             console.log("The list which we are going to choose the UID from is");
+            
+            //If the random array has been reset, generate a new one on the spot. 
+            if (!uidArrRnd.length){
+              uidArrRnd = randomizeArrayReturnCopy(uidArr);
+            }
             console.log(uidArrRnd);
             uidToRetrieve = uidArrRnd[listViewIteratorRnd];
           }else{
