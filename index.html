@@ -609,7 +609,15 @@ if (countrySearchInput) {
 
             }
           })
-          //add randomized versionof uidArr here, then you can iterate through it cleanly
+
+          //Button to create array is pushed, so make its randomized twin.
+          uidArrRnd = [...uidArr];//make a copy of the UID array so we can shuffle it
+
+          //Fisher-Yates Shuffle
+          for (let i = uidArrRnd.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1)); // generate random index from 0 to i
+            [uidArrRnd[i], uidArrRnd[j]] = [uidArrRnd[j], uidArrRnd[i]];           // swap current element with element of random index
+          }//add randomized versionof uidArr here, then you can iterate through it cleanly
         }
       
       //Case: hide the list view because it is open.
@@ -666,6 +674,8 @@ if (countrySearchInput) {
           //depending on whether shuffle mode is on or not, determine uid
           if (shuffleMode === 1){
             //retrieve uid from the shuffled array because shuffle mode is on
+            console.log("The list which we are going to choose the UID from is");
+            console.log(uidArrRnd);
             uidToRetrieve = uidArrRnd[listViewIteratorRnd];
           }else{
             //retrieve uid from the ordered array because shuffle mode is off
