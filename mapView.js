@@ -535,6 +535,8 @@ async function listViewHTMLbuilder(feature){
   const streetAddress = feature.properties?.street|| "";
   const coordinates = feature.geometry?.coordinates;
   const description = feature.properties?.description;
+  const countryCode = feature.properties?.country;
+  const countryName = await countryCodeToCountry(countryCode);
   console.log("The uid for this popup is:");
   console.log(uid);
 
@@ -545,7 +547,10 @@ async function listViewHTMLbuilder(feature){
   // This is the html before it will be altered later with the images when they load (IF they load)
   const featureHTML =
     `<div class="popup-title-row">
-      <b class="popup-title">${name|| 'Unnamed'}</b>
+      <b class="popup-title" style="display: block; margin-bottom: 6px;">
+        ${name || 'Unnamed'}
+      </b>
+      <i class="popup-title-country">${countryName}</i>
       <hr>
       <button
         class="popup-google-pictures-btn"
@@ -894,7 +899,30 @@ async function getFeatureFromUID(uid, geojsonFilePath = "locations.geojson"){
   return geojson.features.find(feature => feature.properties && feature.properties.uid === uid);
 }
 
+//Country Code To Country
+//takes country code string, returns country full name
+async function countryCodeToCountry(countryCode, codejson = "countrycodes.json"){
+  //fetch the countrycodes JSON we need to access
+    const response = await fetch(codejson);
+    if (!response.ok) {
+      throw new Error("Failed to load country codes");
+    }
 
+    const countryCodes = await response.json();
+    //Iterate through the codes until you find the country that matches the countrycode
+      // Normalize input (optional but recommended)
+  const targetCode = countryCode.trim().toUpperCase();
+
+  // Iterate through entries
+  for (const [country, code] of Object.entries(countryCodes)) {
+    if (code.toUpperCase() === targetCode) {
+      return country;
+    }
+  }
+
+  // If not found
+  return "";
+}
 
 
 
