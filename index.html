@@ -37,6 +37,7 @@
 //================================================== 
 var tagsjsonFilePath = "tags.json";
 var geojsonFilePath = "locations.geojson";
+var map = null;
 let locationsFileHandle = null; //this is the file handle, the user will fill it in using the button to do so. 
 let userLocationMarker = null; //this is the user location marker
 let markersLayer = null;
@@ -45,6 +46,7 @@ let markersLayer = null;
 let countryTag = null;
 let selectedTags = null;
 let nameToSearchFor = null;
+let uidArr = [];
 
 
 </script>
@@ -64,6 +66,7 @@ file.-->
 </script>
 <!--==============================================-->
 
+<!----------NAV BAR SECTION----------------->
 <!-- this is the navigation bar,
  on the left is the buttons that do stuff
  on the right is the menu button that features information
@@ -455,12 +458,6 @@ file.-->
   </button>
 </div>
 
-<script>
-//this is the script for the fiel handler for the editor select handler.
-
-
-</script>
-
 <!-- this has to be loaded afterwards otherwise there are no click handlers to reference-->
  <script>  //link the filepath for the tagsjson file.
  </script> 
@@ -525,6 +522,8 @@ searchButton.addEventListener("click", () => {
   selectANDOR = "AND",
   nameToSearchFor
 )
+  //Delete the content within the lazy scroll list view section, otherwise it won't load. 
+  document.getElementById("list-view-content").innerHTML = "";
 });
 
 /*
@@ -548,6 +547,140 @@ if (countrySearchInput) {
 }
 
 </script>
+
+<!--LIST VIEW SECTION-->
+<!-- This is the list view section
+ the list view is a button that appears below the navbar as a simple downwards facing arrow
+ when the arrow is clicked, the list view section extends to cover the map section (remainder of the page)
+
+ within the open list view section, locations information is loaded DIRECTLY FROM THE MAP (this means the map must exist first)
+ the map pointer will initially be defined to null, and if null is loaded into the listview function THEN the button will simply not appear clicked
+ 
+ when loaded, the list view will populate pretty much the same as the popups do (which means you can recycle the build html function)
+ except in a list format - ideally figure out how to lazy load such at the information for each location isn't generated until the user
+ scrolls down to the appropiate position. Make sure to include generous padding such that the information for the locations is loaded in the
+ center of the page in css.-->
+ <!-- the initial div just contains the button, the lower div section will contain the html-->
+<div id="div-listview-btn">
+  <button
+    title="Expand List View"
+    type="button"
+    id="listview-toggle-btn"
+    onclick="
+      console.log('Listview toggle button clicked')
+      //step 1: Toggle between show and hide for the list view section
+      const div = document.getElementById('div-list-view');
+      const currentDisplay = window.getComputedStyle(div).display;
+      const btn = document.getElementById('listview-toggle-btn');
+      uidArr = []; //reset UIDset to append to
+      if (currentDisplay === 'none') {
+        div.style.display = 'block';
+        btn.innerText = '↑';
+        btn.title = 'Collapse List View';
+        
+        //iterate through every layer rendered on the map, then display it in the div-list-view 
+        //then add each item in the map into a set, the set will then be iterated through as the user scrolls 
+        //and content from each part of the set added. 
+        if(map){
+          console.log('map exists, attempting to iterate through every layer');
+          map.eachLayer(function(layer){
+            if (layer instanceof L.Marker){
+              const layerFeature = layer?.feature;
+              const layerUID = layerFeature.properties?.uid;
+              if (layerUID){
+              //listViewHTMLbuilder(layerFeature);
+              uidArr.push(layerUID); //fill the UID set, we may wish to use this later. 
+              //console.log(layerUID); //note, you will need this to ensure that the array is being filled
+              }
+
+            }
+          })
+        }
+
+      } else {
+        div.style.display = 'none';
+        btn.innerText = '↓';
+        btn.title = 'Expand List View';
+      }
+    "
+    >
+    ↓
+
+  </button>
+
+</div>
+
+<!-- to enable doomscrolling, you will need to setup an intersection observer
+ that is triggered by a sentinel. When the sentinel enters the viewport, more content is loaded.
+ content will be created for each uid as it loads, then appendchild will be used to extent the viewport
+ there are function to limit the total number of children such that it can all be removed. 
+ -->
+ 
+<div id="div-list-view">
+  <div id="list-view-content"></div>
+  <div id="list-view-sentinel">
+    <div class="spinner"></div>
+  </div>
+
+</div>
+<!-- this is probably the place to put the lazy scroll behavior, purely because it's easier
+ remember: you can always move it later.-->
+
+<script>
+  let listViewIterator = 0;
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const contentContainer = document.getElementById("list-view-content");
+    const sentinel = document.getElementById("list-view-sentinel");
+
+    const observer = new IntersectionObserver(async (entries) => {
+      for (const entry of entries)  {
+        if (entry.isIntersecting) {
+          console.log("Intersecting entry, attempting to load more content...")
+          //NOTE: do not continue IF iterating beyond content
+          if (listViewIterator > uidArr.length){
+            return;
+          }
+          //Get the feature information by iterating through UID array
+          console.log("The UID we are going to retrieve for list view is from this iterator");
+          console.log(listViewIterator);
+          uidToRetrieve = uidArr[listViewIterator];
+          console.log("The UID we are going to retrieve for list view is:");
+          console.log(uidToRetrieve);
+          
+
+
+          listViewIterator += 1;
+          feature = await getFeatureFromUID(uidToRetrieve);
+          console.log("The feature we are going to use for Listview is:");
+          console.log(feature);
+
+          //create a template (which we can use CSS on)
+          //fil the templates content with HTML
+          const template = document.createElement("div");
+          template.className = "ListViewTemplate";
+          template.innerHTML = await(listViewHTMLbuilder(feature));
+
+          contentContainer.appendChild(template);
+
+
+        }
+      }
+    }, {
+      root: null,
+      threshold: 0,
+      rootMargin: "100px"
+    });
+
+    observer.observe(sentinel);
+  });
+
+  
+</script>
+
+
+
+
 
 
 

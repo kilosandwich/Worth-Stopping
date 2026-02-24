@@ -6,10 +6,10 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%;     /* REQUIRED */
+  height: auto;     /* REQUIRED */
   font-size: medium;
   max-width: 100%;
-  overflow: hidden;
+  overflow: auto;
   touch-action: none;
   overscroll-behavior: none;
   inset: 0;
@@ -222,6 +222,7 @@ DROP DOWN MENU SECTION
   background: #fff;
   border: 1px solid #ccc;
   width: 13.75rem;
+  z-index: 3000;
 }
 
 
@@ -232,6 +233,92 @@ DROP DOWN MENU SECTION ABOVE THIS
 =======================================
 */
 
+
+/*
+======================================
+LIST VIEW SECTION BELOW THIS
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL*/
+
+#div-listview-btn {
+  position: absolute;
+  top: var(--navbar-height);
+  left: 50%;
+  transform: translateX(-50%);
+  
+  z-index: 4000;
+  
+}
+
+#listview-toggle-btn{
+  padding: 14px 24px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  border: 1.5px solid #e0e0e0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #f9f9f9;
+  transition: all 0.2s ease;
+}
+
+#listview-toggle-btn:hover {
+  background-color: #f1f1f1;
+  border-color: #cfcfcf;
+}
+
+#div-list-view {
+  overflow-y: auto; 
+  position: fixed;
+  top: var(--navbar-height);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #f9f9f9;
+  z-index: 3000;
+  display: none;
+}
+
+.ListViewTemplate{
+  width: 100%;
+  max-width: 800px;    /* controls how wide the item can get, make sure to convert to rem later */
+  padding: 16px;       /* inner padding inside the template */
+  margin: 0 auto;      /* centers the template inside parent */
+  margin-bottom: 16px;
+  background-color: #f5f5f5; /* just an example background */
+  border-radius: 8px;  /* optional rounded corners */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* subtle shadow */
+  box-sizing: border-box;
+
+  font-family: sans-serif;
+  font-size: 1.25rem;
+}
+
+#list-view-sentinel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid rgba(0, 0, 0, 0.2);
+  border-top-color: #333;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+
+
+
+
+/*LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+LIST VIEW SECTION ABOVE THIS
+========================================*/
 
 
 

@@ -524,6 +524,71 @@ async function markerPopUp(feature, popup){
   popup.popup.setContent(originalHtml + imageHtml) ;
 }
 
+async function listViewHTMLbuilder(feature){
+  const term = feature.properties?.name || "";
+  const name = feature.properties?.name || "";
+  nameSanitized = name.replace(/['’]/g, ' ')
+  //note to self, you hardcoded numimages as 4 here
+  const imageHtml = await buildPopupImages(nameSanitized, 4);
+  const uid = feature.properties?.uid || "No uid found";
+  const website = feature.properties?.website || "";
+  const streetAddress = feature.properties?.street|| "";
+  const coordinates = feature.geometry?.coordinates;
+  const description = feature.properties?.description;
+  console.log("The uid for this popup is:");
+  console.log(uid);
+
+  const listViewDiv = document.getElementById("div-list-view");//this is the div where we are putting our HTML, repeatedly
+  
+
+
+  // This is the html before it will be altered later with the images when they load (IF they load)
+  const featureHTML =
+    `<div class="popup-title-row">
+      <b class="popup-title">${name|| 'Unnamed'}</b>
+      <hr>
+      <button
+        class="popup-google-pictures-btn"
+        title="Google Images"
+        onclick="openGoogleImagesSearch('${nameSanitized}')">
+        📸
+      </button>
+      <button
+        class="popup-website-btn"
+        title="Location Website: ${website}"
+        onclick="openWebAddress('${website}','${nameSanitized}')">
+        🌐
+      </button>
+      <button
+        class="popup-directionse-btn"
+        title="Driving Directions"
+        onclick="openDirections('${streetAddress}','${nameSanitized}')">
+        🗺️
+      </button>
+      <button
+        class="popup-zoom-btn"
+        title="Zoom to Destination"
+        onclick="centerMapOnCoordinates('${coordinates}')">
+        🎯
+      </button>
+      <button
+        class="popup-edit-btn"
+        title="Edit location"
+        onclick="editor('${uid}')">
+        ✏️
+      </button>
+      <hr>
+    </div>
+    ${description|| ''}<br>
+    
+    <hr>
+    `;
+  
+  //shove the HTML content into the div full of the imageHtml content
+  //Thought: I could load the image html only once it loads? Make it an await sort of thing?
+  //maybe you should separate the image return from the feature return therefore the stuff loads in the right place
+  return (featureHTML + imageHtml) ;
+} 
 //Takes a string then opens google images to the search page.
 function openGoogleImagesSearch(searchTerm) {
   console.log("We have opened the image search button, we are searching for:");
@@ -811,6 +876,33 @@ function toggleAllOverlays(map) {
   if (hidden && hidden.size > 0) restoreAllOverlays(map);
   else hideAllOverlays(map);
 }
+
+//this function is meant to get features from a given uid, this is useful if you wish to iterate through a list of UIDs 
+//then use their features to load something cool
+async function getFeatureFromUID(uid, geojsonFilePath = "locations.geojson"){
+    //uid is stored as a string, so therefore it must be a string or it will not match
+    uid = String(uid);
+
+    //Get the Geojson file opened so we can get information from it. 
+    const response = await fetch(geojsonFilePath);
+    const geojson = await response.json();
+    if (!geojson || !geojson.features || !Array.isArray(geojson.features)) {
+        throw new Error("Invalid GeoJSON object");
+    }
+
+    //return only the features that have the matching UID
+  return geojson.features.find(feature => feature.properties && feature.properties.uid === uid);
+}
+
+
+
+
+
+
+
+
+
+
 
 //Feature idea: add the ability to plot a route like google maps does (or import a route from google maps), from that point onwards you could detect the distance from the nodes
 //within the route to create alternative routes based upon how much travel time a person is willing to alot.
