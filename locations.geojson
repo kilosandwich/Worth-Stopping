@@ -25266,6 +25266,288 @@
           54.3509191
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1262",
+        "name": "Muzeum Komunikacji w Paterku",
+        "street": "Łąkowa 34A, 89-100 Paterek, Poland",
+        "country": "POL",
+        "website": "http://www.zabytkowe-autobusy.pl/",
+        "description": "This is THE Polish bus museum - and by that I mean it's 30+ (mostly Communist) buses rotting in a field.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6122751,
+          53.118431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1263",
+        "name": "Park Cytadela",
+        "street": "aleja Armii Poznań, 61-001 Poznań, Poland",
+        "country": "POL",
+        "website": "http://www.poznan.pl/mim/turystyka/parki,poi,3338/park-cytadela,51946.html",
+        "description": "Citadel Park is built on top of the overgrown ruins of the 1830 Prussian Fort Winiary. The tunnels of the fortress are also home to the armored vehicles and guns of the Museum of Armaments, and the Poznań Army Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9327341,
+          52.4201292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1264",
+        "name": "Muzeum Martyrologii Wielkopolan – Fort VII w Poznaniu",
+        "street": "Polska, 61-001 Poznań, Poland",
+        "country": "POL",
+        "website": "http://www.wmn.poznan.pl/kontakt/",
+        "description": "The Prussians built Fort VII in 1880 as part of a ring of fortifications around Poznań. After the Nazis invaded Poland they used it as a concentration camp to kill 20,000 poles. The overgrown ruins of the fort are now a somber memorial to those that died.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868458,
+          52.4168917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1265",
+        "name": "Muzeum Broni Pancernej w Poznaniu",
+        "street": "3 Pułku Lotniczego 4, 60-421 Poznań, Poland",
+        "country": "POL",
+        "website": "https://www.muzeumbronipancernej.pl/",
+        "description": "The Armored Weapons Museum features 23+ tanks - including interwar Polish tankettes. There's also a large assortment of artillery, trucks, and support vehicles - all of which are in good condition (instead of rusting in a field).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.847672,
+          52.4270313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1266",
+        "name": "Muzeum Narodowe Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie",
+        "street": "Dworcowa 5, 62-052 Szreniawa, Poland",
+        "country": "POL",
+        "website": "https://muzeum-szreniawa.pl/",
+        "description": "This is THE Polish farming museum. The Szreniawa National Museum of Agriculture and Agri-Food Industry consists of an entire farm - and everything that goes into supporting a farm. That means there's cropdusters, trains, buildings full of farm vehicles and 21+ carriages, and steam powered tractors",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7975353,
+          52.3158557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1267",
+        "name": "Muzeum Obozów Jenieckich w Żaganiu",
+        "street": "Lotników Alianckich 45, 68-100 Żagań, Poland",
+        "country": "POL",
+        "website": "http://www.muzeum.zagan.pl/",
+        "description": "The Museum of POW Camps in Żagań commemorates Stalag Luft III - a prisoner-of-war camp for Western Allied air force personnel. Stalag Luft III was the site of The Great Escape - where Allied airmen tunneled their way out of the camp, though many were killed by the Nazis when they were later caught.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2922413,
+          51.5967913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1268",
+        "name": "Lubuskie Muzeum Wojskowe",
+        "street": "Drzonów 54, 66-008 Świdnica, Poland",
+        "country": "POL",
+        "website": "http://www.muzeum.drzonow.eu/",
+        "description": "The Lubuskie Military Museum isn't the largest military museum in Poland, but it does have 23 artillery pieces - a larger number than most museums. There's also 24 tracked vehicles, 25 aircraft, and a few dozen trucks. Most of the collection is Eastern Bloc equipment.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3179619,
+          51.9446622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1269",
+        "name": "Muzeum Techniki Rolniczej i Gospodarstwa Wiejskiego w Redczu Krukowym",
+        "street": "Redecz Krukowy 8a, 87-880 Redecz Krukowy, Poland",
+        "country": "POL",
+        "website": "http://redeczkrukowy.pl/muzea/muzeum-techniki-rolniczej-gospodarstwa-wiejskiego/",
+        "description": "This is the other major agricultural museum in Poland. The Redecz Krukowy Museum of Agricultural Technology and Rural Economy is the private collection of Janusz Borkowski - who filled 10 sheds with his horde of agricultural equipment, carriages, trains, cars, and military vehicles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7959498,
+          52.6046587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1270",
+        "name": "Muzeum Polskiej Techniki Wojskowej",
+        "street": "Powsińska 13, 02-920 Warszawa, Poland",
+        "country": "POL",
+        "website": "https://muzeumptw.pl/",
+        "description": "This is THE polish military museum, featuring 36+ armored vehicles, 22+ aircraft, 30+ artillery pieces, countless trucks, and a Soyuz space capsule - all rusting in a field surrounding Fort IX of the 19th century Russian Warsaw Fortress.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0668992,
+          52.1829034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1271",
+        "name": "Łazienki Królewskie w Warszawie",
+        "street": "Agrykola 1, 00-460 Warszawa, Poland",
+        "country": "POL",
+        "website": "https://www.lazienki-krolewskie.pl/pl",
+        "description": "Royals Baths Park was the summer palace for Polish Royalty, who turned it into a park-and-palace complex with the Palace on the Isle as its centerpiece. The park is full of palaces-turned-art-museums including: Ujazdów Castle, The Belweder, Myślewicki Palace, and The White House.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0353637,
+          52.2149369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1272",
+        "name": "Pałac Kultury i Nauki",
+        "street": "pl. Defilad 1, 00-901 Warszawa, Poland",
+        "country": "POL",
+        "website": "https://pkin.pl/",
+        "description": "The Soviets built an 778ft art-deco skyscraper in the middle of Warsaw - which came to become a symbol of Soviet domination over Poland. The building now features a museum complex, including: the cold war stylings of the Neon Museum, The National Museum of Technology in Warsaw, and the Museum of Evolution.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0060505,
+          52.2316281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1273",
+        "name": "Stacja Muzeum",
+        "street": "Towarowa 3, 00-811 Warszawa, Poland",
+        "country": "POL",
+        "website": "http://www.stacjamuzeum.pl/",
+        "description": "This is THE Polish train museum. The Station Museum in Warsaw has 34 locomotives, with most of them being pre-WW2 Polish and German steam locomotives. Notably, the streamlined pm3 is here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9864769,
+          52.2261298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1274",
+        "name": "Muzeum Powstania Warszawskiego",
+        "street": "Grzybowska 79, 00-844 Warszawa, Poland",
+        "country": "POL",
+        "website": "http://1944.pl/",
+        "description": "During WW2 Poland was occupied by the Nazis, who Polish cities being converted into walled prisons as part of their ongoing genocide against the Polish people. As the end of the war loomed in 1944, the Polish launched a nationwide uprising to try to reclaim the country before the Soviet occupiers returned. The Soviets stood by and offered no help as the uprising was crushed, 200,000 Polish citizens were killed in mass executions, and Warsaw was punitively systemically demolished in an attempt to erase Polish cultural heritage. The Warsaw Uprising Museum tells the story of Poland's final push for freedom before Soviet domination erased democracy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9809504,
+          52.2321755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1275",
+        "name": "Cytadela Warszawska",
+        "street": "Czujna, 01-537 Warszawa, Poland",
+        "country": "POL",
+        "website": "https://xpawilon.muzn.pl/pl/uncategorized/about-the-gallery/?v=30&host=xpawilon",
+        "description": "The Russian Empire built the Warsaw Citadel to solidify control over the freedom-seeking Polish. The fortress is now a museum complex featuring: the guns and armor of the Polish Army Museum, the tales of the repeated invasions of Poland by Germany and Russia at the Polish History Museum, the Katyn Museum, and Museum of the 10th Pavilion of the Warsaw Citadel.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0002115,
+          52.264779
+        ]
+      }
     }
   ]
 }
