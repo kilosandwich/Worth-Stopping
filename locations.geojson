@@ -25517,7 +25517,7 @@
         "street": "Grzybowska 79, 00-844 Warszawa, Poland",
         "country": "POL",
         "website": "http://1944.pl/",
-        "description": "During WW2 Poland was occupied by the Nazis, who Polish cities being converted into walled prisons as part of their ongoing genocide against the Polish people. As the end of the war loomed in 1944, the Polish launched a nationwide uprising to try to reclaim the country before the Soviet occupiers returned. The Soviets stood by and offered no help as the uprising was crushed, 200,000 Polish citizens were killed in mass executions, and Warsaw was punitively systemically demolished in an attempt to erase Polish cultural heritage. The Warsaw Uprising Museum tells the story of Poland's final push for freedom before Soviet domination erased democracy.",
+        "description": "During WW2 Poland was occupied by the Nazis, and Polish cities being converted into walled prisons as part of their ongoing genocide against the Polish people. As the end of the war loomed in 1944, the Polish launched a nationwide uprising to try to reclaim the country before the Soviet occupiers returned. The Soviets stood by and offered no help as the uprising was crushed, 200,000 Polish citizens were killed in mass executions, and Warsaw was punitively systemically demolished in an attempt to erase Polish cultural heritage. The Warsaw Uprising Museum tells the story of Poland's final push for freedom before Soviet domination erased democracy.",
         "worth stopping": true,
         "museum": true
       },
@@ -25969,6 +25969,26 @@
         "coordinates": [
           19.5524047,
           50.4531266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1297",
+        "name": "Muzeum Historii Polski Ludowej",
+        "street": "Zajęcza 42, 41-711 Ruda Śląska, Poland",
+        "country": "POL",
+        "website": "http://www.minionaepoka.pl/",
+        "description": "The Soviets ruled Poland through the collaborationist puppet government of the Polish People's Republic. The Museum of the history of the People's Republic of Poland contains statues that were torn down during decommunization, and the various Communist vehicles that roamed Poland from 1945-1989.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8323194,
+          50.2873943
         ]
       }
     }
