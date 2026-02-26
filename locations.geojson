@@ -25829,6 +25829,148 @@
           50.0345631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1290",
+        "name": "Muzeum Powstań Śląskich",
+        "street": "Wiktora Polaka 1, 41-600 Świętochłowice, Poland",
+        "country": "POL",
+        "website": "https://www.muzeumpowstanslaskich.pl/",
+        "description": "Following the defeat of the German Empire in WW1, the valuable industrialized lands of Silesia was slated for a vote on whether to join Germany or Poland - the only problem was that Silesia was filled with a near equal amount of Polish and Germans. German forces tried to maintain control by force, and the Polish rose against them, ethnic paramilitary groups also fought one another - leading to escalating mutual atrocities. The uprisings lead to Polish control over roughly half of Silesia. The Silesian Uprising Museum tells the story of the uprisings, and features two replica improvised armored cars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9252599,
+          50.2883301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1291",
+        "name": "Kopaliny (kopalnia uranu)",
+        "street": "Stronie Lasy 40, 57-550, Poland",
+        "country": "POL",
+        "website": "http://www.kletno.pl/",
+        "description": "Usually uranium mines are secured facilities that you cannot enter - but you can enter these abandoned Soviet uranium mines in Poland. The tunnels you can tour aren't very radioactive - but they are filled with colorful blue rocks.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8441539,
+          50.2481666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1292",
+        "name": "Park Narodowy Gór Stołowych",
+        "street": "57-350 Kudowa-Zdrój, Poland",
+        "country": "POL",
+        "website": "https://pngs.gov.pl/",
+        "description": "Stołowe Mountains National Park is the best National Park in Poland. The rocks on top of these mountains have eroded to form labyrinthian corridors, chasms, and towers. The Błędne Skały rock city literally looks like the tunnels of some alien civilization.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2879821,
+          50.4797775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1293",
+        "name": "Kopalnia Uranu Sztolnie Kowary",
+        "street": "Podgórze 48, 58-530 Kowary, Poland",
+        "country": "POL",
+        "website": "https://kopalniauranu.pl/",
+        "description": "Poland is a truly special place where you can tour Soviet uranium mines like this one. This mine has a yellow tinge to it, unlike the blue tinged uranium mine at Kletno.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.845483,
+          50.7638392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1294",
+        "name": "Zamek Książ",
+        "street": "Piastów Śląskich 1, 58-306 Wałbrzych, Poland",
+        "country": "POL",
+        "website": "https://www.ksiaz.walbrzych.pl/",
+        "description": "This is the third largest castle in Poland is built on top of a mountain and surrounded by a garden complex, it's also Fürstenstein's castle - the basis of Frankenstein. The Nazis dug massive tunnels underneath the castle which are rumored to contain stolen treasures - and some are available for tour.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2914817,
+          50.8423212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1295",
+        "name": "Muzeum Motoryzacji Wena w Oławie",
+        "street": "Zielna 1B, 55-200 Oława, Poland",
+        "country": "POL",
+        "website": "http://www.muzeummotoryzacjiwena.pl/",
+        "description": "This is the nicest car museum in Poland, probably because the 300+ vehicles here are stored indoors instead of rusting in a field.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3174629,
+          50.933002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1296",
+        "name": "Park Krajobrazowy Orlich Gniazd",
+        "street": "Zamkowa 28, 42-440 Podzamcze, Poland",
+        "country": "POL",
+        "website": "https://zpkwm.pl/park/park-krajobrazowy-orlich-gniazd/",
+        "description": "The Polish King built this castle on top of the tall white rocks of the Rzędkowice Rocks formation. The castle now lays in ruins, the white masonry indistinguishable from the white cliffs and columns of the rocks.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5524047,
+          50.4531266
+        ]
+      }
     }
   ]
 }
