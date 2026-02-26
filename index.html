@@ -522,6 +522,7 @@ searchButton.addEventListener("click", () => {
   document.getElementById("list-view-content").innerHTML = "";
   listViewIterator = 0;
   listViewIteratorRnd = 0;
+  uidArr = [];
   uidArrRnd = []; //reset the shuffle mode array since the map is now different
 });
 
@@ -590,20 +591,7 @@ if (countrySearchInput) {
         //iterate through every layer rendered on the map, then display it in the div-list-view 
         //then add each item in the map into a set, the set will then be iterated through as the user scrolls 
         //and content from each part of the set added. 
-        if(map){
-          console.log('map exists, attempting to iterate through every layer');
-          map.eachLayer(function(layer){
-            if (layer instanceof L.Marker){
-              const layerFeature = layer?.feature;
-              const layerUID = layerFeature.properties?.uid;
-              if (layerUID){
-              //listViewHTMLbuilder(layerFeature);
-              uidArr.push(layerUID); //fill the UID set, we may wish to use this later. 
-              //console.log(layerUID); //note, you will need this to ensure that the array is being filled
-              }
-
-            }
-          })
+        makeUIDarray(map,uidArr);
 
           //Button to create array is pushed, so make its randomized twin.
           
@@ -611,8 +599,7 @@ if (countrySearchInput) {
           if (!uidArrRnd.length){
             uidArrRnd = randomizeArrayReturnCopy(uidArr);
           }
-        }
-      
+
       //Case: hide the list view because it is open.
       } else {
         div.style.display = 'none';
@@ -657,6 +644,19 @@ if (countrySearchInput) {
       for (const entry of entries)  {
         if (entry.isIntersecting) {
           console.log("Intersecting entry, attempting to load more content...")
+          //if the UID array is empty because it has been reset, generate a new one. 
+          if (!uidArr.length){
+            //There is currently an error where the array attempts to generate, but because the map has not updated, there is no information to scrape
+            //therefore, the solution must be to wait a moment then try it.
+            console.log("THE UID ARRAY WAS EMPTY, MAKE A NEW ONE");
+            uidArr = await makeUIDarray(map,uidArr);
+            //look if after this point there is STILL UID of too short length, maybe try again recursively until there is?
+            console.log("HERE IS OUR NEW UID ARR");
+            console.log(uidArr);
+            uidArrRnd = await randomizeArrayReturnCopy(uidArr);
+          }
+
+
           //NOTE: do not continue IF iterating beyond content
           if (listViewIterator > uidArr.length){
             return;

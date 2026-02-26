@@ -409,7 +409,7 @@
         "street": "6151 Portage Rd, Portage, MI 49002",
         "country": "USA",
         "website": "",
-        "description": "The Air Zoo is a combined children's amusement park and aerospace museum. The flight simulators let you do barrel rolls and loops and I highly recommend them. Uniquely, the air zoo has a Curtiss Ascender, F-117 Nighthawk, SR-71B Blackbird",
+        "description": "The Air Zoo is a combined children's amusement park and aerospace museum. The flight simulators let you do barrel rolls and loops, so I highly recommend them. Uniquely, the air zoo has the only Curtiss Ascender, a F-117 Nighthawk, and SR-71B Blackbird.",
         "worth stopping": true,
         "museum": true
       },
@@ -1462,7 +1462,7 @@
         "street": "2678 East 873 Road, Oglesby, IL 61348",
         "country": "USA",
         "website": "https://dnr.illinois.gov/parks/park.starvedrock.html",
-        "description": "Canyons, waterfalls, and cliffs that look much bigger in person than they do in photos all at this state park which boasts very easy to do hikes.",
+        "description": "Canyons, waterfalls, and cliffs that look much bigger in person than they do in photos - all at this state park which boasts very easy to do hikes.",
         "worth stopping": true,
         "park": true
       },
@@ -1774,11 +1774,11 @@
       "type": "Feature",
       "properties": {
         "uid": "90",
-        "name": "Ben and Jerrys Factory",
+        "name": "Ben and Jerry's Factory",
         "street": "1281 Waterbury-Stowe Rd Route 100, Waterbury, VT 05676",
         "country": "USA",
         "website": "https://www.benjerry.com/waterbury",
-        "description": "The promised land where Ben and Jerrys ice cream is made. The ice cream tastes better here because it is fresh, and the factory tour is amazing.",
+        "description": "The promised land where Ben and Jerry's ice cream is made. The ice cream tastes better here because it is fresh, and the factory tour is amazing.",
         "worth stopping": true
       },
       "geometry": {
@@ -2454,7 +2454,7 @@
         "street": "Gypsum Ave, Camp Douglas, WI 54618",
         "country": "USA",
         "website": "https://dnr.wisconsin.gov/topic/parks/millbluff",
-        "description": "Sea stacks from ancient glacial lakes are now extremely out of place and make for good scenic hiking at Mill Bluff State Park.",
+        "description": "Sea stacks from ancient glacial lakes are now extremely out of place, and make for good scenic hiking at Mill Bluff State Park.",
         "worth stopping": true,
         "park": true
       },
@@ -2752,7 +2752,7 @@
         "street": "2244 Beach Blvd, Biloxi, MS 39531",
         "country": "USA",
         "website": "http://www.visitbeauvoir.org/",
-        "description": "It's like the evil universe version of a United States Presidential Library where President of the Confederate States of America Jefferson Davis is honored at this museum run by the state of Mississippi. Their favorite words to use there are \"Heritage\", \"Resilience\", and \"Greatness\" - find out what they are referring to at Jefferson Davis's retirement home on a former plantation.",
+        "description": "This is the evil universe version of a United States Presidential Library - run by the State of Mississippi. See where President of the Confederate States of America Jefferson Davis is portrayed as an honorable statesman.  Their favorite words to use there are \"Heritage\", \"Resilience\", and \"Greatness\" - find out what they are referring to at Jefferson Davis's retirement home on a former plantation.",
         "worth stopping": true,
         "museum": true
       },
@@ -2833,7 +2833,7 @@
         "street": "150 E Front St, Erie, PA 16507",
         "country": "USA",
         "website": "http://eriemaritimemuseum.org/",
-        "description": "The USS Niagara played a pivotal war in winning the Battle of Lake Erie in the War of 1812, was sunk in 1820 raised in 1913, and rebuilt. The Niagara is the only warship that fought on the Great Lakes still afloat, and the second oldest American warship. The Erie Maritime Museum is located in a former power station and features history of the Battle of Lake Erie.",
+        "description": "The USS Niagara played a pivotal war in winning the Battle of Lake Erie in the War of 1812, was sunk in 1820, raised in 1913, and rebuilt. The Niagara is the only warship that fought on the Great Lakes still afloat, and the second oldest American warship. The Erie Maritime Museum is located in a former power station and features history of the Battle of Lake Erie.",
         "worth stopping": true,
         "museum": true
       },
@@ -3231,8 +3231,8 @@
         "name": "The Strong National Museum of Play",
         "street": "1 Manhattan Square Dr, Rochester, NY 14607",
         "country": "USA",
-        "website": "",
-        "description": "The Strong is home to the National Museum of Play, National Toy Hall of Fame, World Video Game oHall of Game, and the International Center for the History of Electronic Games. Your childhood? They have it.",
+        "website": "https://www.museumofplay.org/",
+        "description": "The Strong is home to the National Museum of Play, National Toy Hall of Fame, World Video Game Hall of Game, and the International Center for the History of Electronic Games. Your childhood? They have it.",
         "worth stopping": true,
         "museum": true
       },
@@ -3573,7 +3573,7 @@
         "street": "",
         "country": "USA",
         "website": "https://www.nps.gov/stli/index.htm",
-        "description": "Public donations funded what was then the tallest statue in the world in the heart of New York City. The torch is no longer accessible after German Empire saboteurs detonated an ammunition pier nearby in New Jersey in the Black Tom explosion. The Statue of Liberty remains an American icon worldwide - which is why you can buy a lego version of it.",
+        "description": "Public donations funded what was then the tallest statue in the world in the heart of New York City. The torch is no longer accessible after German Empire saboteurs detonated an ammunition pier nearby in New Jersey in the Black Tom explosion. The Statue of Liberty remains an American icon worldwide - which is why you can buy a Lego version of it.",
         "worth stopping": true,
         "museum": true,
         "architecture": true
@@ -3955,7 +3955,7 @@
         "street": "Building 22, Charlestown Navy Yard, Charlestown, MA 02129",
         "country": "USA",
         "website": "https://ussconstitutionmuseum.org/",
-        "description": "The USS Constitution was one of the original six frigates comissioned by Congress that marked the beginning of the United States Navy. The USS Constitution fought the French in the Quasi-War, the Babary Pirates in the First Barbary War, and the British in the War of 1812 and remains afloat to this day as the oldest ship in the United States Navy.",
+        "description": "The USS Constitution was one of the original six frigates commissioned by the United States Congress that marked the beginning of the United States Navy. The USS Constitution fought the French in the Quasi-War, the Barbary Pirates in the First Barbary War, and the British in the War of 1812 and remains afloat to this day as the oldest ship in the United States Navy.",
         "worth stopping": true,
         "museum": true
       },
@@ -4035,7 +4035,7 @@
         "street": "137 Warren Ave, Plymouth, MA 02360",
         "country": "USA",
         "website": "https://plimoth.org/",
-        "description": "A living history museum portraying the initial Plymouth colony in Massachusetts. The museum gives a good idea of just how insane and precauious it was to move across the ocean to the middle of nowhere and be the first colonist, and how much of a cultist the Puritans had to be in order for it to be worth it.",
+        "description": "Plimoth Patuxet is a living history museum portraying the initial Plymouth colony in Massachusetts. The museum gives a good idea of just how insane and precarious it was to move across the ocean to the middle of nowhere to be the first colonists, and cultish the Puritans had to be in order for it to be worth it.",
         "worth stopping": true,
         "museum": true
       },
@@ -5517,7 +5517,7 @@
         "street": "330 N J M Davis Blvd, Claremore, OK 74017",
         "country": "USA",
         "website": "",
-        "description": "This is THE gun museum in the United States. 12,000 firearms are stored in seemingly endless rows of shelves. All because J.M. Davis's dad bribed his child to take his medicine with the promise of a shotgun - beginning a lifelong obsession.",
+        "description": "This is THE gun museum in the United States. J.M. Davis's dad bribed his child to take his medicine with the promise of a shotgun - beginning a lifelong obsession. Now, 12,000 firearms are stored in seemingly endless rows of shelves.",
         "worth stopping": true,
         "museum": true
       },
@@ -7182,7 +7182,7 @@
         "street": "555 Charlie Roberts Rd, Pelham, TN 37366",
         "country": "USA",
         "website": "http://www.thecaverns.com/",
-        "description": "Have you ever wanted to listen to a rave inside of a cave. Now you can at The Caverns - the only concert venue I know of inside of a cave.  There's also cave tours, but those are just OK.",
+        "description": "Have you ever wanted to party at a rave inside of a cave? Now you can at The Caverns - the only concert venue I know of inside of a cave.  There's also cave tours, but those are just OK.",
         "worth stopping": true,
         "cave": true
       },
@@ -7242,7 +7242,7 @@
         "street": "2700 Dollywood Parks Blvd, Pigeon Forge, TN 37863",
         "country": "USA",
         "website": "https://www.dollywood.com/",
-        "description": "The official amusement park of country music star and future saint: Dolly Parton, and consistently ranked among the top amusement parks worldwide.",
+        "description": "Dollywood is the official amusement park of country music star and future saint: Dolly Parton. This park is consistently ranked among the top amusement parks worldwide.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -8164,7 +8164,7 @@
         "street": "2 15th St NW, Washington, DC 20024",
         "country": "USA",
         "website": "https://www.nps.gov/wamo/index.htm",
-        "description": "The Washington Monument opened as the tallest structure in the world in 1884 until supassed by the Eiffel Tower. The massive obelisk is towers over the DC area.",
+        "description": "The Washington Monument opened as the tallest structure in the world in 1884, and retained this title until surpassed by the Eiffel Tower in 1889. This is the world's tallest obelisk.",
         "worth stopping": true,
         "architecture": true
       },
@@ -8384,7 +8384,7 @@
         "street": "Baltimore, MD 21224",
         "country": "USA",
         "website": "",
-        "description": "The world's first commercial nuclear-powered vessel was built with the interiors of an ultra-futuristic yacht to promote nuclear power to the public. Tours are only monthly or if you donate a lot of money so plan ahead.",
+        "description": "The world's first commercial nuclear-powered vessel was built with the interiors of an ultra-futuristic yacht to promote nuclear power to the public. Tours are only monthly or if you donate a lot of money - so plan ahead.",
         "worth stopping": true,
         "museum": true
       },
@@ -8580,11 +8580,11 @@
       "type": "Feature",
       "properties": {
         "uid": "430",
-        "name": "Scottys Castle",
+        "name": "Scotty's Castle",
         "street": "123 Scotty's Castle Rd, California",
         "country": "USA",
         "website": "https://www.nps.gov/deva/learn/historyculture/scottys-castle.htm",
-        "description": "What better place than to build a mansion than Death Valley? Scotty's Castle is nowhere near any civilization but still manages to have eletrical power due to hydroelectic power attached to an underground spring. Part of Death Valley National Park, Scotty's Castle requires a reservation for a tour due to ongoing cleanup efforts from flooding- call ahead.",
+        "description": "What better place than to build a mansion than Death Valley? Scotty's Castle is nowhere near any civilization but still manages to have electricity due to hydroelectric power attached to an underground spring. Part of Death Valley National Park, Scotty's Castle requires a reservation for a tour due to ongoing cleanup efforts from flooding- call ahead.",
         "worth stopping": true,
         "museum": true
       },
@@ -8704,7 +8704,7 @@
         "street": "142 Chisos Basin Rd, Big Bend National Park, TX 79834",
         "country": "USA",
         "website": "https://www.nps.gov/bibe/index.htm",
-        "description": "In the Chihuahuan desert in dry West Texas there lays a massive circle of mountains that open upon the Rio Grande like gates to reveal an oasis of green at Big Bend National Park. The Santa Elena Canyon overlook provides the view that you have to see at the far South End of the park",
+        "description": "In the dry Chihuahua desert in West Texas, there lays a massive circle of mountains that open like gates upon the Rio Grande to reveal an oasis of green at Big Bend National Park. The Santa Elena Canyon overlook provides the view that you have to see at the far South End of the park",
         "worth stopping": true,
         "park": true
       },
@@ -8943,8 +8943,8 @@
       "properties": {
         "uid": "448",
         "name": "National Naval Aviation Museum",
-        "street": "",
-        "country": "",
+        "street": "1750 Radford Blvd, Pensacola, FL 32508",
+        "country": "USA",
         "website": "http://www.navalaviationmuseum.org/",
         "description": "This is THE naval aviation museum. It only took 12 years from the invention of the aircraft to begin launching them from ships to attack other ships. The National Naval Aviation Museum is devoted to naval aviation and features 150+ aircraft including those from the Blue Angels - the Navy's Flight Demonstration Squadron (they do airshows). The museum features a control car from a navy K-class blimp, a PB2Y-5R Coronado, Curtiss NC-4, Martin Marlin, and other seaplanes and carrier aircraft tracing the history of naval aviation.",
         "worth stopping": true,
@@ -9927,7 +9927,7 @@
         "street": "58201 US-97, Bend, OR 97702",
         "country": "USA",
         "website": "https://www.fs.usda.gov/visit/destination/newberry-national-volcanic-monument-0",
-        "description": "This place might not look it, but you're standing in the middle of the caldera of the largest volcano in the Cascade Volanic Arc Walk across a dead-volcano at the Lava Butte, through ancient lava tubes at Lava River Cave,  see lava molds of ancient trees at Lava Cast Forest. The grounds remain dead from ancient lava flows - and you can hike among them.",
+        "description": "This place might not look it, but you're standing in the middle of the caldera of the largest volcano in the Cascade Voclanic Arc. Walk across a dead-volcano at the Lava Butte, through ancient lava tubes at Lava River Cave,  see lava molds of ancient trees at Lava Cast Forest. The grounds remain dead from ancient lava flows - and you can hike among them.",
         "worth stopping": true,
         "park": true
       },
@@ -9947,7 +9947,7 @@
         "street": "59800 S Hwy 97, Bend, OR 97702",
         "country": "USA",
         "website": "http://www.highdesertmuseum.org/",
-        "description": "The eastern half of Oregon is arid steppe called the High Desert, and the High Desert Museum . Featuring re-creations of native american villages, fur trapping encampments, boomtowns, an entire sawmill, and live otters and other wildlife.",
+        "description": "The eastern half of Oregon is arid steppe called the High Desert, and its history and ecology is shown off at the High Desert Museum . Featuring re-creations of Native American villages, fur trapping encampments, boomtowns, an entire sawmill, and live otters and other wildlife.",
         "worth stopping": true,
         "museum": true
       },
@@ -11253,7 +11253,7 @@
         "street": "11450 Park Rd 5, Canyon, TX 79015",
         "country": "USA",
         "website": "https://tpwd.texas.gov/state-parks/palo-duro-canyon",
-        "description": "This is the second largest canyon in the country after the Grand Canyon. This crisp red canyon features rocky outcroppings, stacks, and hiking just like you'd find further out west. This one might be even better because you can drive to the bottom of it - take that, nature!",
+        "description": "This is the second largest canyon in the United States after the Grand Canyon. This crisp red canyon features rocky outcroppings, stacks, and hiking just like you'd find further out west. This one might be even better because you can drive to the bottom of it - take that, nature!",
         "worth stopping": true,
         "park": true
       },
@@ -11333,7 +11333,7 @@
         "street": "12685 Mineral Wells Hwy, Weatherford, TX 76088",
         "country": "USA",
         "website": "https://www.nationalvnwarmuseum.org/",
-        "description": "Get flashbacks to 'Nam at the National Vietnam War Museum. Pop out of rat tunnels and traumatize veterans, hop in the back of an amphibious APC, rethink your life in the contemplation garden where a helicopter roars overhead, admire the traps of the Viet Cong. There's also a re-creation of the Oval Office where you can beg for a pardon.",
+        "description": "Get flashbacks to 'Nam at the National Vietnam War Museum. Pop out of rat tunnels and traumatize veterans, hop in the back of an amphibious APC, rethink your life in the contemplation garden where a helicopter roars overhead, admire the traps of the Viet Cong. There's also a re-creation of the Oval Office where you can beg for a pardon for dodging the draft.",
         "worth stopping": true,
         "museum": true
       },
@@ -11853,7 +11853,7 @@
         "street": "1000 Robert E Lee Blvd, Stone Mountain, GA 30083",
         "country": "USA",
         "website": "http://stonemountainpark.com/",
-        "description": "Stone Mountain is Atlanta's version of Ayers Rock - it's a massive isolated igneous dome. Carved into the side of the mountan is the Confederate version of Mount Rushmore - depicting the traitors Jefferson Davis, Robert E. Lee, and Stonewall Jackon. You can hile all around the mountain and to the top - or take an aerial tramway up if you're feeling rich.",
+        "description": "Stone Mountain is Atlanta's version of Ayers Rock - it's a massive isolated igneous dome. Carved into the side of the mountain is the Confederate version of Mount Rushmore - depicting the traitors Jefferson Davis, Robert E. Lee, and Stonewall Jackson. You can hike all around the mountain and to the top - or take an aerial tramway up if you're feeling rich.",
         "worth stopping": true,
         "park": true
       },
@@ -13636,7 +13636,7 @@
         "street": "101 El Paso Blvd, Manitou Springs, CO 80829",
         "country": "USA",
         "website": "https://coloradosprings.gov/drivepikespeak",
-        "description": "Pikes Peach dominates the surrounding mountains with its 14,115ft height - which is exactly why America built a road to the top so you can experience the views without leaving your car. There's also a train that will take you to the top.",
+        "description": "Pikes Peak dominates the surrounding mountains with its 14,115ft height - which is exactly why America built a road to the top so you can experience the views without leaving your car. There's also a train that will take you to the top.",
         "worth stopping": true,
         "park": true
       },
@@ -13696,7 +13696,7 @@
         "street": "225 North Gate Blvd, Colorado Springs, CO 80921",
         "country": "USA",
         "website": "http://www.wmmi.org/",
-        "description": "It's 27 acres of antique mining equipment - and most of it still runs. Including a steam shovel, a stamp mill, the Chilean Rescue pod used to rescue miners from a deep underground mine in Chile,",
+        "description": "It's 27 acres of antique mining equipment - and most of it still runs. Including a steam shovel, a stamp mill, and the Chilean Rescue pod used to rescue miners from a deep underground mine in Chile.",
         "worth stopping": true,
         "museum": true
       },
@@ -13874,7 +13874,7 @@
         "street": "51000 Two Rivers Plaza Road, Glenwood Springs, CO 81601",
         "country": "USA",
         "website": "https://www.glenwoodcaverns.com/",
-        "description": "It's an amusement park build on top of a mountain with a dramatic view of the valley below. Featuring a swing that swings you over the edge, a drop tower that sends you plummeting down a mineshaft, and an alpine coaster that rides down the mountainside. There's also some pretty caves.",
+        "description": "It's an amusement park built on top of a mountain with a dramatic view of the valley below. Featuring a swing that swings you over the edge, a drop tower that sends you plummeting down a mineshaft, and an alpine coaster that rides down the mountainside. There's also some pretty caves.",
         "worth stopping": true,
         "amusement park": true,
         "cave": true
@@ -14296,7 +14296,7 @@
         "street": "27843 US-95, Athol, ID 83801",
         "country": "USA",
         "website": "https://www.silverwoodthemepark.com/",
-        "description": "The best amusement park in the Pacific Northwest is in Idaho. Featuring rollercoaster that dive underground and twist through the sky, and cowboys that will rob you on the train.",
+        "description": "The best amusement park in the Pacific Northwest is in Idaho. Featuring rollercoasters that dive underground and twist through the sky, and cowboys that will rob you on the train.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -14796,7 +14796,7 @@
         "street": "11 Aviation Pkwy, Ottawa, ON K1K 2X5, Canada",
         "country": "CAN",
         "website": "https://ingenium.ca/aviation/en/",
-        "description": "Canadian aerospace has followed its own unique course with its own aircraft manufacturers such as Avro Canada, Canadair, and de Havilland Canada, . The museum features a replica of Canada's first powered aircraft - the Silver Dart, the Avro Arrow (well, the front of it), Avro Canuck, Canadair Dynavert,Northop Delta,  Fulton Airphibian flying car, and various war prizes and fighting aircraft from WW1 and WW2.",
+        "description": "Canadian aerospace has followed its own unique course with its own aircraft manufacturers such as Avro Canada, Canadair, and de Havilland Canada. The museum features a replica of Canada's first powered aircraft - the Silver Dart, the Avro Arrow (well, the front of it), Avro Canuck, Canadair Dynavert, Northop Delta,  Fulton Airphibian flying car, and various war prizes and fighting aircraft from WW1 and WW2.",
         "worth stopping": true,
         "museum": true
       },
@@ -14872,11 +14872,11 @@
       "type": "Feature",
       "properties": {
         "uid": "744",
-        "name": "Canadas Wonderland",
+        "name": "Canada's Wonderland",
         "street": "Vaughan, ON L6A 1S6, Canada",
         "country": "CAN",
         "website": "https://www.canadaswonderland.com/",
-        "description": "Canada's wonderland is the most visited seasonal amusement park in North America -it's busy because it's the best amusement park in the country. The 18 rollercoasters at this park surround a massive artificial mountain with a waterfall.",
+        "description": "Canada's Wonderland is the most visited seasonal amusement park in North America -it's busy because it's the best amusement park in Canada. The 18 rollercoasters at this park surround a massive artificial mountain with a waterfall.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -14916,7 +14916,7 @@
         "street": "10 Dundas St E, Toronto, ON M5B 2G9, Canada",
         "country": "CAN",
         "website": "https://little-canada.ca/",
-        "description": "Canada is the second largest country on Earth by area, what if it was much much smaller? Little Canada is Canada but represented in scale model format, including: Toronto, Ottawa, Niagara, Quebec,  the west coast (Vancouver), the east coast, and the North,",
+        "description": "Canada is the second largest country on Earth by area, but what if it were much much smaller? Little Canada is Canada but represented in scale model format, including: Toronto, Ottawa, Niagara, Quebec,  the west coast (Vancouver), the east coast, and the North,",
         "worth stopping": true
       },
       "geometry": {
@@ -15216,7 +15216,7 @@
         "street": "515 MacKenzie Blvd, Fort McMurray, AB T9H 4X3, Canada",
         "country": "CAN",
         "website": "https://oilsandsdiscovery.ca/",
-        "description": "Imagine if oil was a rock - that's the Athabasca Oil Sands and the center of the Albertan Petroleum Industry. At the Oil Sands Discovery Centre you can learn why oil is really the greatest thing ever, and see the excavation devices that turn oily rock into oil. The star is the Big Bucketwheel, which looks like an office building sized giant robot arm with a spinning blade at the end.",
+        "description": "Imagine if oil was a rock - that's the Athabasca Oil Sands -the center of the Albertan Petroleum Industry. At the Oil Sands Discovery Centre you can learn why oil is really the greatest thing ever, and see the excavation devices that turn oily rock into oil. The star is the Big Bucketwheel, which looks like an office building sized giant robot arm with a spinning blade at the end.",
         "worth stopping": true,
         "museum": true
       },
@@ -15915,7 +15915,7 @@
         "street": "6426 40 Ave, Wetaskiwin, AB T9A 1W8, Canada",
         "country": "CAN",
         "website": "https://reynoldsmuseum.ca/",
-        "description": "Successful used-vehicle salesman Stan Reynolds hoarded machinery and vehicles and created the Reynolds Museum. The museum includes staggeringly large power shovels, 350+ agricultural machines, 530+ cars,  135+ aircraft, and 450+ industrial artifacts. There's so many artifacts they don't even all fit in the museum - you need to take a warehouse tour in July and August to see them.",
+        "description": "Successful used-vehicle salesman Stan Reynolds hoarded machinery and vehicles, then created the Reynolds Museum. The museum includes staggeringly large power shovels, 350+ agricultural machines, 530+ cars,  135+ aircraft, and 450+ industrial artifacts. There's so many artifacts they don't even all fit in the museum - you need to take a warehouse tour in July and August to see them.",
         "worth stopping": true,
         "museum": true
       },
@@ -16255,7 +16255,7 @@
         "street": "Joffre Lake Trail Parking, Lytton, BC V0K 1Z0, Canada",
         "country": "CAN",
         "website": "https://bcparks.ca/joffre-lakes-park/",
-        "description": "Hike up a mountainside to see a turquoise glacial lake with glaciers directly feeding it. This park is easy to hike to, and is close to Vancouver, so it gets busy in the summer.",
+        "description": "Hike up a mountainside to see a turquoise glacial lake with glaciers directly feeding it. This park is easy to hike to and is close to Vancouver - so it gets busy in the summer.",
         "worth stopping": true,
         "park": true
       },
@@ -16275,7 +16275,7 @@
         "street": "Bugaboo Provincial Park Highway 95, Parson, BC V0A 1L0, Canada",
         "country": "CAN",
         "website": "https://bcparks.ca/bugaboo-park/",
-        "description": "The Glaciers on the mountains of Bugaboo Provincial Park are accessible from trails reached from Bugaboo Creek Road. You will need a high-clearance vehicle to use the roads though. Otherwise it's a less busy park with hikes straight to the glaciers and their glacial lakes. .",
+        "description": "The Glaciers on the mountains of Bugaboo Provincial Park are accessible from trails reached from Bugaboo Creek Road. You will need a high-clearance vehicle to use the roads though. Otherwise it's a less busy park with hikes straight to the glaciers and their glacial lakes.",
         "worth stopping": true,
         "park": true
       },
@@ -16355,7 +16355,7 @@
         "street": "5300 Bd Sainte-Anne, Québec, QC G1C 0M3, Canada",
         "country": "CAN",
         "website": "https://www.sepaq.com/destinations/parc-chute-montmorency",
-        "description": "This 272 ft tall waterfall is taller than Niagara Falls, and has a pedestrian suspension bridge that takes you right near the edge of it, a promenade that will take you right to the base, and trails that will take you around the rim.",
+        "description": "This 272 ft tall waterfall is taller than Niagara Falls, and has: a pedestrian suspension bridge that takes you right near the edge of it, a promenade that will take you right to the base, and trails that will take you around the rim.",
         "worth stopping": true,
         "park": true
       },
@@ -17155,7 +17155,7 @@
         "street": "1-1 Chiyoda, Chiyoda City, Tokyo 100-8111, Japan",
         "country": "JPN",
         "website": "https://sankan.kunaicho.go.jp/index.html",
-        "description": "The Imperial Palace is a massive palace and garden complex located in the heart of Tokyo and has been the seat of power for the Emperor since the Meiji Restoration in 1867",
+        "description": "The Imperial Palace is a massive palace and garden complex located in the heart of Tokyo and has been the seat of power for the Emperor of Japan since the Meiji Restoration in 1867",
         "worth stopping": true,
         "museum": true,
         "architecture": true
@@ -20390,7 +20390,7 @@
         "street": "V.le dell Esercito, 170, 00100 Roma RM, Italy",
         "country": "ITA",
         "website": "https://www.esercito.difesa.it/",
-        "description": "The Museum of Military Motorization is the only museum dedicated to military vehicles, and has 300+ trucks, cars, armored vehicles, motorcycles, and tanks. You will have to cross a military checkpoint to tour the museum - so plan ahead.",
+        "description": "The Museum of Military Motorization is the only museum dedicated to military vehicles in Italy, and has 300+ trucks, cars, armored vehicles, motorcycles, and tanks. You will have to cross a military checkpoint to tour the museum - so plan ahead.",
         "worth stopping": true,
         "museum": true
       },
@@ -20674,7 +20674,7 @@
         "street": "Lago del Gleno, 24020 Vilminore di Scalve BG, Italy",
         "country": "ITA",
         "website": "",
-        "description": "Hike in the scenic corpse of the Gleno Dam in the Alps, and see the much smaller newer dam built in the middle of the wreckage. The Gleno Dam failed on October 22, 1923 1923 due to faulty construction, killing 356 people - but now it's a beautiful hike.",
+        "description": "Hike in the scenic corpse of the Gleno Dam in the Alps, and see the much smaller newer dam built in the middle of the wreckage. The Gleno Dam failed on October 22, 1923 due to faulty construction, killing 356 people - but now it's a beautiful hike.",
         "worth stopping": true,
         "park": true
       },
@@ -20834,7 +20834,7 @@
         "street": "Piazza della Repubblica, 4, 10078 Venaria Reale TO, Italy",
         "country": "ITA",
         "website": "http://www.lavenaria.it/",
-        "description": "The Palace of Venaria was intended to be a luxury palace for the House of Savoy - the dynasty that took the tiny county of Savoy into uniting Italy. The palace and gardens are home to an art museum, carriage collection, and royal barge.",
+        "description": "The Palace of Venaria was intended to be a luxury palace for the House of Savoy - the dynasty that led the tiny county of Savoy into uniting Italy. The palace and gardens are home to an art museum, carriage collection, and royal barge.",
         "worth stopping": true,
         "museum": true
       },
@@ -20894,7 +20894,7 @@
         "street": "Riva S. Biasio, 2148, 30122 Venezia VE, Italy",
         "country": "ITA",
         "website": "https://munav.it/",
-        "description": "The Republic of Venice was a historical naval power located on an impregnable island in the Venetian lagoon. The Naval Historical Museum of Venice follows Venetian naval history and also possesses gondolas, luxury barges, steamboats in its Ship Pavillion. Located a short distance away is the Cold War era Toti-class submarine Enrico Dandolo in the middle of the Venice arsenal. Reserve tickets ahead of time - tourists love Venice.",
+        "description": "The Republic of Venice was a historical naval power located on an impregnable island in the Venetian lagoon. The Naval Historical Museum of Venice follows Venetian naval history and also possesses gondolas, luxury barges, and steamboats in its Ship Pavillion. Located a short distance away is the Cold War era Toti-class submarine Enrico Dandolo in the middle of the Venice arsenal. Reserve tickets ahead of time - tourists love Venice.",
         "worth stopping": true,
         "museum": true
       },
@@ -21718,7 +21718,7 @@
         "street": "Rue André Clabaux, 62570 Wizernes, France",
         "country": "FRA",
         "website": "https://www.lacoupole-france.com/",
-        "description": "During WW2 the Nazis built the world's first underground missile silo to launch V-2 rockets at England on an industrial scale. The allies bombed it before it could ever become operational.  Now you can tour what is pretty much a real life James Bond villain lair.",
+        "description": "During WW2 the Nazis built the world's first underground missile silo to launch V-2 rockets at England on an industrial scale. The Allies bombed it before it could ever become operational.  Now you can tour what is pretty much a real life James Bond villain lair.",
         "worth stopping": true,
         "museum": true
       },
@@ -22598,7 +22598,7 @@
         "street": "Pont de Mainvilliers 28000 Chartres, 1 Rue de la République, 28300 Mainvilliers, France",
         "country": "FRA",
         "website": "https://lecompa.fr/",
-        "description": "This is THE French tractor museum featuring 60+ tractors. Learn how French agriculture went from people in fields to fancy machinery - they even have a life sized tractor made out of legos.",
+        "description": "This is THE French tractor museum - featuring 60+ tractors. Learn how French agriculture went from people in fields to fancy machinery - they even have a life sized tractor made out of legos.",
         "worth stopping": true,
         "museum": true
       },
@@ -24984,6 +24984,286 @@
         "coordinates": [
           25.270356,
           54.6879686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1248",
+        "name": "Yomiuriland",
+        "street": "Higashinakayama, Funabashi, Chiba 273-0036, Japan",
+        "country": "JPN",
+        "website": "https://www.yomiuriland.com/en/",
+        "description": "Yomiuriland isn't the biggest or best amusement park in Japan - but it does have PokéPark Kanto - which is basically Pokémon but in real life. The rollercoaster Bandit was the fastest rollercoaster in the world when it opened here in 1988.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5174894,
+          35.6243114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1249",
+        "name": "Kołobrzeski Skansen Morski",
+        "street": "Bałtycka 46a, 78-100 Kołobrzeg, Poland",
+        "country": "POL",
+        "website": "http://www.muzeum.kolobrzeg.pl/pl/muzeum/skansen-morski/",
+        "description": "The Kołobrzeg Maritime Open-Air Museum has the Soviet Cold War era project 012 (NATO: Obluze) patrol ship ORP Fala and the Cold War era project 205 (NATO: Osa) missile boat ORP Władysławowo. The ships are in fairly rough shape - but so is everything the Soviet Union touched.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5597538,
+          54.1772364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1250",
+        "name": "Muzeum Oręża Polskiego w Kołobrzegu",
+        "street": "ppor. E. Gierczak 5, 78-100 Kołobrzeg, Poland",
+        "country": "POL",
+        "website": "http://www.muzeum.kolobrzeg.pl/",
+        "description": "The Polish Arms Museum in Kołobrzeg features a collection of polish weapons and armor from the Middle Ages to present. The museum is located in a 15th century Hanseatic Merchant's tenement house, and features a large selection of Soviet armored vehicles and missile launchers in its outdoor pavilion.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5742802,
+          54.1745355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1251",
+        "name": "Muzeum Zimnej Wojny w Podborsku",
+        "street": "Muzeum Zimnej Wojny w Podborsku 78-220 Podborsko, Poland",
+        "country": "POL",
+        "website": "http://www.muzeum.kolobrzeg.pl/pl/muzeum/muzeum-zimnej-wojny/",
+        "description": "Explore a Soviet Nuclear Bomb storage facility designed to withstand nuclear strikes at the Podborsko Cold War Museum. The Soviets set up this facility in 1967, and used it until they withdrew from Poland in 1992.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.121873,
+          53.9562213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1252",
+        "name": "Wilczy Szaniec",
+        "street": "Gierłoż 5, 11-400 Kętrzyn, Poland",
+        "country": "POL",
+        "website": "https://wilczy-szaniec.pl/",
+        "description": "Nazi officers tried and failed to assassinate Adolf Hitler at the Wolf's Lair command center on July 20, 1944. Now the decaying and overgrown concrete bunker is a tourist site.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4939581,
+          54.0802732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1253",
+        "name": "Zamek w Malborku",
+        "street": "Starościńska 1, 82-200 Malbork, Poland",
+        "country": "POL",
+        "website": "https://zamek.malbork.pl/",
+        "description": "Malbork Castle is the largest castle in the world by area. German crusaders called the Teutonic Order ruled over northern Poland from 1230-1466, and built this castle as part of their crusades against the Pagans in Eastern Europe. The castle later became the arsenal of the Polish-Lithuanian Commonwealth, and residence of the Polish King .",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0278509,
+          54.0397068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1254",
+        "name": "KZ Stutthof",
+        "street": "Muzealna 6, 82-110 Sztutowo, Poland",
+        "country": "POL",
+        "website": "http://www.stutthof.org/",
+        "description": "When the Nazis invaded Poland during WW2 they rounded up Polish leadership and intellectuals for their extermination at Stutthof concentration camp. Ultimately 65,000 people were killed at Stutthof. Learn about the horror humanity will inflict on others at the museum here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1539916,
+          54.3281921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1255",
+        "name": "Muzeum Kolejnictwa w Kościerzynie",
+        "street": "Towarowa 7, 83-400 Kościerzyna, Poland",
+        "country": "POL",
+        "website": "https://muzeumkolejnictwa.com.pl/",
+        "description": "The Railway Museum in Kościerzyna has 25+ locomotives from Polish railroading history. They're mostly rusting away, but that's par for the course for Eastern European railroading museums.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9967568,
+          54.1197563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1256",
+        "name": "Muzeum Techniki Wojskowej Gryf",
+        "street": "Ppłk. R. Lubowiedzkiego 2, 84-242 Dąbrówka, Poland",
+        "country": "POL",
+        "website": "http://www.muzeumgryf.pl/",
+        "description": "The Gryf Museum of Military technology collects tanks and antique cars - and makes them functional so they can hold mock battles. There are 100+ vehicles here, as well as a 'sapper' museum, and command bunker.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1707671,
+          54.5509213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1257",
+        "name": "ORP Błyskawica",
+        "street": "al. Jana Pawła II 1, 81-345 Gdynia, Poland",
+        "country": "POL",
+        "website": "https://muzeummw.pl/",
+        "description": "This is the oldest destroyer still in existence. Before WW2, Poland built fast and heavily armed destroyers for operations in the Baltic. The ORP Błyskawica escaped to the United Kingdom before the Nazis invaded, then took part in the Norwegian Campaign, the Dunkirk Evacuation, and convoy escorting during WW2. The ship has been lovingly preserved and is available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5509503,
+          54.5194829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1258",
+        "name": "Muzeum Marynarki Wojennej w Gdyni",
+        "street": "Zawiszy Czarnego 1B, 81-374 Gdynia, Poland",
+        "country": "POL",
+        "website": "http://www.muzeummw.pl/",
+        "description": "This is THE Polish Navy museum. After WW1 the Poland was granted sea access via the independent nation of the Free City of Danzig - which remained full of German nationalists. The Polish government instead decided to build a new major seaport in the then tiny city of Gydnia - and turned it into the headquarters of the Polish Navy. The Gdynia Naval Museum is the home to the interwar-era destroyer ORP Błyskawica (docked 0.5km away), the Cold War era Type 207 submarine ORP Sokół, and the interwar-era patrol cutter ORP Batory.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.548375,
+          54.5158414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1259",
+        "name": "Muzeum Westerplatte",
+        "street": "Centrum Obsługi Zwiedzjacych, mjr. Henryka Sucharskiego 77, 80-601 Gdańsk, Poland",
+        "country": "POL",
+        "website": "https://muzeum1939.pl/westerplatte/o-westerplatte",
+        "description": "During the Nazi invasion of Poland, 240 Polish soldiers defended the Westerplatte peninsula for 7 days against 3,400 Nazis. The ruins of the battlefield still stand today, and have been turned into the Westerplatte Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6686526,
+          54.4067322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1260",
+        "name": "Muzeum II Wojny Światowej w Gdańsku",
+        "street": "plac Władysława Bartoszewskiego 1, 80-862 Gdańsk, Poland",
+        "country": "POL",
+        "website": "https://muzeum1939.pl/",
+        "description": "During WW2 Poland was invaded by the Nazis and Soviets in 1939, who both proceeded to massacre Polish leadership and genocide the Polish people. Poland's total death toll from WW2 was 6,028,000 killed, more than 16% of its pre-war population. The end of the war replaced the Nazi occupiers with total Soviet domination of Poland - which would not end until 1989. The WW2 Museum in Gdansk follows Polish history in WW2.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6595374,
+          54.3557665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1261",
+        "name": "Narodowe Muzeum Morskie w Gdańsku",
+        "street": "Ołowianka 9-13, 80-751 Gdańsk, Poland",
+        "country": "POL",
+        "website": "https://www.nmm.pl/narodowe-muzeum-morskie",
+        "description": "The National Maritime Museum of Gdańsk features the first ship built in Poland after WW2 - the SS Soldek - which is a surviving Eastern bloc ship from 1949. The museum building focuses on the history of polish sailing, and is located next to a medieval harbor crane from 1444.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6589068,
+          54.3509191
         ]
       }
     }

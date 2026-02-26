@@ -924,6 +924,46 @@ async function countryCodeToCountry(countryCode, codejson = "countrycodes.json")
   return "";
 }
 
+async function makeUIDarray(map,uidArr, maxAttempts =5, delay = 300){
+  //wait helper function
+  const wait = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+  //Define our variables
+  let attempt = 0; 
+  uidArr = []; //make array empty so it can be filled
+
+  //If the map was valid, it's time to make an attempt. 
+  while (attempt < maxAttempts){
+    if(map){
+      console.log('map exists, attempting to iterate through every layer');
+      map.eachLayer(function(layer){
+        if (layer instanceof L.Marker){
+          const layerFeature = layer?.feature;
+          const layerUID = layerFeature.properties?.uid;
+          if (layerUID){
+            //listViewHTMLbuilder(layerFeature);
+            uidArr.push(layerUID); //fill the UID set, we may wish to use this later. 
+            //console.log(layerUID); //note, you will need this to ensure that the array is being filled
+          }
+
+        }
+      })
+      console.log("THE MAKEUIDARRAY FUNCTION HAS FINISHED, HERE ARE ITS RESULTS");
+      console.log(uidArr);
+      if (uidArr.length > 0){
+        return uidArr;
+      }
+      console.log("MAKEUIDARRAY FAILED: Array length still 0, attempting again");
+      attempt++;//attempt failed, try again
+      //delay goes here. 
+      await wait(delay);
+      //now we try again
+    }
+  }
+  //we failed, return an empty array 
+  console.log("MAKEUIDARRAY COMPLETE FAILURE: RETURNING BLANK ARRAY");
+  return [];
+}
 
 
 
