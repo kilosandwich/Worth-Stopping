@@ -25548,6 +25548,287 @@
           52.264779
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1276",
+        "name": "Muzeum im. Orła Białego",
+        "street": "Słoneczna 90, 26-110 Skarżysko-Kamienna, Poland",
+        "country": "POL",
+        "website": "http://www.muzeum.skarzysko.pl/",
+        "description": "The White Eagle Museum is home to artillery and armored vehicles rusting in a field - some of which are used to give visitors rides, there's also the Cold War era Project 664 torpedo boat ORP Odważny, and the ruins of the Rejow steel works.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8496033,
+          51.0875344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1277",
+        "name": "KL Majdanek",
+        "street": "Droga Męczenników Majdanka 67, 20-325 Lublin, Poland",
+        "country": "POL",
+        "website": "http://www.majdanek.eu/",
+        "description": "The Nazis built Majdanek as a concentration camp for forced labor, but later converted it into an extermination camp as part of the plan for genocide of the Polish people and Polish Jews. The Nazis tore down most of their extermination camps before they were captured in an attempt to hide their atrocities, but the Soviets captured Majdanek before that could happen. 78,000 people were killed at Majdanek by the Nazis. The Soviets later used Majdanek to imprison Polish freedom fighters. The site is now a museum, and the extermination camp and its gas chambers are largely intact.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6049226,
+          51.2249853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1278",
+        "name": "Muzeum Sił Powietrznych w Dęblinie",
+        "street": "Lotników Polskich 1, 08-530 Dęblin, Poland",
+        "country": "POL",
+        "website": "https://muzeumsp.pl/",
+        "description": "The Dęblin Air Force Museum is a museum of the Polish Air Force featuring 80+ mostly Eastern Bloc aircraft. Notable features include a Mil Mi-6 heavy lift helicopter, a Yak-40 luxury passenger plane, and various portable radar dishes.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8622183,
+          51.5593255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1279",
+        "name": "Krzyżtopór",
+        "street": "Ujazd 73, 27-570 Ujazd, Poland",
+        "country": "POL",
+        "website": "http://www.krzyztopor.org.pl/",
+        "description": "In 1644 a Polish Nobleman built an expensive Italian styled palace in the heart of Poland - so expensive that it cost too much to fix after it was ransacked by the Swedish in 1655. Now you can wander around the ruins.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3099285,
+          50.7139985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1280",
+        "name": "Muzeum Polskiej Motoryzacji XX wieku w Busku-Zdroju",
+        "street": "Podgaje 9, 28-100 Podgaje, Poland",
+        "country": "POL",
+        "website": "http://www.polskanakolach.pl/",
+        "description": "The 20th Century Polish Automotive Museum is dedicated to collecting ONLY Polish vehicles - and has 120+ of them. The museum is still starting out - so you need to reserve a date to visit or they will not let you in.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7613722,
+          50.5120829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1281",
+        "name": "Muzeum Drogownictwa w Szczucinie",
+        "street": "1 Maja 39, 33-230 Szczucin, Poland",
+        "country": "POL",
+        "website": "https://www.gov.pl/web/gddkia/zespol-historii-drogownictwa",
+        "description": "The Szczucin Road Museum is a museum of road building, and features 30+ antique construction vehicles that demonstrate the evolution of Polish road construction.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.072206,
+          50.3013743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1282",
+        "name": "Kopalnia ropy naftowej w Bóbrce",
+        "street": "Kopalniana 35, 38-458 Bóbrka, Poland",
+        "country": "POL",
+        "website": "http://www.bobrka.pl/",
+        "description": "Oil and gas spontaneously surfaces in the Bóbrka area of Poland, and dedicated mining began in 1854 - extraction has continued to this day. The Ignacy Łukasiewicz Museum of the Oil and Gas Industry features 3 modern oil wells and their support equipment, as well as the historical Franek and Janina wells.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7102504,
+          49.6163465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1283",
+        "name": "Kopalnia soli Wieliczka",
+        "street": "Daniłowicza 10, 32-020 Wieliczka, Poland",
+        "country": "POL",
+        "website": "https://www.kopalnia.pl/",
+        "description": "Polish miners have been extracting salt from the Wieliczka Salt Mine since the 13 century, and have carved the cavernous spaces into intricate sculptures - including an entire chapel.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0548143,
+          49.9834611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1284",
+        "name": "Kopalnia Soli Bochnia",
+        "street": "Campi 15, 32-700 Bochnia, Poland",
+        "country": "POL",
+        "website": "https://kopalnia-bochnia.pl/",
+        "description": "The Bochnia Salt Mine has been operating since 1248, and the Polish miners have carved the mine into churches and sculptures. However, it's not as fancy as the nearby Wieliczka Salt Mine. This mine however sets itself apart as there are underground ferry rides through the caverns.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4174011,
+          49.9691425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1285",
+        "name": "Muzeum Lotnictwa Polskiego",
+        "street": "al. Jana Pawła II 39, 31-864 Kraków, Poland",
+        "country": "POL",
+        "website": "http://www.muzeumlotnictwa.pl/muzeum/",
+        "description": "This is THE Polish aircraft museum. The Polish Aviation Museum features 200+ aircraft, including the only surviving Polish-built military aircraft from WW2. The rest of the aircraft here include almost all aircraft used in Poland after WW2 - and in fine Eastern European tradition they are rusting in a field.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9896732,
+          50.0770838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1286",
+        "name": "Zamek Królewski na Wawelu",
+        "street": "Wawel 5, 31-001 Kraków, Poland",
+        "country": "POL",
+        "website": "https://wawel.krakow.pl/",
+        "description": "Wawel Castle in Kraków was the seat of power of the Polish monarchy when the Polish-Lithuanian Commonwealth was the strongest land-power in Europe, which means the insides are really nice. The castle is now an art museum with a massive collection of lavish tents captured from the Ottoman Empire.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9353758,
+          50.0540109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1287",
+        "name": "Ojcowski Park Narodowy",
+        "street": "Ojców 13, 32-043 Ojców, Poland",
+        "country": "POL",
+        "website": "http://www.ojcowskiparknarodowy.pl/",
+        "description": "Ojców National Park is a valley full of white limestone columns surrounded by green forest. The hiking trails let you follow the rim of the valley and walk right next to some of the best formations. The Maczuga Herkulesa is a standalone stack that is 30 meters high.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8284592,
+          50.1959339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1288",
+        "name": "Energylandia",
+        "street": "aleja 3 Maja 2, 32-640 Zator, Poland",
+        "country": "POL",
+        "website": "https://energylandia.pl/",
+        "description": "Energylandia is best amusement park in Poland, and one of the largest amusement parks in the world. Featuring 19 rollercoasters, including the critically acclaimed Zadra and Hyperion.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4087809,
+          49.9985825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1289",
+        "name": "KZ Auschwitz",
+        "street": "Więźniów Oświęcimia 55, 32-600 Oświęcim, Poland",
+        "country": "POL",
+        "website": "http://www.auschwitz.org/",
+        "description": "Auschwitz Concentration Camp was the largest single facility dedicated to genocide ever constructed. 1.1 million people were killed here, and the facility is so large that the camps surround the town of Oświęcim. Auschwitz I has the infamous 'Aerbeit mach frei' entryway, while Auschwitz II-Birkenau has the gatehouse. This is not a happy place.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1806478,
+          50.0345631
+        ]
+      }
     }
   ]
 }
