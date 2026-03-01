@@ -2593,7 +2593,7 @@
         "street": "",
         "country": "USA",
         "website": "https://big-cypress.com/bass-pro-shops/",
-        "description": "The ancient Egyptian city of Memphis was known for its pyramid where they kept their honored treasures. So too the American city of Memphis, Tennessee keep their treasures in their 312 foot pyramid. It's a hotel, bar, bowling alley, observation deck, waterfowl hunting museum, and largest Bass Pro Shop in the world.",
+        "description": "The ancient Egyptian city of Memphis was known for its pyramid where they kept their honored treasures. So too the American city of Memphis, Tennessee keep its treasures in their 312 foot pyramid. It's a hotel, bar, bowling alley, observation deck, waterfowl hunting museum, and largest Bass Pro Shop in the world.",
         "worth stopping": true
       },
       "geometry": {
@@ -14916,7 +14916,7 @@
         "street": "10 Dundas St E, Toronto, ON M5B 2G9, Canada",
         "country": "CAN",
         "website": "https://little-canada.ca/",
-        "description": "Canada is the second largest country on Earth by area, but what if it were much much smaller? Little Canada is Canada but represented in scale model format, including: Toronto, Ottawa, Niagara, Quebec,  the west coast (Vancouver), the east coast, and the North,",
+        "description": "Canada is the second largest country on Earth by area, but what if it were much much smaller? Little Canada is Canada but represented in scale model format, including: Toronto, Ottawa, Niagara, Quebec,  the west coast (Vancouver), the east coast, and the North.",
         "worth stopping": true
       },
       "geometry": {
@@ -20854,7 +20854,7 @@
         "street": "Piazzetta Reale, 1, 10122 Torino TO, Italy",
         "country": "ITA",
         "website": "https://www.museireali.beniculturali.it/palazzo-reale/",
-        "description": "The Royal Palace of Turin was the sat of power for the House of Savoy as it consolidated its power from the county of Savoy into unified Italy. The palace in the middle of Turin is now a museum complex: including: the Musei Reali, Royal Armory, and Museo di Antichita di Torino.",
+        "description": "The Royal Palace of Turin was the seat of power for the House of Savoy as it consolidated its power from the county of Savoy into unified Italy. The palace in the middle of Turin is now a museum complex: including: the Musei Reali, Royal Armory, and Museo di Antichita di Torino.",
         "worth stopping": true,
         "museum": true
       },
@@ -26102,7 +26102,7 @@
         "street": "Strada Salinei 1, 106200 Slănic, Romania",
         "country": "ROU",
         "website": "https://www.salrom.ro/slanic-prahova-facilitati-si-tarife.php",
-        "description": "Most mining museum tunnels are really short, but the galleries at the Slănic salt mine at 96m tall, and have been excavated since 1688 .",
+        "description": "Most mining museum tunnels are really short, but the galleries at the Slănic salt mine at 96m tall, and have been excavated since 1688.",
         "worth stopping": true,
         "museum": true
       },
@@ -26286,7 +26286,7 @@
         "street": "Strada Canionului, 505600 Timișu de Jos, Romania",
         "country": "ROU",
         "website": "https://canionul7scari.ro/",
-        "description": "Usually narrow canyons with fast rivers through them don't have hiking trails, but the Romanians built one anyway at Seven Ladders Canyon. Nearly the entire trail is built on metal pathways hammered into the canyon, or carved into the cliffside - giving a stunning view of the fast flowing waters that rage beneath you. As the name implies, there are ladders - some are right next to waterfalls.",
+        "description": "Usually narrow canyons with fast rivers running through them don't have hiking trails, but the Romanians built one anyway at Seven Ladders Canyon. Nearly the entire trail is built on metal pathways hammered into the canyon, or carved into the cliffside - giving a stunning view of the fast flowing waters that rage beneath you. As the name implies, there are ladders - some are right next to waterfalls.",
         "worth stopping": true,
         "park": true
       },
@@ -26295,6 +26295,170 @@
         "coordinates": [
           25.6449038,
           45.5673097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1313",
+        "name": "Liseberg",
+        "street": "Örgrytevägen 5, 402 22 Göteborg, Sweden",
+        "country": "SWE",
+        "website": "https://www.liseberg.se/",
+        "description": "Liserberg is a 1923 amusement park located on top of a hill in Gothenburg, Sweden. The rollercoasters Helix and Lisebergbanan dive down the hillside and wrap around the park, and the rest of the ride lineup makes this the largest amusement park in Sweden.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9915465,
+          57.6952938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1314",
+        "name": "Gyeongbokgung",
+        "street": "161 Sajik-ro, Jongno District, Seoul, South Korea",
+        "country": "KOR",
+        "website": "https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=gbg",
+        "description": "Gyeongbokgung Palace was built in 1395 to be the center of power for the Korean power, but was neglected after it burned down in 1592. The palace was rebuilt to its former splendor in 1873, and is now a tourist attraction. The palace complex also hosts the Palace Museum of Korea and the National Folk Museum of Korea. Many artifacts of the Korean monarchy are found in the National Palace Museum of Korea located within the palace complex.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769536,
+          37.579386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1315",
+        "name": "Changdeokgung",
+        "street": "185 Changgyeonggung-ro, Jongno District, Seoul, South Korea",
+        "country": "KOR",
+        "website": "https://royal.khs.go.kr/cgg",
+        "description": "This is THE Korean palace. Changdeokgung was established in 1405 as the second royal palace, but became the main Korean palace after all of the palaces were destroyed in warfare. Changdeokgung Palace includes the Changgeyongung Palace as part of the \"East Palace\" complex in Seoul.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9948916,
+          37.5786775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1316",
+        "name": "War Memorial of Korea",
+        "street": "29 Itaewon-ro, Yongsan District, Seoul, South Korea",
+        "country": "KOR",
+        "website": "https://www.warmemo.or.kr/",
+        "description": "This is THE Korean military museum. South Korea's existence has been defined by its ongoing war with North Korea (which still isn't officially over, it's on hold). Ongoing mandatory military service for men means that the military is present in the minds of every South Korean, and this museum proudly shows off military aircraft, armored vehicles, and some smaller warships - including a replica turtle ship, North Korean infiltration craft, and Chamsuri-class patrol boat.  .",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9772612,
+          37.5370396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1317",
+        "name": "Lotte World",
+        "street": "240 Olympic-ro, Songpa District, Seoul, South Korea",
+        "country": "KOR",
+        "website": "http://www.lotteworld.com/",
+        "description": "Have you ever wondered what Disneyworld would look like if it were run by a cyberpunk faceless megacorporation? Look no further. South Korean Chaebol Lotte Corporation opened their own Disneyland like amusement park. Lotte World shamelessly copies the architecture of Disney and Seaworld at Magic Island. The rest of the amusement park is located inside a stadium sized luxury shopping mall where Lotte products are for sale. Nearby, Lotte World Tower -the tallest building in South Korea (1,821ft) looms inescapably over the entire compound.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0981891,
+          37.5110106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1318",
+        "name": "Seoul Battleship Park",
+        "street": "South Korea, Seoul, Mapo-gu, Maponaru-gil, 407 서울함공원",
+        "country": "KOR",
+        "website": "http://www.seoulbattleshippark.com/",
+        "description": "Battleship park is home to the Cold War era Ulsan-class frigate ROKS Seoul, the Cold War era  Dolgorae-class midget submarine SSM-053, and the Chamsuri-class patrol boat PKM-285. This is the largest collection of Naval warships in South Korea, and its right in the middle of Seoul.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8972511,
+          37.5533169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1319",
+        "name": "USS LST-1010",
+        "street": "110-36 Daemyeonghang 1-ro, Daegot-myeon, Gimpo-si, Gyeonggi-do, South Korea",
+        "country": "KOR",
+        "website": "",
+        "description": "Gimpo Ham Commercial Park is home to the LST 671 Un Bong (formerly USS LST-1010). This landing ship tank fought in WW2 at Okinawa, and the Vietnam War. The ship today is just a military museum, with the surrounding park full of military vehicles used aboard the ship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5393327,
+          37.6405209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1320",
+        "name": "Bukhansan National Park",
+        "street": "262 Bogungmun-ro, Seongbuk District, Seoul, South Korea",
+        "country": "KOR",
+        "website": "https://www.knps.or.kr/bukhan",
+        "description": "There's hiking through temple and fortress covered mountains right next to downtown Seoul at Bukhansan National Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9763063,
+          37.645765
         ]
       }
     }

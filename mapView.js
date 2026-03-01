@@ -472,6 +472,8 @@ async function markerPopUp(feature, popup){
   const streetAddress = feature.properties?.street|| "";
   const coordinates = feature.geometry?.coordinates;
   const description = feature.properties?.description;
+  const countryCode = feature.properties?.country;
+  const countryName = await countryCodeToCountry(countryCode);
   console.log("The uid for this popup is:");
   console.log(uid);
   
@@ -481,6 +483,7 @@ async function markerPopUp(feature, popup){
   const originalHtml =
     `<div class="popup-title-row">
       <b class="popup-title">${name|| 'Unnamed'}</b>
+      
       <hr>
       <button
         class="popup-google-pictures-btn"
