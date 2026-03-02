@@ -26919,6 +26919,106 @@
           42.4372396
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1344",
+        "name": "Kravica (vodopad)",
+        "street": "Zvirići 88320, Bosnia & Herzegovina",
+        "country": "BIH",
+        "website": "https://kravica.ba/",
+        "description": "The 80ft Kravica Waterfall forms a bowl-like cascade through moss-covered rocks and trees into a lush swimming area. There's viewing platforms at the top and bottom of the falls so you can get a good look.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6088115,
+          43.1562911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1345",
+        "name": "Armijska Ratna Komanda D-0",
+        "street": "Ljuta, Bosnia & Herzegovina",
+        "country": "BIH",
+        "website": "https://titosbunker.com/",
+        "description": "Even if nuclear war devastated the world, communist dictator Josip Broz Tito planned to keep the Slavic brotherhood of the Socialist Federal Republic of Yugoslavia alive in the Ark atomic command bunker. The bunker escaped the destruction of the Bosnian war and is now one of the finest preserved examples of Yugoslavian communism.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9947646,
+          43.6341002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1346",
+        "name": "Tunel spasa",
+        "street": "BA 1, Sarajevo 71000, Bosnia & Herzegovina",
+        "country": "BIH",
+        "website": "https://www.mcsarajevo.ba/tunel-spasa",
+        "description": "After the fall of communism, the constituent ethnic republics of Yugoslavia decided they would be independent - the Serbians in the Socialist Republic of Bosnia and Herzegovina disagreed. Because the ethnic composition of Bosnia and Herzegovina was 32.5% Serbs, the fighting devolved into clashes  and genocide along ethnic lines. The capitol of Bosnia and Herzegovina remined under siege for nearly 4 years, and the Sarajevo Tunnel was dug by the Army of the Republic of Bosnia and Herzegovina to supply the besieged city with armaments, electricity, and oil - and to let civilians escape the warzone. The tunnel is now a museum with guided tours of the tunnel.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3369516,
+          43.819789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1347",
+        "name": "Historijski muzej Bosne i Hercegovine",
+        "street": "71000, Zmaja od Bosne 5, Sarajevo 71000, Bosnia & Herzegovina",
+        "country": "BIH",
+        "website": "https://muzej.ba/",
+        "description": "The Historical Museum of Bosnia and Herzegovina follows Bosnian history from liberation by communist partisans to the Siege of Sarajevo in the Bosnian War. The building itself is a dilapidated example of communist architecture, and there's also an armored train in the yard out back.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4007801,
+          43.8548893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1348",
+        "name": "Nacionalni park Una",
+        "street": "Bihać 77000, Bosnia & Herzegovina",
+        "country": "BIH",
+        "website": "https://npuna.com/",
+        "description": "The waterfalls of Una National Park straddle the border of Bosnia and Herzegovina and Croatia. Roads and hiking trails follow the river as the cascades pour over rocks into pools - which you can go whitewater rafting in. For Americans keeping score at home, this most closely resembles a Pennsylvania river valley.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0097662,
+          44.6562741
+        ]
+      }
     }
   ]
 }
