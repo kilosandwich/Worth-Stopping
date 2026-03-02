@@ -26550,7 +26550,7 @@
         "street": "91 2hamdae-gil, Poseung-eup, Pyeongtaek-si, Gyeonggi-do, South Korea",
         "country": "KOR",
         "website": "http://wsph.navy.mil.kr/",
-        "description": "The ROKS Cheonan was Pohang-class corvette that was unexpectedly sunk by a North Korean submarine in 2010. The two halves of the ship were raised, and are now part of the West Sea Protection Hall at Pyeongtaek Naval Base. Similarly, the Chamsuri 457 was sunk by the North Koreans in 2002, but was raised and is on display here as well.  You need to book visits in advance - you are visiting an active naval base.",
+        "description": "The ROKS Cheonan was a Pohang-class corvette that was unexpectedly sunk by a North Korean submarine in 2010. The two halves of the ship were raised, and are now part of the West Sea Protection Hall at Pyeongtaek Naval Base. Similarly, the Chamsuri 457 was sunk by the North Koreans in 2002, but was raised and is on display here as well.  You need to book visits in advance - you are visiting an active naval base.",
         "worth stopping": true,
         "museum": true
       },
@@ -26717,6 +26717,86 @@
         "coordinates": [
           129.0799147,
           35.078375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1334",
+        "name": "ROKS Pohang (PCC-756)",
+        "street": "389-18 송도동 Nam-gu, Pohang-si, Gyeongsangbuk-do, South Korea",
+        "country": "KOR",
+        "website": "",
+        "description": "Unlike the ROKS Cheonan, this Pohang-class corvette is still afloat. The Cold War era Pohang-class corvette ROKS Pohang is the most modern intact warship available for tour in South Korea.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3724976,
+          36.041221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1335",
+        "name": "Juwangsan National Park",
+        "street": "",
+        "country": "KOR",
+        "website": "",
+        "description": "Juwangsan National Park is a hiking trail through a scenic rocky canyon filled with rushing river and waterfalls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2022948,
+          36.3864928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1336",
+        "name": "Woraksan National Park",
+        "street": "",
+        "country": "KOR",
+        "website": "",
+        "description": "The centerpiece of Woraksan National Park is Woraksan Mountain (3,589ft). The hiking trails head to the top of the mountain, which offers stunning views of the surrounding lakes and mountaintops. There's staircases all the way to the top of the mountain, but that doesn't mean it's an easy hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1058662,
+          36.8861137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1337",
+        "name": "Seoraksan National Park",
+        "street": "South Korea, Gangwon-do, Sokcho-si, Seoraksan-ro, 833 KR",
+        "country": "KOR",
+        "website": "",
+        "description": "The mist covered peaks of Seoraksan National park soar over the surrounding pine forest covered valleys. The rocks here fare in interesting formations, such as those found at Ulsanbawi Rock, and Dinosaur Ridge. Well established hiking trails take you to most of what you want to see in the park",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.4652582,
+          38.1190732
         ]
       }
     }
