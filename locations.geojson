@@ -26799,6 +26799,106 @@
           38.1190732
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1338",
+        "name": "Grykat e Osumit",
+        "street": "F6HX+VWR, Unnamed Road, Çerenisht, Albania",
+        "country": "ALB",
+        "website": "",
+        "description": "The Osumi Gorge is a 16-mile long near vertical gorge that has been carved by the Osum river. There's hiking, rafting, and various lookout points on the roadside so you can get up close and personal with the topography.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2651697,
+          40.4551089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1339",
+        "name": "Muzeu i Forcave të Armatosura",
+        "street": "7V4P+73, Dobresh, Albania",
+        "country": "ALB",
+        "website": "",
+        "description": "After achieving independence from the Ottoman Empire in 1913, Albania collapsed into civil war as Greek nationalists sought independence in Epirus, and Muslim clerics who sought to reestablish Ottoman rule. The civil war led to Albania being invaded by Montenegro in 1914, Serbia in 1915, Austria-Hungary and Bulgaria (pursuing the Serbians) in 1915, and Italy and France (expelling the Austria-Hungarians and Bulgarians) in 1917. In WW2 Italy invaded Albania, and communist partisans liberated and took control of the country in 1944. Communist dictator Enver Hoxha aligned Albania with the Soviet Union, but then violently seized Soviet the Soviet submarine base at Vlorë following deteriorating relations. Albania returned to democracy in 1992, but the elected government created a nationwide Ponzi scheme which led to the Albanian Civil War in 1997. The Armed Forces Museum contains the equipment that was used to fight in the near continuous century of warfare in Albania.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8848865,
+          41.2556134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1340",
+        "name": "Bunk'Art 2",
+        "street": "Street Abdi Toptani, Tiranë, Albania",
+        "country": "ALB",
+        "website": "http://bunkart.al/",
+        "description": "Communist dictator Ener Hoxha built 14.7 bunkers per square mile in Albania to defend the country from invasion by NATO and the Warsaw Pact simultaneously. This command bunker has been turned into an art installation detailing the history of the Albanian secret police (Sigurimi) - and how they intended to keep their iron grip on the country even if the entire world was invading their doorstep.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8195287,
+          41.3270165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1341",
+        "name": "Bunk'Art 1",
+        "street": "Rruga Fadil Deliu, Tiranë 1001, Albania",
+        "country": "ALB",
+        "website": "http://bunkart.al/",
+        "description": "This is THE Albanian bunker. Communist dictator Enver Hoxha built this nuclear fallout shelter into mount Dajti as part of the 173,000+ bunkers built in Albania during the Cold War. This bunker was intended for continuity of government in the event of invasion or nuclear war, and is so expansive that most of it has been converted into an art gallery.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8603784,
+          41.3497894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1342",
+        "name": "Lugina e Valbonës",
+        "street": "",
+        "country": "ALB",
+        "website": "https://wildtouralbania.com/valbona-valley-trip-essentials/",
+        "description": "Valbona Valley National Park encompasses the Valbona river valley and its waterfalls and springs. The road down the valley lets you see most of the views, but if you want to see the best rock formations and the mountaintops, you'll have to hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8458758,
+          42.4124943
+        ]
+      }
     }
   ]
 }
