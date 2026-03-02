@@ -15895,7 +15895,7 @@
         "street": "404 Cameron Falls Dr, Waterton Park, AB T0K 0C3, Canada",
         "country": "CAN",
         "website": "https://parks.canada.ca/pn-np/ab/waterton/",
-        "description": "The Rockies of Canada never stop being beautiful. What makes this National Park unique though is its clear view of the plains, the rainbow streams and frighteningly red rocks of Red Rock Canyon, red mountains, and the large lake framing all of it. Get in some hiking - this is one of the less popular of the Canadian Rocky parks.",
+        "description": "The Rockies of Canada never stop being beautiful. What makes this National Park unique though is its clear view of the plains, the rainbow streams and frighteningly red rocks of Red Rock Canyon, red mountains, and the large lake framing all of it. Get in some hiking - this is one of the less popular  Canadian Rocky parks.",
         "worth stopping": true,
         "park": true
       },
@@ -16315,7 +16315,7 @@
         "street": "118 Patricia Rd Building N, Shilo, MB R0K 2A0, Canada",
         "country": "CAN",
         "website": "https://en.rcamuseum.com/",
-        "description": "Canadian Artillery has had to switch tactics from mobility in defending the wide plains of Canada to supporting trench warfare. Canadian artillery more closely follows British development compared to the United States - and this museum shows it from Confederation to Present. Accessing this museum requires entering a Canadian military base - so plan ahead.",
+        "description": "Canadian Artillery has had to switch tactics from mobility in defending the wide plains of Canada to supporting trench warfare. Canadian artillery more closely follows British development compared to the United States - and this museum shows it from Confederation to present. Accessing this museum requires entering a Canadian military base - so plan ahead.",
         "worth stopping": true,
         "museum": true
       },
@@ -17135,7 +17135,7 @@
         "street": "1 Olympic Wy, Belfast BT3 9EP, United Kingdom",
         "country": "GBR",
         "website": "https://www.titanicbelfast.com/",
-        "description": "The White Star Line ship RMS Titanic was built in Belfast and was the largest ocean liner in the world when is struck an iceberg and killed a bunch of rich people onboard. The museum features the last surviving White Star Line vessel SS Nomadic as well as history about the ill-fated passenger liner.",
+        "description": "The White Star Line ship RMS Titanic was built in Belfast and was the largest ocean liner in the world when it struck an iceberg on its maiden voyage and killed a bunch of rich people onboard. The museum features the last surviving White Star Line vessel SS Nomadic as well as history about the ill-fated passenger liner.",
         "worth stopping": true,
         "museum": true
       },
@@ -18260,7 +18260,7 @@
         "street": "Bielych albatrosov, 040 17 Barca, Slovakia",
         "country": "SVK",
         "website": "https://stm-ke.sk/sk/pobocky/muzeum-letectva-v-kosiciach/zakladne-informacie",
-        "description": "While the Museum of Aviation branch of the Slovakian Technical Museum isn't that impressive, they do have the Slovakian version of Air Force One and what few aircraft Czechoslovakia produced for itself before Nazi and Communist takeover.  There's also a train portable nuclear missile, various Soviet aircraft and helicopters",
+        "description": "While the Museum of Aviation branch of the Slovakian Technical Museum isn't that impressive, they do have the Slovakian version of Air Force One and what few aircraft Czechoslovakia produced for itself before Nazi and Communist takeover.  There's also a train portable nuclear missile, and various Soviet aircraft and helicopters",
         "worth stopping": true,
         "museum": true
       },
@@ -26897,6 +26897,26 @@
         "coordinates": [
           19.8458758,
           42.4124943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1343",
+        "name": "Naval Heritage Collection",
+        "street": "1 Blaža Jovanovića, Tivat, Montenegro",
+        "country": "MNE",
+        "website": "https://www.portomontenegro.com/attractions-events/naval-heritage-museum-attraction/",
+        "description": "Porto Montenegro luxury yacht marina is home to the The Naval Heritage Collection Museum featuring some of the last surviving ships of the Yugoslav Navy: the Heroj-class attach submarine P-821, and the Una-class midget submarine Una.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6933346,
+          42.4372396
         ]
       }
     }
