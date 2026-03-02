@@ -26326,7 +26326,7 @@
         "street": "161 Sajik-ro, Jongno District, Seoul, South Korea",
         "country": "KOR",
         "website": "https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=gbg",
-        "description": "Gyeongbokgung Palace was built in 1395 to be the center of power for the Korean power, but was neglected after it burned down in 1592. The palace was rebuilt to its former splendor in 1873, and is now a tourist attraction. The palace complex also hosts the Palace Museum of Korea and the National Folk Museum of Korea. Many artifacts of the Korean monarchy are found in the National Palace Museum of Korea located within the palace complex.",
+        "description": "Gyeongbokgung Palace was built in 1395 to be the center of power for the Korean monarchy, but was neglected after it burned down in 1592. The palace was rebuilt to its former splendor in 1873, and is now a tourist attraction. The palace complex also hosts the Palace Museum of Korea and the National Folk Museum of Korea. Many artifacts of the Korean monarchy are found in the National Palace Museum of Korea located within the palace complex.",
         "worth stopping": true,
         "park": true,
         "museum": true,
@@ -26459,6 +26459,264 @@
         "coordinates": [
           126.9763063,
           37.645765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1321",
+        "name": "Korea Railroad Museum",
+        "street": "142 Cheoldobangmulgwan-ro, Uiwang-si, Gyeonggi-do, South Korea",
+        "country": "KOR",
+        "website": "https://www.railroadmuseum.co.kr/",
+        "description": "Korea Railroad Corporation (Korail) is the government-owned railroad operator of Korea. Korail operates just about every train in Korea, including the metros, interurbans, and freight lines. The Korea Railroad Museum follows the history of Korean railway transport - which is mostly just a bunch of Japanese locomotives until 1945. The museum also has the carriages of the President of Korea and the Commander of the United Nations Forces In Korea.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9509522,
+          37.3141178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1322",
+        "name": "Hwaseong Fortress",
+        "street": "825 Jeongjo-ro, Paldal-gu, Suwon-si, Gyeonggi-do, South Korea",
+        "country": "KOR",
+        "website": "https://www.swcf.or.kr/?p=62",
+        "description": "Hwaseong Fortress contains a pretty good looking Haengung Palace, but what makes this fortress interesting is that the walls surround nearly the entire town of Suwon - forming one continuous park.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0133749,
+          37.2818966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1323",
+        "name": "Everland",
+        "street": "199 Everland-ro, Pogok-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, South Korea",
+        "country": "KOR",
+        "website": "https://www.everland.com/everland/home/main",
+        "description": "Everland is the largest amusement park in South Korea - and yes it's operated by the Chaebol Samsung. Notably, this amusement park is themed after what Koreans think America, Europe, and the Middle East look like - which is charmingly stereotypical. Most the rides are unremarkable, but T Express is regarded as one of the best wooden rollercoasters ever built.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1995927,
+          37.2908418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1324",
+        "name": "Samsung Transportation Museum",
+        "street": "171 Everland-ro 376beon-gil, Cheoin-gu, Yongin-si, Gyeonggi-do, South Korea",
+        "country": "KOR",
+        "website": "http://www.stm.or.kr/",
+        "description": "Korean Chaebol Samsung used to make cars, and horded them at the Samsung Transportation Museum. There's only 50 cars here, but the rest of the museum is dedicated to Fire and Marine Insurance.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2169123,
+          37.3004334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1325",
+        "name": "ROKS Cheonan Memorial",
+        "street": "91 2hamdae-gil, Poseung-eup, Pyeongtaek-si, Gyeonggi-do, South Korea",
+        "country": "KOR",
+        "website": "http://wsph.navy.mil.kr/",
+        "description": "The ROKS Cheonan was Pohang-class corvette that was unexpectedly sunk by a North Korean submarine in 2010. The two halves of the ship were raised, and are now part of the West Sea Protection Hall at Pyeongtaek Naval Base. Similarly, the Chamsuri 457 was sunk by the North Koreans in 2002, but was raised and is on display here as well.  You need to book visits in advance - you are visiting an active naval base.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8102659,
+          36.9964432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1326",
+        "name": "USS Rogers (DD-876)",
+        "street": "197-3 Unjeong-ri, Sinpyeong-myeon, Dangjin-si, Chungcheongnam-do, South Korea",
+        "country": "KOR",
+        "website": "",
+        "description": "The WW2-era Gearing-class destroyer USS Rogers and the WW2-era LST-542-class tank landing ship USS Pender County both served in the Korean war in the United States Navy, but were later transferred to the Korean Navy. Both ships are docked as museum ships in Dangjin and can be toured.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8253243,
+          36.8912195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1327",
+        "name": "Daedunsan Provincial Park",
+        "street": "Sanbuk-ri, Unju-myeon, Wanju-gun, Jeonbuk State, South Korea",
+        "country": "KOR",
+        "website": "http://daedunsancablecar.com/",
+        "description": "You can hike up to the spines and columns of Daedunsan Provincial Park, or you can take the cable car. Near the top of the mountain is a bright red suspension bridge with a stunning view of the valley below and the mountain above.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3209853,
+          36.1245768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1328",
+        "name": "USS LST-849",
+        "street": "32 Naehang 2-gil, Gunsan-si, Jeonbuk State, South Korea",
+        "country": "KOR",
+        "website": "",
+        "description": "The LST-542 Landing Ship Tank USS LST-849 participated in the assault on Okinawa in WW2, and was later transferred to the Korean navy. Now it sits surrounded by military equipment and a patrol craft at the Jinpo Marine Theme Park in Gunsan. Despite being an American made ship, there are more LSTs available for tour in South Korea than there are in the United States.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7166254,
+          35.9896287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1329",
+        "name": "World Automobile & Piano Museum",
+        "street": "1610 Jungsanganseo-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "country": "KOR",
+        "website": "http://worldautopianomuseum.com/",
+        "description": "You read that correct, it's a piano museum AND an automobile museum. It's 100+ cars and a bunch of fancy pianos - including a piano covered in 24 karat gold. You can also feed deer here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3499546,
+          33.2836402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1330",
+        "name": "Wolchulsan National Park",
+        "street": "280-43 Cheonhwangsa-ro, Yeongam-eup, Yeongam-gun, Jeollanam-do, South Korea",
+        "country": "KOR",
+        "website": "http://wolchul.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=121700&menuNo=7020098",
+        "description": "Wolchulsan National Park looks like those stereotypical wispy paintings of mountains, and it includes a bright red suspension bridge on top of it. There's a lot of hiking trails here so you can see the interesting rock formations - including a trail that follows the crest of the mountain from beginning to end.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7114268,
+          34.7691075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1331",
+        "name": "Gangguan Port Turtle Ships",
+        "street": "236 Jungang-dong, Tongyeong-si, Gyeongsangnam-do, South Korea",
+        "country": "KOR",
+        "website": "https://www.tyhansancf.or.kr/",
+        "description": "This is THE Turtle ship museum. The medieval Korean Joseon Navy had a unique design called \"Turtle Ships\" - equipped with cannons and a spiked roof. Ganguan Port has 4 Joseon dynasty warships replicas, including 3 turtle ships and a Pan Ok-seon.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.4242621,
+          34.8436555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1332",
+        "name": "KAI Aerospace Museum",
+        "street": "78 Gongdan 1-ro, Sanam-myeon, Sacheon-si, Gyeongsangnam-do, South Korea",
+        "country": "KOR",
+        "website": "https://kaimuseum.co.kr/",
+        "description": "Korean Aerospace Industries (KAI) is South Korea's only major aerospace manufacturer - formed from the merger all of other Korean aerospace companies. The KAI Aerospace Museum is the best collection of Korean War aircraft and armored vehicles in Korea, showing off 24 of the aircraft the United Nations Forces in Korea used to protect South Korea from North Korean invasion.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.0627264,
+          35.0711511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1333",
+        "name": "National Maritime Museum of Korea",
+        "street": "45 Haeyang-ro 301beon-gil, Yeongdo-gu, Busan, South Korea",
+        "country": "KOR",
+        "website": "https://www.mmk.or.kr/",
+        "description": "The National Maritime Museum of Korea features the Dolgorae-class midget submarine (the first Korean submarine design for South Korea), the submersible Haeyang 250,  a replica of a Korean turtle ship, and a small aquarium. It's not the most exciting maritime museum as other museums in South Korea have full sized surface warships, but it's still interesting."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0799147,
+          35.078375
         ]
       }
     }

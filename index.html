@@ -791,6 +791,15 @@ here probably using some sort of function, but for now, here is a test marker*/
 populateMapMarkers(map, geojsonFilePath, ["worth stopping"], 4, "AND")
 
 
+
+</script>
+<script src="statistics.js">
+//this is just for fun
+avgShortestDistanceUidArr = await getUIDsThatMatchProperties(["worth stopping=true"]);
+avgShortestDistance = await getAverageShortestDistance(avgShortestDistanceUidArr);
+console.log("The average shortest distance is:");
+console.log(avgShortestDistance);
+
 </script>
 
 </body>
