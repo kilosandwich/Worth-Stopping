@@ -27019,6 +27019,126 @@
           44.6562741
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1349",
+        "name": "Tehnički muzej Nikola Tesla",
+        "street": "Savska cesta 18, 10000, Zagreb, Croatia",
+        "country": "HRV",
+        "website": "https://tmnt.hr/hr-hr/",
+        "description": "Nikola Tesla Technical Museum is Croatia's main technical museum. The museum has a nice collection of machinery from the Federal Republic of Yugoslvaia, but also has the Italian WW2-era CB-class midget submarine Mališan.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9639274,
+          45.8039996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1350",
+        "name": "Nacionalni park Krka",
+        "street": "Šetnica Roški Slap - Visovac, 22324, Bogatić, Croatia",
+        "country": "HRV",
+        "website": "https://www.npkrka.hr/hr/",
+        "description": "The waterfalls at Krka National Park flow have lush trees growing in the middle of them, leading to tiered cascades next to verdant grey cliffs. The falls, cliffs, and caves at Roski is the main attraction, but there's also waterfalls in the town of Krka.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9748289,
+          43.9045436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1351",
+        "name": "Nacionalni park Plitvička jezera",
+        "street": "53231, Plitvica Selo, Croatia",
+        "country": "HRV",
+        "website": "",
+        "description": "Colorful lakes are fed by waterfalls pouring off cliffs through greenery, leading to a tiered garden-like canyon crisscrossed with pedestrian footbridges.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6089406,
+          44.8770592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1352",
+        "name": "Amfiteatar u Puli",
+        "street": "Flavijevska ul., 52100, Pula, Croatia",
+        "country": "HRV",
+        "website": "http://www.ami-pula.hr/hr/dislocirane-zbirke/amfiteatar/amfiteatar/",
+        "description": "It's like the Colosseum, but in Croatia. The Roman Empire tended to build large amphitheaters all across its provinces, this one is one of the best preserved ones remaining. Now it's a concert venue",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8500448,
+          44.8731594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1353",
+        "name": "Baredine (jama)",
+        "street": "Gedići 55, 52446, Nova Vas, Croatia",
+        "country": "HRV",
+        "website": "http://www.baredine.com/",
+        "description": "While not as impressive as the other Karst caves nearby in Slovenia, Baredine cave has all the stalactites and stalagmites you'd come to expect of caves.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6619325,
+          45.2703846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1354",
+        "name": "Galeb (brod)",
+        "street": "",
+        "country": "HRV",
+        "website": "",
+        "description": "This is Josip Broz Tito's personal yacht. The ship was originally built as a banana boat in Italy, converted into an auxiliary cruiser during WW2, then transferred to Yugoslavia for use as the communist dictator's personal yacht.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4328649,
+          45.3246809
+        ]
+      }
     }
   ]
 }
