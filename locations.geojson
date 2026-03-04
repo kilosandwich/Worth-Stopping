@@ -27139,6 +27139,147 @@
           45.3246809
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1355",
+        "name": "Matterhorn",
+        "street": "",
+        "country": "CHE",
+        "website": "",
+        "description": "The Matterhorn is the tallest mountain in the area, and is distinctly triangular. The best view is from the Swiss side in Zermatt, as the other side just looks like a typical mountain ridge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6587386,
+          45.9763377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1356",
+        "name": "Belgrade Fortress",
+        "street": "http://www.beogradskatvrdjava.co.rs/",
+        "country": "SRB",
+        "website": "http://www.beogradskatvrdjava.co.rs/",
+        "description": "When Belgrade was founded, it existed only within the walls of this fortress - which grew over time as control passed between: Scordiscis, Romans, Bulgarians, Ottomans, Austrians, and Serbians. Belgrade Fortress is home to Kalemegdan Park, the Military Museum, Museum of Balkan Natural History, Luna Park (a small amusement park), and the Belgrade Zoo.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4492351,
+          44.823073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1357",
+        "name": "Yugoslav monitor Sava",
+        "street": "Spomenik Obalskom Radniku, савско пристаниште, Beograd, Serbia",
+        "country": "SRB",
+        "website": "",
+        "description": "The Austro-Hungarian Temes-class river Monitor Bodrog fired the first shots of World War 1 - shelling Belgrade and signaling the Austro-Hungarian invasion of Serbia. The river monitor later was captured by the Serbians and renamed Sava, then transferred to Yugoslavian service where it fought in WW2.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4493274,
+          44.8157102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1358",
+        "name": "Museum of Yugoslavia",
+        "street": "Михаила Мике Јанковића 6, Beograd 11000, Serbia",
+        "country": "SRB",
+        "website": "http://www.muzej-jugoslavije.org/",
+        "description": "See how Yugoslavia lived and died at this museum - and by Yugoslavia they mean communist dictator Josip Broz Tito. This museum is also Tito's tomb.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4518478,
+          44.7879538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1359",
+        "name": "Aeronautical Museum (Belgrade)",
+        "street": "Aerodrom Nikola Tesla Beograd, 266 51, Surčin 11180, Serbia",
+        "country": "SRB",
+        "website": "http://www.muzejvazduhoplovstva.mod.gov.rs/",
+        "description": "The Aeronautical Museum in Belgrade is Serbia's main air museum. The central building is well organized, and a careful curation of Yugoslavian aircraft - including the only remaining Fiat G.50, and the wreckage of the F-117 stealth fighter show town in 1999 during the Kosovo War. . The fields surrounding however are littered with hundreds of planes rusting in a field.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.28527,
+          44.8190049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1360",
+        "name": "KZ Crveni Krst",
+        "street": "Bulevar 12. februara 71, Niš, Serbia",
+        "country": "SRB",
+        "website": "",
+        "description": "After the Nazis invaded Yugoslavia in WW2, they quickly went about setting up concentration camps like Red Cross Concentration Camp as they began their mass killings of those that resisted. The communist Yugoslav Partisans liberated the camp in 1944, but by that point 10,000+ had been murdered there. The site has been preserved in its entirety, and is now a memorial where you can tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8880051,
+          43.3309984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1361",
+        "name": "Resava Cave",
+        "street": "Divljakovac, Despotovac 35213, Serbia",
+        "country": "SRB",
+        "website": "https://resavskapecina.rs/resavska-pe-ina-resava-cave/#cena-karata-kontakt",
+        "description": "The insides of Resava cave were formed by a sinking river, leaving behind a twisted and warped reddened cavern",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6293629,
+          44.0726715
+        ]
+      }
     }
   ]
 }
