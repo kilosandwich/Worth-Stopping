@@ -27229,7 +27229,7 @@
         "street": "Aerodrom Nikola Tesla Beograd, 266 51, Surčin 11180, Serbia",
         "country": "SRB",
         "website": "http://www.muzejvazduhoplovstva.mod.gov.rs/",
-        "description": "The Aeronautical Museum in Belgrade is Serbia's main air museum. The central building is well organized, and a careful curation of Yugoslavian aircraft - including the only remaining Fiat G.50, and the wreckage of the F-117 stealth fighter show town in 1999 during the Kosovo War. . The fields surrounding however are littered with hundreds of planes rusting in a field.",
+        "description": "The Aeronautical Museum in Belgrade is Serbia's main air museum. The central building is well organized, and a careful curation of Yugoslavian aircraft - including the only remaining Fiat G.50, and the wreckage of the F-117 stealth fighter show town in 1999 during the Kosovo War. The fields surrounding however are littered with hundreds of planes rusting in a field.",
         "worth stopping": true,
         "museum": true
       },
@@ -27278,6 +27278,228 @@
         "coordinates": [
           21.6293629,
           44.0726715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1362",
+        "name": "Belogradchik Fortress",
+        "street": "ul. \"Colo Todorov\" 43, 3900 Belogradchik, Bulgaria",
+        "country": "BGR",
+        "website": "",
+        "description": "Belogradchik fortress is built among the columns and stacks of the Belogradchik Rocks. The Fortress makes a great start of the hiking trail through forest of the curvy rocky landscape, and the lookout points within the fortress itself offer the best views.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6767907,
+          43.6232687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1363",
+        "name": "Prohodna",
+        "street": "Prohodna Lovech, Karlukovo, Bulgaria",
+        "country": "BGR",
+        "website": "",
+        "description": "Prohodna Cave is called \"The Eyes of God\" because of the two eye shaped openings to the cave where beams of light shine down into the 150ft tall corridors.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0740886,
+          43.1747945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1364",
+        "name": "National Museum of Military History, Bulgaria",
+        "street": "Oborishte, ul. \"Cherkovna\" No 92, 1505 Sofia, Bulgaria",
+        "country": "BGR",
+        "website": "http://www.militarymuseum.bg/",
+        "description": "Bulgaria is very proud of their military heritage despite being on the losing side of The Second Balkan War, World War One, World War Two, and the Cold War. The National Museum of Military History has a  collection of 5 Eastern Bloc missiles, 26 artillery pieces, 10 aircraft, and 19 armored vehicles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3503676,
+          42.6879909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1365",
+        "name": "Museum of Socialist Art",
+        "street": "g.k. Iztok, ul. \"Lachezar Stanchev\" 7, 1756 Sofia, Bulgaria",
+        "country": "BGR",
+        "website": "https://nationalgallery.bg/visiting/museum-of-socialist-period/",
+        "description": "What if all art was government funded, directed, and rejected ornate depictions of reality? Come see where Bulgaria put all their Soviet monuments and artwork following decommunization at the Museum of Socialist Art.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3581251,
+          42.6659845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1366",
+        "name": "Melnik Earth Pyramids",
+        "street": "2820 Sandanski, Bulgaria",
+        "country": "BGR",
+        "website": "",
+        "description": "The mountains of southern Bulgaria have been melted away into sand-tinted hoodoos - which unusually exist in a lush landscape instead of the deserts of the American Southwest.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4190859,
+          41.5279224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1367",
+        "name": "Devil's Throat Cave",
+        "street": "",
+        "country": "BGR",
+        "website": "",
+        "description": "Trigad Gorge is filled with fast moving water that has carved the cliffs into a wavy and narrow canyon. The river races down a waterfall into Devil's Throat Cave, where the river disappears. You an hike through the gorge to the cave in guided tours - but this is one of the places where you should really stay on the path for your own safety.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3793821,
+          41.6154908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1368",
+        "name": "Aviation Museum (Plovdiv)",
+        "street": "4112 Krumovo, Bulgaria",
+        "country": "BGR",
+        "website": "http://www.airmuseum-bg.com/",
+        "description": "Bulgaria never really had an aviation industry, so the 65+ aircraft at the Plovdiv Aeronautics Museum was bought from other countries. Notably this museum has the only aircraft every produced in Bulgaria - the Lazarov Laz-7, and an Arado Ar 196 WW2 floatplane.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8420294,
+          42.067688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1369",
+        "name": "Valley of the Thracian Rulers",
+        "street": "6150, Bulgaria",
+        "country": "BGR",
+        "website": "http://muzei-kazanlak.org/",
+        "description": "It's like a Bulgarian version of Egypt's Valley of the Kings. Thracians were the people in Bulgaria before Rome conquered them, and they buried their honored dead in this valley. 15 tombs are accounted for so far.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3335734,
+          42.7000561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1370",
+        "name": "Central Balkan National Park",
+        "street": "",
+        "country": "BGR",
+        "website": "http://www.centralbalkan.bg/",
+        "description": "Central Balkan National Park is home to the tallest mountains in the Central Balkan range - which straddles the middle of Bulgaria. The mountains here are littered with waterfalls, including the Raysko Praskalo. There's hiking trails pretty much everywhere here.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9251717,
+          42.7017813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1371",
+        "name": "Devetashka Cave",
+        "street": "5555 Devetaki, Bulgaria",
+        "country": "BGR",
+        "website": "http://devetakiplateau.org/",
+        "description": "Devetashka Cave is a 100ft tall cave with massive arches spanning its length. The sheer width and height of the cave makes it look like you're walking on the ceiling looking down at a valley.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8853037,
+          43.2334578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1372",
+        "name": "Retro Museum (Varna)",
+        "street": "Mladost, ul. \"Akademik Andrei Saharov\" 2, 9009 Varna, Bulgaria",
+        "country": "BGR",
+        "website": "https://www.facebook.com/RetroMuseumBg/?ref=br_rs",
+        "description": "The Retro Museum is a museum of life under Communism in Bulgaria - it also happens to be located in a shopping mall. The museum has a nice collection of Eastern Bloc consumer automobiles (so many Ladas) and consumer goods - all they're in good condition instead of rusting.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8983159,
+          43.2174571
         ]
       }
     }
