@@ -27502,6 +27502,47 @@
           43.2174571
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1373",
+        "name": "Bridal Veil Falls (Telluride)",
+        "street": "Public Parking and Trailhead Telluride, CO 81435",
+        "country": "USA",
+        "website": "",
+        "description": "Telluride Colorado sits in a box canyon, and at the end of its rests the 365ft tall Bridal Veil Falls. There's a hiking trail that will take you to the base of the falls, and to the decommissioned power station at the top.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7701229,
+          37.9190079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1374",
+        "name": "Tonto Natural Bridge State Park",
+        "street": "Nf-583A, Pine, AZ 85544",
+        "country": "USA",
+        "website": "https://azstateparks.com/tonto",
+        "description": "Tonto Natural Bridge is a 150ft wide,183ft tall, and 400ft long natural bridge that has a waterfall drizzling over its entrance. You can hike through the tunnel and into the valley, there's also an animal habitat.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4540004,
+          34.3223972
+        ]
+      }
     }
   ]
 }
