@@ -27623,6 +27623,86 @@
           42.5359907
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1379",
+        "name": "Sylvan Beach Amusement Park",
+        "street": "112 Bridge St, Sylvan Beach, NY 13157",
+        "country": "USA",
+        "website": "http://www.sylvanbeachamusementpark.com/",
+        "description": "Sylvan Beach Amusement Park has been operating since 1879, making it one of the oldest amusement parks in the United States. Somehow, this park has been caught in a time vortex, and hasn't changed at all since the 1950s. Notable rides include a pitch black dark ride,  an extremely fast Himalaya painted with lascivious pictures, and a rollercoaster next to an Osprey nest.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7295736,
+          43.1962106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1380",
+        "name": "The Great Escape and Splashwater Kingdom",
+        "street": "1172 US-9, Queensbury, NY 12804",
+        "country": "USA",
+        "website": "",
+        "description": "The Great Escape and Splashwater Kingdom is a family amusement park that was originally founded as Storytown USA - a place with life sized replicas of Mother Goose children's stories. The amusement park now features 6 rollercoasters, including the historical 1948 Crystal Beach Comet which was relocated from Crystal Beach Canada.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6885124,
+          43.3506734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1381",
+        "name": "Darien Lake",
+        "street": "9993 Alleghany Rd, Corfu, NY 14036",
+        "country": "USA",
+        "website": "",
+        "description": "Typically, large thrill parks kill off local amusement parks in their surrounding areas; however, Darien Lake has been so incompetently run that the nearby competition of Niagara Amusement Park and Seabreeze remain standing. The Ride of Steel hypercoaster is good though, and the park has been improving in recent years. Mind Eraser and Boomerang are some of the most physically painful rollercoasters I have ever ridden - avoid them.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3864397,
+          42.9279132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1382",
+        "name": "DelGrosso's Park",
+        "street": "4352 E Pleasant Valley Blvd, Tipton, PA 16684",
+        "country": "USA",
+        "website": "http://www.mydelgrossopark.com/",
+        "description": "The DelGrosso pasta sauce company has been operating its own amusement park since 1946. There's nothing particularly special about it, but it is a pleasant family park and has spaghetti and a waterpark.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2922035,
+          40.6306926
+        ]
+      }
     }
   ]
 }
