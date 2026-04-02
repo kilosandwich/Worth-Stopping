@@ -1501,7 +1501,7 @@
         "street": "1 Crystal Lake Rd, Groton, CT 06340",
         "country": "USA",
         "website": "https://ussnautilus.org/",
-        "description": "Connecticut has long been home to the United States' Submarine Force since the Electric Boat Company set up their modern facility in Groton in 1931. Tour the USS Nautilus - the world's first nuclear submarine. The museum also features a replica of the Turtle, a WW2 Kairyu-class Japanese midget submarine, the X-1 American Midget Submarine",
+        "description": "Connecticut has long been home to the United States' Submarine Force since the Electric Boat Company set up their modern facility in Groton in 1931. Tour the USS Nautilus - the world's first nuclear submarine. The museum also features a replica of the Turtle, a WW2 Kairyu-class Japanese midget submarine, and the X-1 American Midget Submarine",
         "worth stopping": true,
         "museum": true
       },
@@ -3052,7 +3052,7 @@
         "street": "1 Naval, Marina Park S, Buffalo, NY 14202",
         "country": "USA",
         "website": "http://buffalonavalpark.org/",
-        "description": "One of the most impressive naval collections in the United States. The only place where you can see a WW2 cruiser (Cleveland-class USS Little Rock), destroyer (Fletcher-class USS The Sulivans), submarine (Gato-class USS Croaker), and PT boat all in one place. The sail of the Los Angeles Class Submarine is also on display.",
+        "description": "One of the most impressive naval collections in the United States. The only place where you can see a WW2 cruiser (Cleveland-class USS Little Rock), destroyer (Fletcher-class USS The Sulivans), submarine (Gato-class USS Croaker), and PT boat all in one place. The sail of the Los Angeles-class submarine USS Boston is also on display.",
         "worth stopping": true,
         "museum": true
       },
@@ -13795,7 +13795,7 @@
         "street": "6715 W Colfax Ave, Lakewood, CO 80214",
         "country": "USA",
         "website": "http://www.casabonitadenver.com/",
-        "description": "\"The Disneyland of Mexican Restaurants\". Featuring indoor cliff divers, a western town with actors, a haunted tunnel, mariachi bands, and magic and puppet shows, . Casa Bonita was featured in an episode of the cartoon series South Park, and is now owned by the creators of South Park. As a result, its popularity has skyrocketed, and reservations are required months in advance.",
+        "description": "\"The Disneyland of Mexican Restaurants\". Featuring indoor cliff divers, a western town with actors, a haunted tunnel, mariachi bands, and magic and puppet show. Casa Bonita was featured in an episode of the cartoon series South Park, and is now owned by the creators of South Park. As a result, its popularity has skyrocketed, and reservations are required months in advance.",
         "worth stopping": true
       },
       "geometry": {
@@ -24434,7 +24434,7 @@
         "street": "Jostedalsbreen National Park Center Sandvik, 6799 Oppstryn, Norway",
         "country": "NOR",
         "website": "https://jostedalsbreen.no/en/",
-        "description": "Jostedalsbreen is the largest glacier in Europe - the ice cap stretched from 300-2000meters and the river valleys created my the streams are full of waterfalls and rushing water. This isn't America, you have to hike a few miles to get anywhere close to the park.",
+        "description": "Jostedalsbreen is the largest glacier in Europe - the ice cap stretches from 300-2000meters and the river valleys created my the streams are full of waterfalls and rushing water. This isn't America, you have to hike a few miles to get anywhere close to the park.",
         "worth stopping": true,
         "park": true
       },
@@ -27229,7 +27229,7 @@
         "street": "Aerodrom Nikola Tesla Beograd, 266 51, Surčin 11180, Serbia",
         "country": "SRB",
         "website": "http://www.muzejvazduhoplovstva.mod.gov.rs/",
-        "description": "The Aeronautical Museum in Belgrade is Serbia's main air museum. The central building is well organized, and a careful curation of Yugoslavian aircraft - including the only remaining Fiat G.50, and the wreckage of the F-117 stealth fighter show town in 1999 during the Kosovo War. The fields surrounding however are littered with hundreds of planes rusting in a field.",
+        "description": "The Aeronautical Museum in Belgrade is Serbia's main air museum. The central building is well organized, and a careful curation of Yugoslavian aircraft - including the only remaining Fiat G.50, and the wreckage of the F-117 stealth fighter shot down in 1999 during the Kosovo War. The fields surrounding however are littered with hundreds of planes rusting in a field.",
         "worth stopping": true,
         "museum": true
       },
@@ -27541,6 +27541,86 @@
         "coordinates": [
           -111.4540004,
           34.3223972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1375",
+        "name": "West Kern Oil Museum",
+        "street": "1168 Wood St, Taft, CA 93268",
+        "country": "USA",
+        "website": "http://www.westkernoilmuseum.org/",
+        "description": "During the development of the American oil industry, California was the #3 oil-producing state. The wells and derricks at the West Kern Oil museum memorialize the dirty industry that California prefers to pretend doesn't exist. If you've watched the movie There Will Be Blood, then this is a pretty accurate representation of what they were up to.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4481262,
+          35.1331986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1376",
+        "name": "Musée Mécanique",
+        "street": "Pier 45, San Francisco, CA 94133",
+        "country": "USA",
+        "website": "https://museemecanique.com/",
+        "description": "The Mechanical Museum in San Francisco contains 300+ historical Penny Arcade machinery, as well as arcade games and pinball machines.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4159385,
+          37.8092876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1377",
+        "name": "Chittenango Falls State Park",
+        "street": "5241 Gorge Rd #13, Cazenovia, NY 13035",
+        "country": "USA",
+        "website": "https://parks.ny.gov/parks/130/",
+        "description": "Chittenango Falls State Park is dominated by the tiered 167ft tall Chittenango Falls. The Gorge Trail starts you off at the top of the falls and takes you to a pedestrian bridge spanning the base of the falls. It isn't the biggest waterfall in the State of New York, but it is the closest to the New York State Thruway.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8417035,
+          42.9786536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1378",
+        "name": "Taughannock Falls State Park",
+        "street": "1740 Taughannock Blvd, Trumansburg, NY 14886",
+        "country": "USA",
+        "website": "https://parks.ny.gov/parks/62/details.aspx",
+        "description": "The 215ft fall Taughannock Falls carved a massive bowl shaped gorge that leads to Cayuga Lake, and the Gorge Trail and Rim Loop Trail let you see everything from inside the gorge and above it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6108975,
+          42.5359907
         ]
       }
     }
