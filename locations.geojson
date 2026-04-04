@@ -27783,6 +27783,26 @@
           44.5249316
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1387",
+        "name": "Kaaterskill Falls",
+        "street": "103 Laurel House Rd, Palenville, NY 12463",
+        "country": "USA",
+        "website": "https://catskillsvisitorcenter.org/kaaterskill-falls-visitor-information/",
+        "description": "Kaaterskill Falls is a two-tiered 260ft tall waterfall with cavernous amphitheater like bowls at each level. The waterfall is located in the Catskills Mountains North Mountain Wild Forest, and has a parking lot that leads to a short trail, with access behind the waterfall itself.  There's no fences to protect you from walking off the cliff edges - so don't be stupid.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0635065,
+          42.1932901
+        ]
+      }
     }
   ]
 }
