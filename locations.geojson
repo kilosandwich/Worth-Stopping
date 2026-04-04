@@ -2795,7 +2795,7 @@
         "website": "https://www.nps.gov/jeff/index.htm",
         "description": "The Gateway Arch is the world's tallest arch at 630ft tall. The National Park Service says you are explicitly allowed to touch it.",
         "worth stopping": true,
-        "park": true
+        "architecture": true
       },
       "geometry": {
         "type": "Point",
@@ -5537,7 +5537,7 @@
         "street": "3650 E Ave G, Hutchinson, KS 67501",
         "country": "USA",
         "website": "http://www.underkansas.org/",
-        "description": "When you think \"Kansas\" do you think 150 miles of endless labyrinthian underground tunnels from which you may never escape? Travel in electric tram through 40ft tall salt mining tunnels 650ft below the surface to see the world's greatest salt mining museum. The massive salt mine also sees use as a 26 acre underground vault and storage area for valuable documents and film.",
+        "description": "When you think \"Kansas\" do you think 150 miles of endless labyrinthian underground tunnels from which you may never escape? Travel in electric trams through 40ft tall salt mining tunnels 650ft below the surface to see the world's greatest salt mining museum. The massive salt mine also sees use as a 26 acre underground vault and storage area for valuable documents and film.",
         "worth stopping": true,
         "museum": true
       },
@@ -27701,6 +27701,86 @@
         "coordinates": [
           -78.2922035,
           40.6306926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1383",
+        "name": "Rock City Park",
+        "street": "505 NY-16, Olean, NY 14760",
+        "country": "USA",
+        "website": "http://rockcitypark.com/",
+        "description": "Rock City is a privately owned rock formation where faults in the cliff have formed caves, small canyons, and passageways.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.477423,
+          42.0177754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1384",
+        "name": "Mt. Olympus Water & Theme Park",
+        "street": "1881 Wisconsin Dells Pkwy B, Wisconsin Dells, WI 53965",
+        "country": "USA",
+        "website": "https://www.mtolympuspark.com/parks/outdoor/theme-park/",
+        "description": "In the middle of Wisconsin there is an amusement park themed to the Greek Pantheon of Gods - featuring 5 rollercoasters (including one that dives underneath the parking lot), 5 go-kart tracks, and a massive waterpark. It's cheap - not great, and if you approach it that way you'll enjoy your time.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7896072,
+          43.6160153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1385",
+        "name": "Dells of the Wisconsin River",
+        "street": "",
+        "country": "USA",
+        "website": "",
+        "description": "The 100ft tall scenic rock formations lining the Wisconsin River would almost be worth stopping, if they hadn't been turned into a commercialized tourist trap where you are not given time to appreciate the beauty of what you see.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7976928,
+          43.6760789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1386",
+        "name": "Ausable Chasm",
+        "street": "2144 US-9, Ausable Chasm, NY 12911",
+        "country": "USA",
+        "website": "http://ausablechasm.com/",
+        "description": "Rainbow falls pours into rapids of the 150ft deep Ausable Chasm, a 2-mile long box canyon lined with hiking trails and crisscrossed by rope bridges. The chasm is owned by the local power company, and various tour packages allow rafting down the river, rappelling, and rock climbing.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4627259,
+          44.5249316
         ]
       }
     }
