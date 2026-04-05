@@ -27803,6 +27803,246 @@
           42.1932901
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1388",
+        "name": "Adventureland (Iowa)",
+        "street": "305 34th Ave NW, Altoona, IA 50009",
+        "country": "USA",
+        "website": "https://www.adventurelandpark.com/",
+        "description": "Adventureland is the largest amusement park in Iowa, with 7 rollercoasters - including the terrifyingly slow Tornado, the twisty Outlaw, the dark ride that technically counts as a rollercoaster - The Underground, and the scary looping monstrosity that is The Monster. Every other ride is a clone that can be found elsewhere,",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4997658,
+          41.6522917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1389",
+        "name": "Mall of America",
+        "street": "60 E Broadway, Bloomington, MN 55425",
+        "country": "USA",
+        "website": "https://mallofamerica.com/",
+        "description": "The Mall of America opened as the largest mall in the world, and remains the largest mall in the United States. Minnesota is really so cold that a massive indoor city to shop in makes sense. There's also an amusement park anchoring the center of the mall - with 5 rollercoasters and a log flume. The rides at the amusement park are geared towards children, so know that going in.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2422552,
+          44.854793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1390",
+        "name": "Valleyfair",
+        "street": "1 Valley Fair Dr, Shakopee, MN 55379",
+        "country": "USA",
+        "website": "http://www.valleyfair.com/",
+        "description": "Valleyfair is the largest amusement park in Minnesota, with 8 rollercoasters - including the 207ft tall Wild Thing. While most of the rollercoasters here are unique designs (Wild Thing, Renegade, Excalibur, High Roller, Corkscrew) , they are fairly average in their execution.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4557746,
+          44.7989668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1391",
+        "name": "Michigan's Adventure",
+        "street": "4750 Whitehall Rd, Muskegon, MI 49445",
+        "country": "USA",
+        "website": "http://www.miadventure.com/",
+        "description": "Michigan's Adventure is Michigan's largest amusement park - and it represents the spirit of mediocrity and lack of ambition that permeates my home state. Though Michigan's adventure boasts 7 rollercoasters, only 3 of them are unique, the towering Shivering Timbers, the recently refurbished airtime machine Wolverine Wildcat, and Zach's Zoomer children's coaster. There's also a log flume that is nice.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2787724,
+          43.3419202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1392",
+        "name": "Worlds of Fun",
+        "street": "4545 Worlds of Fun Ave, Kansas City, MO 64161",
+        "country": "USA",
+        "website": "https://www.worldsoffun.com/",
+        "description": "Worlds of Fun is the closest amusement park to most of Kansas, and features 7 fairly decent rollercoasters - including the 207ft tall Mamba hypercoaster. Most of the rides here are unique designs, such as Prowler, Patriot, Zambezi Zinger, and Timber Wolf - however none are so standout to merit this park as a worldwide destination.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4870939,
+          39.1754671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1393",
+        "name": "Kentucky Kingdom",
+        "street": "937 Phillips Ln, Louisville, KY 40209",
+        "country": "USA",
+        "website": "http://www.kentuckykingdom.com/",
+        "description": "Kentucky Kingdom is the largest amusement park in Kentucky, and boasts two world class rollercoasters: Lightning Run, and Windchaser. Kentucky Kingdom is a geographic oddity among amusement parks: a highway passes through the middle of the park, air traffic from the nearby Louisville International Airport has prevented anything tall from being built, and the parking lot is shared with the Kentucky State Fairgrounds and Kentucky Exposition Center.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7461624,
+          38.1974513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1394",
+        "name": "Quassy Amusement Park",
+        "street": "2132 Middlebury Rd, Middlebury, CT 06762",
+        "country": "USA",
+        "website": "http://www.quassy.com/",
+        "description": "Quassy is a tiny amusement park in every way: the area it occupies is small, and so are all of its rides. Yet despite its small stature, the park packs a punch - featuring: a waterpark (including watercoaster), and 3 rollercoasters - including the Wooden Warrior.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1510508,
+          41.5271886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1395",
+        "name": "Lake Compounce",
+        "street": "185 Enterprise Dr, Bristol, CT 06010",
+        "country": "USA",
+        "website": "https://www.lakecompounce.com/",
+        "description": "Lake Compounce is the oldest amusement park in the United States - operating continuously since 1846. Of the 5 rollercoasters at the park, the star attraction is Boulder Dash - a rollercoaster that climbs 115ft up a hillside then races along the terrain by the lake. There's also the 1927 Wildcat - one of the oldest rollercoasters in the world.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9234529,
+          41.6405152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1396",
+        "name": "Morey's Piers",
+        "street": "3501 Boardwalk, Wildwood, NJ 08260",
+        "country": "USA",
+        "website": "http://www.moreyspiers.com/",
+        "description": "Usually pier amusement parks operate only one pier - Morey's Piers operates 3. The piers feature 7 rollercoasters and a log flume - including a wooden rollercoaster built directly on the beach, and the only smooth Vekoma SLC ever built. This park would be worth stopping if the admission ticket wasn't over $100 USD - the same price as a season pass to most other amusement parks.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8104007,
+          38.9860767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1397",
+        "name": "Playland's Castaway Cove",
+        "street": "1020 Boardwalk, Ocean City, NJ 08226",
+        "country": "USA",
+        "website": "http://www.oceancityfun.com/",
+        "description": "This tiny boardwalk amusement park somehow managed to cram 4 rollercoasters and a log flume in a 500x500ft plot of land. 3 of the rollercoasters are entirely unique designs",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5748392,
+          39.2744425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1398",
+        "name": "Jolly Roger Amusement Park",
+        "street": "2901 Coastal Hwy, Ocean City, MD 21842",
+        "country": "USA",
+        "website": "https://jollyrogerpark.com/",
+        "description": "Jolly Roger Amusement park is an average amusement park, featuring 4 rollercoasters. The most notable thing about this park is the Splash Mountain Waterpark, which features a looping waterslide (it's an incline loop, but it doesn't feel that way when you're in it).",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0761408,
+          38.3592433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1399",
+        "name": "American Dream (shopping mall)",
+        "street": "1 American Dream Wy, East Rutherford, NJ 07073",
+        "country": "USA",
+        "website": "https://www.americandream.com/",
+        "description": "Someone decided that it was a good idea to built a massive indoor shopping mall in New York City - which itself it basically a massive outdoor shopping mall. Predictably, the American Dream mall is hauntingly empty liminal space - most of the storefronts are boarded up. Despite this, the mall features a skating rink, waterpark, amusement park, and indoor ski hill. The amusement park here features 5 of the most intense rollercoasters ever built - and due to no ventilation and no visible horizon they will leave you feeling sick to your stomach.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0693646,
+          40.8089785
+        ]
+      }
     }
   ]
 }

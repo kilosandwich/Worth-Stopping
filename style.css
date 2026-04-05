@@ -142,6 +142,7 @@ SEARCH BAR SECTION
 +S+S+S+S+S+S+S+S+S+S+S+S+S+*/
 
 .search-panel {
+  font-size: 1.5rem;
   display: none;
   position: relative;
   top: var(--navbar-height);
@@ -160,19 +161,28 @@ SEARCH BAR SECTION
 
 .search-section h4 {
   margin: 4px 0 6px 0;
-  font-size: 14px;
+  font-size: 1.25rem;
 }
 
 .search-section label {
-  margin-right: 12px;
+  margin-right: 1rem;
+  font-size: 1.25rem;
   display: inline-block;
+}
+
+.search-section input {
+  font-size: 1.25rem;
+}
+
+.tag-checkbox {
+  transform: scale(2);
 }
 
 #apply-filters {
   width: 100%;
   padding: 8px;
   margin-top: 8px;
-  font-size: 16px;
+  font-size: 1.25rem;
 }
 /*DVDVDVDVDVDVDVDVDVDVDVDVDVDVDVDV
 DROP DOWN MENU SECTION
@@ -414,9 +424,9 @@ Leaflet popup section
 .leaflet-popup-content {
   overflow-y: auto;       /* desktop default */
   max-width: 80vw;
-  width: clamp(16rem, 75vw, 20rem);
+  width: clamp(40rem, 75vw, 50rem);
   max-height: 40vh;     /* mobile-safe */
-  font-size: 0.8rem;     /* base text size */
+  font-size: 1rem;     /* base text size */
 }
 
 .leaflet-popup-close-button {

@@ -16,6 +16,8 @@ behind:
 
 
 async function getPictures(searchTerm, numImages,maxWidth = 600){
+  console.log("Attempting search for");
+  console.log(searchTerm);
     /*this function will scrape the internet (wikimedia) for pictures
     and return an array of urls for the images where the pictures can be found
     this array of URLs will later be passed into a function that converts
@@ -94,6 +96,8 @@ async function getPictures(searchTerm, numImages,maxWidth = 600){
 //elsehwere within the website
 //if you wish to adjust how the html is constructed for popup images, this is the place
 async function buildPopupImages(searchTerm, numImages) {
+  console.log("Build popupimages running for");
+  console.log(searchTerm);
     urls = [];
     urls = await getPictures(searchTerm, numImages, 600);
     //console.log("We ran getPictures using the search term "+ searchTerm+ " and the number of images " + numImages + " here is the url array returned:");
