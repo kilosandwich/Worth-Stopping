@@ -2054,7 +2054,7 @@
         "street": "452 E Christmas Blvd, Santa Claus, IN 47579",
         "country": "USA",
         "website": "https://holidayworld.com/",
-        "description": "Did you know Edgar Allen Poe's poem 'The Raven' has its own rollercoaster themed after it? Holiday World is an amusement park themed to American holidays, oddly enough featuring the best waterpark in the United States. The Thanksgiving rollercoaster named The Voyage is renowend as one of the best rollercoasters ever built.",
+        "description": "Did you know Edgar Allen Poe's poem 'The Raven' has its own rollercoaster themed after it? Holiday World is an amusement park themed to American holidays, oddly enough featuring the best waterpark in the United States. The Thanksgiving rollercoaster named The Voyage is renowned as one of the best rollercoasters ever built.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -2354,7 +2354,7 @@
         "street": "1313 Bay Beach Rd, Green Bay, WI 54302",
         "country": "USA",
         "website": "https://www.greenbaywi.gov/445/Bay-Beach-Amusement-Park",
-        "description": "The people of Green Bay love Green Bay so much that their municipal government built an affordable amusement park just for the people of Green Bay. To top is off, Bay Beach Park relocated Elvis's favorite rollercoaster - the Zippin Pippin from Memphis to Green Bay.",
+        "description": "The people of Green Bay love Green Bay so much that their municipal government built an affordable amusement park just for the people of Green Bay. To top it off, Bay Beach Park relocated Elvis's favorite rollercoaster - the Zippin Pippin from Memphis to Green Bay.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -2454,7 +2454,7 @@
         "street": "Gypsum Ave, Camp Douglas, WI 54618",
         "country": "USA",
         "website": "https://dnr.wisconsin.gov/topic/parks/millbluff",
-        "description": "Sea stacks from ancient glacial lakes are now extremely out of place, and make for good scenic hiking at Mill Bluff State Park.",
+        "description": "Sea stacks from ancient glacial lakes are now extremely out of place in the flat plains of Wisconsin, and make for good scenic hiking at Mill Bluff State Park.",
         "worth stopping": true,
         "park": true
       },
@@ -13133,7 +13133,7 @@
         "street": "34840 US-160, Mancos, CO 81328",
         "country": "USA",
         "website": "https://www.nps.gov/meve/index.htm",
-        "description": "Mesa Verde preserves 600 pre-coloumbian cliff dwellings and 5000 archaelogical sites. You can see dwelling after dwelling in stop after stop as you follow the roads atop the mesa. You can hike down into the canyons and up to some of the cliff housings when rangers are present.",
+        "description": "Mesa Verde preserves 600 pre-Columbian cliff dwellings and 5000 archaeological sites. You can see dwelling after dwelling in stop after stop as you follow the roads atop the mesa. You can hike down into the canyons and up to some of the cliff housings when rangers are present.",
         "worth stopping": true,
         "park": true,
         "museum": true
@@ -26510,7 +26510,7 @@
         "street": "199 Everland-ro, Pogok-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, South Korea",
         "country": "KOR",
         "website": "https://www.everland.com/everland/home/main",
-        "description": "Everland is the largest amusement park in South Korea - and yes it's operated by the Chaebol Samsung. Notably, this amusement park is themed after what Koreans think America, Europe, and the Middle East look like - which is charmingly stereotypical. Most the rides are unremarkable, but T Express is regarded as one of the best wooden rollercoasters ever built.",
+        "description": "Everland is the largest amusement park in South Korea - and yes it's operated by the Chaebol Samsung. Notably, this amusement park is themed after what Koreans think America, Europe, and the Middle East look like - which is charmingly stereotypical. Most of the rides are unremarkable, but T Express is regarded as one of the best wooden rollercoasters ever built.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -28466,7 +28466,7 @@
       "type": "Feature",
       "properties": {
         "uid": "1421",
-        "name": "29.4550541,-98.7004722",
+        "name": "SeaWorld San Antonio",
         "street": "10500 SeaWorld Dr, San Antonio, TX 78251",
         "country": "USA",
         "website": "https://seaworld.com/san-antonio",
@@ -28619,6 +28619,307 @@
         "coordinates": [
           -82.4232231,
           28.0363405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1429",
+        "name": "La Ronde (amusement park)",
+        "street": "Ile St-helene, 22 Chem. Macdonald, Montreal, Quebec H3C 6A3, Canada",
+        "country": "CAN",
+        "website": "https://www.laronde.com/larondefr",
+        "description": "La Ronde is built on the remnants of the Expo 67 World's Fair - and maintenance hasn't been done since then. There's 9 rollercoasters here, but only Goliath and Vampire are any good. Traffic bottlenecks make entering and exiting La Ronde a nightmare - so plan ahead to have stuff to do while you either wait in your car, or for the subway.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5365491,
+          45.5230168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1430",
+        "name": "Lakeside Amusement Park",
+        "street": "4601 Sheridan Blvd, Denver, CO 80212",
+        "country": "USA",
+        "website": "http://www.lakesideamusementpark.com/",
+        "description": "Lakeside Amusement Park has been operating since 1908, and is the only park in the world that still maintains its theming reminiscent of the 1893 Chicago World's Fair. The park features 5 rollercoasters, including the 1940 Cyclone, and the 1955 Wild Chipmunk (which has no seatbelts).",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0546569,
+          39.7796848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1431",
+        "name": "Six Flags Magic Mountain",
+        "street": "26101 Magic Mountain Pkwy, Valencia, CA 91355",
+        "country": "USA",
+        "website": "https://www.sixflags.com/magicmountain",
+        "description": "Six Flags Magic Mountain houses 18 rollercoasters - making it one of the largest amusement parks in the world. Don't be fooled by the number of rollercoasters - most are low capacity meaning there are long lines. Featuring the dueling hybrid coaster Twisted Colossus, the world's first multidimensional rollercoaster X2, the best flying coaster Tatsu, the first modern looping coaster New Revolution, and the suspended swinging coaster Ninja",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5980258,
+          34.4245029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1432",
+        "name": "Disneyland",
+        "street": "Disneyland, Anaheim, CA 92802",
+        "country": "USA",
+        "website": "",
+        "description": "Before Disneyland opened in 1953, amusement parks were considered trashy permanent carnivals instead of desirable destinations. Disneyland paid for the research and development of most modern ride designs through partial ownership of ride manufacturer Arrow Dynamics. Featuring 8 rollercoasters across 2 parks, including the world's first steel rollercoaster Matterhorn Bobsleds, and the first modern indoor rollercoaster - Space Mountain. Tickets are outrageously expensive - nearing $200 a day, the lines are long, and the park is crowded. Go to Knott's Berry Farm instead.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9213511,
+          33.8113458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1433",
+        "name": "Adventure City",
+        "street": "1238 S Beach Blvd, Anaheim, CA 92804",
+        "country": "USA",
+        "website": "http://www.adventurecity.com/",
+        "description": "Adventure City was created as an extension of Hobby City, and is the cheapest children's park option in Southern California. There's also a replica of the White House here for some reason.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.992641,
+          33.8152295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1434",
+        "name": "Pacific Park",
+        "street": "380 Santa Monica Pier, Santa Monica, CA 90401",
+        "country": "USA",
+        "website": "https://pacpark.com/",
+        "description": "Pacific Park operates on a small section of Santa Monica pier on the glimmering beaches of the Los Angeles Metro Area. It is a full sized family amusement park, with a family rollercoaster, drop tower, and Ferris wheel.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4983189,
+          34.008644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1435",
+        "name": "Universal Studios Hollywood",
+        "street": "100 Universal City Plaza, Universal City, CA 91608",
+        "country": "USA",
+        "website": "https://www.universalstudioshollywood.com",
+        "description": "Universal Studios Hollywood is actually located at the Universal Studios movie lot, costs a fortune to go to, and the lines are long. There's only 3 rollercoasters here, and the ride lineup is lacking. However, it's home to the first drifting rollercoaster - Fast & Furious - Hollywood Drift.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3550646,
+          34.1373062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1436",
+        "name": "SeaWorld San Diego",
+        "street": "500 Sea World Dr., San Diego, CA 92109",
+        "country": "USA",
+        "website": "",
+        "description": "SeaWorld San Diego is the first SeaWorld amusement park, and features 5 rollercoasters. The SeaWorld chain is still suffering from the reputational damage from the animal abuse documentary Black Fish, so the prices are relatively affordable.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2260729,
+          32.7656787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1437",
+        "name": "Lagoon (amusement park)",
+        "street": "375 Lagoon Dr, Farmington, UT 84025",
+        "country": "USA",
+        "website": "http://www.lagoonpark.com/",
+        "description": "Lagoon has been operating since 1886 and is the only amusement park within a 5 hour drive - and is priced accordingly. The park features 10 rollercoasters, including the 1921 Roller Coaster, and the 210ft tall Cannibal. There's also an historical old-west Mormon town in here.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.893865,
+          40.9856532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1438",
+        "name": "California's Great America",
+        "street": "4701 Great America Pkwy, Santa Clara, CA 95054",
+        "country": "USA",
+        "website": "https://www.sixflags.com/cagreatamerica/",
+        "description": "California's Great America is located in the heart of the expensive real estate of Silicon Valley, which is why Six Flags sold the land underneath the park. The park and its 9 rollercoasters is slated for closure sometime after 2033 - though the Santa Clara city council has vowed not to rezone the land as to render closure useless.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9728771,
+          37.3957203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1439",
+        "name": "Six Flags Discovery Kingdom",
+        "street": "1001 Fairgrounds Dr, Vallejo, CA 94589",
+        "country": "USA",
+        "website": "https://www.sixflags.com/discoverykingdom",
+        "description": "Six Flags Discovery kingdom has had a rocky history. Notably, the park deliberately lied about the height of The Flash: Vertical Velocity rollercoaster in flagrant violation of local ordinances, leading to it being condemned until it was shortened. This park features the worst rollercoaster in the United States - Kong, with the only notably good ride here being the Rocky Mountain Construction hybrid rollercoaster Joker.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2351192,
+          38.138409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1440",
+        "name": "Gilroy Gardens",
+        "street": "3050 Hecker Pass Hwy, Gilroy, CA 95020",
+        "country": "USA",
+        "website": "https://www.gilroygardens.org/",
+        "description": "Gilroy Gardens is a municipally owned amusement park run by the city of Gilroy, California. The park is mostly just a garden complex, but does feature 2 rollercoasters - including the Quicksilver Express mine train rollercoaster.",
+        "local attractions": true,
+        "park": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6297664,
+          37.0050421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1441",
+        "name": "Scandia Fun Center",
+        "street": "5070 Hillsdale Blvd, Sacramento, CA 95842",
+        "country": "USA",
+        "website": "http://www.scandiafun.com/sacramento/",
+        "description": "Don't confuse Scandia Fun Center is a minigolf course that expanded to include amusement rides. Notably, they have a one-of-a-kind wild mouse rollercoaster called Crazy Dane Coaster.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3639247,
+          38.6597431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1442",
+        "name": "Oaks Amusement Park",
+        "street": "7805 SE Oaks Park Way, Portland, OR 97202",
+        "country": "USA",
+        "website": "http://oakspark.com/",
+        "description": "Somehow Oaks Amusement Park can afford to operate on waterfront property in the middle of Portland. The park is closer to a permanent fair than a dedicated amusement park, but it does feature a looping rollercoaster.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6623699,
+          45.4724199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1443",
+        "name": "Elitch Gardens Theme Park",
+        "street": "2000 Elitch Cir, Denver, CO 80204",
+        "country": "USA",
+        "website": "https://elitchgardens.com/",
+        "description": "Elitch Gardens is uniquely located in the downtown of Colorado - the only amusement park in the downtown of any American city. There's 5 rollercoasters here, and they're all mediocre or bad.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0128296,
+          39.7503243
         ]
       }
     }
