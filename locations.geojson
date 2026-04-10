@@ -28043,6 +28043,306 @@
           40.8089785
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1400",
+        "name": "Carowinds",
+        "street": "",
+        "country": "USA",
+        "website": "https://www.carowinds.com/",
+        "description": "Carowinds is built across the state borders of North Carolina and South Carolina, and boasts 14 rollercoasters - making it the largest amusement park in the region. However, only 4 of the rollercoasters are good (Fury 325, Copperhead Strike, Afterburn, Thunderstriker), and the rest are actively terrible. The weather is hot, the lines are bad, and the operations are pitifully slow.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9430393,
+          35.102676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1401",
+        "name": "Kings Dominion",
+        "street": "16000 Theme Park Way, Doswell, VA 23047",
+        "country": "USA",
+        "website": "https://www.kingsdominion.com/",
+        "description": "Kings Dominion is a clone of Kings Island with an inferiority complex. While King's Dominion lineup boasts 14 rollercoasters, only five of them are unique: including the gigacoaster Pantherian, the acclaimed Twisted Timbers, the recently refurbished Grizzly, the relocated Dominator, and the wing coaster Rapterra.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.445834,
+          37.8391386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1402",
+        "name": "John Boyd Thacher State Park",
+        "street": "830 Thacher Pk Rd, Voorheesville, NY 12186",
+        "country": "USA",
+        "website": "https://parks.ny.gov/parks/128/",
+        "description": "Thacher state park is located on top of the 1300ft Helderberg Escarpment, with views of the Hudson and Mohawk Valleys. Indian Ladder Trail follows the escarpment, and lets you walk the edge of the cliff while streams of water flow down above you.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0077093,
+          42.6506172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1403",
+        "name": "Family Kingdom Amusement Park",
+        "street": "300 4th Ave S, Myrtle Beach, SC 29577",
+        "country": "USA",
+        "website": "http://www.familykingdomfun.com/",
+        "description": "Family Kingdom is a beachside amusement park in the tourist trap town of Myrtle Beach, South Carolina. The park features 4 rollercoasters and a log flume, as well as a strong collection of thrill rides.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8925572,
+          33.6822205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1404",
+        "name": "Alabama Adventure & Splash Adventure",
+        "street": "4599 Splash Adventure Pkwy, Bessemer, AL 35022",
+        "country": "USA",
+        "website": "http://www.alabamaadventure.com/",
+        "description": "Alabama Adventure is a small family theme park, and is dwarfed by the massive 121ft Rampage wooden rollercoaster. The rollercoaster's size has proven a financial liability for the park - which is mostly kept fiscally afloat by the sizeable waterpark.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9994707,
+          33.3799892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1405",
+        "name": "Penn's Cave",
+        "street": "222 Penns Cave Rd, Centre Hall, PA 16828",
+        "country": "USA",
+        "website": "https://www.pennscave.com/",
+        "description": "Penn's Cave is nestled in the rural valleys of Pennsylvania, and features a 55ft high 1300ft long cave that you tour by boat. This cave stands out in that the tour boat passes from the cave entrance all the way through to a lake.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6124355,
+          40.8827408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1406",
+        "name": "Bushkill Falls",
+        "street": "138 Bushkill Falls Trail, Bushkill, PA 18324",
+        "country": "USA",
+        "website": "https://www.visitbushkillfalls.com/",
+        "description": "Bushkill Falls is a 100ft tall waterfall located in a narrow gorge in Pennsylvania. Despite being next to the Delaware Water Gap National Recreation Area, Bushkill Falls is privately owned. The trails here are wooden boardwalks that crisscross the gorge, putting you right next to the rapids in the river.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0121807,
+          41.1165493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1407",
+        "name": "Canobie Lake Park",
+        "street": "85 N Policy St, Salem, NH 03079",
+        "country": "USA",
+        "website": "http://www.canobie.com/",
+        "description": "Canobie Lake Park has been operating since 1902, which means the rides here are a historical collection - including the 1936 Yankee Cannonball Rollercoaster, 1930s bumper cars, and 1978 rotor. There's 4 rollercoasters here in total, along with a log flume, and water park.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2497324,
+          42.7941391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1408",
+        "name": "Six Flags New England",
+        "street": "1623 Main St, Agawam, MA 01001",
+        "country": "USA",
+        "website": "https://www.sixflags.com/newengland",
+        "description": "Six Flags bought Riverside Park in 1999, and promptly turned it into a poorly run and overcrowded park. There's 12 rollercoasters here, including the historical 1941 Thunderbolt, the Wicked Cyclone, and Superman The Ride hypercoaster.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6144005,
+          42.0380277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1409",
+        "name": "Six Flags Great Adventure",
+        "street": "1 Six Flags Blvd, Jackson Township, NJ 08527",
+        "country": "USA",
+        "website": "https://www.sixflags.com/greatadventure",
+        "description": "Six Flags Great Adventure used to be Six Flags flagship park on the East Coast, and in classic Six Flags fashion they cut maintenance on their memorable rides until they had to be scrapped. 13 rollercoasters are located here, including the renowned wooden rollercoaster El Toro, and the hypercoaster Nitro.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4415534,
+          40.1380111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1410",
+        "name": "Clementon Park",
+        "street": "144 Berlin Rd #4504, Clementon, NJ 08021",
+        "country": "USA",
+        "website": "http://www.clementonpark.com/",
+        "description": "Clementon Park has been operated since 1907, and though the classic rides were demolished under Premier Parks mismanagement, the park has seen a recent resurgence spearheaded by the success of its waterpark.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9851176,
+          39.8037106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1411",
+        "name": "Sesame Place Philadelphia",
+        "street": "100 Sesame Rd, Langhorne, PA 19047",
+        "country": "USA",
+        "website": "https://sesameplace.com/philadelphia",
+        "description": "Surely a Sesame Street themed amusement park would be located near a city known for its safety and friendliness - and what friendlier place is there than Philadelphia? The city of brotherly love. It's a kid's theme park and waterpark with rides to match, but Oscar's Wacky Taxi Rollercoaster is well regarded for its compact thrills.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8722,
+          40.1852142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1412",
+        "name": "Dutch Wonderland",
+        "street": "2249 Lincoln Hwy E, Lancaster, PA 17602",
+        "country": "USA",
+        "website": "https://www.dutchwonderland.com",
+        "description": "Dutch Wonderland is a kid's theme park featuring 3 rollercoasters and a log flume. The selling point is It's less crowded and with high customer service.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2189134,
+          40.0281873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1413",
+        "name": "Adventure Park USA",
+        "street": "11113 W Baldwin, Monrovia, MD 21770",
+        "country": "USA",
+        "website": "https://adventureparkusa.com/",
+        "description": "The owner of this mini golf and go karting location REALLY wanted a rollercoaster - now he has 2.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2789212,
+          39.379785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1414",
+        "name": "C.J. Barrymore's",
+        "street": "21750 Hall Rd, Clinton Township, MI 48038",
+        "country": "USA",
+        "website": "https://cjbarrymores.com/",
+        "description": "The entrance to this local amusement park is through a bar, the landscaping is from Home Depot, and extremely heavily armed security guards patrol the grounds. The 2 rollercoasters, drop tower, and 3 go-kart tracks are the main attractions here.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8962453,
+          42.6274815
+        ]
+      }
     }
   ]
 }

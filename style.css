@@ -424,7 +424,7 @@ Leaflet popup section
 .leaflet-popup-content {
   overflow-y: auto;       /* desktop default */
   max-width: 80vw;
-  width: clamp(40rem, 75vw, 50rem);
+  width: clamp(60rem, 75vw, 80rem);
   max-height: 40vh;     /* mobile-safe */
   font-size: 1rem;     /* base text size */
 }
