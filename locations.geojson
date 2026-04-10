@@ -28343,6 +28343,284 @@
           42.6274815
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1415",
+        "name": "Six Flags Over Georgia",
+        "street": "275 Riverside Pkwy, Austell, GA 30168",
+        "country": "USA",
+        "website": "https://www.sixflags.com/overgeorgia",
+        "description": "Six Flags Over Georgia was the third Six Flags park, and it lives up to the Six Flags reputation of poor maintenance and poor ride capacity. There are 12 rollercoasters here, including Twisted Cyclone, the hypercoaster Goliath, and the historical looping coaster Mindbender.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5525816,
+          33.7685674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1416",
+        "name": "Mid-America by Enchanted Parks",
+        "street": "4900 Six Flags Rd, Eureka, MO 63025",
+        "country": "USA",
+        "website": "",
+        "description": "Six Flags built this amusement park, neglected it, and sold it to Enchanted Parks. The park boasts 10 rollercoasters - including 3 original wooden rollercoasters.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6763323,
+          38.514293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1417",
+        "name": "Six Flags Great America",
+        "street": "1 Great America Parkway, Gurnee, IL 60031",
+        "country": "USA",
+        "website": "https://www.sixflags.com/greatamerica",
+        "description": "Marriot built Great America as an all americana themed amusement park - Six Flags turned it into a strip mall for low-capacity rollercoasters. There are 17 rollercoasters here, but only the hypercoaster Raging Bull and the Whizzer felt like they had any soul left in them."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9346911,
+          42.3675694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1418",
+        "name": "Lost Island Theme Park",
+        "street": "2600 E Shaulis Rd, Waterloo, IA 50701",
+        "country": "USA",
+        "website": "http://www.thelostisland.com/",
+        "description": "Lost Island operates the greatest waterpark in Iowa, and decided to expand into a theme park with 4 rollercoasters and a log flume.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3072097,
+          42.4390737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1419",
+        "name": "Frontier City",
+        "street": "11501 N I- 35 Service Rd, Oklahoma City, OK 73131",
+        "country": "USA",
+        "website": "https://www.sixflags.com/frontiercity",
+        "description": "Frontier City is a small family amusement park with 5 rollercoasters and a log flume - including one of the last remaining Arrow Dynamics launched shuttle loops.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4407954,
+          35.5853287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1420",
+        "name": "Six Flags Over Texas",
+        "street": "Six Flags Over Texas, Arlington, TX 76011",
+        "country": "USA",
+        "website": "https://www.sixflags.com/overtexas",
+        "description": "Six Flags Over Texas was the first Six Flags Park, and leads the nation in poor maintenance, overcrowding, and low capacity rides. The park features 13 rollercoasters, including the first Rocky Mountain Construction hybrid - the New Texas Giant, the classic looping coaster Shock Wave, and the first mine train rollercoaster ever - Runaway Mine Train. The first log flume is also located here.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0710516,
+          32.7568686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1421",
+        "name": "29.4550541,-98.7004722",
+        "street": "10500 SeaWorld Dr, San Antonio, TX 78251",
+        "country": "USA",
+        "website": "https://seaworld.com/san-antonio",
+        "description": "SeaWorld San Antonio is a combined aquarium-amusement park and features 7 rollercoasters, including Steel Eel. There's also a launched log flume.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.700933,
+          29.4552919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1422",
+        "name": "Circuit of the Americas",
+        "street": "9201 Circuit of the Americas Blvd, Del Valle, TX 78617",
+        "country": "USA",
+        "website": "http://circuitoftheamericas.com/",
+        "description": "Circuit of the Americas is one of the largest race tracks in the United States - and they expanded into developing a racetrack themed amusement park with 6 rollercoasters and a log flume.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6403387,
+          30.1335741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1423",
+        "name": "Galveston Island Historic Pleasure Pier",
+        "street": "2501 Seawall Blvd, Galveston, TX 77550",
+        "country": "USA",
+        "website": "https://www.pleasurepier.com/",
+        "description": "The rollercoasters and rides at Galveston Island Historic Pleasure Pier dangle you over the ocean - so make sure your shoes and pockets are secure.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.789717,
+          29.2861509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1424",
+        "name": "Walt Disney World",
+        "street": "",
+        "country": "USA",
+        "website": "",
+        "description": "If you love spending $300 to get into an amusement park, waiting in line for an hour or more for every ride, and massive crowds - then Disney World is the place for you. The impeccably themed 4 amusement parks of Walt Disney World boast some of the most sophisticated amusement rides ever built - and they have been often copied. The artificial mountain built for Expedition Everest is the tallest mountain in the state of Florida. There's only 10 rollercoasters here - go to your local amusement park instead of wasting thousands at Disney.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5864696,
+          28.3865341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1425",
+        "name": "Universal Orlando",
+        "street": "",
+        "country": "USA",
+        "website": "",
+        "description": "Universal Orlando is the second most expensive amusement park in Orlando - you can pay $200 a day to experience long lines at the 3 well-themed amusement parks here. The 13 rollercoasters at Universal contain some of the best ever built - including the VelociCoaster, Hagrid's Magical Creatures Motorbike Adventure, Guardians of the Galaxy Cosmic Rewind, and Stardust Racers. However, the amount it costs to go here could pay for multiple vacations elsewhere.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4690771,
+          28.4728131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1426",
+        "name": "SeaWorld Orlando",
+        "street": "",
+        "country": "USA",
+        "website": "",
+        "description": "SeaWorld Orlando never really recovered from the reputational damage done by the animal-abuse documentary Black Fish, and as a result it is the cheapest major amusement park in Orlando. The aquarium life and 8 rollercoasters here are well regarded, especially the hypercoaster Mako, and the flying coaster Manta.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4619284,
+          28.411293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1427",
+        "name": "Fun Spot America Orlando",
+        "street": "",
+        "country": "USA",
+        "website": "",
+        "description": "Fun Spot America is the bargain bin amusement parks in Orlando, it's pay per ride - and they are open until midnight. The 2 parks are located right next to Walt Disney World and Universal Studios Orlando, and feature 7 competently executed family rollercoasters.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4557515,
+          28.465497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1428",
+        "name": "Busch Gardens Tampa Bay",
+        "street": "10165 McKinley Dr, Tampa, FL 33612",
+        "country": "USA",
+        "website": "https://buschgardens.com/tampa",
+        "description": "Busch Gardens Tampa charges prices as if they were still one of the best amusements parks in the United States, and not as if they have tried to cut guest experience to the bare minimum. The park is themed to Africa, and features various zoo exhibits of African animals. The rollercoasters here are all good, including Iron Gwazi - regarded as one of the best rollercoasters ever built.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4232231,
+          28.0363405
+        ]
+      }
     }
   ]
 }
