@@ -175,6 +175,9 @@ file.-->
           id="nav-menu" 
           class="nav-btn"
           title="Menu"
+          onclick="
+          this.classList.toggle('active');
+          "
           >
           &#9776;
         </button>
@@ -197,11 +200,13 @@ file.-->
 
 <div id="search-dropdown" class="search-panel">
   <div class="search-section">
-    <h4>Categories</h4>
+    
+    <h4>Search by Category:</h4>
     <div id="categories-container"></div> <!-- JS will fill this -->
   </div>
 <div class="search-section">
-  <h4>Search by Name</h4>
+  <hr>
+  <h4>Search by Name:</h4>
 
   <!-- The input is wired to the datalist via the `list` attribute -->
   <input
@@ -212,7 +217,7 @@ file.-->
   >
   <!-- This is where JS will inject <option> elements -->
   <datalist id="name-suggestions"></datalist>
-  <h4>Search by Country</h4>
+  <h4>Search by Country:</h4>
   <input
     type="text"
     id="search-country"
