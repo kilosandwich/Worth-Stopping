@@ -95,58 +95,66 @@ file.-->
 
     <div id="nav-left">
       <button id="nav-search" class="nav-btn"
-      title ="Search">
+      title ="Search"
+      onclick=
+        "this.classList.toggle('active')"
+      >
         &#128270;
       </button>
+
       <button id="locate-me-btn" 
       class = "nav-btn";
       title= "Center the map on your current location"
       onclick="locateUser({ zoomLevel: 15 })"
       >
       📍
-    </button>
+      </button>
 
-    <button id="hide-markers-btn" 
-      class = "nav-btn";
-      title= "Toggle map marker visibility"
-      onclick="toggleAllOverlays(map)"
-      >
-      👁️
-    </button>
+      <button id="hide-markers-btn" 
+        class = "nav-btn";
+        title= "Toggle map marker visibility"
+        onclick="
+          toggleAllOverlays(map)
+          this.classList.toggle('active')
+          this.textContent = this.classList.contains('active') ? '🙈' : '👁️'
+        "
+        >
+        👁️
+      </button>
     
-    <button id="random-location-btn" 
-      class = "nav-btn";
-      title= "Go to a random location - including the bad ones"
-      onclick="randomLocation(geojsonFilePath,map)"
-      >
-      🎲
-    </button>
+      <button id="random-location-btn" 
+        class = "nav-btn";
+        title= "Go to a random location - including the bad ones"
+        onclick="randomLocation(geojsonFilePath,map)"
+        >
+        🎲
+      </button>
 
-    <button id="shuffle-btn" 
-      class = "nav-btn";
-      title= "List View Locations in Shuffled Order"
-      onclick="
-        //toggle the button from being active or not, and toggle shuffle mode accordingly
-        shuffleBtn = document.getElementById('shuffle-btn');
-        shuffleMode = shuffleMode === 0 ? 1 : 0; // toggle 0 <-> 1
-        shuffleBtn.classList.toggle('active', shuffleMode === 1)
-        console.log('Shuffle Mode is:');
-        console.log(shuffleMode);
+      <button id="shuffle-btn" 
+        class = "nav-btn";
+        title= "List View Locations in Shuffled Order"
+        onclick="
+          //toggle the button from being active or not, and toggle shuffle mode accordingly
+          shuffleBtn = document.getElementById('shuffle-btn');
+          shuffleMode = shuffleMode === 0 ? 1 : 0; // toggle 0 <-> 1
+          shuffleBtn.classList.toggle('active', shuffleMode === 1)
+          console.log('Shuffle Mode is:');
+          console.log(shuffleMode);
 
-        document.getElementById('list-view-content').innerHTML = '';
-        listViewIterator = 0;
-        listViewIteratorRnd = 0;
+          document.getElementById('list-view-content').innerHTML = '';
+          listViewIterator = 0;
+          listViewIteratorRnd = 0;
 
-        //At this point, you should copy the uidList and use it to make a new 'shuffled' version
-        //this shuffled version will then be used to load locations depending if shuffle mode is on or not
-        //it should only require a simple change of where the UID is loaded from and which iterator is advanced
+          //At this point, you should copy the uidList and use it to make a new 'shuffled' version
+          //this shuffled version will then be used to load locations depending if shuffle mode is on or not
+          //it should only require a simple change of where the UID is loaded from and which iterator is advanced
 
-        uidArrRnd = randomizeArrayReturnCopy(uidArr);
+          uidArrRnd = randomizeArrayReturnCopy(uidArr);
 
-      "
-      >
-      🔀
-    </button>
+        "
+        >
+        🔀
+      </button>
 
 
 

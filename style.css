@@ -131,6 +131,13 @@ NAVIGATION BAR SECTION
   background-color: #d3d3d3;  /* grey background when active */
 }
 
+/* While clicking */
+.nav-btn:active {
+  background-color: #ddd;
+  box-shadow: inset 2px 2px 5px rgba(0,0,0,0.3);
+  transform: scale(0.95);
+}
+
 
 /*N^N^N^N^N^N^N^N^N^N^N^N^N^N^N^N^N
 ===================================
