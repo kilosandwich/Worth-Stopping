@@ -28922,6 +28922,86 @@
           39.7503243
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1444",
+        "name": "Trimper's Rides",
+        "street": "700 S Atlantic Ave, Ocean City, MD 21842",
+        "country": "USA",
+        "website": "https://www.trimperrides.com/",
+        "description": "Trimper's rides looks like a fairground, but it actually has been operating since 1893. Featuring a Bill Tracey haunted house and 2 rollercoasters.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0884487,
+          38.3266687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1445",
+        "name": "Havana Glen Park",
+        "street": "135 Havana Glen Rd, Montour Falls, NY 14865",
+        "country": "USA",
+        "website": "https://www.townofmontour.gov/havanaglen",
+        "description": "While Watkins Glen State Park is the star of the waterfalls near Seneca Lake, Havana Glen Park offers a less crowded gorge and waterfall trail only 4 miles down the road.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8289944,
+          42.3355727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1446",
+        "name": "Fillmore Glen State Park",
+        "street": "1686 NY-38, Moravia, NY 13118",
+        "country": "USA",
+        "website": "https://parks.ny.gov/parks/fillmoreglen/details.aspx",
+        "description": "Fillmore Glen State Park offers a short waterfall-filled gorge hike. It's not as good as nearby Buttermilk Falls State Park, Robert H. Trehman State Park, or Taughannock Falls State Park which are only 20 miles away - which is why it is significantly less crowded.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4165435,
+          42.6990643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1447",
+        "name": "High Falls Gorge",
+        "street": "4761 NY-86, Wilmington, NY 12997",
+        "country": "USA",
+        "website": "http://highfallsgorge.com/",
+        "description": "High Falls Gorge is an 80ft deep chasm, with multiple ribbon falls cascading through it. The gorge has been lined with precariously balanced walkways that take you right through the heart of the gorge. The gorge is privately owned.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8770243,
+          44.3476774
+        ]
+      }
     }
   ]
 }
