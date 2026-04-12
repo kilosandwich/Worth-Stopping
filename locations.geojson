@@ -29002,6 +29002,26 @@
           44.3476774
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1448",
+        "name": "National Museum of Transportation",
+        "street": "2933 Barrett Station Rd, St. Louis, MO 63122",
+        "country": "USA",
+        "website": "https://tnmot.org/",
+        "description": "By transportation, the National Museum of Transportation means 'trains', featuring 162 pieces of rolling stock, including: an Aerotrain, the EP-2 Bi-Polar, Union Pacific Big Boy, and a Zephyr streamliner. There's also 57 cars, and some buses, trolleys, subway cars, planes, etc.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4637802,
+          38.5726196
+        ]
+      }
     }
   ]
 }
