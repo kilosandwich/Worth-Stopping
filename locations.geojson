@@ -29182,6 +29182,86 @@
           48.3379866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1457",
+        "name": "Thorpe Park",
+        "street": "Staines Rd, Chertsey KT16 8PN, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.thorpepark.com/",
+        "description": "Thorpe Park is built on and island in the middle of a flooded gravel pit, and sports 8 rollercoasters - including the tallest and fastest rollercoaster in the UK- Hyperia, and Colossus - a rollercoaster with 10 inversions. Most of the rides here are fairly intense, and not aimed at a general audience.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5143,
+          51.4044605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1458",
+        "name": "Chessington World of Adventures",
+        "street": "Chessington KT9 2NE, United Kingdom",
+        "country": "GBR",
+        "website": "Chessington KT9 2NE, United Kingdom",
+        "description": "Chessington World of Adventures is a combine zoo-amusement park - featuring 4 rollercoasters including Vampire - one of the first suspended swinging coasters.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3199692,
+          51.3484763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1459",
+        "name": "Drayton Manor Resort",
+        "street": "Drayton Manor Dr, Fazeley, Drayton Bassett, Tamworth B78 3TW, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.draytonmanor.co.uk/",
+        "description": "Drayton Manor is a family amusement park with 5 rollercoasters, including Gold Rush - a rollercoaster that changes track configurations between ride cycles.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7162324,
+          52.6118685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1460",
+        "name": "Flamingo Land Resort",
+        "street": "",
+        "country": "GBR",
+        "website": "https://www.flamingoland.co.uk/",
+        "description": "Flamingo Land is a combined amusement park and zoo, featuring 10 rollercoasters - and some of them are even good.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8085707,
+          54.2095211
+        ]
+      }
     }
   ]
 }
