@@ -29022,6 +29022,126 @@
           38.5726196
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1449",
+        "name": "Méga Parc",
+        "street": "5401 Bd des Galeries, Québec, QC G2K 1N4, Canada",
+        "country": "CAN",
+        "website": "http://www.mega-parc.com/",
+        "description": "The Capital Galleries is home to Quebec's only indoor amusement park - Méga Parc. Featuring 2 indoor rollercoasters surrounded by an indoor ice skating rink.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3005329,
+          46.8301265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1450",
+        "name": "Meramec Caverns",
+        "street": "1135 Hwy W, Sullivan, MO 63080",
+        "country": "USA",
+        "website": "http://www.americascave.com/",
+        "description": "Meramec Caverns have been explored by humans since Pre-Columbian times - and is fabled to have been a hideout for Wild West outlaw Jesse James. The cave walls are covered in popcorn like formations, and long stalactites reach down from the seven story high ceiling. Tours take over an hour, it's a big and well lit cave - unlike the caves nearby at Meramec State Park.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0913338,
+          38.2423242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1451",
+        "name": "Calaway Park",
+        "street": "245033 Range Rd 33, Calgary, AB T3Z 2E9, Canada",
+        "country": "CAN",
+        "website": "http://www.calawaypark.com/",
+        "description": "Calaway Park is the amusement park Calgary has. The park is partially Flintstones styled, and has 3 unoriginal rollercoasters and an original log flume",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3574101,
+          51.0859899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1452",
+        "name": "West Edmonton Mall",
+        "street": "8882 170 St NW, Edmonton, AB T5T 4J2, Canada",
+        "country": "CAN",
+        "website": "http://www.wem.ca/",
+        "description": "Edmonton is really really cold, which is why they have a massive mall here with a waterpark, ice skating rink, and 4 rollercoasters at the Hasbro themed Galaxyland Amusement park",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6239994,
+          53.5222887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1453",
+        "name": "Santa's Village (Bracebridge)",
+        "street": "8882 170 St NW, Edmonton, AB T5T 4J2, Canada",
+        "country": "CAN",
+        "website": "https://www.santasvillage.ca/",
+        "description": "Long ago in the past, there were many Santa Claus themed children's amusement parks. Santa's Village in Bracebridge has stood the test of time since 1961, and even expanded with a brand new 66ft tall rollercoaster.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3653487,
+          45.0244538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1454",
+        "name": "Oil Museum of Canada",
+        "street": "2423 Kelly Rd, Oil Springs, ON N0N 1P0, Canada",
+        "country": "CAN",
+        "website": "https://www.lambtonmuseums.ca/en/oil-museum-of-canada/oil-museum-of-canada.aspx",
+        "description": "In 1858 James Miler William's water well filled with oil, which he developed into the first commercial oil well in North America. The town is called Oil Springs because oil literally springs out of the ground when you walk on it. Come learn about the early oil industry - which was later got its modern start at Drake Well in Pennsylvania in 1859.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1212357,
+          42.7729765
+        ]
+      }
     }
   ]
 }
