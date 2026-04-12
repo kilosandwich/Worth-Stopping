@@ -131,7 +131,8 @@ async function buildCheckboxes(jsonTagsFilePath, selectedTags) {
         //This is the bit where you can edit the css
         const label = document.createElement('label');
         label.style.marginRight = '12px';
-        label.style.display = 'inline-block';
+        label.style.display = 'block';
+        label.style.marginBottom = '6px';
 
         const checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
@@ -151,7 +152,7 @@ async function buildCheckboxes(jsonTagsFilePath, selectedTags) {
 
         label.appendChild(checkbox);
         label.appendChild(document.createTextNode(' ' + normalizedTag));
-
+        label.appendChild(document.createElement('br'))
         categorySection.appendChild(label);
       });
 

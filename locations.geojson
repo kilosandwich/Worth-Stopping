@@ -29142,6 +29142,46 @@
           42.7729765
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1455",
+        "name": "Grand Falls Gorge",
+        "street": "125 Manse Rd, Grand Falls, NB E3Z 2X4, Canada",
+        "country": "CAN",
+        "website": "https://tourismnewbrunswick.ca/listing/grand-falls-gorge",
+        "description": "Canadians dammed the Grand Falls, so the remaining waterflow from the 75ft tall waterfall is pitiful - but the granite gorge remains striking. The Grand Falls Gorge Trail lets you follow the rim of the gorge, and take in some nice views.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7398819,
+          47.0513213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1456",
+        "name": "Sleeping Giant Provincial Park",
+        "street": "R R 1, Pass Lake, ON P0T 2M0, Canada",
+        "country": "CAN",
+        "website": "http://www.ontarioparks.com/park/sleepinggiant/maps",
+        "description": "The steep granite cliffs of Sleeping Giant Provincial Park look like the silhouette of a giant laying on its back when viewed from Thunder Bay, Ontario. The park itself has hiking trails that take you along the rocky coast and up on top of the giant.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9071747,
+          48.3379866
+        ]
+      }
     }
   ]
 }
