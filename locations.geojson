@@ -14016,7 +14016,7 @@
         "street": "11625 E 1500 S, Jensen, UT 84035",
         "country": "USA",
         "website": "https://www.nps.gov/dino/index.htm",
-        "description": "See actual dinosaur fossils embedded into the rock. Oh and there's also some massive canyons with river rafting. See the fossials at the Quarry Exhibit Hall, the bends of the canyon at Harper's Corner, and the steep spine and riverbend at Echo Park (high-clearance 4-wheel drive vehicles only).",
+        "description": "See actual dinosaur fossils embedded into the rock. Oh and there's also some massive canyons with river rafting. See the fossils at the Quarry Exhibit Hall, the bends of the canyon at Harper's Corner, and the steep spine and riverbend at Echo Park (high-clearance 4-wheel drive vehicles only).",
         "worth stopping": true,
         "park": true
       },
@@ -29260,6 +29260,106 @@
         "coordinates": [
           -0.8085707,
           54.2095211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1461",
+        "name": "Red Canyon (Dixie National Forest)",
+        "street": "5375 UT-12, Panguitch, UT 84759",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r04/dixie/recreation/red-canyon-visitor-center",
+        "description": "Red Canyon is another forest covered red rock canyon sandwiched between Bryce Canyon National Park and its less popular sibling Cedar Breaks National Monument. Red Canyon features the same pinnacles, hoodoos, and columns that you'll find at the nearby National Parks, but its much less busy due to being much less developed - which means you can get permits for off-road-vehicles and mountain bikes. You can see a lot of the highlights along Scenic Byway 12",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3193487,
+          37.7457841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1462",
+        "name": "Fantasy Canyon",
+        "street": "",
+        "country": "USA",
+        "website": "https://www.blm.gov/visit/fantasy-canyon",
+        "description": "The rocks at Fantasy Canyon have eroded to look like angry driftwood. The road to get there is unpaved,  and the canyon is fragile. This is one of those \"Middle of Nowhere\" kind of places, so plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3933297,
+          40.0574583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1463",
+        "name": "Cumberland Falls State Resort Park",
+        "street": "7351 KY-90, Corbin, KY 40701",
+        "country": "USA",
+        "website": "https://parks.ky.gov/corbin/parks/resort/cumberland-falls-state-resort-park",
+        "description": "Cumberland Falls State Resort Park is home to the 69ft Cumberland Falls and the 44ft Eagle Falls alongside an escarpment. There are short hiking trails which will take you alongside both of the falls.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34545,
+          36.8386421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1464",
+        "name": "Pratt's Falls Park",
+        "street": "7671 Pratts Falls Rd, Manlius, NY 13104",
+        "country": "USA",
+        "website": "https://onondagacountyparks.com/parks/pratts-falls-park",
+        "description": "Pratt's Falls is a 137ft waterfall with a parking lot at the top, and a hiking trail to the bottom. It's a less impressive waterfall compared to nearby Chittenango Falls State Park.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9943689,
+          42.9312161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1465",
+        "name": "Eternal Flames Falls",
+        "street": "Eternal Flame Hiking Trail, Orchard Park, NY 14127",
+        "country": "USA",
+        "website": "https://nyfalls.com/waterfalls/eternal-flame-falls/",
+        "description": "The 30ft Eternal Flames Falls is unimpressive except for the fact that there's a candle-sized natural fire burning behind it. The natural gas plume sometimes gets extinguished, so bring a lighter.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7516227,
+          42.7017032
         ]
       }
     }
