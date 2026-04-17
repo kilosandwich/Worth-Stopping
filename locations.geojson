@@ -16115,7 +16115,7 @@
         "street": "1 AB-40, Kananaskis, AB T0L 1N0, Canada",
         "country": "CAN",
         "website": "https://www.albertaparks.ca/parks/kananaskis/",
-        "description": "Hiking through the waterfalls, glaciers, mountains, valleys, and rapids of the Canadian Rockies continue at the K-country park system. Kananaskis Country is Alberta's Provincial Park System for the Canadian Rockies, and consists of 9 parks accessible by road: Peter Lougheed Provincial Park, Bow Valley Provincial Park, Sheep River Provincial Park, Spray Valley Provincial Park, Bluerock Wildland Provincial Park, Bow Valley Wildland Provincial Park, Don Getty Wildland Provincial Park, Elbow-Sheep Wildland Provincial Park, and the ski courses of Canmore Nordic Centre Provincial Park.",
+        "description": "Hiking through the waterfalls, glaciers, mountains, valleys, and rapids of the Canadian Rockies continues at the K-country park system. Kananaskis Country is Alberta's Provincial Park System for the Canadian Rockies, and consists of 9 parks accessible by road: Peter Lougheed Provincial Park, Bow Valley Provincial Park, Sheep River Provincial Park, Spray Valley Provincial Park, Bluerock Wildland Provincial Park, Bow Valley Wildland Provincial Park, Don Getty Wildland Provincial Park, Elbow-Sheep Wildland Provincial Park, and the ski courses of Canmore Nordic Centre Provincial Park.",
         "worth stopping": true,
         "park": true
       },
@@ -29360,6 +29360,66 @@
         "coordinates": [
           -78.7516227,
           42.7017032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1466",
+        "name": "Canyon Sainte-Anne",
+        "street": "206 route 138 est, Saint-Joachim, QC G0A 3X0, Canada",
+        "country": "CAN",
+        "website": "http://www.canyonsa.qc.ca/",
+        "description": "Canyon Saint-Anne is a 243ft tall waterfall running through an even deeper gorge. Surprisingly, this park wasn't developed until 1973, but is now crisscrossed with pedestrian bridges and viewing platforms.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8762448,
+          47.0742891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1467",
+        "name": "Horseshoe Canyon (Alberta)",
+        "street": "Township Rd 284, Kneehill County, AB T0M 2A0, Canada",
+        "country": "CAN",
+        "website": "http://www.kneehillcounty.com/2272/Horseshoe-Canyon",
+        "description": "The badlands of Horseshoe Canyon are more compact and exemplary of what you would expect the badlands surrounding Drumheller to look like - and more importantly you can hike down into the middle of them.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8882698,
+          51.4222125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1468",
+        "name": "Gila Cliff Dwellings National Monument",
+        "street": "26 Jim Bradford Trail, Mimbres, NM 88049",
+        "country": "USA",
+        "website": "http://www.nps.gov/gicl/index.htm",
+        "description": "Native Americans carved houses into the alcoves of the gorges of Gila National Forest - and now you can hike right up to them. Don't be deceived by the forested mountains and babbling brooks - you are in the middle of a desert - plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2682751,
+          33.2283452
         ]
       }
     }
