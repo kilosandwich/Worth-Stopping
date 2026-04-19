@@ -29422,6 +29422,46 @@
           33.2283452
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1469",
+        "name": "Bond Falls",
+        "street": "Bond Falls Scenic Site, Trout Creek, MI 49967",
+        "country": "USA",
+        "website": "https://www.michigan.gov/recsearch/parks/BondFalls",
+        "description": "Bond Falls is a 50ft tall waterfall that aggressively spills over a wide swath of rock - engulfing islands of trees as it streams down the Middle Branch Ontonagon River. Boardwalks surround the base of the falls, while trails let your get close to the top.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1324289,
+          46.4097993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1470",
+        "name": "Copper Falls State Park",
+        "street": "36764 Copper Falls Rd, Mellen, WI 54546",
+        "country": "USA",
+        "website": "https://dnr.wisconsin.gov/topic/parks/copperfalls",
+        "description": "The copper soaked granite gorges and waterfalls of Copper Falls State Park aren't very tall, but they are unique.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6395205,
+          46.3749198
+        ]
+      }
     }
   ]
 }
