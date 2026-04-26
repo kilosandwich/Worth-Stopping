@@ -10991,7 +10991,7 @@
         "street": "2920 Todd Rd, Galveston, TX 77554",
         "country": "USA",
         "website": "https://battleshiptexas.org/",
-        "description": "The New York-class battleship USS Texas is the last surviving dreadnought in the world. This is the oldest American battleship afloat and saw service during WW1 and WW2 - including the famous Normandy landings. It's also a great map in the video game series Call of Duty. The ship is currently undergroind major renovations, so you have to call ahead to get a guided tour.",
+        "description": "The New York-class battleship USS Texas is the last surviving dreadnought in the world. This is the oldest American battleship afloat and saw service during WW1 and WW2 - including the famous Normandy landings. It's also a great map in the video game series Call of Duty. The ship is currently undergoing major renovations, so you have to call ahead to get a guided tour.",
         "worth stopping": true,
         "museum": true
       },
@@ -29460,6 +29460,68 @@
         "coordinates": [
           -90.6395205,
           46.3749198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1471",
+        "name": "Aguasabon Falls & Gorge",
+        "street": "2 Aguasabon Gorge Rd, Terrace Bay, ON P0T 2W0, Canada",
+        "country": "CAN",
+        "website": "https://visitterracebay.ca/attractions/aguasabon-falls-gorge/",
+        "description": "The 100ft tall Aguasabon Falls pours into the narrow Agausabon Gorge. This waterfall is not really near anything, so it only has one viewing platform - but it's the only really interesting thing to do on this section of the Trans Canada Highway.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1211159,
+          48.7862606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1472",
+        "name": "Parc le Trou de la Fée",
+        "street": "100 Rte du Trou-de-la-Fée, Saint-André-du-Lac-Saint-Jean, QC G0W 2K0, Canada",
+        "country": "CAN",
+        "website": "https://parcletroudelafee.com/",
+        "description": "Parc le Trou de la Fée (Fairy Hole Park) is a canyon full  of waterfalls and caves connected by a walkway that follows the river. You would think there would be more information on it - but there is not.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9752359,
+          48.3763475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1473",
+        "name": "Val-Jalbert",
+        "street": "95 Rue Saint-George, Chambord, QC G0W 1G0, Canada",
+        "country": "CAN",
+        "website": "https://valjalbert.com/",
+        "description": "It's a Canadian ghost town bisected by a 236ft tall waterfall (Ouiatchouan Falls). Val Jalbert is a historical ghost town built around the remains of an abandoned papermill in the deep forests of northern Quebe - the ruins of the buildings are now a historical village, but everything is still decaying and falling apart exactly as it was in 1929.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1646247,
+          48.4412161
         ]
       }
     }
