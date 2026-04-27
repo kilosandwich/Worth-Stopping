@@ -29524,6 +29524,86 @@
           48.4412161
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1474",
+        "name": "Matthiessen State Park",
+        "street": "2500 IL-178, Oglesby, IL 61348",
+        "country": "USA",
+        "website": "https://dnr.illinois.gov/parks/park.matthiessen.html",
+        "description": "Matthiessen State Park is the less pretty and less popular sister of Starved Rock State Park. The canyons (Upper and Lower Dells) here are muddier, and the waterfalls less impressive. However, it is still beautiful.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.02659,
+          41.2964608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1475",
+        "name": "Olney City Park",
+        "street": "502 White Squirrel Cir, Olney, IL 62450",
+        "country": "USA",
+        "website": "http://www.ci.olney.il.us/visitors/parks/olney_city_park.php",
+        "description": "Olney, Illinois has been strategically protecting a colony of pure-white squirrels in its city park since 1902.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0931164,
+          38.7340079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1476",
+        "name": "Shades State Park",
+        "street": "7751 S 890 W, Waveland, IN 47989",
+        "country": "USA",
+        "website": "https://www.in.gov/dnr/state-parks/parks-lakes/shades-state-park/",
+        "description": "Shades State Park is the less popular and less pretty sister of Turkey Run State Park. Though the park boasts 5 ravines with interesting rock formations, 100ft tall cliffs along the river, and trickling waterfalls.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0709866,
+          39.9369566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1477",
+        "name": "Devils Rope Barbed Wire Museum",
+        "street": "100 Kingsley St, McLean, TX 79057",
+        "country": "USA",
+        "website": "https://www.barbwiremuseum.com/",
+        "description": "This is THE barbed wire museum. Modern barbed wire was invented in the United States as a livestock deterrent for areas that lacked traditional fencing materials, but soon found use in prisons and trench warfare. This is one of 2 barbed wire museum in the United States, with the other being the Kansas Barbed Wire Museum.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5976496,
+          35.2314568
+        ]
+      }
     }
   ]
 }
