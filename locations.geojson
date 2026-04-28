@@ -29604,6 +29604,47 @@
           35.2314568
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1478",
+        "name": "Williamsport Falls",
+        "street": "Fall Street &, N Monroe St, Williamsport, IN 47993",
+        "country": "USA",
+        "website": "https://www.townofwilliamsport.com/",
+        "description": "Williamsport Falls is a 90ft tall waterfall with an overhang nearly perfectly at its waist. It doesn't look that impressive in pictures, but when it is towering over you then you will realize how tall 90ft is.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2920941,
+          40.286435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1479",
+        "name": "Clifty Falls State Park",
+        "street": "2221 Clifty Dr, Madison, IN 47250",
+        "country": "USA",
+        "website": "https://on.in.gov/cliftyfallssp",
+        "description": "The 4 waterfalls of Clifty Falls aren't the most powerful waterfall in Indiana, however the hiking trails snake along the rim and inside of the 200ft deep Clifty Creek Canyon - including passing through a tunnel",
+        "local attractions": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.435765,
+          38.7660118
+        ]
+      }
     }
   ]
 }
