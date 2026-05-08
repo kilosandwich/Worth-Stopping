@@ -235,6 +235,66 @@ When users want to search for something they simply have to click on the country
 
 */
 
+//the idea of this fuction is to hide map markers in a hidden layer when they are outside the bounds of the map
+//additionally, if they are within the bounds of the map, move them back to the main layer (doesn't really matter where as long as you iterate through)
+////ALL layers EXCEPT the hidden layer while hiding things
+function updateVisibilityForAllLayers(map) {
+    const bounds = map.getBounds();
+
+    map.eachLayer(function (layer) {
+
+        // Skip base tile layers (optional but usually needed)
+        if (layer instanceof L.TileLayer) return;
+
+        // Skip your hidden layer group
+        //if (layer === hiddenGroup) return;
+
+        // If it's a LayerGroup, iterate inside it
+        if (layer instanceof L.LayerGroup) {
+            layer.eachLayer(function (subLayer) {
+                applyBoundsVisibility(subLayer, bounds);
+            });
+        } else {
+            applyBoundsVisibility(layer, bounds);
+        }
+    });
+}
+
+function applyBoundsVisibility(layer, bounds) {
+    // Marker / circleMarker
+    if (layer.getLatLng) {
+        const visible = bounds.contains(layer.getLatLng());
+        toggleLayer(layer, visible);
+        return;
+    }
+
+    // Polygon / polyline / geojson feature
+    if (layer.getBounds) {
+        const visible = bounds.intersects(layer.getBounds());
+        toggleLayer(layer, visible);
+        return;
+    }
+}
+
+function toggleLayer(layer, visible) {
+    // If it's a marker with DOM icon
+    if (layer._icon) {
+        layer._icon.style.display = visible ? '' : 'none';
+    }
+    // Marker shadow 
+    if (layer._shadow) {
+        layer._shadow.style.display = visible ? '' : 'none';
+    }
+
+    // If it supports opacity (vector layers)
+    if (layer.setStyle) {
+        layer.setStyle({
+            opacity: visible ? 1 : 0,
+            fillOpacity: visible ? 0.2 : 0
+        });
+    }
+}
+
 
 
 //make a function that populates a given map with markers for the given tags (array of tags)

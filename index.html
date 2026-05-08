@@ -797,6 +797,12 @@ map.whenReady(() => {
     });
 });
 
+//whenever the map moves, hide all the markers that are not ni the viewport and show all the ones that ought to be
+map.on('moveend zoomend', function(){
+  //console.log("We tried to zoom!");
+  updateVisibilityForAllLayers(map);
+})
+
 
 
 /*You want to do something to the map? It can only be done after the leaflet map object
