@@ -323,6 +323,7 @@ async function countryToCountryCode(countryString ="", codejson = "countrycodes.
   }
 }
 
+//this function turns the inputbox for the search section into a country code and returns the string of that code
 async function getCountryInput(){
   // step 1: get the input from the country box
   const inputEl = document.getElementById("search-country");

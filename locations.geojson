@@ -29645,6 +29645,26 @@
           38.7660118
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1480",
+        "name": "Emerald Park (Ireland)",
+        "street": "Emerald Park, Kilbrew, Ashbourne, Co. Meath, A84 EA02, Ireland",
+        "country": "IRL",
+        "website": "http://www.emeraldpark.ie/",
+        "description": "This is the largest amusement park in Ireland, and also one of the newest amusement parks in Europe. Featuring 6 rollercoasters and a log flume.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4619505,
+          53.5453555
+        ]
+      }
     }
   ]
 }

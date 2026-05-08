@@ -483,7 +483,7 @@ file.-->
 document.addEventListener('change', function (event) {
   if (event.target && event.target.classList.contains('tag-checkbox')) {
     console.log("Checkbox changed");
-    selectedTags = getSelectedTags();
+    selectedTags = getSelectedTags(); //updated the selectedTags feature
 
   }
 });
@@ -499,7 +499,7 @@ searchButton.addEventListener("click", () => {
     // If showing, load categories
     if (shouldShow) {
         console.log("I am attempting to build the checkboxes!")
-        buildCheckboxes("tags.json", selectedTags);
+        buildCheckboxes("tags.json", selectedTags); //build the checkboxes with the previously selected tags as well
     }
 });
 
@@ -760,6 +760,10 @@ users location - that would allow them to see everything nearby by default
 yay!
 
 This also requires the map div id to exist, otherwise it cannot load*/
+
+//future improvements:
+////Maybe convert your svg rendering to markers on canvas instead, each MARKER as is is an entire div 
+////which means you have 1400+ divs on your page, which is stupid.
 var map = L.map('map', {
   worldCopyJump: true
 });
@@ -799,18 +803,11 @@ map.whenReady(() => {
 is created and linked to the raster tyles from the raster location (this can be local)
 a simple, theoretically if I want to load them from a local geoJSON file you would do so
 here probably using some sort of function, but for now, here is a test marker*/
-// Add markers
+// Add initial markers
+//maybe you should checkbox the 'worth stopping' tag by default
 populateMapMarkers(map, geojsonFilePath, ["worth stopping"], 4, "AND")
 
 
-
-</script>
-<script src="statistics.js">
-//this is just for fun
-avgShortestDistanceUidArr = await getUIDsThatMatchProperties(["worth stopping=true"]);
-avgShortestDistance = await getAverageShortestDistance(avgShortestDistanceUidArr);
-console.log("The average shortest distance is:");
-console.log(avgShortestDistance);
 
 </script>
 

@@ -331,6 +331,10 @@ function populateMapMarkers(
         ////2.) Add the layer to the map
 
         ////3.) Begin parsing through the geoJson, FILTER AND ADD POPUPS TO THE LAYER AT THE SAME TIME
+        //we can create only ONE popup then bind ALL INFORMATION to ONLY that popup dynamically on click.
+        const sharedPopup = L.popup();
+        //{ autoPan: false, keepInView: false }
+        //don't forget to add this bit to the shared popup
 
         //////Potential issues: if the user attempts to populate a map twice with the given markers, the wipe of the layer
         //////SHOULD remove the layer that an inprogress version of populatemapmarkers is running on - thus preventing duplication.
@@ -410,6 +414,7 @@ function populateMapMarkers(
         //START THE MARKER ZONE - This is where your map markers are populated
         //m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m
 
+        
         // Marker creation
         //If you wish to change the marker do so here. Including to a locally cached one perhaps?
         //I mean, you are currently loading the image from the leaflet database - which I guess technically takes no time
@@ -420,35 +425,46 @@ function populateMapMarkers(
         //it doesn't have to be a marker
         //This is where your markers are actually handled
 
+
+
         onEachFeature: (feature, layer) => {
-          //we can make this section run faster if we fetch the name once instead of every time from an array.
-          const name = feature.properties?.name || "";
-          const description = feature.properties?.description || "";
-          //This is the initial popup - it is meant to be minimal to save populating time. 
-          layer.bindPopup(
-            `<b>${name || 'Unnamed'}</b><br>` +
-            `${ description || ''}<br>` +
-            `<div id="img-placeholder">Loading images…</div>`,
-            { autoPan: false, keepInView: false }
-          );
 
           //create the tooltip (the little name that pops up when you hover over it.)
-          layer.bindTooltip(name, {
-            direction: "top",
-            offset: [0, -10],
-            sticky: true,
-            opacity: 0.9,
-            className: "map-hover-tooltip"
+          //tooltips are expensive computationally, we can reduce them to onhover commands. 
+          layer.on("mouseover", function () {
+            const name = feature.properties?.name || "";
+            //console.log("I only loaded on mouseover!")
+            this.bindTooltip(name, {
+              direction: "top",
+              offset: [0, -10],
+              sticky: true,
+              opacity: 0.9,
+              className: "map-hover-tooltip"
+            });
+
+            this.openTooltip();
+          });
+          //unbind the tooltip after it is used, save computation.
+          //theoretically this could cause more problems, it might be better to get rid of this section
+          //I'm not sure if it actually will save any computational resources. 
+          layer.on("mouseout", function () {
+            this.unbindTooltip();
           });
 
-          //when the popup is open, run a function elsewhere to populate it with more advanced information.
-          layer.on("popupopen", async (e) => {
-            //This is really screaming at me to be converted into a function elsewhere
-            //I KNOW it is TECHNICALLY more efficient to build it into the code, but readability is nice. 
-            //Convert features into local variables so you don't expend the effort of fetching them in multiple uses (slow).
-            markerPopUp(feature,e); //haha look at me I made it a function elsewhere
+          //we can make this section run faster if we fetch the name once instead of every time from an array.
+          
+          //const description = feature.properties?.description || "";
+          //This is the initial popup - it is meant to be minimal to save populating time. 
 
-          });
+          //turn the shared popup into the popup for this particular location (thus saving popup creation)
+          layer.on("click", function(e){
+            const name = feature.properties?.name || "";
+            sharedPopup.setLatLng(e.latlng)
+            sharedPopup.setContent("Loading...");
+            sharedPopup.openOn(map);
+            markerPopUp(feature,sharedPopup);
+          })
+
         }
 
       }).addTo(markersLayer);  // <- markers are inside this GeoJSON layer
@@ -466,11 +482,12 @@ function populateMapMarkers(
 
 //Function that populates a given map marker with the features of that marker
 async function markerPopUp(feature, popup){
+  console.log("Markerpopup is runnin!");
   const term = feature.properties?.name || "";
   const name = feature.properties?.name || "";
   nameSanitized = name.replace(/['’]/g, ' ')
   //note to self, you hardcoded numimages as 4 here
-  const imageHtml = await buildPopupImages(nameSanitized, 4);
+
   const uid = feature.properties?.uid || "No uid found";
   const website = feature.properties?.website || "";
   const streetAddress = feature.properties?.street|| "";
@@ -524,11 +541,15 @@ async function markerPopUp(feature, popup){
     ${description|| ''}<br>
     
     <hr>
+    
     `;
   
   //shove the popup full of the imageHtml content
   //Thought: I could load the image html only once it loads? Make it an await sort of thing?
-  popup.popup.setContent(originalHtml + imageHtml) ;
+  popup.setContent(originalHtml + '<div id="img-placeholder">Loading images…</div>'); //get the original HTML into the popup, this allows us to remove a lot. 
+  //get the images last, then shove them in
+  const imageHtml = await buildPopupImages(nameSanitized, 4);
+  popup.setContent(originalHtml + imageHtml) ;
 }
 
 async function listViewHTMLbuilder(feature){
