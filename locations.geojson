@@ -29685,6 +29685,106 @@
           44.4257766
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1482",
+        "name": "Fraispertuis-City",
+        "street": "50 Rue de la Colline des Eaux, 88700 Jeanménil, France",
+        "country": "FRA",
+        "website": "https://www.fraispertuis-city.fr/",
+        "description": "The cowboy craze swept the entire world in the 1960s, and theme parks modeled after the American Wild West opened across the world. Fraispertuis-City (English \"Cool Gulch\") features 4 rollercoasters and a bunch of French people pretending to be American.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7279371,
+          48.3240051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1483",
+        "name": "La Mer de sable",
+        "street": "La Mer de sable N330, 60950 Ermenonville, France",
+        "country": "FRA",
+        "website": "https://www.merdesable.fr/",
+        "description": "The American Wild West genre was really popular in the 1960s, and the theme park La Mer de Sable (\"The Sand Sea\") capitalized on this theme. Ride 4 rollercoasters and see French people pretend to be Native Americans and cowboys - they even built an entire sand desert to roleplay in.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6741232,
+          49.1449045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1484",
+        "name": "OK Corral (Bouches-du-Rhône)",
+        "street": "Route départementale 8, 13780 Cuges-les-Pins, France",
+        "country": "FRA",
+        "website": "https://www.okcorral.fr/",
+        "description": "This is the least impressive of the 3 French theme parks modeled after the American Wild West  (that's right, there's multiple)- but the rollercoasters here have little horses you can ride on. See the place where French people have pretended to be American cowboys since 1966.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7301388,
+          43.2680054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1485",
+        "name": "Fort Fun Abenteuerland",
+        "street": "Aurorastraße 50, 59909 Bestwig, Germany",
+        "country": "DEU",
+        "website": "https://fortfun.de/",
+        "description": "Fort Fun Adventureland is another European theme park where they pretend it's the American wild west. Ride 4 rollercoasters and see Germans pretend to love freedom and fun while they pretend to be cowboys.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4384469,
+          51.3095019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1486",
+        "name": "Attractiepark Slagharen",
+        "street": "Zwarte Dijk 37, 7776 PB Slagharen, Netherlands",
+        "country": "NLD",
+        "website": "https://www.slagharen.com/",
+        "description": "The American Wild West genre was universally popular in the 1960s, and Attractiepark Slagharen (formerly \"Ponypark\") opened in 1963 to bring the craze to life for the Dutch public. Despite only having 2 rollercoasters, this is the second most visited amusement park in the Netherlands. See Dutch people pretend to be cowboys and Native Americans - I'm sure they'll be culturally sensitive.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5631929,
+          52.6211411
+        ]
+      }
     }
   ]
 }
