@@ -237,7 +237,7 @@ When users want to search for something they simply have to click on the country
 
 //the idea of this fuction is to hide map markers in a hidden layer when they are outside the bounds of the map
 //additionally, if they are within the bounds of the map, move them back to the main layer (doesn't really matter where as long as you iterate through)
-////ALL layers EXCEPT the hidden layer while hiding things
+//this is the update function, it gets the bounds from the map then iterates through each layer to apply visibility
 function updateVisibilityForAllLayers(map) {
     const bounds = map.getBounds();
 
@@ -259,7 +259,7 @@ function updateVisibilityForAllLayers(map) {
         }
     });
 }
-
+//this function applies visibility to each type of feature on the map
 function applyBoundsVisibility(layer, bounds) {
     // Marker / circleMarker
     if (layer.getLatLng) {
@@ -275,7 +275,7 @@ function applyBoundsVisibility(layer, bounds) {
         return;
     }
 }
-
+//this function toggles visibility for each type of feature on the map
 function toggleLayer(layer, visible) {
     // If it's a marker with DOM icon
     if (layer._icon) {
@@ -605,8 +605,7 @@ async function markerPopUp(feature, popup){
     `;
   
   //shove the popup full of the imageHtml content
-  //Thought: I could load the image html only once it loads? Make it an await sort of thing?
-  popup.setContent(originalHtml + '<div id="img-placeholder">Loading images…</div>'); //get the original HTML into the popup, this allows us to remove a lot. 
+  popup.setContent(originalHtml + '<div class="img-placeholder-wrapper"><div class="spinner"></div></div>'); //get the original HTML into the popup,because images take forever to load 
   //get the images last, then shove them in
   const imageHtml = await buildPopupImages(nameSanitized, 4);
   popup.setContent(originalHtml + imageHtml) ;

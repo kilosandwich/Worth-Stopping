@@ -444,6 +444,15 @@ Leaflet popup section
       /* centers the × */
 }
 
+.img-placeholder-wrapper {
+  /*this is the wrapper for the spinner contained in the popup
+  the only thing this wrapper really does is center the spinner object which
+  has been defined elsewhere;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
 

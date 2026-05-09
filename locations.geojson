@@ -186,7 +186,7 @@
       "type": "Feature",
       "properties": {
         "uid": "10",
-        "name": "Sleeping bear Dunes National Lakeshore",
+        "name": "Sleeping Bear Dunes National Lakeshore",
         "street": "9922 W Front St, Empire, MI 49630",
         "country": "USA",
         "website": "http://www.nps.gov/slbe/index.htm",
@@ -1521,7 +1521,7 @@
         "street": "75 Greenmanville Ave, Mystic, CT 06355",
         "country": "USA",
         "website": "https://www.mysticseaport.org/",
-        "description": "This is THE whaling museum. It's not just a whaling ship museum, it's an entire whaling industry living-history town.  Featuring the Charles W. Morgan- the last wooden sailing ship, along with 14 other historic ships, and 39 historic buildings.",
+        "description": "This is THE whaling museum. It's not just a whaling ship museum, it's an entire whaling industry living-history town.  Featuring the Charles W. Morgan- the last wooden whaling ship, along with 14 other historic ships, and 39 historic buildings.",
         "worth stopping": true,
         "museum": true
       },
@@ -6501,7 +6501,7 @@
         "street": "32540 S Biosphere Rd, Oracle, AZ 85623",
         "country": "USA",
         "website": "https://biosphere2.org/",
-        "description": "The largest closed ecological system ever constructed designed to simulate a life support system for space colonization. Every biome is simulated: rainforest, ocean (complete with coral reef), mangrove wetlands, savnnah grassland, and a fog desert. Now available for tour - and this time the humans inside won't run out of oxygen.",
+        "description": "Biosphere 2 is the largest closed ecological system ever constructed. It was designed to simulate a life support system for space colonization. Every biome is simulated: rainforest, ocean (complete with coral reef), mangrove wetlands, savannah grassland, and a fog desert. Now available for tour - and this time the humans inside won't run out of oxygen.",
         "worth stopping": true,
         "park": true
       },
@@ -8024,7 +8024,7 @@
         "street": "400 4th St SW 6th floor, Washington, DC 20024",
         "country": "USA",
         "website": "http://www.museumofthebible.org/",
-        "description": "Arts and crafts retail store Hobby Lobby funded the terrorist group ISIS to buy artifacts from smugglers for this museum. The artifacts were returned, but this museum dedicated to the history of how the bible as we know it came to be remains.",
+        "description": "Arts and crafts retail store Hobby Lobby funded the terrorist group ISIS to buy artifacts from smugglers for this museum. The artifacts were returned, but this museum dedicated to the history of how the bible remains.",
         "worth stopping": true,
         "museum": true
       },
@@ -8104,7 +8104,7 @@
         "street": "2 Massachusetts Ave NE, Washington, DC 20002",
         "country": "USA",
         "website": "https://postalmuseum.si.edu/",
-        "description": "Nothing stops the mail. The US Postal Service actsas the USA's primary delivery service even when there was nothing but barren frontier and sewed the nation together. See postal wagons, trucks, trains, planes, and stamps that will make you want to go postal.",
+        "description": "Nothing stops the mail. The US Postal Service has acted as the USA's primary delivery service and sewed the nation together when the USA was nothing but barren frontier. See postal wagons, trucks, trains, planes, and stamps that will make you want to go postal.",
         "worth stopping": true,
         "museum": true
       },
@@ -8184,7 +8184,7 @@
         "street": "2 Lincoln Memorial Cir NW, Washington, DC 20002",
         "country": "USA",
         "website": "https://www.nps.gov/linc/index.htm/index.htm",
-        "description": "A massive statute of President Abraham Lincoln looms over the nationa's capitol in a memorial that echos the design of ancient Greek temples. The undercroft is nearly 8 stories deep as a necessary foundation for the swampy ground beneath.",
+        "description": "A massive statute of President Abraham Lincoln looms over the nation's capitol in a memorial that echoes the design of ancient Greek temples. The undercroft is nearly 8 stories deep as a necessary foundation for the swampy ground beneath.",
         "worth stopping": true,
         "architecture": true
       },
@@ -26908,7 +26908,7 @@
         "street": "1 Blaža Jovanovića, Tivat, Montenegro",
         "country": "MNE",
         "website": "https://www.portomontenegro.com/attractions-events/naval-heritage-museum-attraction/",
-        "description": "Porto Montenegro luxury yacht marina is home to the The Naval Heritage Collection Museum featuring some of the last surviving ships of the Yugoslav Navy: the Heroj-class attach submarine P-821, and the Una-class midget submarine Una.",
+        "description": "Porto Montenegro luxury yacht marina is home to the The Naval Heritage Collection Museum, featuring some of the last surviving ships of the Yugoslav Navy: the Heroj-class attach submarine P-821, and the Una-class midget submarine Una.",
         "worth stopping": true,
         "museum": true
       },
@@ -29663,6 +29663,26 @@
         "coordinates": [
           -6.4619505,
           53.5453555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1481",
+        "name": "Santa's Village (Jefferson, New Hampshire)",
+        "street": "528 Presidential Hwy, Jefferson, NH 03583",
+        "country": "USA",
+        "website": "https://www.santasvillage.com/",
+        "description": "Santa's Village is the less impressive of the two children's amusement parks in the remote north of New Hampshire, but does feature a log flume that travels deep in the woods.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4960219,
+          44.4257766
         ]
       }
     }
