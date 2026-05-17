@@ -3353,7 +3353,7 @@
         "street": "4800 Kennywood Blvd, West Mifflin, PA 15122",
         "country": "USA",
         "website": "4800 Kennywood Blvd, West Mifflin, PA 15122",
-        "description": "Kennywood is home to three historical 1920s rollercoasters that take follow the terrain of the ravines cutting through the park. It is also home of Phantom's Revenge, one of the most acclaimed hypercoasters ever built. Kennywood is also home to the last surviving Turtle and Kangaroo ride.",
+        "description": "Kennywood is home to three historical 1920s rollercoasters that follow the terrain of the ravines cutting through the park. It is also home of Phantom's Revenge, one of the most acclaimed hypercoasters ever built. Kennywood is also home to the last surviving Turtle, and Kangaroo rides.",
         "worth stopping": true,
         "amusement park": true
       },
@@ -3473,7 +3473,7 @@
         "street": "180 Greenwich St, New York, NY 10007",
         "country": "USA",
         "website": "https://www.911memorial.org/",
-        "description": "2763 people were killed by the collapse of the World Trade Center on 9/11/2001. The site where the towers once stood is memorial fountains where waterfalls flow into the abyss giving the impression of a profound sense of emptiness and loss. The museum beneath the site captures the horror of the event and sells souvenirs and t-shirts.",
+        "description": "2763 people were killed by the collapse of the World Trade Center on 9/11/2001. The site where the towers once stood is now memorial fountains where waterfalls flow into the abyss - giving the impression of a profound sense of emptiness and loss. The museum beneath the site captures the horror of the event and sells souvenirs and t-shirts.",
         "worth stopping": true,
         "museum": true
       },
@@ -3493,7 +3493,7 @@
         "street": "20 W 34th St., New York, NY 10001",
         "country": "USA",
         "website": "https://www.esbnyc.com/",
-        "description": "The Empire State Building opened in 1931 as the tallest building in the world at 1,454 ft, and held this record until the openeing of the World Trade Center in 1973. A masterpiece of Art Deco architecture the Empire State Building is an icon of New York City and the United States of America.",
+        "description": "The Empire State Building opened in 1931 as the tallest building in the world at 1,454 ft, and held this record until the opening of the World Trade Center in 1973. A masterpiece of Art Deco architecture the Empire State Building is an icon of New York City and the United States of America.",
         "worth stopping": true,
         "architecture": true
       },
@@ -29783,6 +29783,106 @@
         "coordinates": [
           6.5631929,
           52.6211411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1487",
+        "name": "Shima Spain Village",
+        "street": "Japan, 〒517-0212 Mie, Shima, Isobecho Sakazaki, 字下山952-4",
+        "country": "JPN",
+        "website": "https://www.parque-net.com/",
+        "description": "Shima Spain Village is an entire amusement park immaculately themed to what the Japanese think Spain is. Featuring 4 rollercoasters, and a replica Spanish castle.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8438457,
+          34.361484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1488",
+        "name": "Walibi Holland",
+        "street": "Spijkweg 30, 8256 RJ Biddinghuizen, Netherlands",
+        "country": "NLD",
+        "website": "https://www.walibi.nl/nl",
+        "description": "Walibi Holland is the largest and most popular amusement park in the Netherlands - featuring 10 well-regarded rollercoasters. It is a competently executed large amusement park - just like you can find all over the planet.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.763402,
+          52.4413578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1489",
+        "name": "De Waarbeek",
+        "street": "Twekkelerweg 327, 7554 SC Hengelo, Netherlands",
+        "country": "NLD",
+        "website": "https://www.waarbeek.nl/",
+        "description": "De Waarbeek is a small family theme park in the Netherlands - what makes it interesting is it has a 1930 rollercoaster built from old tram rails.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8077116,
+          52.2445217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1490",
+        "name": "Toverland",
+        "street": "Toverlaan 2, 5975 MR Sevenum, Netherlands",
+        "country": "NLD",
+        "website": "https://www.toverland.com/",
+        "description": "Toverland is the Netherlands' second largest amusement park - featuring 5 rollercoasters, including the first motor bike coaster ever built.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9834077,
+          51.3978418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1491",
+        "name": "Efteling",
+        "street": "Europalaan 1, 5171 KW Kaatsheuvel, Netherlands",
+        "country": "NLD",
+        "website": "https://www.efteling.com/",
+        "description": "Efteling is the best themed amusement park in the Netherlands, but the rides and 8 rollercoasters here are more family oriented. Half of the rollercoasters here duel one another.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0482576,
+          51.6487176
         ]
       }
     }
