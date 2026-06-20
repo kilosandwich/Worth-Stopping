@@ -170,7 +170,7 @@
         "street": "6865 Hickory Rd, Hickory Corners, MI 49060",
         "country": "USA",
         "website": "http://www.gilmorecarmuseum.org/",
-        "description": "What's better than one building full of cars? 14 buildings full of cars set in an entire town built just for one car museum. It's 90 acres of cars.",
+        "description": "What's better than one building full of cars? 14 buildings full of cars set in an entire town built just for one car museum. It's 90 acres of cars at a car museum full of car museums.",
         "worth stopping": true,
         "museum": true
       },
@@ -389,7 +389,7 @@
         "street": "",
         "country": "USA",
         "website": "http://www.svnsm.com/",
-        "description": "The USS Edson is a 1958 Forrest-Sharman class destroyer. U.S. Navy veteran volunteers tend to mull about on deck. Interestingly, this ship museum lets you wander around the engine room with very little restrictions.",
+        "description": "The USS Edson is a 1958 Forrest-Sherman class destroyer. U.S. Navy veteran volunteers tend to mull about on deck. Interestingly, this ship museum lets you wander around the engine room with very little restrictions.",
         "worth stopping": true,
         "museum": true
       },
@@ -29883,6 +29883,26 @@
         "coordinates": [
           5.0482576,
           51.6487176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1492",
+        "name": "Barack Obama Presidential Center",
+        "street": "6001 S Stony Island Ave, Chicago, IL 60637",
+        "country": "USA",
+        "website": "https://www.obama.org/presidential-center/",
+        "description": "American presidents are known for their political skill, not architectural. Obama combatted the Great Recession by bailing out the American automotive industry and directly giving cash to every American - preventing another Great Depression. Other achievements include a first attempt at a national healthcare system via mandatory private insurance, and ordering the raid that killed the architect of the 9/11 terrorist attacks.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5860093,
+          41.7863584
         ]
       }
     }
