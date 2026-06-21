@@ -2150,7 +2150,7 @@
       "type": "Feature",
       "properties": {
         "uid": "109",
-        "name": "National Auto and Truck Musem",
+        "name": "National Auto and Truck Museum",
         "street": "1000 Gordon M Buehrig Pl, Auburn, IN 46706",
         "country": "USA",
         "website": "https://natmus.org/",
@@ -30043,6 +30043,26 @@
         "coordinates": [
           -86.6044828,
           41.9074332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1500",
+        "name": "R. E. Olds Transportation Museum",
+        "street": "240 Museum Dr, Lansing, MI 48933",
+        "country": "USA",
+        "website": "http://reoldsmuseum.org/",
+        "description": "Ransom E. Olds created the modern assembly line to mass produce vehicles at low costs, dominating the automotive industry from 1902 to 1907. Olds was forced out of Oldsmobile in 1904, so he created REO Motor Car Company as a competitor. This museum traces the history of Oldsmobile (1897-2004) and REO (1905-1967) car brands and features over 80 vehicles.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5485623,
+          42.731344
         ]
       }
     }
