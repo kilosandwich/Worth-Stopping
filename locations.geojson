@@ -385,7 +385,7 @@
       "type": "Feature",
       "properties": {
         "uid": "20",
-        "name": "U.S.S. Edson",
+        "name": "USS Edson",
         "street": "",
         "country": "USA",
         "website": "http://www.svnsm.com/",
@@ -1975,15 +1975,15 @@
         "street": "1215 N State Rd 49, Porter, IN 46304",
         "country": "USA",
         "website": "https://www.nps.gov/indu/index.htm",
-        "description": "Next to Chicago lays massive sand dunes on the shores of the world's largest freshwater lake system.",
+        "description": "Next to Chicago lays massive sand dunes on the shores of the world's largest freshwater lake system. Indiana Dunes National Park is the sister park of Indiana Dunes State Park - but larger and with an emphasis on 1930s architecture. Notable areas include the art deco houses of the 1933 World's Fair in the Century of Progress Architectural District, the bathhouse set on the rolling sandscapes of the West Beach, and the 123ft Mount Baldy Dune. Hiking on Sand Dunes is much harder than it looks - temper your ambitions.",
         "worth stopping": true,
         "park": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0528786,
-          41.6544374
+          -87.2086271,
+          41.6224071
         ]
       }
     },
@@ -29903,6 +29903,146 @@
         "coordinates": [
           -87.5860093,
           41.7863584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1493",
+        "name": "High Falls (Rochester, New York)",
+        "street": "High Falls Terrace, St Paul St, Rochester, NY 14605",
+        "country": "USA",
+        "website": "",
+        "description": "The city of Rochester, New York is built around the 96ft High Falls and gorge. The waterfalls spills over the corpses of industries long gone, and an abandoned streetcar bridge has been converted into a windy overlook that takes you into the middle of the canyon.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6136944,
+          43.1614839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1494",
+        "name": "Indiana Dunes State Park",
+        "street": "1600 N 25 E, Chesterton, IN 46304",
+        "country": "USA",
+        "website": "1600 N 25 E, Chesterton, IN 46304",
+        "description": "Indiana Dunes State Park is the sister park to Indiana Dunes National Park. Despite being a State Park, the better Sand Dunes are located here. Featuring 192 ft tall sand dunes next to the largest freshwater lakes in the world. As long as you look to the right, you won't see the massive steel mills of Gary, Indiana.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0558199,
+          41.6628596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1495",
+        "name": "Silver Lake State Park",
+        "street": "9679 W State Park Rd, Mears, MI 49436",
+        "country": "USA",
+        "website": "http://www.michigan.gov/silverlake",
+        "description": "Most major sand dunes on the Great Lakes are protected from damage - except this one where the State of Michigan permits reckless citizens to drive their cars directly on them like they are filming the next Mad Max film. There's also a lighthouse and dune rides tours.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5138568,
+          43.6868764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1496",
+        "name": "Ludington State Park",
+        "street": "8800 M-116, Ludington, MI 49431",
+        "country": "USA",
+        "website": "https://www.michigan.gov/recsearch/parks/ludington",
+        "description": "Ludington State Park features over 7 miles of 150ft+ sand dunes sandwiched between the largest freshwater lakes in the world, and Hamlin Lake. This is Sleeping Bear Dunes National Lakeshore's less impressive sister park.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.506478,
+          44.0320426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1497",
+        "name": "USS LST-393",
+        "street": "560 Mart St, Muskegon, MI 49440",
+        "country": "USA",
+        "website": "http://www.lst393.org/",
+        "description": "The WW2 era Landing Ship Tank LST-393 served in WW2, supporting the landings at Sicily, Salerno, and Normandy. After the war it was converted into a car ferry as an extension of the U.S. Highway System. The ship has been converted into a museum - and uniquely you can enter through the bow doors.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2590729,
+          43.2346339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1498",
+        "name": "Saugatuck Dunes State Park",
+        "street": "6575 138th Ave, Holland, MI 49423",
+        "country": "USA",
+        "website": "https://www.michigan.gov/recsearch/parks/saugatuck",
+        "description": "Saugatuck Dunes State Park stands out among Lake Michigan sand dunes since the land here has remained largely undeveloped - which means hiking here is inconvenient and uncrowded. The town of Singapore, Michigan was buried by the sand dunes here. Furthermore, the Mansion of mechanical calculator baron Dorr Felt is located within Shore Acres Township Park enclosed within the state park. More developed dunes can be found nearby at the Saugatuck Harbor Natural Area, Mount Baldhead Park, and Tallmadge Woods nature Preserve",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1959952,
+          42.6999704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1499",
+        "name": "Warren Dunes State Park",
+        "street": "12032 Red Arrow Hwy, Sawyer, MI 49125",
+        "country": "USA",
+        "website": "https://www.michigan.gov/recsearch/parks/warrendunes",
+        "description": "The west coast of Michigan is covered in sand dunes, and Warren Dunes State Park features 240ft sand dunes - which are significantly less developed for recreation than the nearby Indiana Dunes.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6044828,
+          41.9074332
         ]
       }
     }
