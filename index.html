@@ -44,7 +44,7 @@ let markersLayer = null;
 
 //These are declared globally as they will later be accessed during persist. 
 let countryTag = null;
-let selectedTags = ["worth stopping"];
+let selectedTags = ["worth stopping"]; //prefill it because the default search includes this
 let nameToSearchFor = null;
 
 //ListView Variables
@@ -158,6 +158,7 @@ file.-->
 
 
 
+
     </div>
     
     <div id="nav-right">
@@ -201,7 +202,6 @@ file.-->
 
 <div id="search-dropdown" class="search-panel">
   <div class="search-section">
-    
     <h4>Search by Category:</h4>
     <div id="categories-container"></div> <!-- JS will fill this -->
   </div>
@@ -511,7 +511,7 @@ searchButton.addEventListener("click", () => {
 //This first gets all the tags from the checkboxes, then feeds them into the populateMapMarkers
 //which also clears all existing map markers
 ==============================================*/
-  document.getElementById('apply-filters').addEventListener('click', async () => {
+async function populateMapMarkersWithCheckedBoxesAsSearchTerms(){
   // 1. Collect selected tag values from the checkboxes
   //remember, the country is a tag.
   selectedTags = await getSelectedTags();
@@ -541,6 +541,10 @@ searchButton.addEventListener("click", () => {
   listViewIteratorRnd = 0;
   uidArr = [];
   uidArrRnd = []; //reset the shuffle mode array since the map is now different
+}
+
+document.getElementById('apply-filters').addEventListener('click', async () => {
+  populateMapMarkersWithCheckedBoxesAsSearchTerms();
 });
 
 /*

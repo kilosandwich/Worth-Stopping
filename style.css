@@ -184,7 +184,12 @@ SEARCH BAR SECTION
 .tag-checkbox {
   transform: scale(2);
 }
-
+#reset-filters {
+  width: 100%;
+  padding: 8px;
+  margin-top: 8px;
+  font-size: 1.25rem;
+}
 #apply-filters {
   width: 100%;
   padding: 8px;
