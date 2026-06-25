@@ -30065,6 +30065,66 @@
           42.731344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1501",
+        "name": "Historic Auto Attractions",
+        "street": "13825 Metric Rd, Roscoe, IL 61073",
+        "country": "USA",
+        "website": "https://www.historicautoattractions.com/",
+        "description": "This car museum has an emphasis on Hollywood and World Leaders, which is why they have Bonnie and Clyde's car; a diorama of JFK in his presidential limousine seconds before he got shot; the bat mobile; some furniture from the White House; and the cars of Joseph Stalin, Emperor Hirohito, Nikita Khrushchev, Mikhail Gorbachev, Eva Peron, King George VI, Benito Mussolini, etc. There's also a lot of guns owned by historical figures and various movie props.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0167987,
+          42.4613559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1502",
+        "name": "Cleveland History Center",
+        "street": "10825 East Blvd, Cleveland, OH 44106",
+        "country": "USA",
+        "website": "https://www.wrhs.org/plan-visit/places-to-visit/cleveland-history-center",
+        "description": "Cleveland's historical society taped a few buildings together and called it a museum, which is why there are two mansions, a carousel, and the 170 cars and 12 aircraft (including a Goodyear Blimp gondola) of the Crawford Auto-Aviation Museum all in one building.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6111569,
+          41.5132945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1503",
+        "name": "USS Cod",
+        "street": "1201 N Marginal Rd, Cleveland, OH 44114",
+        "country": "USA",
+        "website": "https://usscod.org/",
+        "description": "The WW2 era Gato-class submarine USS Cod served in WW2, serving in the Atlantic and Pacific - and performing the first and only international submarine to submarine rescue. The ship is now available for tour in Cleveland - a place that is very much not the ocean.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6916514,
+          41.5100882
+        ]
+      }
     }
   ]
 }
