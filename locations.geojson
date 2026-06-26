@@ -12132,7 +12132,7 @@
         "street": "130 W Paces Ferry Rd NW, Atlanta, GA 30305",
         "country": "USA",
         "website": "http://www.atlantahistorycenter.com/",
-        "description": "Learn about the history of the 10th largest city in America -including all those times it burned down. The museum also possesses all the artifacts of the Atlanta Cycolrama and Civil War Museum, making it one of the largest Civil War museums in America. The museum isn't just the main building, it's also a garden and farm complex featuring the historic Smith Farm, the neoclassical Swan House mansion, and the Wood Family cabin.",
+        "description": "Learn about the history of the 10th largest city in America -including all those times it burned down. The museum also possesses all the artifacts of the Atlanta Cyclorama and Civil War Museum, making it one of the largest Civil War museums in America. The museum isn't just the main building, it's also a garden and farm complex featuring the historic Smith Farm, the neoclassical Swan House mansion, and the Wood Family cabin.",
         "worth stopping": true,
         "museum": true
       },
@@ -30123,6 +30123,26 @@
         "coordinates": [
           -81.6916514,
           41.5100882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1504",
+        "name": "Volo Museum",
+        "street": "27582 Volo Village Rd, Volo, IL 60073",
+        "country": "USA",
+        "website": "https://volofun.com/",
+        "description": "The Volo Museum is an antique car dealership masquerading as an tourist trap themed auto museum. The vehicles, dinosaurs, trains, aircraft, snowmobiles, and movies car are all arranged to encircle classic cars put up for sale.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1712688,
+          42.3278965
         ]
       }
     }
