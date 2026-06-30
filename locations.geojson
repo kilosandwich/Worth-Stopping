@@ -3413,7 +3413,7 @@
         "street": "733 Lake Rd, South Fork, PA 15956",
         "country": "USA",
         "website": "http://www.nps.gov/jofl",
-        "description": "On May 31, 1889 the South Fork Fishing and Hunting Club's earten South Fork Dam collapsed during heavy rainfall, leading to a flood that destroyed the city of Johnstown and killed 2,208 people. The remains of the earthen dam is now available for tour.",
+        "description": "On May 31, 1889 the South Fork Fishing and Hunting Club's earthen South Fork Dam collapsed during heavy rainfall, leading to a flood that destroyed the city of Johnstown and killed 2,208 people. The remains of the earthen dam is now available for tour.",
         "worth stopping": true,
         "museum": true
       },
@@ -8523,7 +8523,7 @@
         "street": "5831 Dunker Church Rd, Sharpsburg, MD 21782",
         "country": "USA",
         "website": "https://www.nps.gov/anti/index.htm",
-        "description": "The battle Antietam during the U.S. Civil War was the site of the bloodiest one day battle in American history - 22,727 soldiers were turned into dead or casualties in 12 hours. Antietam marked the end of the Confederacy's invasion of Maryland and the victory was soon followed with the Emancipation Proclamation - ending the legal status of slavery in the Confederacy.",
+        "description": "The battle of Antietam during the U.S. Civil War was the site of the bloodiest one day battle in American history - 22,727 soldiers were turned into dead or casualties in 12 hours. Antietam marked the end of the Confederacy's invasion of Maryland and the victory was soon followed with the Emancipation Proclamation - ending the legal status of slavery in the Confederacy.",
         "worth stopping": true,
         "museum": true
       },
@@ -30275,13 +30275,34 @@
         "country": "USA",
         "website": "https://visitsouthidaho.com/adventure/pillar-falls/",
         "description": "Small waterfalls press through 100ft tall basalt pillars in the middle of the 500ft deep Snake River Canyon. Pillar Falls is NOT easy to get to, and is only accessible by a hiking trail over private land, or by kayaking upstream.",
-        "worth stopping": true
+        "worth stopping": true,
+        "park": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -114.4325745,
           42.5991575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1512",
+        "name": "USS Pampanito",
+        "street": "45 Pier, San Francisco, CA 94133",
+        "country": "USA",
+        "website": "http://maritime.org/",
+        "description": "The WW2 era Balao-class submarine USS Pampanito served in the Pacific Theater. The USS Pampanito is an independent museum from the San Francisco Maritime National Historical Park - despite being located a short walk away.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4164324,
+          37.8099048
         ]
       }
     }
