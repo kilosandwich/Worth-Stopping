@@ -30145,6 +30145,145 @@
           42.3278965
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1505",
+        "name": "Steamboat Rock State Park",
+        "street": "51052 WA-155, Electric City, WA 99123",
+        "country": "USA",
+        "website": "http://parks.state.wa.us/590/Steamboat-Rock",
+        "description": "Steamboat rock is a 800ft tall basalt plateau surrounded by the shredded landscape of the Grand Coulee.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1230012,
+          47.863548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1506",
+        "name": "Medicine Rocks State Park",
+        "street": "1141 MT-7, Ekalaka, MT 59324",
+        "country": "USA",
+        "website": "http://stateparks.mt.gov/medicine-rocks/",
+        "description": "The 80ft sandstone pillars and hoodoos of Medicine Rocks decorated in Native American rock art rise above the flat prairies of Eastern Montana. This is really the only thing to do along this section of Montana Highway 7.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4772167,
+          46.0430014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1507",
+        "name": "White River Falls State Park",
+        "street": "White River Rd, Maupin, OR 97037",
+        "country": "USA",
+        "website": "http://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=28",
+        "description": "White River Falls crests a 90ft tall basalt shelf into a narrow canyon with an abandoned hydroelectric plant at the bottom. The 44ft Celestial Falls is just below White River Falls, and drops into a narrow bowl. There's no fences to stop you from going anywhere - so don't be stupid or get tetanus.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0972277,
+          45.2431264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1508",
+        "name": "Buffalo Bill Museum (LeClaire, Iowa)",
+        "street": "199 Front St, Le Claire, IA 52753",
+        "country": "USA",
+        "website": "http://buffalobillmuseumleclaire.com/",
+        "description": "Despite being called the \"Buffalo Bill Museum\", the main focus of this museum is the 1868 towboat Lone Star - the oldest steam-powered towboat in existence. More impressively, the Lone Star had a 100 year old career",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3426531,
+          41.5983748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1509",
+        "name": "Minnehaha Regional Park (Minneapolis)",
+        "street": "4801 S Minnehaha Dr, Minneapolis, MN 55417",
+        "country": "USA",
+        "website": "https://www.minneapolisparks.org/parks__destinations/parks__lakes/minnehaha_regional_park/",
+        "description": "Minnehaha Regional Park is home to 53ft Minnehaha Falls - the only remaining intact waterfall in Minneapolis after Saint Anthony Falls was replaced with a concrete apron in 1866.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2108198,
+          44.915431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1510",
+        "name": "Upper Mesa Falls",
+        "street": "Upper Mesa Falls Rd, Ashton, ID 83420",
+        "country": "USA",
+        "website": "http://www.fs.usda.gov/recarea/ctnf/recreation/outdoorlearning/recarea/?recid=80612&actid=120",
+        "description": "Upper Mesa Falls is a 114ft tall and 200ft tall waterfall in Caribou-Targhee National Forest. The 65ft Lower Mesa Falls is located downstream. You cannot get particularly close to either waterfall.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3299085,
+          44.1875934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1511",
+        "name": "Pillar Falls",
+        "street": "",
+        "country": "USA",
+        "website": "https://visitsouthidaho.com/adventure/pillar-falls/",
+        "description": "Small waterfalls press through 100ft tall basalt pillars in the middle of the 500ft deep Snake River Canyon. Pillar Falls is NOT easy to get to, and is only accessible by a hiking trail over private land, or by kayaking upstream.",
+        "worth stopping": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4325745,
+          42.5991575
+        ]
+      }
     }
   ]
 }
