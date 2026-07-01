@@ -30305,6 +30305,46 @@
           37.8099048
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1513",
+        "name": "El Tovar Hotel",
+        "street": "1 El Tovar Rd, Grand Canyon Village, AZ 86023",
+        "country": "USA",
+        "website": "https://www.grandcanyonlodges.com/lodging/el-tovar-hotel/",
+        "description": "Start your Grand Canyon National Park travels here. El Tovar is a 1905 Railway Grand Hotel overlooking the Grand Canyon. The hotel was built before the Grand Canyon was officially protected as a National Park, and features the decorative Hopi House replica of Hopi Architecture, and a Grand Canyon National Park Visitors' Center.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1375968,
+          36.0575207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1514",
+        "name": "Nebraska State Capitol",
+        "street": "1445 K St, Lincoln, NE 68508",
+        "country": "USA",
+        "website": "https://capitol.nebraska.gov/",
+        "description": "This is the capitol of Art Deco. Whereas most state capitols try to copy the United States Capitol Building, Nebraska instead built a 400ft tall Art Deco lighthouse rising over the plains. You can go on tours and see the ornate mosaics, murals, and memorial room and observation deck. Nebraska is the only unicameral state legislature - which annoys political science students.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6999162,
+          40.8079929
+        ]
+      }
     }
   ]
 }
