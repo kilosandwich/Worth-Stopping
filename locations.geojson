@@ -1085,7 +1085,7 @@
         "street": "Building 9, 1900 Kanawha Blvd E #435, Charleston, WV 25305",
         "country": "USA",
         "website": "https://wvculture.org/explore/wv-state-museum/",
-        "description": "Most state museums try to be inoffensive and lack coherent vision. By comparison, the West Virginia state museum offers a compelling walk through the state's history where visitors quite literally advance through time as they move through the exam. See how the state developed from woodland, to native history, to arrival of European settlers, to the U.S. Civil War, to mining and the present.",
+        "description": "Most state museums try to be inoffensive and lack coherent vision. By comparison, the West Virginia state museum offers a compelling walk through the state's history where visitors quite literally advance through time as they move through the exhibits. See how the state developed from woodland, to native history, to arrival of European settlers, to the U.S. Civil War, to mining and the present.",
         "worth stopping": true,
         "museum": true
       },
@@ -30343,6 +30343,26 @@
         "coordinates": [
           -96.6999162,
           40.8079929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1515",
+        "name": "Johnson's Shut-Ins State Park",
+        "street": "148 Taum Sauk Trail, Middle Brook, MO 63656",
+        "country": "USA",
+        "website": "https://mostateparks.com/park/johnsons-shut-ins-state-park",
+        "description": "The snake-filled fast moving rapids moving through the igneous pinnacles of Johnson's Shut Ins are so narrow that they create a waterpark-like environment to swim through. Wear a life-jacket, maintain three points of contact, and don't jump -  it's fun because it's dangerous. You have to hike to the shut ins, so plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8384651,
+          37.5394521
         ]
       }
     }
