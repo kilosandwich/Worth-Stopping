@@ -30365,6 +30365,46 @@
           37.5394521
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1516",
+        "name": "Nethercutt Collection",
+        "street": "15151 Bledsoe St, Sylmar, CA 91342",
+        "country": "USA",
+        "website": "http://www.nethercuttcollection.org/",
+        "description": "The antique cars at the Nethercutt Collection have all been restored so that they are drivable.  The museum is divided into the 130+ cars of the 'museum' and the 200+ cars of the 'collection'(reservations required).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4640709,
+          34.3073181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1517",
+        "name": "Julia Pfeiffer Burns State Park",
+        "street": "52801 CA-1, Big Sur, CA 93920",
+        "country": "USA",
+        "website": "https://www.parks.ca.gov/?page_id=578",
+        "description": "300ft Redwoods and an 80ft waterfall on the sunny beaches of California. You will have to hike to the beach - plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6693925,
+          36.1593577
+        ]
+      }
     }
   ]
 }
