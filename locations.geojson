@@ -425,19 +425,19 @@
       "type": "Feature",
       "properties": {
         "uid": "22",
-        "name": "Sloan Museum",
-        "street": "1221 E Kearsley St, Flint, MI 48503",
+        "name": "Flint Institute of Arts",
+        "street": "1120 E Kearsley St, Flint, MI 48503",
         "country": "USA",
-        "website": "https://sloanlongway.org/sloan/",
-        "description": "80,000 people used to work in 37 General Motors Automotive Factories in Flint, Michigan. Today that number is less than 8000. All the while General Motors placed its prototypes and successes in this local museum named after the CEO that took General Motors to its zenith when it held 50% market share in the U.S. auto market.",
-        "worth stopping": true,
+        "website": "https://www.flintarts.org/",
+        "description": "General Motors was founded in Flint, Michigan - which means there were a lot of executives who were able to buy nice art. Notably there is a room full of towering 17th-century French tapestries, and I'm fairly certain they display terrible art to make you appreciate how impressive the good stuff is.",
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.6792139,
-          43.0232466
+          -83.6781688,
+          43.0222512
         ]
       }
     },
@@ -591,7 +591,8 @@
         "website": "http://www.cincymuseum.org/",
         "description": "The train station that was the basis for DC's Hall of Justice is now a museum center. Somehow there is an entire steamboat (complete with historical waterfront), cave, ice cave, and forest in the basement. Also dinosaurs, mummies, and astronauts. It is just as glorious as it sounds.",
         "worth stopping": true,
-        "museum": true
+        "museum": true,
+        "architecture": true
       },
       "geometry": {
         "type": "Point",
@@ -650,7 +651,7 @@
         "country": "USA",
         "website": "https://www.clevelandmetroparks.com/parks/visit/parks/hinckley-reservation/worden-s-ledges",
         "description": "Terrifying century old rock visiages carved into the face of a cliff deep in the woods. I genuinely felt I was going to get murdered despite being in the safe suburbs of Cleveland.",
-        "worth stopping": true,
+        "local attractions": true,
         "park": true
       },
       "geometry": {
@@ -2195,7 +2196,7 @@
         "country": "USA",
         "website": "http://www.frenchlick.com/hotels/westbaden",
         "description": "\"Indiana's Monte Carlo\" - seriously that's what the submission for the National Register of Historical Places says -opened with the largest dome in the world in 1902 and is one of America's few remaining Grand Hotels. The trolley at the hotel takes you straight to the French Lick Casino to spend your hard earned social security checks.",
-        "worth stopping": true,
+        "local attractions": true,
         "architecture": true
       },
       "geometry": {
@@ -15436,7 +15437,7 @@
         "country": "CAN",
         "website": "https://parks.canada.ca/pn-np/pe/pei-ipe",
         "description": "It's soaring sand dunes with red cliffs on the beaches of Prince Edward Island. It's basically Canadian Delaware.",
-        "worth stopping": true,
+        "local attractions": true,
         "park": true
       },
       "geometry": {
@@ -18844,7 +18845,7 @@
         "country": "HUN",
         "website": "http://muzeum.atomeromu.hu/",
         "description": "Come learn about the Hungarian nuclear industry - which is really just a Soviet built reactor. You can see a replica of the the reactor at this museum - but the real thing is just down the road at a secured facility.",
-        "worth stopping": true,
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
@@ -28871,7 +28872,7 @@
         "street": "5070 Hillsdale Blvd, Sacramento, CA 95842",
         "country": "USA",
         "website": "http://www.scandiafun.com/sacramento/",
-        "description": "Don't confuse Scandia Fun Center is a minigolf course that expanded to include amusement rides. Notably, they have a one-of-a-kind wild mouse rollercoaster called Crazy Dane Coaster.",
+        "description": "Scandia Fun Center is a minigolf course that expanded to include amusement rides. Notably, they have a one-of-a-kind wild mouse rollercoaster called Crazy Dane Coaster.",
         "local attractions": true,
         "amusement park": true
       },
