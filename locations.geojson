@@ -30406,6 +30406,46 @@
           36.1593577
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1518",
+        "name": "Riverside Museum",
+        "street": "100 Pointhouse Rd, Glasgow G3 8RS, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.glasgowlife.org.uk/museums/venues/riverside-museum",
+        "description": "The Riverside Museum is a museum of Scottish industry and transportation - featuring a replica of 1930s Glasgow (including a replica of a subway station). the museum is also the permanent home of the 1896 three-masted barque Glenlee.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3062173,
+          55.8652195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1519",
+        "name": "Ulmer Münster",
+        "street": "Münsterplatz 1, 89073 Ulm, Germany",
+        "country": "DEU",
+        "website": "https://www.ulmer-muenster.de/",
+        "description": "Ulm Minster reigned as the tallest building in the world from 1890-1901 - and you can go to the top of the spire on tours. Stand in the middle of the Münsterplatz and look up to feel how small you are in a divine being's plan.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9918769,
+          48.3984707
+        ]
+      }
     }
   ]
 }
