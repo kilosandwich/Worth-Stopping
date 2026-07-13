@@ -1186,7 +1186,7 @@
         "street": "5700 S DuSable Lake Shore Dr, Chicago, IL 60637",
         "country": "USA",
         "website": "https://www.msichicago.org/",
-        "description": "A permanent structure from the 1893 World's Columbian Exposition houses a stainless-steel passenger train, a german U-boat, space capsules, an extensive model railroad, a mockup of old chicago streets, and a mockup coal mine.",
+        "description": "A permanent structure from the 1893 World's Columbian Exposition houses the 1934 art-deco stainless-steel passenger train Pioneer Zephyr, the German1941 Type IXC U-505 submarine, space capsules, an extensive model railroad, the first Boeing 727, a mockup of old Chicago streets, and a mockup coal mine.",
         "worth stopping": true,
         "museum": true
       },
@@ -1324,7 +1324,7 @@
         "street": "7000 Olson Rd, Union, IL 60180",
         "country": "USA",
         "website": "http://www.irm.org/",
-        "description": "This is THE train museum in the USA. The largest railroad museum in the United States. 11 Storage barns on an 80 acre campus with over 200 trains and 500 pieces of rolling stock in total. Trains, interurbans, trolleys, buses, you name it.",
+        "description": "This is THE train museum in the USA. The largest railroad museum in the United States. 11 Storage barns on an 80 acre campus with over 200 trains and 500 pieces of rolling stock in total. Trains, interurbans, trolleys, buses, you name it. The highlights are the streamlined art-deco Nebraska Zephyr, Electroliner, and GG1",
         "worth stopping": true,
         "museum": true
       },
@@ -14173,7 +14173,7 @@
       "type": "Feature",
       "properties": {
         "uid": "709",
-        "name": "Medicine Lodge Archaeological Site",
+        "name": "Medicine Lodge State Archaeological Site",
         "street": "4800 Co Rd 52, Hyattville, WY 82428",
         "country": "USA",
         "website": "https://wyoparks.wyo.gov/index.php/places-to-go/medicine-lodge",
@@ -30444,6 +30444,26 @@
         "coordinates": [
           9.9918769,
           48.3984707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1520",
+        "name": "Rockhill Trolley Museum",
+        "street": "430 Meadow St, Rockhill, PA 17249",
+        "country": "USA",
+        "website": "http://www.rockhilltrolley.org/",
+        "description": "Rockhill Trolley museum features 18 trolleys and 15 other pieces of rolling stock. The highlight is the still operating 1941 streamlined art deco Electroliner Independence Hall.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.899258,
+          40.2398472
         ]
       }
     }

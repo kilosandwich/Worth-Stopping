@@ -15,7 +15,7 @@ behind:
 //Or would it be that there's a default filter?
 
 
-async function getPictures(searchTerm, numImages,maxWidth = 600){
+async function getPictures(searchTerm, numImages,maxWidth = 600, maxAttempts = 5, timeout = 1000){
   console.log("Attempting search for");
   console.log(searchTerm);
     /*this function will scrape the internet (wikimedia) for pictures
@@ -56,16 +56,44 @@ async function getPictures(searchTerm, numImages,maxWidth = 600){
         //console.log("The url we constructed was: "+url)
         // Fetch from Wikimedia
        // console.log("Awaiting response from wikimedia");
-        var response = await fetch(url);
-        var data = await response.json();
-        //console.log("Here is the data we got back from wikimedia:");
-        //looks like this bit is working, we are successfully getting the data from wikimedia
-        //console.log(data);
-        // Safety check: make sure we have results
-        if (!data.query || !data.query.pages) {
-            console.log("No results found, sorry boss we fucked something up");
-            return;
-        }
+       //Note to self: this is probably where you need to create an attempt/max attempt thingy for loading images
+       //you will need a variable for time passed, a max delay variable, an attempts variable, and a maximum number of attempts variable
+      
+       //wait helper function the fact I used this twice means maybe I should do an actual function? idk
+      let attempt = 0;
+
+      while (attempt< maxAttempts){
+          const controller = new AbortController(); //we need a new abort controller each loop. Probably.
+          const timer = setTimeout(() => controller.abort(), timeout);//starts the timeout which calls the abort after a certain period
+          //the timeout is now running, run everything you want to run before the timeout ends
+          try{
+            var response = await fetch(url, {signal: controller.signal});
+            //congratulations this line of code finished, that's the only reason anything is running after the await function
+            //now you have to turn off the timeout
+            clearTimeout(timer);
+            
+            var data = await response.json();
+            //console.log("Here is the data we got back from wikimedia:");
+            //looks like this bit is working, we are successfully getting the data from wikimedia
+            //console.log(data);
+            // Safety check: make sure we have results
+            if (!data.query || !data.query.pages) {
+                //there is nothing to find, quit the function altogether
+                console.log("No results found, sorry boss we fucked something up");
+                return;
+            }else{
+              //we got what we needed, no need to make new attempts, exit the while loop
+              break;
+            }
+          }catch(err){
+            //we threw an error for one reason or another - maybe there was no way to fetch, maybe the timeout went off
+            clearTimeout(timer); //if something other than the timeout threw the error, best to turn it off since otherwise
+            //it will waste background processing power.
+          }
+          //somehow we failed, try try again.
+          attempt++
+       }
+
 
         //This is the section where the data has been returned, and we return an array of images
         //console.log("We are now trying to construct HTML to dislay within the popup");
