@@ -30055,7 +30055,7 @@
         "street": "240 Museum Dr, Lansing, MI 48933",
         "country": "USA",
         "website": "http://reoldsmuseum.org/",
-        "description": "Ransom E. Olds created the modern assembly line to mass produce vehicles at low costs, dominating the automotive industry from 1902 to 1907. Olds was forced out of Oldsmobile in 1904, so he created REO Motor Car Company as a competitor. This museum traces the history of Oldsmobile (1897-2004) and REO (1905-1967) car brands and features over 80 vehicles.",
+        "description": "Ransom E. Olds created the modern assembly line to mass produce vehicles at low costs, dominating the automotive industry from 1902 to 1907. Olds was forced out of Oldsmobile in 1904, so he created REO Motor Car Company as a competitor, and also invented the modern gasoline powered lawnmower. This museum traces the history of  Ransom E. Olds, and the Oldsmobile (1897-2004) and REO (1905-1967) car brands and features over 80 vehicles.",
         "local attractions": true,
         "museum": true
       },
@@ -30464,6 +30464,68 @@
         "coordinates": [
           -77.899258,
           40.2398472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1521",
+        "name": "America's Packard Museum",
+        "street": "420 S Ludlow St, Dayton, OH 45402",
+        "country": "USA",
+        "website": "https://www.americaspackardmuseum.org/",
+        "description": "Packard was an American luxury automotive manufacturer (1899-1956) noted for its quality and styling. During the 1950s, Packard failed to innovate and was swallowed by Studebaker in 1956. This stylish Packard dealership has been restored to its glory so you can dream what it was like to buy luxury cars. Of the three museums dedicated to Packard (National Packard Museum, The Packard Proving Grounds Historic Site) , this one is the best.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1917004,
+          39.7536206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1522",
+        "name": "AACA Museum",
+        "street": "161 Museum Dr, Hershey, PA 17033",
+        "country": "USA",
+        "website": "http://www.aacamuseum.org/",
+        "description": "The Antique Automobile Club of America decided to team up with the Museum of Bus Transportation to create \"America's Transportation Experience\". Notably this museum has 3 Tucker Torpedos and their prototypes, Walter Chrysler's personal Chrysler Imperial, and the buses from the movies \"Forrest Gump\" and \"Speed\"",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6898852,
+          40.298265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1523",
+        "name": "Balboa Park (San Diego)",
+        "street": "",
+        "country": "USA",
+        "website": "https://balboapark.org/",
+        "description": "It's as if the world's fairs never left. Balboa Park is a massive park-museum complex built within the buildings used for the 1915 Panama-California Exposition and 1935 California-Pacific International Exposition. Featuring 15+ museums such as: the San Diego Air & Space Museum, San Diego Automotive Museum, San Diego Natural history Museum, San Diego Museum of Art, San Diego Zoo, and the Botanical Building.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1503763,
+          32.731471
         ]
       }
     }
