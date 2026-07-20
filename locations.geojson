@@ -2874,7 +2874,7 @@
         "street": "202 Museum Ln, Titusville, PA 16354",
         "country": "USA",
         "website": "http://www.drakewell.org/",
-        "description": "Drake Well is the birthplace of the oil industry, all modern petroleum drilling and refining traces its roots back to the oil drilling boom started here in 1859.The world's first commerical oil well was so successful at producing oil that the price of oil dropped such that it became unprofitable.",
+        "description": "Drake Well is the birthplace of the oil industry, all modern petroleum drilling and refining traces its roots back to the oil drilling boom started here in 1859. The world's first commercial oil well was so successful at producing oil that the price of oil dropped such that it became unprofitable. This museum lets you see Drake Well in operation, huff whale oil, see Oil propaganda, historical drilling equipment, and a naturally oil filled river aptly named \"Oil Creek\".",
         "worth stopping": true,
         "museum": true
       },
@@ -2914,7 +2914,7 @@
         "street": "5384 PA-872, Austin, PA 16720",
         "country": "USA",
         "website": "https://austindam.mailchimpsites.com/",
-        "description": "In 1911 The Austin Dam failed and the resulting floodwaters killed 78 people. You can now hike and climb over the ruins of the site of the tradgedy which somehow wasn't the worst dam failure in Pennsylvania's history.",
+        "description": "In 1911 The Austin Dam failed and the resulting floodwaters killed 78 people. You can now hike through the desolate ruins of the site of the tragedy - which somehow wasn't the worst dam failure in Pennsylvania's history.",
         "worth stopping": true,
         "park": true
       },
@@ -2935,7 +2935,7 @@
         "country": "USA",
         "website": "https://www.groundhog.org/",
         "description": "Punxsutawney's entire economy is centered around the groundhog that lives at this burrow. Come see a town that is feverishly devoted to worshipping a marmot.",
-        "worth stopping": true
+        "local attractions": true
       },
       "geometry": {
         "type": "Point",
@@ -2954,7 +2954,7 @@
         "country": "USA",
         "website": "http://www.zippocasemuseum.com/",
         "description": "Come see the destination devoted to starting tiny fires in your hand.",
-        "worth stopping": true,
+        "local attractions": true,
         "museum": true
       },
       "geometry": {
@@ -7465,7 +7465,7 @@
         "street": "695 PA-487, Benton, PA 17814",
         "country": "USA",
         "website": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/ricketts-glen-state-park",
-        "description": "24 waterfalls with stone plate pathways precariously flanking their sides. The trees form a perfect canopy meaning you are fully enclosed by the ridges, streams, and forests of Ricketts Glen State Park.",
+        "description": "24 waterfalls with stone plate pathways precariously flanking their sides. The trees form a perfect canopy meaning you are fully enclosed by the ridges, overhangs, streams, and forests of Ricketts Glen State Park. Ganoga Falls and Erie Falls are the best looking waterfalls, so hike those if you have to pick just one trail.",
         "worth stopping": true,
         "park": true
       },
