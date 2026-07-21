@@ -30528,6 +30528,47 @@
           32.731471
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1524",
+        "name": "Beamish Museum",
+        "street": "Stanley DH9 0RG, United Kingdom",
+        "country": "USA",
+        "website": "https://www.beamish.org.uk/",
+        "description": "The Beamish Museum is a living history museum of Edwardian and Victorian North-East England (1837-1910), and features a working tram system and fully functioning railways that circles through a replica 1825, 1913, and 1950s communities. Beamish notably has working replicas of the oldest steam engines: 1813 Puffing Billy, 1814 Steam Elephant, 1825 Locomotion No.1, 1851 Hetton Lyon, and 1871 Head Wrightson.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6651556,
+          54.8853015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1525",
+        "name": "Durham Museum (Omaha)",
+        "street": "801 S 10th St Omaha, Nebraska, U.S.",
+        "country": "USA",
+        "website": "https://durhammuseum.org/",
+        "description": "For some reason Nebraska has really cool Art-deco architecture - like the fully intact 1931 Omaha Union Station - now a museum displaying the history of Omaha.",
+        "local attractions": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9285448,
+          41.2513672
+        ]
+      }
     }
   ]
 }
