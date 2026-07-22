@@ -6899,7 +6899,7 @@
       "type": "Feature",
       "properties": {
         "uid": "346",
-        "name": "Falls Park",
+        "name": "Falls Park (Sioux Falls)",
         "street": "131 E Falls Park Dr, Sioux Falls, SD 57104",
         "country": "USA",
         "website": "https://siouxfalls.gov/explorethefalls",
@@ -30567,6 +30567,46 @@
         "coordinates": [
           -95.9285448,
           41.2513672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1526",
+        "name": "Ringing Rocks (Pluton, Montana)",
+        "street": "Ringing Rocks Whitehall, MT 59759",
+        "country": "USA",
+        "website": "https://www.blm.gov/visit/ringing-rocks",
+        "description": "Go out to the hills of Montana and hit rocks with hammers to hear them ring like bells. This is the only other Ringing Rocks site accessible in the world by road - but unlike Ringing Rocks County Park in Pennsylvania, these are much further from any nearby town or rescue - and are only accessible on dirt roads.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2393934,
+          45.9434712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1527",
+        "name": "City of Rocks State Park",
+        "street": "327 NM-61, Faywood, NM 88034",
+        "country": "USA",
+        "website": "https://www.emnrd.nm.gov/spd/find-a-park/city-of-rocks-state-park/",
+        "description": "There is truly nothing out here in the lonely wilderness of Southwest New Mexico except the narrow crevices of this field of 40ft volcanic rock.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9773997,
+          32.5902231
         ]
       }
     }
