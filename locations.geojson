@@ -4593,7 +4593,7 @@
       "type": "Feature",
       "properties": {
         "uid": "231",
-        "name": "Natural Arch Kentucky",
+        "name": "Natural Arch Scenic Area (Kentucky)",
         "street": "",
         "country": "USA",
         "website": "https://www.fs.usda.gov/r08/danielboone/recreation/natural-arch-picnic-area",
@@ -30607,6 +30607,46 @@
         "coordinates": [
           -107.9773997,
           32.5902231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1528",
+        "name": "Natural Bridge State Resort Park",
+        "street": "2135 Natural Bridge Rd, Slade, KY 40376",
+        "country": "USA",
+        "website": "https://parks.ky.gov/slade/parks/resort/natural-bridge-state-resort-park",
+        "description": "Natural Bridge State Resort Park is not as impressive as the nearby Natural Arch Scenic Area, but it does offer a 78ft wide and 65ft tall natural bridge that you can walk atop and through. The bridge offers a mountaintop view of the nearby surroundings, and there is a sky lift to the top if you are allergic to walking.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6851552,
+          37.7729852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1529",
+        "name": "Red Rock Canyon State Park (California)",
+        "street": "37749 Abbott Dr, Cantil, CA 93519",
+        "country": "USA",
+        "website": "http://www.parks.ca.gov/?page_id=631",
+        "description": "The cliffs of Red Rock Canyon State Park look normal from afar, but as you get closer you will find that they are entirely composed of red tinted hoodoos carved into the near vertical buttes of the mountain walls. This park is in the desert, and you will have to hike to get to the good stuff - plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9763285,
+          35.3639085
         ]
       }
     }
