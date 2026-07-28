@@ -30649,6 +30649,46 @@
           35.3639085
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1530",
+        "name": "Old Thresher's Reunion",
+        "street": "405 E Thresher Rd, Mt Pleasant, IA 52641",
+        "country": "USA",
+        "website": "https://www.oldthreshers.org/museums/richard-e-oetken-heritage-museums/",
+        "description": "Old Thresher's Reunion is a massive festival of antique steam machinery. When the festival isn't being held, the site is also home to the traction engines and steam engines of the Richard E. Oetken Heritage Museums, narrow gauge railways of the Midwest Central Railroad Museum, trolleys of the Midwest Electric Railway, and the Theatre Museum of Repertoire Americana. The good stuff is only open from late May until mid-August, so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5481595,
+          40.9552426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1531",
+        "name": "Mark Twain Cave",
+        "street": "300 Cave Hollow Rd, Hannibal, MO 63401",
+        "country": "USA",
+        "website": "https://www.marktwaincave.com/",
+        "description": "Mark Twain Cave was sliced apart by a glacier and then reburied, meaning the entire system is a series of labyrinthian glacial grooves. Mark Twain Cave is also home of the much larger Cameron Cave.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3321405,
+          39.6883753
+        ]
+      }
     }
   ]
 }
