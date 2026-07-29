@@ -30689,6 +30689,26 @@
           39.6883753
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1532",
+        "name": "Sioux City Public Museum",
+        "street": "1000 Larsen Park Rd, Sioux City, IA 51103",
+        "country": "USA",
+        "website": "https://www.siouxcitymuseum.org/",
+        "description": "The Sioux City Public Museum includes the Sioux City Public Museum, The Sergeant Floyd River Museum - featuring the 1932 towboat Sergeant Floyd, and the Victorian styled Peirce Mansion built out of pink Sioux Falls Quartzite. The museum is the best thing to do in Sioux City - and almost makes you think it's better than South Sioux City.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4185573,
+          42.4912287
+        ]
+      }
     }
   ]
 }
