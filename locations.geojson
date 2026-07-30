@@ -30709,6 +30709,127 @@
           42.4912287
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1533",
+        "name": "Lumberman's Monument",
+        "street": "5401 Monument Rd, Oscoda Township, MI 48750",
+        "country": "USA",
+        "website": "https://www.fs.usda.gov/r09/huron-manistee/recreation/lumbermans-monument-visitor-center",
+        "description": "The Sand Dunes at Lumberman's monument are not located anywhere near the lake, but instead form a 200ft tall bowl encircling a bend in the Ausable River in Huron-Manistee National Forest.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6230977,
+          44.4353355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1534",
+        "name": "Theodore Roosevelt Presidential Library",
+        "street": "3410 Chateau Rd, Medora, ND 58645",
+        "country": "USA",
+        "website": "https://www.trlibrary.com/",
+        "description": "Rich kid Theodore Roosevelt overcame Asthma with the help of a personal trainer and cigars, exposed corruption as a New York State Assemblyman, Head of the United States Civil Service Commission, New York City Police Commissioner, and Governor of New York. Resigned from being assistant Secretary of the Navy to personally fight in the Spanish-American War as leader of the 'Rough Riders', then was appointed Vice President as punishment to stop him from exposing corruption. Upon President McKinley's assassination, Roosevelt broke up longstanding monopolies, created the Food and Drug Administration, the National Park System, modernized and expanded the United States military to globe-spanning proportions, and built the Panama Canal. His museum is located in North Dakota where he once operated a ranch.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5490297,
+          46.9168085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1535",
+        "name": "Quebec-One Missile Alert Facility",
+        "street": "USA",
+        "country": "2025 Co Rd 238, Cheyenne, WY 82009",
+        "website": "https://wyoparks.wyo.gov/index.php/places-to-go/quebec-01",
+        "description": "Quebec-One operated the Minuteman Missile, Minuteman III and Peacekeeper ICBMs - making this the most modern ICBM launch control facility in the world available for tour. Make a reservation ahead of time - the capacity is limited.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9029809,
+          41.5429597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1536",
+        "name": "Ayres Natural Bridge Park",
+        "street": "208 Natural Bridge Rd, Douglas, WY 82633",
+        "country": "USA",
+        "website": "https://conversecountytourism.com/play/parks-and-outdoors/ayres-natural-bridge",
+        "description": "In the middle of dry eastern Wyoming is a verdant green valley where tranquil rapids flow through a 30ft high and 50ft wide natural bridge in a bend in the river. There's also an abandoned powerplant.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6121231,
+          42.7342454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1537",
+        "name": "Guernsey State Park",
+        "street": "2187 Lake Side Dr, Guernsey, WY 82214",
+        "country": "USA",
+        "website": "https://wyoparks.wyo.gov/index.php/places-to-go/guernsey",
+        "description": "Guernsey State Park encloses the soaring 500ft red-tinted cliffs of the North Platte River. It's yet another scenic canyon in the American West - though this one has Lakeside Drive which takes you right alongside the river.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7832389,
+          42.3207942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1538",
+        "name": "Giant City State Park",
+        "street": "235 Giant City Rd, Makanda, IL 62958",
+        "country": "USA",
+        "website": "https://dnr.illinois.gov/parks/park.giantcity.html",
+        "description": "The bluffs of Giant City State Park have cleaved in a near vertical fashion, forming alleys and overhang. The main trail you want to do is Giant City Nature Trail",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1918135,
+          37.5996755
+        ]
+      }
     }
   ]
 }
