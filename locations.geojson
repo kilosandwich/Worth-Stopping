@@ -6939,7 +6939,7 @@
       "type": "Feature",
       "properties": {
         "uid": "348",
-        "name": "Devils Gulch Park",
+        "name": "Devil's Gulch Park",
         "street": "",
         "country": "USA",
         "website": "http://www.visitgarretson.com/tourismrecreation/devils-gulch-park/",
@@ -30868,6 +30868,87 @@
         "coordinates": [
           -92.0974807,
           46.7826767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1541",
+        "name": "Temperance River State Park",
+        "street": "7620 West MN-61, Schroeder, MN 55613",
+        "country": "USA",
+        "website": "http://www.dnr.state.mn.us/state_parks/temperance_river/index.html",
+        "description": "Temperance River State Park is a set of three waterfalls and rapids set in a narrow and deep gorge. The gorge is full of overhangs and potholes, and there is a notable lack of fences stopping you from getting too close for your own safety.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8721229,
+          47.5554372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1542",
+        "name": "Pipestone National Monument",
+        "street": "36 Reservation Ave, Pipestone, MN 56164",
+        "country": "USA",
+        "website": "http://www.nps.gov/pipe/index.htm",
+        "description": "Pipestone National Monument is located where catlinite was quarried by Native Americans to produce pipes. It's also home to a pleasant hike through red-colored quartzite cliffs to see the 12ft Winnewissa Falls.",
+        "local attractions": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3251892,
+          44.0133284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1543",
+        "name": "Blue Mounds State Park",
+        "street": "4350 Mounds Park Rd, Blue Mounds, WI 53517",
+        "country": "USA",
+        "website": "http://www.dnr.state.mn.us/state_parks/blue_mounds/",
+        "description": "Blue Mounds State Park is home to the highest Sioux Quartzite cliffs in the nation (100ft), as well as a wild bison herd that roams around the plain at the top of the cliff.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1968764,
+          43.6912333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1544",
+        "name": "Kawishiwi Falls",
+        "street": "444 Fernberg Rd, Ely, MN 55731",
+        "country": "USA",
+        "website": "",
+        "description": "Kawishiwi Falls is a 70ft tall waterfall raging over the rocks of the Kawishiwi River with no fences or park rangers to stop you from getting concerningly close.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7635221,
+          47.9340833
         ]
       }
     }
