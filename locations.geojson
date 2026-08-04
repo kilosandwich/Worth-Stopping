@@ -30951,6 +30951,86 @@
           47.9340833
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1545",
+        "name": "Big Stone Mini Golf",
+        "street": "7110 County Rd 110 W Ext, Minnetrista, MN 55364",
+        "country": "USA",
+        "website": "http://www.bigstoneminigolf.com/",
+        "description": "Big Stone Mini Golf is a surrealist mini golf course set in a sculpture garden",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7047639,
+          44.9256815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1546",
+        "name": "Broken Down Dam",
+        "street": "Broken Down Dam Rd, Fergus Falls, MN 56537",
+        "country": "USA",
+        "website": "",
+        "description": "Fergus Falls Hydro Dam failed on September 24, 1909 after a spring underneath the dam eroded its foundation. The dam now lays in ruins in the middle of the river, and because there were no fatalities from its failure no one is particularly upset if you climb on it.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0238598,
+          46.2906813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1547",
+        "name": "Niagara Cave",
+        "street": "29842 Co Rd 30, Harmony, MN 55939",
+        "country": "USA",
+        "website": "http://www.niagaracave.com/",
+        "description": "Niagara Cave features extremely tall ceilings with incredibly narrow corridors - which give an intense feeling of claustrophobia made more exciting by the actively rushing underground river and 60ft waterfall.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0549617,
+          43.5139795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1548",
+        "name": "Greyhound Bus Museum",
+        "street": "1201 Greyhound Boulevard Hibbing, Minnesota, United States",
+        "country": "USA",
+        "website": "https://greyhoundbusmuseum.wordpress.com/about/",
+        "description": "Greyhound Lines was founded in the Iron Range of Minnesota when Eric Wickman charged to drive people between towns so they could go to bars. This museum documents the history of Greyhound, and you can go inside most of the 14 buses here.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9400524,
+          47.4383163
+        ]
+      }
     }
   ]
 }
