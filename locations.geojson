@@ -31031,6 +31031,86 @@
           47.4383163
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1549",
+        "name": "Goosenecks State Park",
+        "street": "UT-316, Mexican Hat, UT 84531",
+        "country": "USA",
+        "website": "https://stateparks.utah.gov/parks/goosenecks/",
+        "description": "The San Juan River carved a meandering canyon 1000ft deep, forming long 'necks' which can be viewed at Goosenecks State Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9279725,
+          37.1745719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1550",
+        "name": "DeSoto State Park",
+        "street": "Desoto Falls Picnic Area,Mentone, AL 35984",
+        "country": "USA",
+        "website": "https://www.alapark.com/parks/desoto-state-park",
+        "description": "DeSoto State Park is home to the 104ft Desoto Falls - the highest waterfall in Alabama. The waterfall has carved its own bowl-shaped canyon, and the viewing platform at the top has a deliberate gap in the railings so you can choose your own level of safety.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5907352,
+          34.5483561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1551",
+        "name": "Grand Caverns",
+        "street": "5 Grand Cavern Rd, Grottoes, VA 24441",
+        "country": "USA",
+        "website": "http://www.grandcaverns.com/",
+        "description": "Grand Caverns is a large cavern with a large hallway like section dripping with long and spindly stalactites.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.834557,
+          38.2590546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1552",
+        "name": "Bear Butte State Park",
+        "street": "20250 SD-79, Sturgis, SD 57785",
+        "country": "USA",
+        "website": "https://gfp.sd.gov/parks/detail/bear-butte-state-park/",
+        "description": "Bear Butte rises 1,253ft above the flat plains of South Dakota, and is a freestanding remnant of magma intrusions - much like nearby Devil's Tower. Unlike Devil's Tower, you can hike to the top and be whelmed by the flatness surrounding you.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4238797,
+          44.4753824
+        ]
+      }
     }
   ]
 }
