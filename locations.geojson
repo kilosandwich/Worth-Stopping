@@ -31111,6 +31111,46 @@
           44.4753824
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1553",
+        "name": "Wisconsin Automotive Museum",
+        "street": "147 N Rural St, Hartford, WI 53027",
+        "country": "USA",
+        "website": "https://wisconsinautomuseum.com/",
+        "description": "The Wisconsin Automotive Museum is devoted to defunct Wisconsin automotive manufacturers Kissel (1906-1931), and Nash (1916-1954). There's also an operational 1913 steam locomotive in the museum.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3814217,
+          43.3201072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1554",
+        "name": "Rambler Ranch",
+        "street": "36370 Forest Trail, Elizabeth, CO 80107",
+        "country": "USA",
+        "website": "https://www.ramblerranch.com/",
+        "description": "Rambler, Nash, and American Motors Corporation may no longer be with us, but you can relive the history of the little companies that merge together and challenged the Big Three and see 250+ vehicles at Rambler Ranch. The ghost of AMC lives on in the Jeep automotive brand - until the Italians inevitably run it into the ground.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5662113,
+          39.3931234
+        ]
+      }
     }
   ]
 }
