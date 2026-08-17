@@ -155,7 +155,30 @@ file.-->
         >
         🔀
       </button>
-
+      <button id="reset-btn" 
+        class = "nav-btn";
+        title= "Reset the map - show everything!"
+        onclick="
+        clearAllMarkers(map);
+        populateMapMarkers(
+          map,
+          geojsonFilePath,
+          []
+        );
+        //note to self: there is a variable that contains the checkboxes that are checked, the reset button should reset this
+        selectedTags = []; //emptying this will mean that the checkboxes will be unchecked
+        //however, you also included boxes to type in information, which you should reset as well
+        //maybe also add a reset that iterates through the checkboxes and empties them LIVE so it is easier
+        document.getElementById('search-name').value = ''; 
+        document.getElementById('search-country').value='';
+        //iterate through every checkbox and uncheck them
+        document.querySelectorAll('.tag-checkbox').forEach(checkbox => {
+            checkbox.checked = false;
+        });
+        "
+        >
+        ↻
+      </button>
 
 
 

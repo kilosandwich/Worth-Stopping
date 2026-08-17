@@ -2355,8 +2355,8 @@
         "street": "1313 Bay Beach Rd, Green Bay, WI 54302",
         "country": "USA",
         "website": "https://www.greenbaywi.gov/445/Bay-Beach-Amusement-Park",
-        "description": "The people of Green Bay love Green Bay so much that their municipal government built an affordable amusement park just for the people of Green Bay. To top it off, Bay Beach Park relocated Elvis's favorite rollercoaster - the Zippin Pippin from Memphis to Green Bay.",
-        "worth stopping": true,
+        "description": "The people of Green Bay love Green Bay so much that their municipal government built an affordable amusement park just for the people of Green Bay. To top it off, Bay Beach Park relocated Elvis's favorite rollercoaster - the Zippin Pippin from Memphis to Green Bay. Lines are surprisingly long here until around 6pm - plan accordingly.",
+        "local attractions": true,
         "amusement park": true
       },
       "geometry": {
@@ -27733,7 +27733,7 @@
         "street": "1881 Wisconsin Dells Pkwy B, Wisconsin Dells, WI 53965",
         "country": "USA",
         "website": "https://www.mtolympuspark.com/parks/outdoor/theme-park/",
-        "description": "In the middle of Wisconsin there is an amusement park themed to the Greek Pantheon of Gods - featuring 5 rollercoasters (including one that dives underneath the parking lot), 5 go-kart tracks, and a massive waterpark. It's cheap - not great, and if you approach it that way you'll enjoy your time.",
+        "description": "In the middle of Wisconsin there is a water park themed to the Greek Pantheon of Gods - featuring a 140ft waterslide, a wave pool that produces massive waves capable of drowning you, and a spinning waterslide that warps one's sense of time. There's also 5 rollercoasters and 5 go-kart tracks. It's cheap - not great, and if you approach it that way you'll enjoy your time. You will need to brace your neck and back on most of the wooden rollercoasters here - they are actively painful if not ridden defensively.",
         "local attractions": true,
         "amusement park": true
       },

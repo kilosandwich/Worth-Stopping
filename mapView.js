@@ -928,7 +928,7 @@ async function randomLocation(geojsonFilePath ="locations.geojson", map){
   console.log("Panning!");
   map.panBy([0, -100]);
   console.log("Opening popup");
-  openPopupById(rndUID);
+  openPopupById(rndUID, map);
 }
 
 function waitForMoveEnd(map) {
@@ -937,26 +937,35 @@ function waitForMoveEnd(map) {
   return new Promise(resolve => map.once("moveend", resolve));
 }
 
-async function openPopupById(uid){
+//dear future self, the reason this does not work is because past self decided to save computational power by combining
+//all popups into only one popup
+//the obvious solution is to invent a new function that populates the popup based on uid alone
+//or something like that
+async function openPopupById(uid, map){
+  
+  console.log(`Opening the popup with id ${uid}`);
   const target = String(uid);
 
   let found = null;
 
-  map.eachLayer(layer => {
-    const layerUid = layer?.feature?.properties?.uid;
-    if (layerUid != null && String(layerUid) === target) {
-      found = layer;
-    }
-  });
+  //FUTURE SELF: this is where you will have to use the uid combined with a new function that 
+  //creates and deletes a popup for the location
+  //in your infinite wisdom, you only have one actual popup on the map that is shared between all markers
+  //this means that in order for you to open a popup, you must either
+  //a.) Identify the shared popup, and open it in the same location as the marker
+  //b.) open a BRAND NEW popup in the same location (will lead to annoying duplication issues)
+
 
   if (!found){
     console.log("Popup could not be opened");
     return false;
   } 
-
+  console.log("Now that we found the layer, open the popup, mission acomplished");
   found.openPopup();
   return true;
 }
+
+
 //This hides every current overlay and puts it into a new hidden layer on the map
 //this hidden layer will be accessed later when the map is repopulated.
 function hideAllOverlays(map) {
