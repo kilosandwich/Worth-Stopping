@@ -31352,6 +31352,67 @@
           -14.2742613
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1565",
+        "name": "Parque Nacional Rapa Nui",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/parques/parque-nacional-rapa-nui/",
+        "description": "Despite being over 1,600 miles away from the nearest major inhabited area, the volcanic island of Rapa Nui (Easter Island) is home to 900+ massive statues carved by the ancient inhabitants.",
+        "worth stopping": true,
+        "park": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2881229,
+          -27.1260768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1566",
+        "name": "Green Mountain National Park (Ascension Island)",
+        "street": "",
+        "country": "GBR",
+        "website": "https://www.ascension.gov.ac/map-marker/green-mountain",
+        "description": "The British turned the barren and volcanic ascension island into a lush paradise by covering the island in plant species from all around the world. As a result Green Mountain National Park is home to 220 exotic plant specifies and resembles a cultivated botanical garden overlooking wispy volcanic peaks in the cold emptiness of the South Atlantic.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.351112,
+          -7.9496071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1567",
+        "name": "Longwood House",
+        "street": "28X8+XQ4, Longwood Hangings, Longwood STHL 1ZZ, St. Helena",
+        "country": "GBR",
+        "website": "",
+        "description": "Napoleon escaped exile from Elba to reclaim the French throne and nearly defeat the Great Powers of Europe. Following Napoleon's defeat at Waterloo the Great Powers of Europe decided to make sure this could never happen again by exiling him to Longwood House on Saint Helena in the remote South Atlantic.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6831669,
+          -15.9501725
+        ]
+      }
     }
   ]
 }
