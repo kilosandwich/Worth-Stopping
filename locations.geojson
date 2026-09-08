@@ -31292,6 +31292,66 @@
           22.0718019
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1562",
+        "name": "Parque Nacional de las Cavernas del Río Camuy",
+        "street": "Km 19.0, PR-129, Lares, 00669, Puerto Rico",
+        "country": "USA",
+        "website": "https://www.discoverpuertorico.com/article/explore-rio-camuy-cave-park",
+        "description": "The Camuy river runs underground and has eroded massive 200ft tall caves in the rainforests of Puerto Rico. The caves are sensitive to weather and flooding - plan ahead.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8228382,
+          18.3455754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1563",
+        "name": "Sitio Histórico Nacional de San Juan",
+        "street": "501 Calle Norzagaray, San Juan, 00901, Puerto Rico",
+        "country": "USA",
+        "website": "https://www.nps.gov/saju/index.htm",
+        "description": "San Juan National Historic Site is home to the 1539 Castillo San Felipe del Morro and the 1634 Castillo San Cristóbal - a pair of massive fortifications dominating the entrance to San Juan bay.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.123919,
+          18.4707624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1564",
+        "name": "National Park of American Samoa",
+        "street": "P8G3+66M, Rte 001, Fagatogo, Eastern District 96799, American Samoa",
+        "country": "USA",
+        "website": "https://www.nps.gov/npsa/index.htm",
+        "description": "The National Park of American Samoa features massive and steep rainforest-covered mountains next to pristine sandy beaches. Tutuila island features the spine-like mountains and natural arches of Pola island (best seen from a tour boat), Ta'u features the world's tallest cliffs next to the sea, and the coral and white sand beaches of Ofu.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.6968065,
+          -14.2742613
+        ]
+      }
     }
   ]
 }
