@@ -2095,7 +2095,7 @@
         "street": "21565 Executive Pkwy, Elkhart, IN 46514",
         "country": "USA",
         "website": "https://thervmhhalloffame.org/",
-        "description": "85% of All North American RVs are built in Elkhart Indiana and is known as the \"RV Capital of the World\". This hall of fame honors the legends of the motoring home industry and documents the development of the RV.",
+        "description": "85% of All North American RVs are built in Elkhart Indiana and is known as the \"RV Capital of the World\". This hall of fame honors the legends of the motoring home industry and documents the development of the RV - including the ambition to put a mobile home on Mars. This museum is the greatest example of liminal space I have ever seen.",
         "worth stopping": true,
         "museum": true
       },
@@ -2215,7 +2215,7 @@
         "street": "8121 Park Rd, Marshall, IN 47859",
         "country": "USA",
         "website": "https://www.in.gov/dnr/state-parks/parks-lakes/turkey-run-state-park/",
-        "description": "Narrow sandstone canyons that feel like the arches of a subway tunnel with waterfalls in the middle. There's also rocky cliffs facing the river.",
+        "description": "Narrow sandstone canyons that feel like the arches of a subway tunnel with waterfalls in the middle. There's also rocky cliffs facing the river. Trail #3 contains Rocky Hollow and Bear Hollow, which contains the arching canyons you are looking for.",
         "worth stopping": true,
         "park": true
       },
@@ -31149,6 +31149,147 @@
         "coordinates": [
           -104.5662113,
           39.3931234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1555",
+        "name": "Battleship Missouri Memorial",
+        "street": "63 Cowpens St, Honolulu, HI 96818",
+        "country": "USA",
+        "website": "http://www.ussmissouri.org/",
+        "description": "The WW2-era Iowa-class battleship USS Missouri fought in World War II, the Korean War, and the Gulf War. The most powerful American battleship put to sea, the Missouri was the site of the surrender of Imperial Japan during World War II.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9535736,
+          21.3620467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1556",
+        "name": "Pearl Harbor National Memorial",
+        "street": "63 Cowpens St, Honolulu, HI 96818",
+        "country": "USA",
+        "website": "http://www.ussmissouri.org/",
+        "description": "The Empire of Japan launched a sneak attack on Pearl Harbor on December 7, 1941 - damaging or sinking the near entirety of the United States Pacific Fleet, killing 2,403 Americans, and dragging the isolationist United States into World War 2. The sunken warships USS Utah and USS Arizona still lay in the harbor as memorials to those lost.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9390645,
+          21.3673872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1557",
+        "name": "Pacific Fleet Submarine Museum",
+        "street": "11 Arizona Memorial Dr, Honolulu, HI 96818",
+        "country": "USA",
+        "website": "https://www.bowfin.org/",
+        "description": "The WW2-era Balao-class submarine USS Bowfin is the centerpiece of this museum on American submarines, there's also some nuclear missiles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9393839,
+          21.3686119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1558",
+        "name": "ʻIolani Palace",
+        "street": "364 S King St, Honolulu, HI 96813",
+        "country": "USA",
+        "website": "https://www.iolanipalace.org/",
+        "description": "Kamehameha I united the bickering tribal islands of Hawaii into the Kingdom of Hawaii in 1795, but the absolute Monarchy was forcefully stripped of its power in 1887 by American colonists, overthrown in 1893 to form a republic, and annexed by the United States in 1900. The ʻIolani Palace was the seat of Royal Power, and is the only royal palace in the United States.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8590296,
+          21.3065119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1559",
+        "name": "Haleakalā National Park",
+        "street": "Haleakala Hwy, Kula, HI 96790",
+        "country": "USA",
+        "website": "https://www.nps.gov/hale/index.htm",
+        "description": "The United States continues its proud tradition of buildings highways to the top of dormant volcanos at Haleakalā National Park. The ashen volcanic crater sit above the clouds rising from the surrounding tropical rainforests. You can hike through the crater, but remember you are at high altitude, in a volcano, and it rains frequently.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2501343,
+          20.7149361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1560",
+        "name": "Hawaiʻi Volcanoes National Park",
+        "street": "National Park, 1 Crater Rim Dr W, Volcano, HI 96785",
+        "country": "USA",
+        "website": "https://www.nps.gov/havo/index.htm",
+        "description": "Hawaii Volcanoes National Park surrounds Kīlauea - one of the world's most active volcanos. Just because it's an active volcano doesn't mean you can't build a highway on it, and Chain of Craters road has been built straight through the middle of a lava field.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2582913,
+          19.4288674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1561",
+        "name": "Waimea Canyon State Park",
+        "street": "Waimea Canyon State Park, Waimea, HI 96796",
+        "country": "USA",
+        "website": "22.0718019,-159.6623529",
+        "description": "In the middle of Kaua'i lays a 3000ft deep canyon with soaring red cliffs dripping with waterfalls and covered in a tropical rainforest.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6623529,
+          22.0718019
         ]
       }
     }
