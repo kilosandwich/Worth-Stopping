@@ -31413,6 +31413,26 @@
           -15.9501725
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1568",
+        "name": "Russell Military Museum",
+        "street": "43363 U.S.41, Zion, IL 60099",
+        "country": "USA",
+        "website": "http://www.russellmilitarymuseum.com/",
+        "description": "The Russel Military museum features 400+ military vehicles rusting in a field, it's like being in an American version of an Eastern European military museum. You can pay to ride a tank through the boneyard as well.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9510744,
+          42.4926163
+        ]
+      }
     }
   ]
 }
