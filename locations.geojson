@@ -29634,7 +29634,7 @@
         "street": "2221 Clifty Dr, Madison, IN 47250",
         "country": "USA",
         "website": "https://on.in.gov/cliftyfallssp",
-        "description": "The 4 waterfalls of Clifty Falls aren't the most powerful waterfall in Indiana, however the hiking trails snake along the rim and inside of the 200ft deep Clifty Creek Canyon - including passing through a tunnel",
+        "description": "The 4 waterfalls of Clifty Falls aren't the most powerful waterfall in Indiana, however the hiking trails snake along the rim and inside of the 200ft deep Clifty Creek Canyon. Make sure to check out 'hanging rock' on the road just outside of the park, where you can park beneath a massive cliff overhang that occasionally has a waterfall.",
         "local attractions": true,
         "park": true,
         "cave": true
@@ -30475,7 +30475,7 @@
         "street": "420 S Ludlow St, Dayton, OH 45402",
         "country": "USA",
         "website": "https://www.americaspackardmuseum.org/",
-        "description": "Packard was an American luxury automotive manufacturer (1899-1956) noted for its quality and styling. During the 1950s, Packard failed to innovate and was swallowed by Studebaker in 1956. This stylish Packard dealership has been restored to its glory so you can dream what it was like to buy luxury cars. Of the three museums dedicated to Packard (National Packard Museum, The Packard Proving Grounds Historic Site) , this one is the best.",
+        "description": "Packard (1899-1956)  was an American luxury automotive manufacturer akin to Cadillac noted for its quality and styling. During the 1950s, Packard failed to innovate and was swallowed by Studebaker in 1956. This stylish Packard dealership has been restored to its glory so you can dream what it was like to buy luxury cars. Of the three museums dedicated to Packard (National Packard Museum, The Packard Proving Grounds Historic Site) , this one is the best.",
         "local attractions": true,
         "museum": true
       },
@@ -31431,6 +31431,106 @@
         "coordinates": [
           -87.9510744,
           42.4926163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1569",
+        "name": "Lake Winnepesaukah",
+        "street": "1730 Lakeview Dr, Rossville, GA 30741",
+        "country": "USA",
+        "website": "http://www.lakewinnie.com/",
+        "description": "Lake Winnepesaukah is a small amusement park situated on a small lake, including 3 rollercoasters and a 1927 boat chute water ride.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2454841,
+          34.9769683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1570",
+        "name": "Stricker's Grove",
+        "street": "11490 Hamilton Cleves Rd, Hamilton, OH 45013",
+        "country": "USA",
+        "website": "http://www.strickersgrove.com/",
+        "description": "Stricker's Grove is a delightful amusement park featuring 2 rollercoasters that is closer to a well maintained permanent fair. The park is only open for select times during the year - so plan ahead.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6698215,
+          39.2951312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1571",
+        "name": "Magic Springs Theme and Water Park",
+        "street": "1701 E Grand Ave, Hot Springs, AR 71901",
+        "country": "USA",
+        "website": "https://www.magicsprings.com/",
+        "description": "Magic Springs is the amusement park Arkansas has. Featuring 4 rollercoasters (including the only Maurer skyloop in the United States).",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0180528,
+          34.5189903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1572",
+        "name": "Wild Adventures",
+        "street": "3766 Old Clyattville Rd, Valdosta, GA 31601",
+        "country": "USA",
+        "website": "https://www.wildadventures.com/",
+        "description": "Wild Adventures is a combined zoo and amusement park - and is a very generic attempt at both. The park is composed entirely of off-the-shelf models except for its river rapids ride. There are 6 rollercoasters here, and none of them are particularly good. One of the children's rollercoasters goes over a pit full of actual alligators though.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3217807,
+          30.7208128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1573",
+        "name": "Adventureland (New York)",
+        "street": "2245 Broadhollow Rd, Farmingdale, NY 11735",
+        "country": "USA",
+        "website": "http://www.adventureland.us/",
+        "description": "Adventureland occupies a 150ft wide and 1000ft long sliver of land encircling a Target, it is genuinely a miracle that they managed to fit in 3 rollercoasters, a complete selection of amusement rides, and a miniature railway.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4211836,
+          40.7526328
         ]
       }
     }
