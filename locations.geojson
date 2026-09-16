@@ -31533,6 +31533,212 @@
           40.7526328
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1574",
+        "name": "Castillo San Felipe de Barajas",
+        "street": "Cielo mar, La Boquilla, Cl. 31, Pie Del Cerro, Cartagena de Indias, Cartagena, Cartagena de Indias, Bolívar, Colombia",
+        "country": "COL",
+        "website": "http://fortificacionescartagena.com.co/",
+        "description": "The Spanish built an impregnable fortress in 1639 overlooking the large natural harbor of Cartagena, Colombia. This is basically the Colombian equivalent of The Rock of Gibraltar or the Citadel of Quebec.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5390623,
+          10.422532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1575",
+        "name": "Parque Jaime Duque",
+        "street": "Zipaquira - Briceno #55C, Zipaquirá, Tocancipá, Cundinamarca, Colombia",
+        "country": "COL",
+        "website": "http://www.parquejaimeduque.com/",
+        "description": "Jaime Duque Park is located in Bogota, Colombia - which is on top of a mountain. Despite this location, it is also home to the WW2-era Rudderow-class destroyer escort ARC Cordoba (DT-15), a replica of the 1823 brigantine Independiente, a scale model of the Taj Mahal, and a zoo.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9615779,
+          4.9457262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1576",
+        "name": "Parque del Café",
+        "street": "Parque del Café",
+        "country": "COL",
+        "website": "https://www.parquedelcafe.co/",
+        "description": "Parque del Cafe (\"Coffee Park\") started off as a coffee museum, and has grown to become an elaborate museum, garden, amusement park complex. Featuring 3 rollercoasters, including 2 uniquely designed for the park - a rarity in South America.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7709933,
+          4.54061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1577",
+        "name": "Hacienda Nápoles",
+        "street": "Km 165 Autopista Medellin Bogotá, Doradal, Puerto Triunfo, Antioquia, Colombia",
+        "country": "COL",
+        "website": "https://haciendanapoles.com/",
+        "description": "Pablo Escobar's former estate has been transformed into a theme park, museums - including a museum on Pablo Escobar's life, a zoo, waterparks, and rollercoasters. The complex is so massive that you have to drive your car around it to get from section to section.",
+        "worth stopping": true,
+        "museum": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7259993,
+          5.9238836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1578",
+        "name": "Casa Museo Salto del Tequendama",
+        "street": "via mesitas, km 6.9, Soacha, Cundinamarca, Colombia",
+        "country": "COL",
+        "website": "http://casamuseotequendama.org/",
+        "description": "In 1923 a hotel was built perched on the cliffs overlooking the 433ft high Taquendama falls and gorge. Despite being beautiful, the upstream city of Bogota (population: 11,658,211) has inadequate wastewater treatment, so the waterfalls and gorge are incredibly contaminated.",
+        "worth stopping": true,
+        "park": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2970548,
+          4.5763756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1579",
+        "name": "Parque Nacional Natural Los Nevados",
+        "street": "Carretera Manizales - Bogotá Km. 45, Murillo, Tolima, Colombia",
+        "country": "COL",
+        "website": "http://www.parquesnacionales.gov.co/",
+        "description": "Los Nevados National Natural Park is home to the tallest volcanoes in Colombia - with Nevado del Ruiz being 17,680ft tall. The snow-capped volcanoes are active, misty (low visibiliity), and the main road only goes as far as Nevado del Ruiz. Plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3496256,
+          4.9358469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1580",
+        "name": "Piedra del Peñol",
+        "street": "",
+        "country": "COL",
+        "website": "",
+        "description": "The Rock of Guatape (aka The Stone of El Penol) is a 660ft tall rock that offers commanding views of the islands and landscape of the nearby reservoir. It's kind of like a Colombian version of Ayers Rock",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1784837,
+          6.2240418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1581",
+        "name": "Parque Nacional Natural Macuira",
+        "street": "",
+        "country": "",
+        "website": "",
+        "description": "The tropical rainforest mountains of the Macuira mountains rise above the surrounding La Guajira Desert, meaning this is one of the only places in the world that you can see sand dunes within a tropical rainforest. This region is not particularly developed, and is also a desert, plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2993657,
+          12.1389173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1582",
+        "name": "Ventanas de Tisquizoque",
+        "street": "",
+        "country": "COL",
+        "website": "",
+        "description": "A multi-tiered 300ft waterfall emerges from a cave in the side of a mountain. Hiking trails lead to the cave at the top of the mountain, as well as the base of the falls.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9586078,
+          5.8109178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1583",
+        "name": "Desierto de la Tatacoa",
+        "street": "",
+        "country": "COL",
+        "website": "",
+        "description": "Despite Colombia being a country mostly composed of mountainous jungles, there is a dry area in a valley that remarkably resembles the American Southwest called the \"Tatacoa Desert\" - complete with rattlesnakes and cacti.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1704607,
+          3.2332735
+        ]
+      }
     }
   ]
 }
