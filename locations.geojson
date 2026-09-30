@@ -31739,6 +31739,26 @@
           3.2332735
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1584",
+        "name": "New England Air Museum",
+        "street": "36 Perimeter Rd, Windsor Locks, CT 06096",
+        "country": "USA",
+        "website": "http://www.neam.org/",
+        "description": "The New England Air Museum boasts over 52+ aircraft, including: the last remaining Sikorsky VS-44A Seaplane, a Doman LZ-5 helicopter, a Burnelli CBY-3 Loadmaster, a portion of the AerVelo Atlas - the only human powered helicopter, and a Boeing B-29 Superfortress.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6911429,
+          41.9474311
+        ]
+      }
     }
   ]
 }
