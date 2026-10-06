@@ -31759,6 +31759,127 @@
           41.9474311
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1585",
+        "name": "Le Puy du Fou",
+        "street": "Le Puy du Fou, 85590 Les Epesses, France",
+        "country": "FRA",
+        "website": "https://www.puydufou.com/france/fr",
+        "description": "Le Puy Du Fou is a theme park - the kind where they hold full scale battle reenactments including: a siege of a castle, a Viking raid on a village, a full sized roman amphitheater with gladiator fights, a French village with French revolutionaries, the trenches of Verdun, a sailing ship, etc.. The actors only speak French, fortunately violence and spectacle are a universal language.",
+        "worth stopping": true,
+        "park": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9271221,
+          46.8901265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1586",
+        "name": "Giant's Causeway",
+        "street": "44 Causeway Rd, Bushmills BT57 8SU, United Kingdom",
+        "country": "GBR",
+        "website": "https://www.nationaltrust.org.uk/giants-causeway",
+        "description": "This section of the Irish coast was once a volcanic plateau which cooled into hexagonal basalt pillars, meaning it's like hiking on top of an oceanic bee's nest of 40,000 hexagons. The coastal trail from the visitor's center will take you perilously along the cliff tops and cliff base.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5172737,
+          55.2336949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1587",
+        "name": "Skellig Michael",
+        "street": "",
+        "country": "IRL",
+        "website": "",
+        "description": "6th Century Celtic Monks carved a monastery and pathways into the jagged perilous cliffs of the 715ft tall island mountain of Skellig Michael. The island is only accessible by tour boat in the Summer - spots are limited, reserve ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.5407863,
+          51.7707393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1588",
+        "name": "Cliffs of Moher",
+        "street": "",
+        "country": "IRL",
+        "website": "",
+        "description": "700ft tall vertical cliffs and sea stacks on the Irish coast offer a compelling view of the endlessness of the North Atlantic Ocean. There are only fences near the parking lot, which means on the walking trail you can get as close to the edge as you value your life. There is no shade - it is windy, wet, and slippery - plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4310918,
+          52.9729912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1589",
+        "name": "Burren National Park",
+        "street": "",
+        "country": "IRL",
+        "website": "http://www.burrennationalpark.ie/",
+        "description": "The twisted and barren limestone hills of the Burren Karst look like twisted spirals twirled into the landscape. The best view is from the top of Mullaghmore. There is no shade.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0032927,
+          53.0077197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1590",
+        "name": "Brú na Bóinne",
+        "street": "Brú na Bóinne, Roughgrange, Donore, Co. Meath, A92 EH5C, Ireland",
+        "country": "IRL",
+        "website": "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-and-knowth/",
+        "description": "The Valley of the Tombs is home to 90 monuments and burial sites, including the prominent neolithic burial mounds of Newgrange (circa ~3100BC) and Knowth (circa ~3200BC). Access by guided tour from the visitor center only - yes they will take you inside the chambers at Newgrange. Book weeks ahead - this site is popular.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4754268,
+          53.6948097
+        ]
+      }
     }
   ]
 }
