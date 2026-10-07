@@ -31880,6 +31880,47 @@
           53.6948097
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1591",
+        "name": "HMS Caroline (1914)",
+        "street": "Alexandra Dock, Queens Rd, Belfast BT3 9DT, United Kingdom",
+        "country": "GBR",
+        "website": "https://tickets.royalnavymuseums.org.uk/en/hms-caroline/hmsc-tickets",
+        "description": "The WW1-era C-class light cruiser HMS Caroline is the largest surviving British ship of the First World War. The ship is now available for tour in Belfast",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9028542,
+          54.6137216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1592",
+        "name": "Fingal's Cave",
+        "street": "",
+        "country": "GBR",
+        "website": "https://www.nts.org.uk/visit/places/staffa",
+        "description": "The island of Staffa is composed entirely of hexagonally joined Columnar basalt - meaning the entire island and cave look like a stone beehive. The island and cave and be visited via tour boat - reservations are required, plan ahead. It's like an island version of the Giant's Causeway.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3410142,
+          56.4346182
+        ]
+      }
     }
   ]
 }
