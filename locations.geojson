@@ -671,8 +671,8 @@
         "country": "USA",
         "website": "",
         "description": "Native Americans built a giant snake shaped mound on top of a hill more than 2000 years ago. It's still there snaking in the woods.",
-        "worth stopping": true,
-        "park": true
+        "local attractions": true,
+        "museum": true
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "street": "19988 OH-664 Scenic, Logan, OH 43138",
         "country": "USA",
         "website": "https://ohiodnr.gov/go-and-do/plan-a-visit/find-a-property/hocking-hills-state-park",
-        "description": "Caves and waterfalls, waterfalls in caves, rock overhangs, and gentle hikes. It's like Ohio is trying to trick you into thinking it's a nice place to be.",
+        "description": "Waterfalls, rock overhangs, and gentle hikes through scenic river gorges. It's like Ohio is trying to trick you into thinking it's a nice place to be. The two most notable hikes are Old Man's Cave and Ash Cave.",
         "worth stopping": true,
         "park": true
       },
@@ -31919,6 +31919,146 @@
         "coordinates": [
           -6.3410142,
           56.4346182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1593",
+        "name": "National Voice of America Museum of Broadcasting.",
+        "street": "8070 Tylersville Rd, Crosley Blvd, West Chester Township, OH 45069",
+        "country": "USA",
+        "website": "http://www.voamuseum.org/",
+        "description": "Voice of America used the custom-built 200,000 watt transmitters at Bethany Relay Station to bounce freedom-filled radio signals off the atmosphere and into Fascist and Communist countries. Despite being called the Voice of America Museum, the museum is mostly about the Cincinnati-based Crosley Radio Corporation - the largest manufacturer of radio receivers during the Golden Age of Radio (they also made the first fridges with shelves, cars, soap operas, etc.). There is a nuclear submarine and 500,000 watt transmitter in the soccer field next door.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3566159,
+          39.3558002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1594",
+        "name": "Viking World museum",
+        "street": "Reykjanesbær, Vikingabraut 1, 260 Njarðvík, Iceland",
+        "country": "ISL",
+        "website": "https://www.vikingworld.is",
+        "description": "The same Vikings that pillaged Europe settled Iceland, and this museum is built around a replica Viking longship and replica art.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5297039,
+          63.9760162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1595",
+        "name": "Reykjavík Maritime Museum",
+        "street": "Grandagarður 8, 101 Reykjavík, Iceland",
+        "country": "ISL",
+        "website": "https://reykjavikcitymuseum.is/reykjavik-maritime-museum",
+        "description": "Historically the primary industry of Iceland has been fishing - and the Reykjavík Maritime Museum boasts the 1946 fishing vessel Gullborg, the 1955 tugboat Magni - the first steel ship built in Iceland, and the 1959 Coast Guard Vessel ICGV Óðinn.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9484467,
+          64.1532688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1596",
+        "name": "Herring Era Museum",
+        "street": "Snorragata 10, 580 Siglufjörður, Iceland",
+        "country": "ISL",
+        "website": "http://www.sild.is/",
+        "description": "The Icelandic Herring fishery collapsed in 1969 due to overfishing, destroying the economies of fishing towns on the Icelandic coast. The 1930s Herring factory in Siglufjörður has been preserved as it was - boats, slipway, and salting station.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9132807,
+          66.1478815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1597",
+        "name": "Geysir",
+        "street": "",
+        "country": "ISL",
+        "website": "",
+        "description": "This is the geyser from which the word Geysir is named, eruptions here reach 200ft, while eruptions at the nearby Strokkur geyser reach 115ft. Eruptions are frequent and visible.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3011648,
+          64.3126684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1598",
+        "name": "Vatnajökull National Park",
+        "street": "",
+        "country": "ISL",
+        "website": "",
+        "description": "The volcanic mountains of southeastern Iceland are buried under the massive Vatnajökull glacier - carving a landscape of waterfalls, iceberg-filled glacial lagoons, and basalt pillars. You can reach most destinations from your car and mild walking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.1898709,
+          64.0472837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1599",
+        "name": "Gullfoss",
+        "street": "",
+        "country": "ISL",
+        "website": "",
+        "description": "The 105ft Gulfoss (Golden Falls) has carved a deep canyon into the Hvita river. The walkways let you go near the top of the falls, but the canyon base is inaccessible.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.12195,
+          64.3270713
         ]
       }
     }
