@@ -32061,6 +32061,66 @@
           64.3270713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1600",
+        "name": "Dettifoss",
+        "street": "",
+        "country": "ISL",
+        "website": "",
+        "description": "The 144ft tall Dettifoss is the second most powerful waterfall in Europem and is located in the glacial-flood carved landscape of the Jökulsá á Fjöllum canyon in northern Vatnajökull National Park. The smaller 89ft Hafragilfoss is located just downstream.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3857094,
+          65.814615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1601",
+        "name": "Gljúfrafoss",
+        "street": "",
+        "country": "ISL",
+        "website": "",
+        "description": "The Gljúfrafoss waterfall has carved a narrow slot canyon where the waterfall lays in intimate alcove. The 197ft Seljalandsfoss waterfall is just down the road.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.9858212,
+          63.6208472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1602",
+        "name": "Skógafoss",
+        "street": "",
+        "country": "ISL",
+        "website": "",
+        "description": "The 200ft Skogafoss waterfall is fed directly from the glaciers just to the north. The Fimmvörðuháls hiking trail from Skogafoss will take you past 9 other waterfalls within a 2 mile radius.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5111041,
+          63.531802
+        ]
+      }
     }
   ]
 }
