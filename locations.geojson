@@ -32070,7 +32070,7 @@
         "street": "",
         "country": "ISL",
         "website": "",
-        "description": "The 144ft tall Dettifoss is the second most powerful waterfall in Europem and is located in the glacial-flood carved landscape of the Jökulsá á Fjöllum canyon in northern Vatnajökull National Park. The smaller 89ft Hafragilfoss is located just downstream.",
+        "description": "The 144ft tall Dettifoss is the second most powerful waterfall in Europe and is located in the glacial-flood carved landscape of the Jökulsá á Fjöllum canyon in northern Vatnajökull National Park. The smaller 89ft Hafragilfoss is located just downstream.",
         "worth stopping": true,
         "park": true
       },
@@ -32119,6 +32119,26 @@
         "coordinates": [
           -19.5111041,
           63.531802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1603",
+        "name": "Parc national de La Réunion",
+        "street": "",
+        "country": "FRA",
+        "website": "",
+        "description": "Reunion National Park is set in the rainforest covered collapsed volcanic calderas of the remote Reunion Island. The collapsed volcanoes have formed a massive canyon with rushing rivers and waterfalls - there's also an active volcano on the eastern side of the island. It's basically French Hawaii.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5569194,
+          -21.0436794
         ]
       }
     }
