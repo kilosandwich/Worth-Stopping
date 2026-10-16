@@ -32141,6 +32141,46 @@
           -21.0436794
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1604",
+        "name": "Parque Natural da Madeira",
+        "street": "",
+        "country": "PRT",
+        "website": "",
+        "description": "This is basically Portugal's Hawaii. Madeira is the top of a shield volcano, which means the island is covered in sharp mountains covered in a subtropical rainforest. You can drive to the top of Pico do Areeiro for the best views and hikes.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9290692,
+          32.7354245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1605",
+        "name": "Algar do Carvão",
+        "street": "",
+        "country": "PRT",
+        "website": "",
+        "description": "Descend a plant-covered lava tube in a dormant volcano to see an underground lagoon.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.2161616,
+          38.727883
+        ]
+      }
     }
   ]
 }
