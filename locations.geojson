@@ -32181,6 +32181,126 @@
           38.727883
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1606",
+        "name": "Black River Gorges National Park",
+        "street": "",
+        "country": "MUS",
+        "website": "",
+        "description": "Black River Gorges National Park offers much more gentle rainforest-covered slopes and gorges than its neighbor Parc national de La Réunion. Charamel Waterfall and the spikey Trois Mamelles and Le Pouce are the highlights",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3855908,
+          -20.4432203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1607",
+        "name": "Parque nacional de Timanfaya",
+        "street": "",
+        "country": "ESP",
+        "website": "https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/timanfaya/guia-visitante/mancha-blanca.html",
+        "description": "Lazarote island in the Canary Islands is a volcanic hellscape that has left a savage and colorful field of ash pockmarked with calderas.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7424979,
+          28.9918136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1608",
+        "name": "Parque rural del Nublo",
+        "street": "",
+        "country": "ESP",
+        "website": "",
+        "description": "Gran Canaria is the remains of a stratovolcano, which has eroded to look remarkably like the Grand Canyon in Arizona instead of an island in the Atlantic. The star here is Roque Nublo a 262ft volcanic rock balanced on top of a mountain.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6125883,
+          27.9706383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1609",
+        "name": "Parque nacional del Teide",
+        "street": "",
+        "country": "ESP",
+        "website": "",
+        "description": "Tenerife island in the Canary Islands is dominated by the 12,198ft Mount Teide - which is the third tallest volcano in the world (if measured from the ocean floor). Other than the giant mountain, there's also cool rocks like Roques de Garcia. This park is busy - you need to reserve trips to the top.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6424969,
+          28.2721925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1610",
+        "name": "Parque nacional de Garajonay",
+        "street": "",
+        "country": "ESP",
+        "website": "",
+        "description": "La Gomera in the Canary Islands is defined by its subtropical rainforest in valleys at the heart of the island. Large volcanic plugs dot the ring of the national park, including the 560ft Roque de Agando",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.217285,
+          28.1110348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1611",
+        "name": "Parque nacional de la Caldera de Taburiente",
+        "street": "",
+        "country": "ESP",
+        "website": "",
+        "description": "La Palma Island in the Canary Islands is defined by its caldera where a shield volcano use to be. The caldera is filled with a subtropical rainforest - the center of which can only be reached by hiking.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8850897,
+          28.7544623
+        ]
+      }
     }
   ]
 }
