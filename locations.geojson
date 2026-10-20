@@ -27492,7 +27492,7 @@
         "street": "Mladost, ul. \"Akademik Andrei Saharov\" 2, 9009 Varna, Bulgaria",
         "country": "BGR",
         "website": "https://www.facebook.com/RetroMuseumBg/?ref=br_rs",
-        "description": "The Retro Museum is a museum of life under Communism in Bulgaria - it also happens to be located in a shopping mall. The museum has a nice collection of Eastern Bloc consumer automobiles (so many Ladas) and consumer goods - all they're in good condition instead of rusting.",
+        "description": "The Retro Museum is a museum of life under Communism in Bulgaria - it also happens to be located in a shopping mall. The museum has a nice collection of Eastern Bloc consumer automobiles (so many Ladas) and consumer goods - and they're in good condition instead of rusting.",
         "worth stopping": true,
         "museum": true
       },
@@ -32299,6 +32299,268 @@
         "coordinates": [
           -17.8850897,
           28.7544623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1612",
+        "name": "Yamato Museum (Kure Maritime Museum)",
+        "street": "5-20 Takaramachi, Kure, Hiroshima 737-0029, Japan",
+        "country": "JPN",
+        "website": "",
+        "description": "The WW2 era Yamato-class battleship Yamato was the largest battleship ever constructed - with 18.1 inch guns, 72,000tonnes of displacement, and 862ft long. It took 386 aircraft, 13 torpedo hits, and 19 bombs to sink this ship. The museum features an elaborate scale model, as well as a WW2 era Kairyu-class midget submarine, and the 1970 research submarine DSV Shinkai. Across the road is the JMSDF Kure Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.555788,
+          34.2411421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1613",
+        "name": "JMSDF Kure Museum",
+        "street": "Japan, 〒737-0029 Hiroshima, Kure, Takaramachi, 5−32 海上自衛隊呉史料館",
+        "country": "JPN",
+        "website": "https://www.jmsdf-kure-museum.go.jp/",
+        "description": "Kure has been a major city for ship construction since 1889, which means that next to Yokohama it is the second most important naval port in Japan. The Japan Maritime Self Defense Force Museum holds the Cold War era Yushio-class submarine JDS Akishio.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5552738,
+          34.2422511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1614",
+        "name": "Shuri Castle",
+        "street": "",
+        "country": "JPN",
+        "website": "https://oki-park.jp/shurijo/",
+        "description": "Shuri Castle was the seat of power for the Ryuku Kingdom until its annexation by Japan in 1879. The castle was the command center for Japanese forces on Okinawa during WW2, and was destroyed in 1945 in the Battle of Okinawa. The castle is mostly a reconstruction.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7191928,
+          26.2168803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1615",
+        "name": "Okinawa Churaumi Aquarium",
+        "street": "",
+        "country": "JPN",
+        "website": "424 Ishikawa, Motobu, Kunigami District, Okinawa 905-0206, Japan",
+        "description": "The Okinawa aquarium features some of the largest tanks in the world (until surpassed by the Georgia Aquarium), and features whale sharks, dolphins, manatees, sea turtles, and pretty much every kind of interesting sealife found in the nearby Kuroshio and Coral Sea",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8780881,
+          26.6944163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1616",
+        "name": "Acropolis of Athens",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "During Athens 5000+ year history the city was the leading center of Ancient Greece, and the Acropolis hilltop has been a palace, fortress, and temple. The Acropolis is home to the Parthenon temple, which has been undergoing restoration after it was destroyed in an explosion during the 1687 Siege of the Acropolis. If you want to see the statues that once adorned the Parthenon, you'll have to go to the British Museum. If you want to see what the Parthenon looked like when it was intact, you'll have to go to Nashville, Tennessee.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.726443,
+          37.9714459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1617",
+        "name": "Meteora",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "Giant rock pillars arise out of the Pindos Mountains where monks have built monasteries at the top.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.635331,
+          39.7130954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1618",
+        "name": "Olympus National Park (Greece)",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "In Greek Mythology, Mount Olympus (9,572ft) is regarded as the place where the gods reside. The mountain ascends from warm Mediterranean forests to coniferous pine, to treeless high mountain covered in clouds.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3589188,
+          40.0863901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1619",
+        "name": "Armored Cruiser Georgios Averof",
+        "street": "Palaio Faliro 175 61, Greece",
+        "country": "GRC",
+        "website": "",
+        "description": "The pre-WW1 era Pisa-class armored cruiser Georgios Averof is the last surviving armored cruiser in the world and is located at the deceptively named Floating Naval Museum Battleship Georgios Averof. The ships performance singlehandedly secured naval victory against the Ottomans during the First Balkan War, and returned the Greek Government in exile to Greece at the end of WW2. The museum is also home to the Cold War era Type 209 attack submarine HS Protefs (S-113) and the replica Trireme Olympias.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6837865,
+          37.9337724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1620",
+        "name": "Vikos–Aoös National Park",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "Vikos-Aoos National Park is home to the Vikos Gorge, a 33200ft deep gorge in the Pindus mountains of Epirus. Other highlights include the Stone forest and Papingo Rock Pools. Like most European parks, you have to hike, though a road has recently been constructed to the Oxya and Beloi viewpoints.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7058696,
+          39.950735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1621",
+        "name": "Ancient Agora of Athens",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "The Ancient Agora of Athens just goes to show that shopping malls have always had megachurches in them. The Stoa (think of it as the strip mall) has been rebuilt as the Museum of the Ancient Agora, and the temple of Hephaestus looks like a tiny (and more intact) version of the temple at the Acropolis.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7242065,
+          37.975107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1622",
+        "name": "Palace of Knossos",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "Knossos is posited as the location of the Greek myth of Theseus - and the massive palace 1900BC ruins do indeed have a labyrinthian basement.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1629274,
+          35.2977957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1623",
+        "name": "Kastania Cave",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "The ceiling at Kastania cave is composed entirely of knife-like stalactites that make the ceiling look like an upside spike-pit.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1246431,
+          36.5460105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1624",
+        "name": "Samaria Gorge",
+        "street": "",
+        "country": "GRC",
+        "website": "",
+        "description": "Samaria Gorge National Park is home to a 980ft tall gorge parted only by a very narrow creek. The entirety of the gorge is hikeable, but it's a 9.3 mile hike that will take all day.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9687387,
+          35.2560639
         ]
       }
     }
