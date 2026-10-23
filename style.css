@@ -392,7 +392,7 @@ Leaflet popup section
 
 /*markers themselvs on the map*/
 .leaflet-marker-icon {
-  opacity: 0.6;
+  opacity: 0.7;
   transition: opacity 0.15s ease;
 }
 

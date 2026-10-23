@@ -32563,6 +32563,26 @@
           35.2560639
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1625",
+        "name": "Heritage Park Historical Village",
+        "street": "1900 Heritage Dr SW, Calgary, AB T2V 2X3, Canada",
+        "country": "CAN",
+        "website": "http://www.heritagepark.ca/",
+        "description": "Heritage Park Historical Village is Calgary's living history museum - and covers mining, oil drilling, and also features the Gasoline Alley Museum featuring 54+ cars and even more gas pumps and signs. Heritage Park is larger than most living history museums, but most of the buildings are replicas, while the equipment is original.",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1013693,
+          50.9827033
+        ]
+      }
     }
   ]
 }
