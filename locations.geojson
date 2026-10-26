@@ -32583,6 +32583,266 @@
           50.9827033
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1626",
+        "name": "Luna Park, Melbourne",
+        "street": "18 Lower Esplanade, St Kilda VIC 3182, Australia",
+        "country": "AUS",
+        "website": "https://www.lunapark.com.au/",
+        "description": "Luna Park in Melbourne is a time capsule of the very first modern amusement parks, and is home to the world's oldest continuously operating rollercoaster the 1912 Scenic Railway, and the historical 1934 Ghost Train.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9767985,
+          -37.8673642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1627",
+        "name": "Port Campbell National Park",
+        "street": "Great Ocean Rd, Port Campbell VIC 3269, Australia",
+        "country": "AUS",
+        "website": "https://www.parks.vic.gov.au/places-to-see/parks/port-campbell-national-park",
+        "description": "Port Campell National Park shows off limestone sea stacks and formations along the beaches of Southwest Victoria. The most notable formations are The Twelve Apostles (there are only 7) and the Loch Ard Gorge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1050801,
+          -38.6616673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1628",
+        "name": "Grampians National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "The valleys of Grampians National Park are alarmingly green and strewn with rocks and cliffs with the texture of wrinkled elephant skin. Notable hikes include the Grand Canyon, Wonderland, The Fortress, Chimney Pots, and The Balconies. Wildfires and trail reconstruction are frequent - plan ahead.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4586563,
+          -37.1489748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1629",
+        "name": "Pioneer Settlement",
+        "street": "125 Monash Dr, Swan Hill VIC 3585, Australia",
+        "country": "AUS",
+        "website": "https://www.pioneersettlement.com.au/",
+        "description": "Pioneer Settlement was the first living history museum in Australia and it imitates an early settlement along the Little Murray River (a branch of the longest river in Australia). Most of the buildings are replicas, but the 1876 side-wheel paddle steamer PS Gem and the 1896 paddle vessel PY Pyap are authentic.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5644603,
+          -35.3475863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1630",
+        "name": "Museum of Vehicle Evolution",
+        "street": "7723 Goulburn Valley Hwy, Kialla VIC 3631, Australia",
+        "country": "AUS",
+        "website": "",
+        "description": "The Museum of Vehicle Evolution features 150+ cars, 50+ trucks and busses, 200+ bicycles, a museum on costumes and radios, and an exhibit on local manufacturer Furphy Foundry.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3870393,
+          -36.435947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1631",
+        "name": "Sovereign Hill",
+        "street": "https://www.sovereignhill.com.au/",
+        "country": "AUS",
+        "website": "",
+        "description": "It's basically the Australian version of a cowboy wild west town. The discovery of gold in 1851 turned Sovereign Hill into a gold mining boomtown, which has been lovingly replicated as a living history museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8659397,
+          -37.5766149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1632",
+        "name": "Mount Buffalo National Park",
+        "street": "Mount Buffalo VIC 3740, Australia",
+        "country": "AUS",
+        "website": "https://www.parks.vic.gov.au/places-to-see/parks/mount-buffalo-national-park",
+        "description": "The rocks of Mount Buffalo National Park are especially lumpy granite, and you can drive to the top of the mountain instead of walking. Notable hikes include the Chalwel Galleries and the Gorge (featuring Crystal Brook Falls).",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.820355,
+          -36.7217366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1633",
+        "name": "Newport Workshops",
+        "street": "1 Shea St, Newport VIC 3015, Australia",
+        "country": "AUS",
+        "website": "http://www.steamrail.com.au/",
+        "description": "The Newport Workshops were the main manufacturing facility for most of Victoria's locomotives and rolling stock, and now hosts a plethora of railway preservation museums: Steamrail Victoria (51+ locomotives, 90+ pieces of rolling stock), 707 Operations (14 locomotives, 50+ pieces of rolling stock), and the Newport Railway Museum (30+ locomotives, 30+ pieces of rolling stock).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8808304,
+          -37.8507112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1634",
+        "name": "Wilsons Promontory National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "Rainforests, beaches, mountains. Lumpy granite mountains covered in rainforest overlooking interesting looking islands and tropical beaches. There's also boat tours that can show off Skull Rock.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3453871,
+          -39.0396684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1635",
+        "name": "Point Nepean National Park",
+        "street": "Ochiltree Rd, Portsea VIC 3944, Australia",
+        "country": "AUS",
+        "website": "https://www.parks.vic.gov.au/places-to-see/parks/point-nepean-national-park",
+        "description": "Point Nepean National Park offers historical forts and quarantine stations in a Mediterranean-esque climate and landscape. Historically Point Nepean controls the entrance to Melbourne, but also is where Australian Prime Minister Harold Holt disappeared after he went swimming at Cheviot Beach.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6522039,
+          -38.3032205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1636",
+        "name": "National Vietnam Veterans Museum",
+        "street": "25 Veterans Dr, Newhaven VIC 3925, Australia",
+        "country": "AUS",
+        "website": "https://www.vietnamvetsmuseum.org/",
+        "description": "Australia followed the United States into the escalating catastrophe of the Vietnam War - and became the largest war for Australia since WW2. The National Vietnam Veterans museum features a nearly complete inventory of Australian equipment used during the war",
+        "local attractions": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3243426,
+          -38.5208129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1637",
+        "name": "The Army Museum Bandiana",
+        "street": "Bandiana VIC 3691, Australia",
+        "country": "AUS",
+        "website": "https://armymuseumbandiana.com.au/",
+        "description": "The Royal Australian Army ordnance Corp Centre at Bandiana collected artillery pieces in a shed but then merged with other military museums until they had acquired 150+ military vehicles. This museum is inside a military base, so plan ahead.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9163313,
+          -36.146403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1638",
+        "name": "Royal Australian Armoured Corps Memorial and Army Tank Museum",
+        "street": "223R+37, Puckapunyal VIC 3662, Australia",
+        "country": "AUS",
+        "website": "https://www.army.gov.au/community/engage-and-learn/army-museums/australian-army-museum-puckapunyal",
+        "description": "The Royal Australian Armored corps have been sacrificed as shock troops by the Commonwealth since their inception. Come see 80+ tanks and armored vehicles from WW1-present. This museum is located on a military base, plan ahead - you have to fill out forms.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0403643,
+          -36.9958993
+        ]
+      }
     }
   ]
 }
