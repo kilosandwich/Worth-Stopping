@@ -32843,6 +32843,287 @@
           -36.9958993
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1639",
+        "name": "Gumbuya World",
+        "street": "2705 Princes Hwy, Tynong North VIC 3813, Australia",
+        "country": "AUS",
+        "website": "https://www.gumbuya.com.au",
+        "description": "For having over 7 million people, Victoria has surprisingly few amusement parks. Gumbuya world is mostly a water park, but they recently acquired a Maurer Skyloop and Vekoma suspended family coaster.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6585217,
+          -38.0691344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1640",
+        "name": "Melbourne Steam Traction Engine Club",
+        "street": "1200 Ferntree Gully Rd, Scoresby VIC 3179, Australia",
+        "country": "AUS",
+        "website": "http://www.melbournesteam.com.au/",
+        "description": "The Melbourne Steam Traction Engine Club has horded 30+ steam engines, and a plethora of construction equipment, tractors, and locomotives.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2140286,
+          -37.905562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1641",
+        "name": "Port Arthur, Tasmania",
+        "street": "Visitor Centre, Port Arthur TAS 7182, Australia",
+        "country": "AUS",
+        "website": "http://www.portarthur.org.au/",
+        "description": "Port Arthur (1833-1877) was a penal colony for the penal colony of Australia - meaning the people sent here were the worst of the worst. The prison itself contains a separate prison that subjected particularly unruly prisoners to psychological torment.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8503241,
+          -43.1479393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1642",
+        "name": "Tasman National Park",
+        "street": "7182/446 Safety Cove Rd, Port Arthur TAS 7182, Australia",
+        "country": "AUS",
+        "website": "https://parks.tas.gov.au/explore-our-parks/tasman-national-park",
+        "description": "The Tasman Peninsula features three capes (Raoul, Pillar, Hauy) with columnar basalt cliffs and other interesting rock formations. Cape Raoul is mostly accessible by road, but Capes Hauy and Pillar require multi-day hikes to get to.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8459942,
+          -43.1875778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1643",
+        "name": "Tasmanian Transport Museum",
+        "street": "2B Anfield St, Glenorchy TAS 7010, Australia",
+        "country": "AUS",
+        "website": "http://www.tasmaniantransportmuseum.com.au/",
+        "description": "The Tasmanian Transport Museum grew from a single tram to relocating an entire railway station and collecting 14 trains and some buses. It's a fairly complete catalogue of rail transport at the edge of the world.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2745046,
+          -42.831106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1644",
+        "name": "Mount Field National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.tas.gov.au/explore-our-parks/mount-field-national-park",
+        "description": "Mount Field rises from Eucalyptus temperate rainforest in its waterfall filled valleys and rises up to alpine mountains. This is one of the few places in the world you can ski into a rainforest.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7130512,
+          -42.6773276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1645",
+        "name": "Franklin-Gordon Wild Rivers National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.tas.gov.au/explore-our-parks/franklin-gordon-wild-rivers-national-park",
+        "description": "Western Tasmania is still undeveloped temperate rainforest, and is only accessible via A10 - Lyell Highway - which is also where all of the easily accessible trails start.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73789,
+          -42.1007649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1646",
+        "name": "Cradle Mountain-Lake St Clair National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.tas.gov.au/explore-our-parks/cradle-mountain",
+        "description": "Cradle Mountain rises from the temperate rainforest to dry alpine peaks overlooking deep river gorges and lakes. The hiking trails here are well developed, and it is doable to reach the peak of Cradle Mountain (5,069ft) as a day hike.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9523407,
+          -41.6841374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1647",
+        "name": "Mole Creek Karst National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.tas.gov.au/explore-our-parks/mole-creek-karst-national-park",
+        "description": "The karst (limestone, dolomite) of Mole Creek Karst has eroded to form elegant show caves like King Solomon's Cave and Marakoopa Cave set in the temperate Eucalpytus rainforests of Tasmania. There's also waterfalls if you're into that.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.292238,
+          -41.5730087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1648",
+        "name": "Gunns Plains Cave",
+        "street": "46 Cave Rd, Gunns Plains TAS 7315, Australia",
+        "country": "AUS",
+        "website": "http://www.gunnsplainscaves.com.au/",
+        "description": "Other than elegant flowstone formations and an underground river, Gunns Plains Cave also features nearby river banks with Platypus.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0055269,
+          -41.2958597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1649",
+        "name": "Dip Falls",
+        "street": "",
+        "country": "AUS",
+        "website": "https://enjoytasmania.com.au/things-to-do/dip-falls/",
+        "description": "The 115ft Dip Falls spreads out to flow over columnar basalt. Basically it's a waterfall over a bees nest made of rock in the temperate rainforests of north-west Tasmania.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3763145,
+          -41.0350827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1650",
+        "name": "Ben Lomond National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.tas.gov.au/explore-our-parks/ben-lomond-national-park",
+        "description": "Ben Lomond National Park showcase a jagged alpine environment - and you can drive to the top of it where a ski resort awaits you.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6648241,
+          -41.5331134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1651",
+        "name": "Australian War Memorial",
+        "street": "Treloar Cres, Campbell ACT 2612, Australia",
+        "country": "AUS",
+        "website": "https://www.awm.gov.au/",
+        "description": "The Commonwealth preferred to send colonials like Australians as shock troops instead of sacrificing those in the United Kingdom - meaning Australian armed forces have been in the thick of the most brutal fighting in the past century of warfare. The Australian War Memorial takes a somber look at Australia's military history from the Boer War, to WW1, to WW2, to the Malayan Emergency, to Vietnam, to Iraq and Afghanistan.",
+        "worth stopping": true,
+        "museum": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1487641,
+          -35.2805032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1652",
+        "name": "Old Parliament House, Canberra",
+        "street": "18 King George Terrace, Parkes ACT 2600, Australia",
+        "country": "AUS",
+        "website": "http://moadoph.gov.au/",
+        "description": "Australia was federated from the six Australian colonies (New South Wales, Queensland, South Australia, Tasmania, Victoria, Western Australia) in 1901, and borrowed the Parliament of Victoria until the construction of Old Parliament House in 1927, which was replaced by the New Parliament House in 1988. This building now features a museum of Australian political history.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1298326,
+          -35.3023493
+        ]
+      }
     }
   ]
 }
