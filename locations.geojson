@@ -33124,6 +33124,166 @@
           -35.3023493
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1653",
+        "name": "Uluṟu-Kata Tjuṯa National Park",
+        "street": "Lasseter Hwy, Uluru NT 0872, Australia",
+        "country": "AUS",
+        "website": "https://uluru.gov.au/",
+        "description": "Ayer's Rock (Uluru) and Kata Tjuta rise 1,142ft above the endless flat desert of the Northern Territory. You can't hike to the top of these mountains anymore, but you can walk around the base and valleys and marvel at their smooth slopes. This is the desert - plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.0327071,
+          -25.3441532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1654",
+        "name": "Watarrka National Park",
+        "street": "Luritja Rd, Petermann NT 0872, Australia",
+        "country": "AUS",
+        "website": "https://nt.gov.au/parks/find-a-park/watarrka-national-park",
+        "description": "Watarrka National Park is home to the 330ft deep King's Canyon. This is the only really 'green' area around in the desert, and the trails let you walk through the base of the canyon as well as the rims of the gorge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.5818954,
+          -24.2514358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1655",
+        "name": "National Road Transport Museum",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "This is the best (and only) museum about transportation in the Outback. Featuring 40+ cars, Australian Kenworth trucks, the Gold Ghan railway museum and train station, and RSL military Museum - Alice Springs.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8671511,
+          -23.7758925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1656",
+        "name": "Limmen National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://nt.gov.au/parks/find-a-park/limmen-national-park",
+        "description": "Limmen National Park is home to sandstone pillars known as the \"Lost Cities\". This park has roads, but they are only accessible with a 4x4 vehicle, and there are no nearby facilities for 40 miles. Plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4550636,
+          -15.8093277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1657",
+        "name": "Kakadu National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://kakadu.gov.au/",
+        "description": "The Kakadu Escarpment rises 1080ft above the surrounding plateau and stretches for 310 miles, with deep rainforest filled gorges and waterfalls bisecting the otherwise arid landscape. There are roads, but they require a 4x4 to access, also this park is the size of a Wales, so plan your travel accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7800782,
+          -13.3168666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1658",
+        "name": "Litchfield National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "The narrow gorges of Litchfield National Park are covered in monsoon rainforests fed by waterfalls descending from the cliffs above. You can actually swim in the waters here, and most of the roads are paved.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7160138,
+          -13.2053314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1659",
+        "name": "Museum and Art Gallery of the Northern Territory Darwin",
+        "street": "19 Conacher St, The Gardens NT 0820, Australia",
+        "country": "AUS",
+        "website": "http://www.magnt.net.au/",
+        "description": "The Museum and Art Gallery of the Northern Territory features a collection of 23 vessels, a detailed exhibition on Cyclone Tracey - which destroyed 70% of Darwin's buildings, and a meaningful selection of Aboriginal artwork and natural history exhibits.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8331659,
+          -12.4373666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1660",
+        "name": "Darwin Military Museum",
+        "street": "5434 Alec Fong Lim Dr, East Point NT 0820, Australia",
+        "country": "AUS",
+        "website": "https://www.darwinmilitarymuseum.au/",
+        "description": "The strategic port of Darwin, Australia ballooned in population from around 2,000 people, to 110,000 during WW2 - and endured bombing raids from Japanese forces.  The Darwin Military Museum focuses on Darwin's role in WW2 and features various vehicles and gun emplacements from that period.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8196473,
+          -12.4076836
+        ]
+      }
     }
   ]
 }
