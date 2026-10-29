@@ -33284,6 +33284,86 @@
           -12.4076836
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1661",
+        "name": "National Railway Museum, Port Adelaide",
+        "street": "76 Lipson St, Port Adelaide SA 5015, Australia",
+        "country": "AUS",
+        "website": "http://www.nrm.org.au/",
+        "description": "Australia's geographic isolation and arid environment meant locomotive's service lives were long enough to be preserved. Multiple streamlined locomotives from the golden age of rail are preserved - such as the SAR 500, SAR 520, and SAR 620. There's 33 locomotives here in total, and a miniature railway that encircles the museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5085945,
+          -34.8456869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1662",
+        "name": "National Motor Museum, Birdwood",
+        "street": "9 Shannon St, Birdwood SA 5234, Australia",
+        "country": "AUS",
+        "website": "https://motor.history.sa.gov.au/",
+        "description": "The National Motor Museum contains 300+ cars and 100+ motorcycles, including a comprehensive collection of Australian vehicle manufacturer Holden (1856-2021).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9537352,
+          -34.8197473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1663",
+        "name": "Tantanoola Caves Conservation Park",
+        "street": "32047 Princes Hwy, Tantanoola SA 5280, Australia",
+        "country": "AUS",
+        "website": "https://www.parks.sa.gov.au/parks/tantanoola-caves-conservation-park",
+        "description": "Tantaloona Cave is a sea cave, 10 miles away from the sea, which means everything looks like it was carved by wave action, and there's also pretty stalactites to boot.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5014309,
+          -37.715779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1664",
+        "name": "Naracoorte Caves National Park",
+        "street": "89 Wonambi Rd, Naracoorte SA 5271, Australia",
+        "country": "AUS",
+        "website": "https://www.naracoortecaves.sa.gov.au/",
+        "description": "Aboriginal Dreamtime stories tell of massive creatures that roams the rainforests which are now deserts. A lot of these creatures fell into the inescapable open pits of Naracoorte caves, which preserved them as fossils.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7962483,
+          -37.0359751
+        ]
+      }
     }
   ]
 }
