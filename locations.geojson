@@ -30840,7 +30840,7 @@
         "country": "USA",
         "website": "http://www.lsrm.org/",
         "description": "The Lake Superior Railroad Museum is set inside the fully restored 1892 Duluth Depot station, featuring 33 locomotives and 44 pieces of rolling stock - including the first locomotive to operate in the State of Minnesota - the 1862 steam locomotive William Crooks.",
-        "local attractions": true,
+        "worth stopping": true,
         "museum": true
       },
       "geometry": {
@@ -33362,6 +33362,323 @@
         "coordinates": [
           140.7962483,
           -37.0359751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1665",
+        "name": "Aareschlucht",
+        "street": "",
+        "country": "CHE",
+        "website": "https://aareschlucht.ch/",
+        "description": "The narrow Aare Gorge has been carved by bright blue glacial meltwater to form a 590ft tall gorge that is only 3ft wide at its narrowest point. An elaborate system of walkways and tunnels has been constructed so you can follow the river while remaining close to the water.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2071395,
+          46.7206607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1666",
+        "name": "Museum of the Goldfields",
+        "street": "17 Hannan St, Kalgoorlie WA 6430, Australia",
+        "country": "AUS",
+        "website": "https://visit.museum.wa.gov.au/goldfields",
+        "description": "The 1893 Western Australia Gold Rush turned Kalgoorie into a boomtown - and the gold mining industry here never stopped booming. The Museum of the Goldfields features a well maintained derrick as well as memorabilia from Australia's Wild West.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4771258,
+          -30.7439919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1667",
+        "name": "Cape Le Grand National Park",
+        "street": "Cape Le Grand Rd, Cape Le Grand WA 6450, Australia",
+        "country": "AUS",
+        "website": "https://exploreparks.dbca.wa.gov.au/park/cape-le-grand",
+        "description": "Kangaroos on the white sand beach and flowery and smooth granite peaks.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1672604,
+          -33.9668245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1668",
+        "name": "Porongurup National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "http://exploreparks.dbca.wa.gov.au/park/porongurup",
+        "description": "The granite domes of Pongorrup National Park rise above the flat plains of the Great Southern. The park features its own microclimate which supports an isolated pocket of Karri Forest - which can reach nearly 300ft high. Castle Rock has been developed with catwalks and staircases to let you get a good look around everything.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9197719,
+          -34.6955728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1669",
+        "name": "Albany's Historic Whaling Station",
+        "street": "81 Whaling Station Rd, Torndirrup WA 6330, Australia",
+        "country": "AUS",
+        "website": "http://www.discoverybay.com.au/",
+        "description": "Cheynes Beach Whaling Station opened in 1952 and closed in 1978 when whaling was banned in Western Australia. As a result this modern whaling station has been preserved along with the whale chaser Cheynes IV.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9593178,
+          -35.0951316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1670",
+        "name": "Walpole-Nornalup National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "The 150ft tall Red Tingle Eucalyptus trees are found only around Walpole in Western Australia. Which is why The Tree Top Walk was built at tree level to let you realize how gigantic these trees really are.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8176228,
+          -34.9881147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1671",
+        "name": "Leeuwin-Naturaliste National Park",
+        "street": "Jewel Caves Rd, Deepdene WA 6290, Australia",
+        "country": "AUS",
+        "website": "https://www.capesfoundation.org.au/visit-experiences/",
+        "description": "Sure Leeuwin-Naturaliste National Park has pristine beaches, but it also has 150+ caves including: Ngilgi Cave (historical!), Mammoth Cave (it's very big), Lake Cave (there's a lake at the bottom), and Jewel Cave (tall). Each of these caves is an experience in itself worth stopping.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0290768,
+          -34.0789077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1672",
+        "name": "WA Maritime Museum",
+        "street": "Victoria Quay, 26 Peter Hughes Dr, Fremantle WA 6160, Australia",
+        "country": "AUS",
+        "website": "https://visit.museum.wa.gov.au/maritime",
+        "description": "The Western Australia Maritime Museum is home to the Cold War-era Oberon-class submarine HMAS Ovens, and the America's cup winning racing yacht Australia II. There's also some racing yachts and fishing boats in here, some displayed at very unique angles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7390432,
+          -32.0547639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1673",
+        "name": "Railway Museum (Western Australia)",
+        "street": "136 Railway Parade, Bassendean WA 6054, Australia",
+        "country": "AUS",
+        "website": "http://www.railheritagewa.org.au/",
+        "description": "The Railway Museum features basically every locomotive to have ever operated in Western Australia - including the first from 1881."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9385503,
+          -31.9095613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1674",
+        "name": "Whiteman Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.whitemanpark.com.au/",
+        "description": "Whiteman Park is a sprawling transportation museum complex just outside of Perth, featuring the vehicles of Lew Whiteman including: The Perth Electric Tramway Society (29+ trams and 3 trolley buses), Bennett Brook Railway, (17 locomotives, 29 pieces of rolling stock), The Tractor Museum of Western Australia (40+ tractors), the Western Australian Motor Museum, the Bus Preservation Society of Western Australia (200+ vehicles), the Revolutions Transport Museum, and the Caversham Wildlife Park",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9481673,
+          -31.8357655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1675",
+        "name": "Nambung National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "http://parks.dpaw.wa.gov.au/park/nambung",
+        "description": "Nambung National Park is home to thousands of limestone pillars that resemble a felled forest in a desert. The surrounding landscape is green, so the sandy desert is very out of place.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1620524,
+          -30.6021627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1676",
+        "name": "Karijini National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://exploreparks.dbca.wa.gov.au/site/karijini-visitor-centre",
+        "description": "Despite being in the middle of nowhere, this National Park features paved roads which allow access to its gorges and waterfalls",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.4621651,
+          -22.4801261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1677",
+        "name": "Tunnel Creek National Park",
+        "street": "Leopold Downs Rd, King Leopold Ranges WA 6728, Australia",
+        "country": "AUS",
+        "website": "",
+        "description": "It's a cave through an ancient barrier reef in the savanna with a river flowing through it full of crocodiles and ancient rock art.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1437513,
+          -17.6096341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1678",
+        "name": "Purnululu National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "http://parks.dpaw.wa.gov.au/park/purnululu",
+        "description": "Purnulu National Park is full of stripey beehive-shaped sandstone domes. There's also some palm tree filled chasms. 4WD vehicle recommended - the roads are not paved.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.3766749,
+          -17.4886788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1679",
+        "name": "Mirima National Park",
+        "street": "Hidden Valley Rd, Kununurra WA 6743, Australia",
+        "country": "AUS",
+        "website": "https://exploreparks.dbca.wa.gov.au/park/mirima",
+        "description": "Mirima National Park is Purnulu's National Park rougher cousin, with much tighter gorges that are better developed with walking paths."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.7518358,
+          -15.7636124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1680",
+        "name": "El Questro Wilderness Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "El Questro Wilderness Park is home to 3 gorges with pleasant waterfalls where you can swim",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1338172,
+          15.8937493
         ]
       }
     }
