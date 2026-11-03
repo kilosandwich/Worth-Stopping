@@ -33534,7 +33534,9 @@
         "street": "136 Railway Parade, Bassendean WA 6054, Australia",
         "country": "AUS",
         "website": "http://www.railheritagewa.org.au/",
-        "description": "The Railway Museum features basically every locomotive to have ever operated in Western Australia - including the first from 1881."
+        "description": "The Railway Museum features basically every locomotive to have ever operated in Western Australia - including the first from 1881.",
+        "worth stopping": true,
+        "museum": true
       },
       "geometry": {
         "type": "Point",
@@ -33652,7 +33654,9 @@
         "street": "Hidden Valley Rd, Kununurra WA 6743, Australia",
         "country": "AUS",
         "website": "https://exploreparks.dbca.wa.gov.au/park/mirima",
-        "description": "Mirima National Park is Purnulu's National Park rougher cousin, with much tighter gorges that are better developed with walking paths."
+        "description": "Mirima National Park is Purnulu's National Park rougher cousin, with much tighter gorges that are better developed with walking paths.",
+        "worth stopping": true,
+        "park": true
       },
       "geometry": {
         "type": "Point",
@@ -33678,7 +33682,47 @@
         "type": "Point",
         "coordinates": [
           128.1338172,
-          15.8937493
+          -15.8937493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1681",
+        "name": "Stirling Range National Park",
+        "street": "Stirling Range Nat'l Park WA 6338, Australia",
+        "country": "AUS",
+        "website": "https://parks.dpaw.wa.gov.au/site/bluff-knoll-car-park-trail-head",
+        "description": "The wispy and forested mountains of the Stirling Range are out of place on the otherwise flat plains in all directions. Bluff Knoll in particular is 2,130ft taller than the surrounding area. There are dedicated hiking trails and paved roads throughout the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.254324,
+          -34.3745242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1682",
+        "name": "Brandywine Falls Provincial Park",
+        "street": "BC-99, Whistler, BC V0N 1B1, Canada",
+        "country": "CAN",
+        "website": "https://bcparks.ca/brandywine-falls-park/",
+        "description": "The 230ft Brandywine Falls flows over vertical basalt walls onto blackened volcanic rock. There's a pleasant observation deck near the top, but you can't go to the base of the falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1199381,
+          50.036408
         ]
       }
     }
