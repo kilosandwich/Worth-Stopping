@@ -33725,6 +33725,468 @@
           50.036408
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1683",
+        "name": "Sea World (Australia)",
+        "street": "Seaworld Dr, Main Beach QLD 4217, Australia",
+        "country": "AUS",
+        "website": "https://seaworld.com.au/",
+        "description": "It's Sea World, and it's entirely unrelated to SeaWorld. Featuring competent theming, an impressive waterpark, aquarium and 4 rollercoasters.",
+        "worth stopping": true,
+        "park": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4255784,
+          -27.9578917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1684",
+        "name": "Warner Bros. Movie World",
+        "street": "Entertainment Rd, Oxenford QLD 4210, Australia",
+        "country": "AUS",
+        "website": "",
+        "description": "Warner Bros. Movie World is the largest amusement and best themed park in Australia, featuring 8 rollercoasters including the hypercoaster DC Rivals HyperCoaster (yes that's the actual name), the launch coaster Superman Escape, and an entire area elaborately themed to the Wizard of Oz.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3126572,
+          -27.9073339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1685",
+        "name": "Dreamworld (Australia)",
+        "street": "Dreamworld Pkwy, Coomera QLD 4209, Australia",
+        "country": "AUS",
+        "website": "https://www.dreamworld.com.au/",
+        "description": "Dreamworld used to be Australia's largest amusement park until surpassed by nearby Warner Bros. Movie World. The park features a 390ft drop tower, as well as 6 rollercoasters, and a zoo.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3156723,
+          -27.8622514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1686",
+        "name": "Queensland Maritime Museum",
+        "street": "412 Stanley St, South Brisbane QLD 4101, Australia",
+        "country": "AUS",
+        "website": "https://www.maritimemuseum.com.au/",
+        "description": "Unlike their trains, Australians have not preserved many of their ships, so the WW2 era River-class frigate HMAS Diamantina is one of the oldest warships Australia possesses. The 1917 lightship CLS4 Carpentaria is here too.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0264398,
+          -27.481767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1687",
+        "name": "Glass House Mountains National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "Millions of years ago Queensland was riddled with volcanos which left behind 11 volcanic plugs with patches of rainforest on their peaks.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9491419,
+          -26.9268261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1688",
+        "name": "Australia Zoo",
+        "street": "1638 Steve Irwin Wy, Beerwah QLD 4519, Australia",
+        "country": "AUS",
+        "website": "https://www.australiazoo.com.au/",
+        "description": "Legendary TV presenter and conservationist Steve Irwin's family founded the Australia Zoo and dedicated it to preserving wildlife.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9610799,
+          -26.8391224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1689",
+        "name": "Main Range National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "The mountains of Main Range National Park are covered in subtropical rainforest. Notable rock formations include the perilously thin ridges of The Steamers.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.436274,
+          -28.2005416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1690",
+        "name": "Springbrook National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.desi.qld.gov.au/parks/springbrook",
+        "description": "Springbrook National Park is all about waterfalls falling off the edge of an ancient volcano in the rainforest, featuring: Bilbrough Falls, Rainbow Falls, Twin Falls, and Natural Bridge Cave. There's other waterfalls but these are the ones closest to the road.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2740727,
+          -28.2243322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1691",
+        "name": "Great Sandy National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.des.qld.gov.au/parks/cooloola",
+        "description": "Rainforest covered sand dunes and colorful sand cliffs overlooking shipwrecks on the beach. K'gari island is entirely made of sand, a 4WD vehicle is recommended since the roads are sand.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2383742,
+          -25.267022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1692",
+        "name": "Girraween National Park",
+        "street": "Girraween National Park",
+        "country": "AUS",
+        "website": "https://parks.des.qld.gov.au/parks/girraween",
+        "description": "The smooth faces of the granite domes of Giraween National Park are like if Ayer's Rock was in a eucalyptus forest. There's bounders naturally balanced on boulders here at the top of mountains.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9448798,
+          -28.821729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1693",
+        "name": "Carnarvon National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.des.qld.gov.au/parks/carnarvon-gorge",
+        "description": "Carnarvon National Park is home to massive Carnarvon Gorge and is filled with the remnants of rainforests and aboriginal rock carvings. It's a bit of a hike to get to scenic spots like the Amphitheatre",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2052309,
+          -25.0488492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1694",
+        "name": "Capricorn Caves",
+        "street": "30 Olsens Caves Rd, The Caves QLD 4702, Australia",
+        "country": "AUS",
+        "website": "http://www.capricorncaves.com.au/",
+        "description": "A rope bridge filled cave inside of a jagged mountain. There's even more caves at Mount Etna Caves National Park nearby, but they aren't as developed.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.491219,
+          -23.1651836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1695",
+        "name": "Qantas Founders Museum",
+        "street": "Terminal Building, 1 Hudson Fysh Drive, Longreach Airport, Landsborough Hwy, Longreach QLD 4730, Australia",
+        "country": "AUS",
+        "website": "http://www.qfom.com.au/",
+        "description": "At this hanger a small air taxi service from the remote town of Cloncurry merged and grew into QANTAS (Queensland and Northern Territory Aerial Services) - the largest airline in Australia and largest globally by fleet size. The QANTAS founders museum features the airline's first 707, and 7 other aircraft.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2709863,
+          -23.4391777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1696",
+        "name": "Hard Times Mine",
+        "street": "19 Marian St, The Gap QLD 4825, Australia",
+        "country": "AUS",
+        "website": "https://www.outbackatisa.com.au/",
+        "description": "Mining in Australia is a highly paid industry because the mines are dangerous and in the middle of nowhere - like Hard Times Mine in Mount Isa. Hard Times Mine has always been a 'show mine' but is representative of the mining work going on all around the Mining headquarters town of Mount Isa",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4980543,
+          -20.7264512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1697",
+        "name": "Porcupine Gorge National Park",
+        "street": "https://parks.qld.gov.au/parks/porcupine-gorge/things-to-do",
+        "country": "AUS",
+        "website": "",
+        "description": "The empty plains of the savannah are cut like a knife by the blackened walls of Porcupine Gorge National park. You can walk part of the rim and the gorge - just remember to wear sun protection, this is the Outback.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4369901,
+          -20.4092327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1698",
+        "name": "Paluma Range National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.des.qld.gov.au/parks/paluma-range",
+        "description": "Mountains in the rainforests with even more waterfalls - including the 700ft multi-tier Jourama Falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1244139,
+          -18.8676065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1699",
+        "name": "Girringun National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "Normally to see waterfalls in the rainforest plunging off near vertical cliffs you would have to travel to South America. Fortunately Australia has you covered with the 879ft Wallaman Falls in Girrigun National Park. There's also Blencoe Falls (1050ft) in the less rainforesty bit of the park",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8018898,
+          -18.5921202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1700",
+        "name": "Undara Volcanic National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.des.qld.gov.au/parks/undara-volcanic",
+        "description": "North Queensland used to be covered in volcanos which left behind cinder cones and lava tubs in a vast basaltic plain.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5761241,
+          -18.2235806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1701",
+        "name": "The Australian Armour & Artillery Museum",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.ausarmour.com/",
+        "description": "The Australian Armour and Artillery Museum continues the proud global tradition of the best military museums being located far away from a convenient international airport. Featuring 100+ armored vehicles - including the Australian AC1 and AC4 and a swath of American, British, Soviet, and German vehicles.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6939537,
+          -16.8501956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1702",
+        "name": "Barron Gorge National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "It's a scenic railway perched on the cliffs of a waterfall filled gorge covered in rainforests.  Featuring the 410ft Barron Falls, Stoney Creek Falls, and Surprise Creek Falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6429816,
+          -16.8333134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1703",
+        "name": "Kalkajaka National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.desi.qld.gov.au/parks/kalkajaka",
+        "description": "Amongst the greenery of the rainforests of Northern Queensland lays a terrifying black mass of granite boulders. This is a pile of scorching hot rocks masquerading as a mountain, the gaps in the rocks have swallowed people and their would-be rescuers. You cannot hike here, just look at it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2274985,
+          -15.6624811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1704",
+        "name": "Chillagoe-Mungana Caves National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.des.qld.gov.au/parks/chillagoe-caves/about",
+        "description": "Despite the name, the primary feature of this park are the sharp looking mountains and balancing rocks.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5164502,
+          -17.1663388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1705",
+        "name": "Davies Creek National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://parks.des.qld.gov.au/parks/davies-dinden-bare-hill",
+        "description": "Davies Creek National Park is home to the 330ft Davies Creek Falls. It's also a particularly nice hike along a creek in the rainforest with rare Curtain Fig trees.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5827064,
+          -17.0085934
+        ]
+      }
     }
   ]
 }
