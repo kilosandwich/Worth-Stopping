@@ -34187,6 +34187,568 @@
           -17.0085934
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1706",
+        "name": "Luna Park Sydney",
+        "street": "1 Olympic Dr, Milsons Point NSW 2061, Australia",
+        "country": "AUS",
+        "website": "https://www.lunaparksydney.com/",
+        "description": "Luna Park Sydney (est. 1935) is the second half of Australia's pair of well preserved historical amusement parks (the other being Luna Park, Melbourne est. 1912). Featuring 4 rollercoasters, including one of the last remaining wooden wild mouse rollercoasters, and a 1935 funhouse.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2094903,
+          -33.8477386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1707",
+        "name": "Sydney Opera House",
+        "street": "Bennelong Point, Sydney NSW 2000, Australia",
+        "country": "AUS",
+        "website": "https://www.sydneyoperahouse.com/",
+        "description": "The 1973 Sydney Opera house made of precast concrete shells resembles a series of cresting waves, seashells, or the full sails of a ship and was completed only 10 years overschedule and 1,357% over budget.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.214928,
+          -33.8568287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1708",
+        "name": "Australian National Maritime Museum",
+        "street": "2 Murray St, Darling Hbr, Sydney NSW 2000, Australia",
+        "country": "AUS",
+        "website": "http://www.sea.museum/",
+        "description": "After scrapping all their WW2 historical ships, Australia finally started preserving their maritime history at the Australia National Maritime Museum, featuring: a replica of the 1601 Dutch exploration ship Duyfken - the first European ship to sight and land in Australia, a replica of the 1764 bark HMS Endeavour - the first European ship to reach the east coast of Australia, the 1874 barque James Craig, the Cold War era Daring-class destroyer HMAS Vampire, and the Cold War era Oberon-class submarine HMAS Onslow, the Spirit of Australia - the fastest boat ever built (317mph max speed), and 10 other ships.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1988027,
+          -33.8693548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1709",
+        "name": "Sydney Bus Museum",
+        "street": "25 Derbyshire Rd, Leichhardt NSW 2040, Australia",
+        "country": "AUS",
+        "website": "http://www.sydneybusmuseum.com/",
+        "description": "The Sydney Bus Museum features 80+ buses, mostly focusing on buses from Australia from 1924-2000, but also some coaches from Hong Kong and London. The collection is a strange mixture of Australia, British, German, and America buses.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1583006,
+          -33.8761213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1710",
+        "name": "Sydney Tramway Museum",
+        "street": "2 Pitt St, Loftus NSW 2232, Australia",
+        "country": "AUS",
+        "website": "http://www.sydneytramwaymuseum.com.au/",
+        "description": "Australia has wisely horded 70+ trams spanning the historical periods of 1894-1997 in the forest just outside of Sydney",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0511855,
+          -34.0453718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1711",
+        "name": "NSW Rail Museum",
+        "street": "10 Barbour Rd, Thirlmere NSW 2572, Australia",
+        "country": "AUS",
+        "website": "https://www.nswrailmuseum.com.au/",
+        "description": "The NSW Rail Museum features 36 locomotives from Australian railroading history spanning 1865-present., including the streamlined 1943 CS38 class 3801. Most of the locomotives here are operational or completely restored.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5690735,
+          -34.2065275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1712",
+        "name": "Dorrigo Steam Railway and Museum",
+        "street": "4 Tallowood St, Dorrigo NSW 2453, Australia",
+        "country": "AUS",
+        "website": "",
+        "description": "With 94 locomotives and 280 pieces of rolling stock the Dorrigo Steam Railway and Museum is one of the largest railway museums on the planet. However, lawsuits between membership and disputes with the local council means that the museum has been \"not yet open to the public\" since 1986",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7063288,
+          -30.3333625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1713",
+        "name": "Historical Aircraft Restoration Society",
+        "street": "Shellharbour Airport, 54 Airport Rd, Albion Park Rail NSW 2527, Australia",
+        "country": "AUS",
+        "website": "http://hars.org.au/",
+        "description": "This is THE Australian aviation museum and most of the aircraft here are still airworthy. The Historical Aircraft Restoration Society has 46 aircraft at their Shellharbour location, including a Bristol Beaufigher, a replica of the Southern Cross (the first aircraft to make an Australian-mainland USA flight), and various American and European jet passenger aircraft.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7904885,
+          -34.5612849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1714",
+        "name": "Budderoo National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/budderoo-national-park",
+        "description": "The Minnamurra Rainforest lays just outside of Sydney and is home to a series of stunning waterfalls: the 520ft Carrington Falls which plunges into a near-vertical gorge, and the 92ft Minnamurra falls, and the 590ft Gerrigong Falls - each accessible by well-marked hiking trails.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6545594,
+          -34.6238185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1715",
+        "name": "Morton National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/morton-national-park",
+        "description": "The northern half of Morton National Park sits atop a Eucalyptus covered escarpment and looks down upon waterfalls plunging into mist-covered rainforested gullies of the Kangeroo Valley: featuring the 266ft Fitzroy Falls, and the 427ft Belmore Falls. The southern half of the park is mostly undeveloped and features the granite monoliths of the Budawang Range, including the famous rock features of The Seven Gods and Monolith Valley.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4759254,
+          -34.648751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1716",
+        "name": "Wombeyan Caves",
+        "street": "Victoria Arch Dr, Wombeyan Caves NSW 2580, Australia",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wombeyan-karst-conservation-reserve",
+        "description": "You can swim and tube in these caves, and there's also well developed pathways to admire the extensive caverns.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9659955,
+          -34.3116646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1717",
+        "name": "Yarrangobilly Caves",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/things-to-do/visitor-centres/yarrangobilly-caves-visitor-centre",
+        "description": "The north side of Kosciuszko National Park is full of thermal pools that have eroded a series of limestone caves with massive natural arches and portals that look like windows to the sky.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.491185,
+          -35.7252453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1718",
+        "name": "Blue Mountains National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/blue-mountains-national-park",
+        "description": "The plateau of the Great Dividing Range forms a scenic escarpment that descends with waterfalls into a cloudy temperate rainforest valley perpetually covered in a blue haze. Hiking trails such as the Giant Stairway lead from the base of the cliffs to the top, and pass scenic limestone formations such as the Three Sisters.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3146908,
+          -33.7350381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1719",
+        "name": "Scenic World",
+        "street": "1 Violet St, Katoomba NSW 2780, Australia",
+        "country": "AUS",
+        "website": "https://scenicworld.com.au/",
+        "description": "Hiking up and down the escarpment of Blue Mountains National Park is hard - what if you could just take an incline railway, see the waterfalls from a cable car spanning the middle of the gorge, and see an abandoned rollercoaster?",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3017023,
+          -33.7289328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1720",
+        "name": "Jenolan Caves",
+        "street": "4655 Jenolan Caves Rd, Jenolan NSW 2790, Australia",
+        "country": "AUS",
+        "website": "https://www.jenolancaves.org.au/",
+        "description": "The Jenloan Caves are the oldest known cave system in the world, estimated to be 340 million years old, and is the second oldest portion of the world ever reserved for conservation (est. 1866). The caves are massive in size and scale, with some rooms being over 160ft high. The soaring natural arches and cliffs outside of the caves are dotted with patches of rainforest.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.0230419,
+          -33.8190466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1721",
+        "name": "Lithgow Small Arms Factory Museum",
+        "street": "69 Methven St, Lithgow NSW 2790, Australia",
+        "country": "AUS",
+        "website": "http://www.lithgowsafmuseum.org.au/",
+        "description": "Until the opening of Lithgow Arms in 1912, Australia was entirely dependent on British manufacturing for firearms. Lithgow independently manufactured small arms for Australia from 1912-2006. The museum features an in-depth look at how weapons were made on the factory floor, as well as a collection of historical firearms from Lithgow and other manufacturers.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1418545,
+          -33.4875826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1722",
+        "name": "Gardens of Stone National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gardens-of-stone-national-park",
+        "description": "The sandstone of Gardens of Stone National Park have eroded to form 'lost cities' full of rock pagodas.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1647001,
+          -33.4133768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1723",
+        "name": "Wollemi National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wollemi-national-park",
+        "description": "Wollemi National Park is centered around the gorges, glowworm-filled tunnels, cliffs, overhangs, and rivers of the serene Wolgan Valley. There's also rock pagodas in the north of the park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1970776,
+          -32.835398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1724",
+        "name": "Oxley Wild Rivers National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "",
+        "description": "The waterfalls of the wild rivers have carved sharp gorges: such as Apsley Falls (404ft), Wollomombi Falls (330ft), Tia Falls, and Dangars Falls (750ft). Most of the waterfalls are only a short hike away from the road.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.769152,
+          -31.0498264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1725",
+        "name": "Guy Fawkes River National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/guy-fawkes-river-national-park",
+        "description": "Yeah there's some gorges I guess, but the main star of Guy Fawkes River National Park is the 377ft Ebor Falls. Unfortunately the viewing platforms don't let you get to close, so it's harder to appreciate its beauty.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.344012,
+          -30.4024225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1726",
+        "name": "Ballina Naval & Maritime Museum",
+        "street": "8 Regatta Ave, Ballina NSW 2478, Australia",
+        "country": "AUS",
+        "website": "http://www.ballinamaritimemuseum.org/",
+        "description": "Scientist Vital Alsar was inspired by the Kong-tiki expedition and repeatedly sailed a crude raft named \"Las Balsas\" from South America all the way to Australia - the longest known raft voyage in history. The raft is preserved in the Ballina Naval & Maritime museum along with other nautical artifacts.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5645215,
+          -28.8732176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1727",
+        "name": "Nightcap National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nightcap-national-park",
+        "description": "Nightcap National Park is set on the edge of an eroded ancient shield volcano covered in waterfalls, and is littered with rainforests rooted in the volcanic soil. Notable waterfalls include Minyon Falls (330ft) and Protestors Falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3899796,
+          -28.6124856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1728",
+        "name": "Bald Rock National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bald-rock-national-park",
+        "description": "Ayers Rock is really far away and you cannot hike on top of it anymore. Fortunately Bald Rock is another sandstone monolith that's closer to major cities and has a convenient hiking trails. The view isn't as good though.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0400612,
+          -28.8522601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1729",
+        "name": "Boonoo Boonoo National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/boonoo-boonoo-national-park",
+        "description": "Yeah, Australia is filled with giant waterfalls like Boonoo Falls (688ft) that plunge into rainforests.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1650772,
+          -28.7976014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1730",
+        "name": "Warrumbungle National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/warrumbungle-national-park",
+        "description": "As you head away from the coast and towards the outback, there is a twilight area of temperate savannah where knife-like lava formations from long-gone volcanoes jut out of the landscape.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9956567,
+          -31.3300401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1731",
+        "name": "Mungo National Park",
+        "street": "",
+        "country": "AUS",
+        "website": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mungo-national-park",
+        "description": "This is Australia's version of the badlands, only it's much smaller and less colorful",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1131116,
+          -33.7876937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1732",
+        "name": "Mad Max 2 Museum",
+        "street": "9 Stirling St, Silverton NSW 2880, Australia",
+        "country": "AUS",
+        "website": "https://www.facebook.com/MadMaxMuseum/",
+        "description": "Silverton Australia was where Mad Max 2 was filmed, and now the vehicles - including the original interceptor are kept on display in a museum dedicated to the Mad Max franchise.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2217798,
+          -31.8884319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1733",
+        "name": "Historic Daydream Mine",
+        "street": "",
+        "country": "AUS",
+        "website": "https://daydreammine.com.au/",
+        "description": "Countries with nationalized healthcare (all countries except the USA) tend not to let their citizens wander around abandoned mines. Fortunately at Day Dream Mine you can tour a historic lead mine and wander through the unsafe looking tunnels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3498761,
+          31.8150789
+        ]
+      }
     }
   ]
 }
