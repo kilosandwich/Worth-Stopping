@@ -34749,6 +34749,367 @@
           -31.8150789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1734",
+        "name": "Waitangi Treaty Grounds",
+        "street": "Tau Henare Drive, Waitangi 0293, New Zealand",
+        "country": "NZL",
+        "website": "https://www.waitangi.org.nz/",
+        "description": "On February 6, 1840 the British used the threat of French annexation to persuade the Māori tribes to only ever let the British government purchase Māori land, ceded all sovereignty to British dominion, and made the Māori British citizens. Waitangi Day is celebrated as New Zealand's National Day, and the treaty grounds are now home to the Museum of Waitangi ;Te Rau Aroha Museum (Museum of the Price of Citizenship); and is home to the Treaty House (Busby House) where the treaty was signed, flag of the nation chose, and declaration of independence written.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0805725,
+          -35.2675655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1735",
+        "name": "Waipu Caves",
+        "street": "567 Waipu Caves Road, Waipu 0582, New Zealand",
+        "country": "NZL",
+        "website": "http://waipucaves.nz/",
+        "description": "Glow worms glow in the dark in order to resemble a night sky - all to ensure other creatures in their threads. The Waipu Caves features a stunning constellation of glowworms in very large caverns.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.3658799,
+          -35.9361781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1736",
+        "name": "The Kauri Museum",
+        "street": "5 Church Road, Matakohe 0593, New Zealand",
+        "country": "NZL",
+        "website": "http://www.kaurimuseum.com/",
+        "description": "The remarkably wide (15ft+) and tall (160ft+) Kauri Trees are unique to New Zealand. Kauri trees also produce Kauri gum, a resin valuable for industrial varnish. 90% of all Kauri forests have been cut down, and you can see the history of logging and crafts made of Kauri at The Kauri Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1850816,
+          -36.129956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1737",
+        "name": "New Zealand Maritime Museum",
+        "street": "Corner of Quay and Hobson Street, Auckland 1140, New Zealand",
+        "country": "NZL",
+        "website": "http://www.maritimemuseum.co.nz/",
+        "description": "Until the invention of air travel, all inhabitants of New Zealand arrived by ship/canoe, and most commerce was conducted by sea. The New Zealand Maritime Museum exhibits 130+ watercraft, ranging from Maori canoes to America's cup winning racing yachts.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.763416,
+          -36.841543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1738",
+        "name": "Museum of Transport and Technology",
+        "street": "805 Great North Road, Western Springs, Auckland 1022, New Zealand",
+        "country": "NZL",
+        "website": "https://www.motat.nz/",
+        "description": "The Museum of Transportation and Technology is composed of two major campuses connected by heritage tramway. The museum features ~40 aircraft - including two rare double-decker flying boats (Short Sunderland and Short Solent), 20 trams, 18 locomotives, and 100+ cars. Maintenance is pristine, and the museum campus is serene.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7272013,
+          -36.867231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1739",
+        "name": "Auckland Museum",
+        "street": "Parnell, Auckland 1010, New Zealand",
+        "country": "NZL",
+        "website": "https://www.aucklandmuseum.com/",
+        "description": "New Zealand has been in a constant state of war since the arrival of the Māori ~1250, with the Māori chiefdoms fighting for supremacy amongst each other and against waves of colonization, and New Zealand participation in various wars of the Commonwealth. The museum acts as a war memorial and natural history museum - and is also built on top of a dormant volcano.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7777551,
+          -36.8608266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1740",
+        "name": "Rainbow's End",
+        "street": "2 Clist Crescent, Manukau City Centre, Auckland 2104, New Zealand",
+        "country": "NZL",
+        "website": "http://www.rainbowsend.co.nz/",
+        "description": "New Zealand is 1000 miles from anywhere, which means that their local amusement park had to get creative and build some of their rollercoasters and rides themselves.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8838327,
+          -36.9942481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1741",
+        "name": "Bridal Veil Falls (Waikato)",
+        "street": "Kawhia Road, Makomako 3895, New Zealand",
+        "country": "NZL",
+        "website": "https://www.waikatonz.com/experiences/walking-hiking-trails/bridal-veil-falls-raglan/",
+        "description": "The 180ft Bridal Veil Falls plunges off an overhanging columnated-basalt cliff into the Pakoka River. Well built walkways provide excellent access to the top and base of the falls.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8958386,
+          -37.908498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1742",
+        "name": "Hobbiton Movie Set",
+        "street": "501 Buckland Road, Matamata 3472, New Zealand",
+        "country": "NZL",
+        "website": "https://www.hobbitontours.com/",
+        "description": "The fictional village of Hobbiton was faithfully constructed in New Zealand for the Lord of the Rings and The Hobbit trilogies, and is now available for tour. It's a fantasy world made real - including a real bar.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.6798472,
+          -37.8577237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1743",
+        "name": "Whakarewarewa Thermal Reserve",
+        "street": "Whakarewarewa, Rotorua 3010, New Zealand",
+        "country": "NZL",
+        "website": "https://whakarewarewa.com/geothermal/",
+        "description": "The North Island of New Zealand is home to the Taupō Volcanic Zone, which has led to the formation of colorful geothermal springs and geysers like those in the Whakarewarewa valley. The Maori have also built a living history village depicting life before European arrival.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.2540376,
+          -38.1635379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1744",
+        "name": "Orakei Korako",
+        "street": "494 Orākei Kōrako Road, Taupo 3083, New Zealand",
+        "country": "NZL",
+        "website": "https://www.orakeikorako.co.nz/",
+        "description": "Orakei Korako geothemral area is the less popular sibling of the Whakarewarewa geothermal area. It still offers impressive and colorful terraced hot springs",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14808,
+          -38.4732695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1745",
+        "name": "Tongariro National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/",
+        "description": "Hike the barren hellscape of an active volcano. The roads to Iwakau village won't take you all the way to the top, but they will get you pretty close to the snowcapped peaks. This is not a car friendly park, to see anything worthwhile you will have to hike considerable distances - because building roads on an active volcano is generally considered a bad idea outside of the United States.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.6512295,
+          -39.1329811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1746",
+        "name": "Ruakuri Cave",
+        "street": "204 Tumutumu Road, Waitomo 3985, New Zealand",
+        "country": "NZL",
+        "website": "https://www.waitomo.com/glowworms-and-caves/ruakuri-cave",
+        "description": "Ruakuri Cave is yet another glowworm filled cave in New Zealand, however Ruakuri cave features waterfalls, underground rivers, and an intimidating red-lit spiral ramp entrance.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0796957,
+          -38.2688153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1747",
+        "name": "Waitomo Glowworm Cave",
+        "street": "39 Waitomo Village Road, Waitomo 3977, New Zealand",
+        "country": "NZL",
+        "website": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves",
+        "description": "Take an underground boat ride through a darkened cavern full of glowworms. Black Water rafting allows you tube through the caverns in the dark - it's just as unsafe as it sounds.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.1037562,
+          -38.2607136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1748",
+        "name": "Egmont National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "",
+        "description": "Mount Taranaki (8,261ft) is a snowcapped volcano covered in temperate rainforest dramatically rising above the plains surrounding it. There are well-hiked trails to the summit and circling the snowline, and a road that will take you around halfway up the mountain.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1014804,
+          -39.3070366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1749",
+        "name": "Tawhiti Museum",
+        "street": "401 Ohangai Rd, Tawhiti Road, Hāwera 4672, New Zealand",
+        "country": "NZL",
+        "website": "http://www.tawhitimuseum.co.nz/",
+        "description": "Former art teacher Nigel Ogel used his craft skills to turn a defunct cheese factory into a visual narrative of New Zealand history. There are also train and boat rides among the elaborate dioramas.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.3116546,
+          -39.5681275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1750",
+        "name": "Pūtangirua Pinnacles",
+        "street": "",
+        "country": "NZL",
+        "website": "",
+        "description": "Yes, there's a badlands in New Zealand, and it is unusually grey and spikey.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2473019,
+          -41.4466113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1751",
+        "name": "Southward Car Museum",
+        "street": "Otaihanga Road, Otaihanga 5036, New Zealand",
+        "country": "NZL",
+        "website": "https://www.southwardcarmuseum.co.nz/",
+        "description": "New Zealand briefly had its own auto industry - which mainly consisted of assembly foreign cars in the Hutt Valley for the rest of Oceania. Len Southward owned the automotive supplier Southward Engineering and horded 450 vehicles before he died in 2004, and put them all in the Southward Car Museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0286326,
+          -40.8940513
+        ]
+      }
     }
   ]
 }
