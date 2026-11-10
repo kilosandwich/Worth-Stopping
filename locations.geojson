@@ -35110,6 +35110,286 @@
           -40.8940513
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1752",
+        "name": "Omaka Aviation Heritage Centre",
+        "street": "14 Rosina Corlett Lane Via, Aerodrome Road, Omaka, Blenheim 7272, New Zealand",
+        "country": "NZL",
+        "website": "http://www.omaka.org.nz/",
+        "description": "The completion of Lord of the Rings left behind a talented props industry in New Zealand, which worked on presenting this photogenic museum dedicated to WW1 aviation.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.9297179,
+          -41.5378532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1753",
+        "name": "Abel Tasman National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/",
+        "description": "Dark green forests on tropical golden beaches that crisscross waterfalls, gorges, and rocky rivers. There's also penguins here. There's an extensive trail following the coast, but most access to the park is by boat.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9277197,
+          -40.8490323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1754",
+        "name": "Rawhiti Cave",
+        "street": "",
+        "country": "NZL",
+        "website": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/takaka-area/things-to-do/tracks/rawhiti-cave-track/",
+        "description": "There's a friendly boardwalk that will take you into a colossal overhang dotted with spikes hanging from the ceiling",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8670228,
+          -40.8842862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1755",
+        "name": "Ngārua Caves",
+        "street": "Main Road Takaka, Hills, Motueka 7198, New Zealand",
+        "country": "NZL",
+        "website": "http://www.ngaruacaves.co.nz/",
+        "description": "Flightless birds have a hard time getting out of caves once they fall in, which is why the Ngārua Caves are littered with bones from the extinct flightless bird the Moa. They're also pretty nice caverns.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9024273,
+          -41.01895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1756",
+        "name": "Paparoa National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park/",
+        "description": "Sedimentary rocks can sometimes look like pancakes and form sea stacks (Pancake Rocks), there's also sea arches, overhangs (Ballroom overhang), and caverns (Punakaiki Cavern). Did I mention it's all set in a lowland subtropical rainforest?",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.3259714,
+          -42.1140743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1757",
+        "name": "Arthur's Pass National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "",
+        "description": "Yes it's another beautiful alpine mountain pass filled with waterfalls (Devil's Punchbowl Waterfall - 430ft, Bridal Veil Falls), but it's also filled with parrots (Kea) that will destroy your car.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.5631409,
+          -42.9336278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1758",
+        "name": "Mount Cook National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "",
+        "description": "Mount Cook is the highest mountain in New Zealand (12,218ft) and is covered in glaciers that flow into the surrounding valleys. It's also home to parrots that will attack your car (the Kea - the world's only alpine parrot)",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.1340048,
+          -43.592435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1759",
+        "name": "Westland Tai Poutini National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "",
+        "description": "You would think that the Franz Josef and Fox Glaciers are inaccesible due to the lack of hiking trails - fortunately helicopter services run from the nearby towns to the glaciers so you can hike directly on them. If that's too expensive, just stand in the temperate rainforest and view the glaciers from afar across the glacial lakes - or hike through the valleys.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.1768503,
+          -43.4461071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1760",
+        "name": "Mount Aspiring National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/",
+        "description": "Mount Aspiring national Park features even more glaciers surrounded by temperate rainforest. The mountains here are steeper, the valleys greener, and the glacial waters bluer than Mount Cook or Westland National Park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.715724,
+          -44.3845058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1761",
+        "name": "National Transport & Toy Museum",
+        "street": "891 Wanaka-Luggate Highway, Wānaka 9382, New Zealand",
+        "country": "NZL",
+        "website": "http://www.nttmuseumwanaka.co.nz/",
+        "description": "Gerald Rhodes started a wrecking business and began hording vehicles that were to be scrapped - then selected the dryest place in New Zealand to keep his collection safe. Featuring 600+ vehicles, 23 aircraft, and 100,000+ toys spread across multiple buildings.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.2399564,
+          -44.7225493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1762",
+        "name": "Bill Richardson Transport World",
+        "street": "491 Tay Street, Hawthorndale, Invercargill 9810, New Zealand",
+        "country": "NZL",
+        "website": "http://www.transportworld.co.nz/",
+        "description": "Bill Richardson was a gas station and trucking company owner who began collecting vehicles until he had amassed 300+ of them in his museum. Every bathroom also has \"...vibrant and distinct design elements\" (this is an actual attraction advertised on their website).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3800752,
+          -46.4096323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1763",
+        "name": "Classic Motorcycle Mecca",
+        "street": "25 Tay Street, Invercargill 9810, New Zealand",
+        "country": "NZL",
+        "website": "https://www.motorcyclemecca.nz/",
+        "description": "Classic Motorcycle Mecca is Bill Richardson Transport World's sister location where they put all 325+ of their motorcycles - and some racecars.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.348648,
+          -46.4134255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1764",
+        "name": "Te Ana-au Caves",
+        "street": "85 Lakefront Drive, Te Anau 9679, New Zealand",
+        "country": "NZL",
+        "website": "https://www.realnz.com/en/experiences/glowworm-caves/te-anau-glowworm-caves/",
+        "description": "This glowworm filled cave is set in a narrow and deep gorge of a rushing underground river - and the main access point can only be reached by taking a boat across a glacial lake",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.7110192,
+          -45.4175835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1765",
+        "name": "Fiordland National Park",
+        "street": "",
+        "country": "NZL",
+        "website": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/",
+        "description": "The glaciers have carved waterfall filled fjords dotted with glacial lakes and steep mountains - all within a temperate rainforest. State Highway 94 will take you to Milford Sound, however you will have to take a boat tour or be really good at hiking to get the most out of this park.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.9215979,
+          -44.6729746
+        ]
+      }
     }
   ]
 }
