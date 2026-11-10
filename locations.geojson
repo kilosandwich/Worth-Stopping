@@ -27412,7 +27412,7 @@
         "street": "4112 Krumovo, Bulgaria",
         "country": "BGR",
         "website": "http://www.airmuseum-bg.com/",
-        "description": "Bulgaria never really had an aviation industry, so the 65+ aircraft at the Plovdiv Aeronautics Museum was bought from other countries. Notably this museum has the only aircraft every produced in Bulgaria - the Lazarov Laz-7, and an Arado Ar 196 WW2 floatplane.",
+        "description": "Bulgaria never really had an aviation industry, so the 65+ aircraft at the Plovdiv Aeronautics Museum was bought from other countries. Notably this museum has the only aircraft ever produced in Bulgaria - the Lazarov Laz-7, and an Arado Ar 196 WW2 floatplane.",
         "worth stopping": true,
         "museum": true
       },
@@ -35388,6 +35388,146 @@
         "coordinates": [
           167.9215979,
           -44.6729746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1766",
+        "name": "Santuario de Las Lajas",
+        "street": "Ipiales, Las Lajas, Ipiales, Narino, Colombia",
+        "country": "COL",
+        "website": "https://www.laslajas.org/",
+        "description": "The Sanctuary of Our Lady of the Rosay of Las Lajas is a neo-gothic church built in the middle of a canyon instead of on the bottom or the sides. It's so sharp and vivid looking that if it were in a movie it would be criticized for looking too perfect.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5870524,
+          0.8056988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1767",
+        "name": "Parque nacional Archipiélago de Juan Fernández",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/",
+        "description": "This archipelago is where the real life \"Robinson Crusoe\" (Alexander Selkirk) was wrecked. Robinson Crusoe sland is the only island accessible by air, and is also home to the more dramatic volcanic landscape with the highest point being 3,002ft above the surrounding ocean.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8706977,
+          -33.6441444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1768",
+        "name": "Museo Nao Victoria",
+        "street": "",
+        "country": "CHL",
+        "website": "",
+        "description": "The Nao Victoria Museum is home to replicas of: the carrack (Nao) Victoria - one of the first European ships to discover Chile, and the first ship to circumnavigate the globe; the HMS Beagle - the ship that carried Charles Darwin; the schooner Ancud - the ship that claimed the Strait of Magellan for Chile; and the James Caird - a small lifeboat that sail the entirety of the perilous Drake Passage. The shipwreck Magallanes III is right next to the museum.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8796325,
+          -53.1073525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1769",
+        "name": "Monumento natural Cueva del Milodón",
+        "street": "Y-290 8, Natales, Magallanes y la Antártica Chilena, Chile",
+        "country": "CHL",
+        "website": "http://cuevadelmilodon.cl/",
+        "description": "Milodón cave was home to the giant ground sloth the Mylodon - which came inside the massive cavern and scraped its claws against the walls.",
+        "worth stopping": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6195962,
+          -51.5652581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1770",
+        "name": "Parque nacional Torres del Paine",
+        "street": "",
+        "country": "CHL",
+        "website": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
+        "description": "These glacier covered mountains are also home to massive granite spires the \"Torres del Paine\" and the \"Cuernoes del Paine\". It's a heck of a hike to see the the Torres del Paine, but the glacial lakes are fairly easy to get to.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9898158,
+          -50.9509389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1771",
+        "name": "Parque Nacional Cerro Castillo",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.parquenacionalcerrocastillo.cl/",
+        "description": "The mountains at Cerro Castillo are unusually pointy. There are well developed hiking routes, fortunately much of the beauty can be taken in from the roadside.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2089516,
+          -46.0661275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1772",
+        "name": "Parque nacional Queulat",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/parques/parque-nacional-queulat/",
+        "description": "Sure, the glaciers here are melting - but that just means there's bigger waterfalls. The main attraction here is the hanging glacier - because nothing else at this park has really been developed.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5057704,
+          -44.436861
         ]
       }
     }
