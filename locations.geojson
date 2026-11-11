@@ -35530,6 +35530,386 @@
           -44.436861
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1773",
+        "name": "Parque Nacional Alerce Andino",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/parques/parque-nacional-alerce-andino/",
+        "description": "Alerce Andino National Park is home to lakes surrounded by a rich Alerce (Fitzroya) cypress temperate rainforest bounded by steep and forested mountainsides. You have to hike to get anywhere in this park, but the roads will get you close to the trailheads.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.538751,
+          -41.5646439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1774",
+        "name": "Parque Nacional Vicente Pérez Rosales",
+        "street": "",
+        "country": "CHL",
+        "website": "https://parquenacionalvicenteperezrosales.cl/",
+        "description": "Parque Nacional Vicente Pérez Rosales also has Fitzroya filled temperate rainforest, rushing blue glacial waters, and a very active and snowy volcano (Osorno 8,701ft) that you can ski down. This is the oldest National Park in Chile because they think it is the best.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4475957,
+          -41.1731326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1775",
+        "name": "Parque nacional Puyehue",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/parques/parque-nacional-puyehue/",
+        "description": "Puyhue is a waterfall-filled temperate rainforest full of snowcapped volcanoes , including the crater of Puyhue-Cordón Caulle, (7,336ft)",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2880956,
+          -40.8292302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1776",
+        "name": "Salto El Calzoncillo",
+        "street": "",
+        "country": "CHL",
+        "website": "",
+        "description": "Calzoncillo waterfall pours 1,377ft off a temperate-rainforest covered cliff into a placid and blue glacial lake. Despite being one of the tallest waterfalls in Chile, the only way to see the base of the falls is by tour boat.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3488046,
+          -40.8441105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1777",
+        "name": "Auto Museum Moncopulli",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.moncopulli.cl/",
+        "description": "Why is there an Americana themed Studebaker museum in Chile with 150+ vehicles? WHY? This museum is so tremendously out of place.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8203686,
+          -40.6087732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1778",
+        "name": "Chilean submarine O'Brien",
+        "street": "Av. Arturo Prat 2-20, Valdivia, Los Ríos, Chile",
+        "country": "CHL",
+        "website": "https://www.registromuseoschile.cl/663/w3-article-119207.html",
+        "description": "The United Kingdom built Cold-war era Oberon-class submarine O'Brien is yet another Oberon-class submarine museum - however this is only one of two still afloat.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2493545,
+          -39.8160326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1779",
+        "name": "Termas Geométricas",
+        "street": "Parque Nacional Villarrica - camino Coñaripe Km 16, Panguipulli, Los Ríos, Chile",
+        "country": "CHL",
+        "website": "http://termasgeometricas.cl/",
+        "description": "The thermal springs of the Villarrica Volcano pool into a warm stream which winds its way through the Valdavian rainforest. A large portion of the stream has been converted into thermal baths, and a walkway winds its way through the steamy gorge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8746882,
+          -39.5015504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1780",
+        "name": "Parque Nacional Villarrica",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/parques/parque-nacional-villarrica/",
+        "description": "Yet another temperate-rainforest covered snowcapped mountain in the Andes, this one sets itself apart by having a hot springs system (Termas Geometricas) and having a restaurant at the top of the skip slopes on the Villarrica volcano (9,380ft).",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.938238,
+          -39.4179594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1781",
+        "name": "Museo Nacional Ferroviario Pablo Neruda",
+        "street": "Av. Barros Arana 0565, Temuco, Araucanía, Chile",
+        "country": "CHL",
+        "website": "https://museoferroviariopabloneruda.cl/visitanos/",
+        "description": "Chile never established its own railway manufacturing industry, and because Chile is equally far from anywhere that did, the 16 locomotives here a mixture of British, German, American, Canadian, and Japanese imports.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5710191,
+          -38.7260744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1782",
+        "name": "Parque Nacional Conguillio",
+        "street": "",
+        "country": "CHL",
+        "website": "https://www.conaf.cl/parques/parque-nacional-conguillio/",
+        "description": "The volcanos of Conguillo National Park are covered with umbrella-shaped Monkey Puzzle Trees - the national tree of Chile. The ice water runoff is a deep blue, and leaves rushing waterfalls in the Truful canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.734625,
+          -38.698411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1783",
+        "name": "Parque Nacional Tolhuaca",
+        "street": "",
+        "country": "CHL",
+        "website": "https://www.conaf.cl/parques/parque-nacional-tolhuaca/",
+        "description": "Monkey Puzzle trees, waterfalls, and a nice view of a volcano.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8298583,
+          -38.2177569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1784",
+        "name": "Parque Nacional Laguna del Laja",
+        "street": "Sendero Las Chilcas, Antuco, Bío Bío, Chile",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/parques/parque-nacional-laguna-del-laja/",
+        "description": "Laguna del Laja is bounded entirely by the volcanos of the Andes mountains, and is the source of the waterfall-filled Laja River",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4111055,
+          -37.38716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1785",
+        "name": "Salto del Laja",
+        "street": "",
+        "country": "CHL",
+        "website": "https://www.saltosdellaja.com/",
+        "description": "Depending on when you visit, the 114ft Laja Falls range from raging water to synchronized dribbles The waterfall system is multi part, with the Saltdos del Laja in the West, and the Salto Chico in the East.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3836384,
+          -37.2155351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1786",
+        "name": "Monitor Huáscar",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.huascar.cl/",
+        "description": "The Huascar is the second oldest armored warship afloat. During the War of the Pacific the Peruvian navy's the 1865 ironclad monitor Huasacar was the nemesis of the Chilean navy: the ship sank Chilean shipping, killed Chilean naval hero Arturo Prat on the Corvette Esmeralda, and raided Chile's coastal cities. The Chilean navy captured its nemesis at the battle of Angamos, and turned their trophy into a museum ship.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1118387,
+          -36.7053749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1787",
+        "name": "Parque Nacional Radal Siete Tazas",
+        "street": "",
+        "country": "CHL",
+        "website": "http://www.conaf.cl/parques/reserva-nacional-radal-siete-tazas/",
+        "description": "It's waterfalls ('Siete Tazas' (The Seven Cups)), waterfalls (The Bridal Veil), and more waterfalls (la Leona) - all in a steep canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0447714,
+          -35.4393361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1788",
+        "name": "Fantasilandia",
+        "street": "Parque O'Higgins - Av. Beauchef 938, Santiago, Región Metropolitana, Chile",
+        "country": "CHL",
+        "website": "http://www.fantasilandia.cl/",
+        "description": "Fantasilandia is the amusement park Chile has. Featuring 6 rollercoasters - all of them 'off the shelf' models.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6629736,
+          -33.4598587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1789",
+        "name": "El Tatio",
+        "street": "",
+        "country": "CHL",
+        "website": "https://eltatio.net/tarifas-geysers-del-tatio/",
+        "description": "The El Tatio geothermal field is located in a dry volcanic hellscape in the heights of the Andes mountains. You can get concerningly close the the geysers and steam vents here, the only thing stopping you is a line of rocks.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0120719,
+          -22.3439555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1790",
+        "name": "Museo Corbeta Esmeralda",
+        "street": "",
+        "country": "CHL",
+        "website": "https://www.museoesmeralda.cl/",
+        "description": "The real Corvette Esmerelda was sunk during the War of the Pacific in the Battle of Iquique in on May 21, 1879 - killings its commander Arturo Prat after he personally jumped sword-in-hand to board the technologically-superior Peruvian monitor Huascar. Prat's death was used as a rallying cry for the nation, and enshrined the Esmerelda and the Huascar are prominent in the Chilean national consciousness. This museum is a replica of the Esmerelda as she was the day before it sank.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1516733,
+          -20.2093738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1791",
+        "name": "Parque Nacional Lauca",
+        "street": "",
+        "country": "CHL",
+        "website": "https://www.conaf.cl/parques/parque-nacional-lauca/",
+        "description": "A lake (Chungara Lake) on top of a mountain (14,820ft ) with an even taller mountain overlooking it (20,930ft). This is the only splotch of green in this area of the altiplano.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1764066,
+          -18.250852
+        ]
+      }
     }
   ]
 }
