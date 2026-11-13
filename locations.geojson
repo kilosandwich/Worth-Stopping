@@ -35910,6 +35910,226 @@
           -18.250852
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1792",
+        "name": "Frigorífico Anglo del Uruguay",
+        "street": "Rbla. Andrés Montaño, 65000 Barrio Anglo, Departamento de Río Negro, Uruguay",
+        "country": "URY",
+        "website": "http://turismo.gub.uy/",
+        "description": "Explore a massive terrifying decaying meat packing plant. Cattle has historically been one of the major industries of Uruguay, and the Anglo Meatpacking plant slaughtered and packed meat for consumption in Europe. The plant fell into decay following nationalization in the 1960s, and closed for good in the 1980s.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.332162,
+          -33.1169436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1793",
+        "name": "Museo y Parque Fernando García",
+        "street": "Cno. Carrasco 7445, 11300 Montevideo, Departamento de Montevideo, Uruguay",
+        "country": "URY",
+        "website": "http://fernandogarcia.montevideo.gub.uy/museo",
+        "description": "Businessman and politician Fernando Garcia commissioned his own park and gave it to Montevideo upon his death. It's now a museum focused on Uruguayan carriages.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0616728,
+          -34.8665313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1794",
+        "name": "Tierra Santa (parque temático)",
+        "street": "Av. Costanera Rafael Obligado 5790, C1425 Cdad. Autónoma de Buenos Aires, Argentina",
+        "country": "ARG",
+        "website": "http://www.tierrasanta.com.ar/",
+        "description": "Come see the greatest hits of the holy land and replicated in a religious theme park in Buenos Aires, Argentina (80% Christian): they've got the wailing wall of Jerusalem, Jesus on trial, Jesus on a cross, and all of Christianity's greatest biblical moments depicted by actors and mannequins.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4333293,
+          -34.5474657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1795",
+        "name": "ARA Uruguay",
+        "street": "C1107 Buenos Aires, Argentina",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/armada/museos/buque-uruguay",
+        "description": "The 1874 corvette Uruguay served as a gunboat, training ship, Antarctic rescue ship, and oceanographic survey vessel. The ARA Uruguay is now lovingly preserved as a museum ship and a fine example of 1870s sailing vessels.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3662984,
+          -34.6042074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1796",
+        "name": "Palacio de Aguas Corrientes",
+        "street": "Riobamba 750, C1025ABP Cdad. Autónoma de Buenos Aires, Argentina",
+        "country": "ARG",
+        "website": "https://aysa.com.ar/Museo",
+        "description": "A water tower in the middle of Buenos Aires was so ugly that they replaced it with a French renaissance palace that concealed a pumphouse. The building now houses the Museo del Agua y de la Historia Sanitaria (Museum of Water and Sanitation History).",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3950115,
+          -34.6003054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1797",
+        "name": "Museo Historico Del Ejercito Argentino",
+        "street": "Carlos Pellegrini 4000, B1702BDV Ciudadela, Provincia de Buenos Aires, Argentina",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/defensa/gestion-cultural/museos/museo-historico-del-ejercito-argentino",
+        "description": "Argentina has been intermittently at war since colonization, fighting the colonizers, the natives, the Spanish, themselves, Bolivia, Uruguay, Paraguay, fascism (WW2), the United Kingdom, Iraq, and Serbia. The military also took over the government a few times (1930, 1943, 1955, 1962, 1966, 1976, 1981), so there's a lot of history and equipment to see here.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5434616,
+          -34.6307936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1798",
+        "name": "Museo Nacional de Aeronáutica de Argentina",
+        "street": "Av. Eva Perón 2200, B1708 Morón, Provincia de Buenos Aires, Argentina",
+        "country": "ARG",
+        "website": "http://www.mna.ar/",
+        "description": "Argentina has maintained its own (often struggling) domestic aircraft manufacturing industry - producing its own unique aircraft, some of which are only found here at this museum: such as the DINFIA IA 35, FMA I.Ae.30 Ñancú, FMA IA 27 Pulqui I - the first Latin American jet aircraft, FMA IA 33 Pulqui II, and FMA I.Ae.37.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6372362,
+          -34.6744561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1799",
+        "name": "Campanopolis",
+        "street": "",
+        "country": "ARG",
+        "website": "http://www.campanopolis.com.ar/",
+        "description": "Supermarket owner and millionaire Alberto Campana was diagnosed with terminal cancer in 1976, and sold everything he owned to build a whimsical fantasy town. Campana had no architectural experience, so it's a very vibes-based architectural experience that looks out of a dream.",
+        "worth stopping": true,
+        "architecture": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6065625,
+          -34.7885244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1800",
+        "name": "Quinta de San Vicente",
+        "street": "Lavalle 800, B1865 San Vicente, Provincia de Buenos Aires, Argentina",
+        "country": "ARG",
+        "website": "https://www.gba.gob.ar/cultura/museo_quinta_17_de_octubre",
+        "description": "Argentine President Juan Person rose through the ranks of the military dictatorship and built a nationalistic (nationalization, anti-internationalism, and tariffs) populist cult-of-personality union-backed (worker's rights) movement that took him to the presidency. Peron's opportunistic authoritarianism made a lot of opponents and he was overthrown by the military in 1955. Peron's estate is now the holy land of Peronism -which still holds strong sway in Argentinian politics.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4370851,
+          -35.0200469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1801",
+        "name": "Villa Epecuén",
+        "street": "Villa Epecuén, Buenos Aires Province, Argentina",
+        "country": "ARG",
+        "website": "https://www.termasdecarhue.com/",
+        "description": "The waters of Laguna de Epecuén rose to flood the resort town of Villa Epecuén in 1985, and the the receding waters left behind a ruined ghost town.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8096816,
+          -37.1332649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1802",
+        "name": "Complejo Museográfico Provincial Enrique Udaondo",
+        "street": "Lezica y Torrezuri 917, B6700 Luján, Provincia de Buenos Aires, Argentina",
+        "country": "ARG",
+        "website": "",
+        "description": "The Lujan museum grew and grew until old colonial buildings were replicated and turned into The Colonial and Historical Museum, the Transport Museum , the Automobile Hall, and the Enrique Pena library. Basically half of the town square has become one continuous museum complex.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1217246,
+          -34.5626533
+        ]
+      }
     }
   ]
 }
