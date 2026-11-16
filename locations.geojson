@@ -36130,6 +36130,307 @@
           -34.5626533
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1803",
+        "name": "Parque provincial del Moconá",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "Moconá Falls bisects the Uruguay river longitudinally, resulting in a waterfall which is ~30ft tall and 9,842ft long. The Argentina side of the falls in Parque provincial del Moconá does not provide a good view of the falls, but there are boat tours that do.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8904885,
+          -27.1559073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1804",
+        "name": "Parque nacional Iguazú",
+        "street": "Ruta 101 Km 142, N3370 Puerto Iguazú, Misiones, Argentina",
+        "country": "ARG",
+        "website": "http://iguazuargentina.com/",
+        "description": "The 269ft tall and 1.7 mile wide Iguazu Falls is one of the largest waterfalls in the world by flow rate. Iguazu National Park in Argentina allows visitors to walk over perilous boardwalks at the top of the falls, and across rocky footpaths at the base.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4443317,
+          -25.6885394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1805",
+        "name": "Serranía de Hornocal",
+        "street": "Comunidad hornocal 4630, Humahuaca, Jujuy, Argentina",
+        "country": "ARG",
+        "website": "",
+        "description": "The Hornocal mountains sheared into colorful folds known as the \"14 Colores del Hornocal\". You can't really interact with the mountains other than by looking at them from a long way aways, but the view is vivid and distinct.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.1935445,
+          -23.1970803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1806",
+        "name": "Salinas Grandes (centro de Argentina)",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "The Andes mountains trap some water from ever reaching the sea, resulting in a vast white salt flat covered by a shallow layer of water. Trenches in the salt flat fill with electric-blue water used for salt harvesting",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8652466,
+          -23.6090671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1807",
+        "name": "Parque nacional Tierra del Fuego",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/parquesnacionales/tierradelfuego",
+        "description": "\"The End of the World\" Tierra Del Fuego is home to the only subantarctic forests that you can drive to - it's kind of like Argentina's version of Norway. While the Argentinian portion of Tierra del Fuego isn't as dramatic as the Chilean side, it is far more accessible - and has the world's southernmost railroad.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3971352,
+          -54.787732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1808",
+        "name": "Parque Nacional Los Glaciares",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/interior/ambiente/parquesnacionales/losglaciares",
+        "description": "The ice caps of the Andes mountains flows into large glacial lagoons. Glaciers are visible from the roadside. The northern section of the park revolves around Monte Fitz Roy (11,171ft) - the iconic mountain from the Patagonia clothing company logo, while the southern section of the park is centered around the Perito Moreno glacier.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0326085,
+          -50.4688771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1809",
+        "name": "Reserva Provincial Lago del Desierto",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "Provencial Route 41 reaches deep into the forested glacial valley of the Andes, where the Lago del Desierto lays surrounded by snow covered mountains. The far side of the lake offers some of the best views of Mount Fitz Roy. This is the companion park to the northern section of Parque Nacional Los Glaciares.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8885766,
+          -49.0793577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1810",
+        "name": "Nao Victoria (Argentina)",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "The Nao Victoria was the first ship to circumnavigate the globe during Magellan's voyage, and was instrumental in Magellan's exploration of the Patagonian coast. This replica of the Nao Victoria is in Puerto San Julian - where Magellan wintered in 1520 before attempting his circumnavigation.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7152967,
+          -49.3128442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1811",
+        "name": "Parque nacional Bosques Petrificados de Jaramillo",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/parquesnacionales/bosquespetrificados",
+        "description": "The verdant forests of the Patagonian plain were buried under ash and lava, leaving behind a lonely volcanic plain with petrified trees",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9936622,
+          -47.6711217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1812",
+        "name": "Cueva de las Manos",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "As the glaciers receded towards the Andes, the fertile rio Pinturas grew drier, and the hunter-gatherers moved on from the cave that they had decorated with their art and handprints. The stenciled hands of the cave are now available for tour in the scenic 88ft deep Pinturas canyon.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6548379,
+          -47.1553998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1813",
+        "name": "Bosque Petrificado Sarmiento",
+        "street": "",
+        "country": "ARG",
+        "website": "https://chubutpatagonia.gob.ar/experiencia/bosque-petrificado-sarmiento/",
+        "description": "This section of the Patagonian steppe used to be tropical shoreline where dead trees washed down the rivers and came to rest on the beaches. Now you can walk among the badlands and see a petrified forest.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0667538,
+          -45.8176722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1814",
+        "name": "Museo Nacional del Petróleo",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "The discovery of oil nearby Comodoro Rivadavia  let to creation of the state owned oil-company YPF (Yacimientos Petrolíferos Fiscales, SA). The National Petroleum museum is home to the 1907 Well No. 2- the first state-owned oil well in Argentina. There's also various derricks and equipment related to Argentina's oil industry.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4812452,
+          -45.8369735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1815",
+        "name": "Piedra Parada",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "Área Natural Protegida Piedra Parada is home to a 935ft tall rock, and also the scenic Cañadon La Buitrera.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.101919,
+          -42.6598487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1816",
+        "name": "Parque Nacional Los Alerces",
+        "street": "",
+        "country": "ARG",
+        "website": "http://www.parquesnacionales.gob.ar/areas-protegidas/region-patagonia/pn-los-alerces/",
+        "description": "The rare Fitzroya trees (Alerces) can grow up to 187ft and are found tucked away in the valleys of the Andes mountains. There are boat tours up and down the glacial lakes, and Ruta Provincial 71 snakes through the mountains.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.891121,
+          -42.6106887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1817",
+        "name": "Futuroscope",
+        "street": "Av. René Monory, 86360 Chasseneuil-du-Poitou, France",
+        "country": "FRA",
+        "website": "https://www.futuroscope.com/",
+        "description": "Futuroscope delivers the all-French techno-future we were promised. Originally developed as a way to show off audiovisual technologies through a series of elaborate theaters, the park has gradually shifted to being closer to a French version of Walt Disney World's EPCOT.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3684405,
+          46.6712223
+        ]
+      }
     }
   ]
 }
