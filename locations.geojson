@@ -36431,6 +36431,188 @@
           46.6712223
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1818",
+        "name": "Área natural protegida Campo de Piedra Pómez",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/caminar-en-el-campo-de-piedra-pomez",
+        "description": "The high-and-dry Andes Mountains have kept this field of pumice from being overgrown by plants, leaving behind a white and wind-carved plain amongst the blackened volcanos.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5036212,
+          -26.5973897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1819",
+        "name": "Lagunas altoandinas y puneñas de Catamarca",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "In the dry volcanic hellscape of the altoandinas (high Andes) scenic mountain overlooks provide panoramic vistas of peaceful flamingo-filled lagoons. The most popular overlook is the \"Balcón del Pissis\". The roads are sparse, a 4WD vehicle recommended.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5405039,
+          -27.5857475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1820",
+        "name": "Parque de los Dinosaurios (Argentina)",
+        "street": "Ruta N75, Villa Sanagasta, La Rioja, Argentina",
+        "country": "ARG",
+        "website": "",
+        "description": "There are a lot of museums that have outdoor dinosaur models, this one put them on the edge of a red cliff in the desert and that's the coolest thing ever.",
+        "worth stopping": true,
+        "park": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0532561,
+          -29.2641602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1821",
+        "name": "Reserva Provincial Los Colorados",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/viaja-por-argentina/que-hacer/recorrer-la-reserva-provincial-los-colorados",
+        "description": "The red mountains of Los Colorados Provincial Preserve are like a miniature version of the American Southwest right here in Argentina - complete with cave art and natural arches. This is the less pretty provincial version of Parque Nacional Talampaya.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.1241539,
+          -29.951626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1822",
+        "name": "Parque Nacional Talampaya",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-talampaya",
+        "description": "Dinosaur fossils, vertical canyon walls, petroglyphs, astounding rock pillars , and the 469ft deep Talampaya Gorge. It's like a little version of the Grand Canyon right in Argentina.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7899762,
+          -29.7748238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1823",
+        "name": "Parque Provincial Ischigualasto",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.ischigualasto.gob.ar/",
+        "description": "The \"Valley of the Moon\" is home to mushroom-like wind eroded rock formations, vast badlands of the painted valley, all backdropped by the red cliffs of La Rioja.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9151955,
+          -30.0752369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1824",
+        "name": "Parque Natural Ongamira",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "The unusually bulbous red hills of Ongamira are filled with natural caves, narrow valleys, and piddling waterfalls.",
+        "worth stopping": true,
+        "park": true,
+        "cave": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4029712,
+          -30.7722134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1825",
+        "name": "Parque Autóctono y Cultural Los Terrones",
+        "street": "",
+        "country": "ARG",
+        "website": "https://losterrones.com.ar/",
+        "description": "The red sandstone of the Sierras de Córdoba splits off into pillars and narrow canyons at Los Terrones. Hiking trails wind through the forested canyons and provide view of the outcroppings and columns of the mountain.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4683265,
+          -30.7935234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1826",
+        "name": "Museo Rocsen",
+        "street": "Av. los Porteños 5000, X5887AAA Nono, Córdoba, Argentina",
+        "country": "ARG",
+        "website": "https://www.museorocsen.org/",
+        "description": "The Rocsen museum describes itself as \"multifaceted\" with \"116 themes\" - it's really a chaotic pile of artifacts and historical pieces in an ever-expanding warehouse, but it's a really BIG pile.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9568252,
+          -31.799318
+        ]
+      }
     }
   ]
 }
