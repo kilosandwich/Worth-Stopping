@@ -36613,6 +36613,246 @@
           -31.799318
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1827",
+        "name": "Planes of Fame Air Museum",
+        "street": "14998 Cal Aero Dr, Chino, CA 91710",
+        "country": "USA",
+        "website": "https://www.planesoffame.org/",
+        "description": "In 1957 Ed Maloney opened the first Air Museum east of the Mississippi river which grew to a 14 acre campus comprising 160 aircraft. Planes of Fame features the largest collection of WW2 Japanese aircraft - because Japan is ashamed, and America captured them, including: an Aichie D3A \"Val\" dive bomber, Yokosuka D4Y Suisei \"Comet\" dive bomber, Mitsubishi A6M \"Zero\" fighter, Mitsubishi J2M \"Raiden\" fighter, the only Mitsubishi J8M Shusui rocket powered interceptor, and a Yokosuka MXY-7 Ohka.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6398353,
+          33.9816058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1828",
+        "name": "Monumento natural Puente del Inca",
+        "street": "RN7 10, M5555, Mendoza, Argentina",
+        "country": "ARG",
+        "website": "https://www.mendoza.gov.ar/areasnaturales/puente-del-inca/",
+        "description": "A thermal resort built underneath a natural arch created by a hot spring is slowly being eaten by said hot spring.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.910939,
+          -32.8265611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1829",
+        "name": "Parque Provincial Aconcagua",
+        "street": "",
+        "country": "ARG",
+        "website": "http://www.aconcagua.mendoza.gov.ar/",
+        "description": "Mount Aconcagua is the tallest mountain outside of Asia at 22,858ft. The climb is not very technical despite the mountain's size, but it is still really high up so maybe practice on smaller mountains first.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9411357,
+          -32.805234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1830",
+        "name": "Parque Nacional Sierra de las Quijadas",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-sierra-de-las-quijadas",
+        "description": "It's yet another American Wild West-esque National Park in Argentina, though this one is uniquely a cliffy and orange basin, so it's like an inescapable bowl of canyon compared to the typical river canyon.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0091977,
+          -32.4983321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1831",
+        "name": "Laguna del Diamante",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "An extinct volcano has become a lake with a clear view of the Maipo Volcano. Despite the beauty you need a 4WD vehicle to reach it.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6770111,
+          -34.17204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1832",
+        "name": "Cañón del Atuel",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "The 853ft deep Atuel Canyon has been mostly flooded to become a reservoir, but the rest is fully explorable along RP173.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5092588,
+          -34.8533186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1833",
+        "name": "Volcán Malacara",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.travel/actividades/volcan-malacara",
+        "description": "Good news, the Malacara Volcano is no longer active, which means you can go inside of it - as in inside blackened ash-filled lava tubes, vents, and craters.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4758139,
+          -35.7733722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1834",
+        "name": "Parque provincial Copahue",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "Sure, Copahue covers the bit of Copahue Volcano that Argentina shares with Chile, however the rio Agrio in the valley below is full of spectacular waterfalls where blue water flows over colorful volcanic rocks.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.924016,
+          -37.8100619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1835",
+        "name": "Lanín National Park",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/parquesnacionales/lanin",
+        "description": "Lanín National Park surrounds the snowcapped Lanín stratovolcano (12,293ft), which is excellently framed by a trio of nearby lakes. The southern section of the park is a bunch of lakes in the mountains, and there's some waterfalls like Chachin.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5009155,
+          -39.6423518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1836",
+        "name": "Área natural protegida Paso Córdova",
+        "street": "",
+        "country": "ARG",
+        "website": "",
+        "description": "The \"Valle de la Luna Rojo\" (Red Moon Valley) features red badlands contrasted against the greenery of the Rio Negro. It's not a very big park, but it is very out of place.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6879641,
+          -39.1228478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1837",
+        "name": "Parque municipal Llao Llao",
+        "street": "Cto. Chico km 25, R8400 San Carlos de Bariloche, Río Negro, Argentina",
+        "country": "ARG",
+        "website": "https://www.bariloche.gov.ar/descubri-bariloche/areas-protegidas/ente-llao-llao/",
+        "description": "The town of Bariloche realized that they land they were sitting on overlooked the best aspects of nearby Nahuel Huapi national Park, and constructed a park through the tall Alerce trees with scenic views of the mountains surrounding Lago Nahuel Huapi.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5557044,
+          -41.0458574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1838",
+        "name": "Parque nacional Nahuel Huapi",
+        "street": "",
+        "country": "ARG",
+        "website": "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-nahuel-huapi",
+        "description": "The glacial lake of Nahuel Huapi is surrounded by forested and snowcapped mountains, with pristine islands. The northern section of the park is devoted to the lake, however the southern portion winds through a valley up to Cerro Tronador (11,453ft).",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8316996,
+          -41.1994015
+        ]
+      }
     }
   ]
 }
