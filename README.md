@@ -3,7 +3,7 @@
 
 **What if there was a travel website where only the good stuff was listed?** 
 
-The most beautiful parks, the best museums, and the most delicious food. That is the idea behind Worth Stopping. 
+The most beautiful parks, the best museums. That is the idea behind Worth Stopping. 
 
 
 Worth Stopping makes traveling fun and easy - click the location marker and simply look at what's near you - no more planning, just go! If you have a place you're interested in heading, just look around on the map nearby so you can make the most out of every day. 
