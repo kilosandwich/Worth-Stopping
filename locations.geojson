@@ -28393,7 +28393,9 @@
         "street": "1 Great America Parkway, Gurnee, IL 60031",
         "country": "USA",
         "website": "https://www.sixflags.com/greatamerica",
-        "description": "Marriot built Great America as an all americana themed amusement park - Six Flags turned it into a strip mall for low-capacity rollercoasters. There are 17 rollercoasters here, but only the hypercoaster Raging Bull and the Whizzer felt like they had any soul left in them."
+        "description": "Marriot built Great America as an all americana themed amusement park - Six Flags turned it into a strip mall for low-capacity rollercoasters. There are 17 rollercoasters here, but only the hypercoaster Raging Bull and the Whizzer felt like they had any soul left in them.",
+        "local attractions": true,
+        "amusement park": true
       },
       "geometry": {
         "type": "Point",
@@ -36851,6 +36853,266 @@
         "coordinates": [
           -71.8316996,
           -41.1994015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1839",
+        "name": "Salitre Mágico",
+        "street": "Calle 63, de #60-80, Bogotá, Colombia",
+        "country": "COL",
+        "website": "http://salitremagico.com.co/",
+        "description": "Salitre Magico has the most rollercoasters of any amusement park in Colombia, including: a French looping rollercoaster, a launched looping rollercoaster, and two different corkscrew rollercoasters. There's also an Avianca Boeing 727-200 here for some reason.",
+        "local attractions": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0914433,
+          4.6671819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1840",
+        "name": "Adventure Dome",
+        "street": "2880 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "country": "USA",
+        "website": "https://www.circuscircus.com/attractions/adventuredome/",
+        "description": "Circus Circus casino opened the first financially successful indoor amusement park in 1993. However, the casino has been ailing for years, and the Adventuredome has become a pink-tinted liminal space. There's two rollercoasters here, a looping rollercoaster that goes concerningly fast, and another looping coaster that holds you upside-down for too long.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1669173,
+          36.1380091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1841",
+        "name": "Festyland",
+        "street": "Chem. du Fresnot, 14760 Bretteville-sur-Odon, France",
+        "country": "FRA",
+        "website": "http://www.festyland.com/",
+        "description": "Festyland is a family theme park in France themed exclusively to the Normandy region - which means Normans (Vikings). It's like William the Conqueror never left, they even have a rollercoaster themed to 1066. The park isn't particularly big, there's only two rollercoasters, but there's oodles of theming.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4210737,
+          49.1817151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1842",
+        "name": "Le Pal",
+        "street": "Saint-Pourçain-sur-Besbre, 03290 Dompierre-sur-Besbre, France",
+        "country": "FRA",
+        "website": "https://www.lepal.com/",
+        "description": "Le Pal is a combined zoo-amusement park. The park is entirely oriented around family rides, and features 5 rollercoasters each themed to exploration.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6293424,
+          46.5087115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1843",
+        "name": "Parc Spirou",
+        "street": "1 Rue Jean-Henri Fabre, 84170 Monteux, France",
+        "country": "FRA",
+        "website": "http://www.parc-spirou.com/",
+        "description": "Parc Spirou is a family theme park created by the French publisher Dupuis, creators of the French comic magazine Spirou. There are also licensed areas for the Smurfs, and Naruto. Seriously there's a Naruto rollercoaster and Konaha Village themed area. There are 5 rollercoasters here.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9706269,
+          44.0225614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1844",
+        "name": "Walibi Rhône-Alpes",
+        "street": "1380 Rte de la Corneille, 38630 Les Avenières Veyrins-Thuellin, France",
+        "country": "FRA",
+        "website": "https://www.walibi.fr/",
+        "description": "Walibi Rhone-Alpes offers a respectable lineup of 6 low-capacity rollercoasters in an otherwise competently executed amusement park. Nothing here is particularly special or cutting edge, but it's a solid amusement park.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5702505,
+          45.6209857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1845",
+        "name": "Nigloland",
+        "street": "D619, 10200 Dolancourt, France",
+        "country": "FRA",
+        "website": "http://www.nigloland.fr/",
+        "description": "Some French people visited American amusement parks, and said \"Yeah, we can do that\" and opened Nigloland (hedgehog-land). The park features 4 themed areas - Canada, Americana, Switzerland, and MAGIC; and 7 rollercoasters.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6146257,
+          48.2623949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1846",
+        "name": "Walygator Grand Est",
+        "street": "Voie Romaine, 57280 Maizières-lès-Metz, France",
+        "country": "FRA",
+        "website": "https://walygatorparc.com/grandest",
+        "description": "Walygator Grand Est opened in 1989 as \"Walibi Aquitaine\" and has only recently discovered that fresh coats of paint are necessary for upkeep. The lines are short for the 4 rollercoasters here, and \"Monster\" is a clone of Raptor at Cedar Point but  more aggressive since it doesn't have brakes.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1573537,
+          49.2302616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1847",
+        "name": "Parque de Atracciones Tibidabo",
+        "street": "Pl. del Tibidabo, 3, 4, Sarrià-Sant Gervasi, 08035 Barcelona, Spain",
+        "country": "ESP",
+        "website": "https://tibidabo.cat/",
+        "description": "Tibidabo (est. 1905) is located on top of a hill overlooking Barcelona, and features various rides situated on terraces at the edge of the cliff - including a rollercoaster, mock airplane ride, log flume, and funicular railway.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1199353,
+          41.4229241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1848",
+        "name": "Paultons Park",
+        "street": "Romsey SO51 6AL, United Kingdom",
+        "country": "GBR",
+        "website": "https://paultonspark.co.uk/",
+        "description": "Paultons Park is an exceptionally well-manicured (mostly) family-oriented amusement park with 8 rollercoasters. The park looks like an incredibly lifelike cartoon, except for the parts that an actual English country estate.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5556412,
+          50.9482798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1849",
+        "name": "Fantasy Island (amusement park)",
+        "street": "",
+        "country": "GBR",
+        "website": "https://www.fantasyislandresort.co.uk/",
+        "description": "Fantasy Island is your usual United Kingdom seashore park, except that it isn't directly next to the sea and it is surrounded by a surreal number of mobile homes. The park features 6 rollercoasters, and two of them are unique and encircle the park.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3476906,
+          53.1921911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1850",
+        "name": "Plopsaland Belgium",
+        "street": "De Pannelaan 68, 8660 De Panne, Belgium",
+        "country": "BEL",
+        "website": "https://www.plopsalanddepanne.be/",
+        "description": "Plopsaland offers 7 world-class rollercoasters - including the well regarded Ride to Happiness. The park is still trying to figure out how to be organized, with notably slow food service.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5978201,
+          51.0802212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1851",
+        "name": "Bobbejaanland",
+        "street": "Olensteenweg 45, 2460 Kasterlee, Belgium",
+        "country": "BEL",
+        "website": "https://www.bobbejaanland.be/?utm_id=GMBtraffic&utm_medium=OrganicGMB&utm_source=google",
+        "description": "Belgian guitar superstar Bobbejaan Schoepen decided opened his own amusement park in 1961, and features 8 fairly decent rollercoasters.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.905446,
+          51.2003777
         ]
       }
     }
