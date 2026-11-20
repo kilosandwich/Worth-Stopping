@@ -22559,7 +22559,7 @@
         "street": "84400 Rustrel, France",
         "country": "FRA",
         "website": "https://coloradoprovencal.fr/",
-        "description": "The ref buttes and fairy chimneys in Provencal Colorado looks like the badlands of the American Southwest, but is instead in the green forests of Southern France.",
+        "description": "The red buttes and fairy chimneys in Provencal Colorado looks like the badlands of the American Southwest, but is instead in the green forests of Southern France.",
         "worth stopping": true,
         "museum": true
       },
@@ -29659,7 +29659,7 @@
         "website": "http://www.emeraldpark.ie/",
         "description": "This is the largest amusement park in Ireland, and also one of the newest amusement parks in Europe. Featuring 6 rollercoasters and a log flume.",
         "local attractions": true,
-        "park": true
+        "amusement park": true
       },
       "geometry": {
         "type": "Point",
@@ -37113,6 +37113,86 @@
         "coordinates": [
           4.905446,
           51.2003777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1852",
+        "name": "Desfiladero de Monrebey",
+        "street": "",
+        "country": "ESP",
+        "website": "https://www.turismodearagon.com/en/ficha/congosto-de-mont-rebei/",
+        "description": "Until 2013, there was no walking path through the 1,640ft deep Monrebey Gorge - but they literally nailed a staircase onto the side of the near vertical cliffs and built perilous footbridges and trails. It's a 10 mile hike, so it's all you are going to be doing all day.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6720701,
+          42.0673034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1853",
+        "name": "Caminito del Rey",
+        "street": "",
+        "country": "ESP",
+        "website": "https://aventuracaminitodelrey.com/desfiladero-gaitanes-caminito-del-rey/",
+        "description": "In 1901 Hydroelectric workers nailed narrow walkways into a 1312ft deep gorge to traverse the canyon; following some collapses the walkway has been restored to a tourist attraction you can hike through. This hike is popular, reserve tickets ahead of time.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7725687,
+          36.9163107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1854",
+        "name": "Réserve naturelle régionale des gorges de Daluis",
+        "street": "",
+        "country": "FRA",
+        "website": "http://www.gorgesdedaluis.fr/",
+        "description": "The Daluis gorge is nearly 3,000ft deep and composed entirely of wine-colored rock. D2202 cuts straight through the heart of the gorge providing outstanding views.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8429378,
+          44.0471521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1855",
+        "name": "Gorges de la Bourne",
+        "street": "",
+        "country": "FRA",
+        "website": "",
+        "description": "You would think that a massive 3,000ft deep gorge would be a national park, but no, France only has a perilous highway narrowly cut into the vertical cliffs of the narrow Bourne Gorge.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4362044,
+          45.0585581
         ]
       }
     }
