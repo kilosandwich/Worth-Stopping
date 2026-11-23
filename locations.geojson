@@ -37195,6 +37195,226 @@
           45.0585581
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1856",
+        "name": "Hansa-Park",
+        "street": "Am Fahrenkrog 1, 23730 Sierksdorf, Germany",
+        "country": "DEU",
+        "website": "http://www.hansapark.de/",
+        "description": "Hansa Park is a Baltic seaside theme park in Germany with 8 custom-rollercoasters - including the hypercoaster Schwur des Kärnan (239ft). The theming is set around the history of the Baltic - where else are you going to find a themed section on the Hanseatic League?",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7793286,
+          54.0746827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1857",
+        "name": "Movie Park Germany",
+        "street": "Warner-Allee 1, 46244 Bottrop, Germany",
+        "country": "DEU",
+        "website": "https://www.movieparkgermany.de",
+        "description": "Movie Park Germany was originally intended to be a \"Hollywood in Germany\" and built as an extensive American themed park revolving around Southern California. Instead, this park comes across as a surreal German knock-off of Universal Studios. There are 8 rollercoasters here, including a Star Trek themed rollercoaster.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9752479,
+          51.6211782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1858",
+        "name": "Plopsaland Deutschland",
+        "street": "Holiday-Park-Straße 1-5, 67454 Haßloch, Germany",
+        "country": "DEU",
+        "website": "http://www.plopsa.com/de/plopsaland-deutschland",
+        "description": "The 4 rollercoasters at Plopsaland Deutschland are some of the best in Europe - when they aren't constantly down for maintenance. Expedition GeForce (174ft) is consistently ranked as one of the best rollercoasters in the world.",
+        "local attractions": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.296595,
+          49.3186034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1859",
+        "name": "Erlebnispark Tripsdrill",
+        "street": "Erlebnispark Tripsdrill, Straße 1, 74389 Cleebronn, Germany",
+        "country": "DEU",
+        "website": "https://tripsdrill.de/",
+        "description": "Tripsdrill evolved from a single slide in 1929, to a petting zoo, to a full-blown theme park oriented around German culture. Featuring 6 rollercoasters and a bathtub themed log-flume.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.052363,
+          49.0363603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1860",
+        "name": "Heide Park Resort",
+        "street": "Heide Park 1, 29614 Soltau, Germany",
+        "country": "DEU",
+        "website": "https://www.heide-park.de/",
+        "description": "Heide Park's excellent lineup of 9 rollercoasters and outstanding landscaping have been on the decline since its takeover by Merlin Entertainment in 2007. The landscaping and rides are still excellent, but there is a noticeable lack of ongoing capital investments.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8784493,
+          53.0240206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1861",
+        "name": "Freizeitpark Plohn",
+        "street": "Rodewischer Str. 21, 08485 Lengenfeld, Germany",
+        "country": "DEU",
+        "website": "http://www.freizeitpark-plohn.de/",
+        "description": "Unemployed East German trout farmer Arnfried Völkel opened a Brothers Grimm themed restaurant after German Reunification and expanded it into an amusement park. The park is small, well themed, and features 7 rollercoasters.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3983759,
+          50.5659379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1862",
+        "name": "Djurs Sommerland",
+        "street": "Battrupholtvej 3, 8581 Nimtofte, Denmark",
+        "country": "DNK",
+        "website": "https://djurssommerland.dk/",
+        "description": "Djurs Sommerland used to be a summer camp, now it's one of the largest amusement parks in Denmark - featuring 9 rollercoasters, including the well regarded Piraten.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.548799,
+          56.4269555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1863",
+        "name": "Fårup Sommerland",
+        "street": "Pirupvejen 147, 9492 Blokhus, Denmark",
+        "country": "DNK",
+        "website": "https://www.faarupsommerland.dk",
+        "description": "Grocery wholesaler Anders Kragelund decided to exit the grocery business in 1975 and enter the amusement park business, with the result being the largest waterpark and amusement park in Denmark. Featuring 8 rollercoasters, including the well regarded Fønix.",
+        "worth stopping": true,
+        "amusement park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6565998,
+          57.2684173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1864",
+        "name": "Langelandsfort",
+        "street": "Vognsbjergvej 4B, 5935 Bagenkop, Denmark",
+        "country": "DNK",
+        "website": "http://www.langelandsfortet.dk/",
+        "description": "Eastern Denmark is composed of islands which restrict access to the Baltic Sea from the Atlantic, Landelandsfort was built with large artillery batteries to restrict the Langelandsbælt strait. The fort is now the Cold War Museum Langelandsfort, home to the Cold War era Tumeleren-class submarine S324 Springeren.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7135369,
+          54.7497157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1865",
+        "name": "Springeren - Maritimt Oplevelsescenter",
+        "street": "Vestre Fjordvej 81, 9000 Aalborg, Denmark",
+        "country": "DNK",
+        "website": "http://springeren-maritimt.dk/",
+        "description": "The Springeren Maritime Experience Center is home to the Danish-built Cold-War era Delfinen-class submarine S329 Springeren.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8923835,
+          57.0583841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1866",
+        "name": "Fregatten Jylland",
+        "street": "S. A. Jensens Vej 4, 8400 Ebeltoft, Denmark",
+        "country": "DNK",
+        "website": "https://www.fregatten-jylland.dk/",
+        "description": "The 1860 Frigate Jylland is the oldest Danish naval vessel afloat, and saw action during the Battle of Heligoland in 1864 and the blockade of Prussian sea forts. The ship has been restored and is now available for tour.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6732364,
+          56.199468
+        ]
+      }
     }
   ]
 }
