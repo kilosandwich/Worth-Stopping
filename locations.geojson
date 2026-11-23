@@ -37415,6 +37415,46 @@
           56.199468
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1867",
+        "name": "Museum of Glass (Bulgaria)",
+        "street": "",
+        "country": "BGR",
+        "website": "https://inhomglass.com/podvodnicza-slava/",
+        "description": "Yeah, it's a museum of Bulgarian glassworks, but it's also home to the Cold War era Romeo-class submarine Slava - the last submarine ever operated by the Bulgarian Navy.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7126093,
+          43.1947485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1868",
+        "name": "Malmö museum",
+        "street": "Malmöhusvägen 7A, 211 18 Malmö, Sweden",
+        "country": "SWE",
+        "website": "https://malmo.se/Uppleva-och-gora/Konst-och-museer/Malmo-museum/Besok-Malmo-museum/Vara-byggnader/Teknikens-och-sjofartens-hus.html",
+        "description": "Malmö Castle has been converted into a museum on Malmo history and the Malmo Art Museum, however the museum continues far past the fortress into the House of Technology and Shipping which includes the WW2-era Swedish-built submarine HMS U3.",
+        "worth stopping": true,
+        "museum": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9825178,
+          55.6051044
+        ]
+      }
     }
   ]
 }
