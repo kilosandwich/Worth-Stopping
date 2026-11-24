@@ -37455,6 +37455,86 @@
           55.6051044
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1869",
+        "name": "Rheinfall",
+        "street": "",
+        "country": "CHE",
+        "website": "",
+        "description": "The 76ft high and 490ft wide Rhine Falls is the most powerful waterfall in Europe by flow rate. The middle of the falls are full with rocks carved by the harsh currents, and tour boats will brave the falls to take you to them so you can stand in the very middle of the falls. The falls are at their most powerful during the spring melt, so plan accordingly.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148864,
+          47.6781057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1870",
+        "name": "Piz Gloria",
+        "street": "",
+        "country": "CHE",
+        "website": "http://www.schilthorn.ch/",
+        "description": "Hiking to the top of the Alps requires expensive safety equipment, experience hiking, and a strong constitution. Or you can just pay a lot of money and take the cable car to this revolving restaurant that was also used for the filming of a James Bond villain lair.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8350339,
+          46.5573095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1871",
+        "name": "Suworow-Denkmal",
+        "street": "",
+        "country": "CHE",
+        "website": "https://www.andermatt.ch/attraktionen/suworow-denkmal-dade0851ab",
+        "description": "During the War of the Second Coalition, Europe united to put down any notion of freedom and restore the monarchy to France. On September 25, 1799 Russian troops fought French forces for control of the perilously thin strategic bridges of the narrow Schöllenen Gorge. There's a monument to the fallen carved into the edge of the gorge, and an especially scenic viewpoint.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5918541,
+          46.6473463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "1872",
+        "name": "Liechtensteinklamm",
+        "street": "Liechtensteinklammstraße 123, 5600 St. Johann im Pongau, Austria",
+        "country": "AUT",
+        "website": "http://www.liechtensteinklamm.at/",
+        "description": "Descend a spiral staircase down a 900ft deep gorge to stroll among narrow walkways and see a rushing river and waterfall. It gets crowded, reserve ahead of time.",
+        "worth stopping": true,
+        "park": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1893671,
+          47.3133566
+        ]
+      }
     }
   ]
 }
